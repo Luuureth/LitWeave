@@ -1,0 +1,2770 @@
+[
+  {
+    "character": "宝玉",
+    "source": "txt",
+    "occurrence_count": "303",
+    "file_count": "49",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "贾母",
+    "source": "txt",
+    "occurrence_count": "168",
+    "file_count": "46",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "凤姐",
+    "source": "txt",
+    "occurrence_count": "115",
+    "file_count": "30",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "黛玉",
+    "source": "txt",
+    "occurrence_count": "106",
+    "file_count": "34",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "宝钗",
+    "source": "txt",
+    "occurrence_count": "96",
+    "file_count": "34",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "探春",
+    "source": "txt",
+    "occurrence_count": "58",
+    "file_count": "27",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "湘云",
+    "source": "txt",
+    "occurrence_count": "31",
+    "file_count": "14",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "凤姐儿",
+    "source": "txt",
+    "occurrence_count": "24",
+    "file_count": "7",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "迎春",
+    "source": "txt",
+    "occurrence_count": "24",
+    "file_count": "17",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "惜春",
+    "source": "txt",
+    "occurrence_count": "23",
+    "file_count": "17",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "秦氏",
+    "source": "txt",
+    "occurrence_count": "17",
+    "file_count": "6",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "众清客",
+    "source": "txt",
+    "occurrence_count": "9",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "元妃",
+    "source": "txt",
+    "occurrence_count": "8",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "焙茗",
+    "source": "txt",
+    "occurrence_count": "8",
+    "file_count": "6",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "太监",
+    "source": "txt",
+    "occurrence_count": "6",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "宝琴",
+    "source": "txt",
+    "occurrence_count": "6",
+    "file_count": "4",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "众姐妹",
+    "source": "txt",
+    "occurrence_count": "5",
+    "file_count": "5",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "大姐儿",
+    "source": "txt",
+    "occurrence_count": "5",
+    "file_count": "4",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "英莲",
+    "source": "txt",
+    "occurrence_count": "5",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "金钏儿",
+    "source": "txt",
+    "occurrence_count": "5",
+    "file_count": "5",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "众媳妇",
+    "source": "txt",
+    "occurrence_count": "4",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "张先生",
+    "source": "txt",
+    "occurrence_count": "4",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "智能",
+    "source": "txt",
+    "occurrence_count": "4",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "蒋玉函",
+    "source": "txt",
+    "occurrence_count": "4",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "静虚",
+    "source": "txt",
+    "occurrence_count": "4",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "代儒",
+    "source": "txt",
+    "occurrence_count": "3",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "北静王",
+    "source": "txt",
+    "occurrence_count": "3",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "女先儿",
+    "source": "txt",
+    "occurrence_count": "3",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "小蝉",
+    "source": "txt",
+    "occurrence_count": "3",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "春燕娘",
+    "source": "txt",
+    "occurrence_count": "3",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "昭容",
+    "source": "txt",
+    "occurrence_count": "3",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "老嬷嬷",
+    "source": "txt",
+    "occurrence_count": "3",
+    "file_count": "3",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "胡氏",
+    "source": "txt",
+    "occurrence_count": "3",
+    "file_count": "3",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "花袭人",
+    "source": "txt",
+    "occurrence_count": "3",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "薛王氏",
+    "source": "txt",
+    "occurrence_count": "3",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "鲍二老婆",
+    "source": "txt",
+    "occurrence_count": "3",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "鹦哥",
+    "source": "txt",
+    "occurrence_count": "3",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "众姊妹",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "傅家嬷嬷",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "僧",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "元春",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "刘氏",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "吴新登的媳妇",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "奶子",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "小丫鬟",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "干娘",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "彩嫔",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "杨氏",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "熙凤",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "狗儿",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "玉钏儿",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "王大夫",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "甄家娘子",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "绮霞",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "药官",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "蕙香",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "袭人之母",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "贾蓝",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "道人",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "邢王二夫人",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "金钏儿母亲",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "长府官",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "顽石",
+    "source": "txt",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "三位姑娘",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "两个媳妇",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "严老爷",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "二舅母",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "五儿侄儿",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "五儿姑舅哥哥",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "五城兵马司",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "仆妇",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "众仙子",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "众女孩",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "众婆娘媳妇",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "众嬷嬷",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "众子弟",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "作者",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "值日婆子",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "僧众",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "八公后裔",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "公人",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "冯家",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "原告",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "另一宝玉",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "可卿",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "同窗子弟",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "吴大娘",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "周奶妈",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "周瑞媳妇",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "周瑞家",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "周瑞家的女孩儿",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "唱曲儿小子",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "回话媳妇",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "坠儿母亲",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "夏妈",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "夏婆",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "夏忠",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "多姑娘儿",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "大舅母",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "大观园众人",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "女娲",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "女孩儿",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "姨奶奶",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "娄氏",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "娇杏",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "媳妇",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "孔梅溪",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "守备之子",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "宋妈妈",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "家人媳妇",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "小丫头子",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "小么儿",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "小道士儿",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "尼僧",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "工部官员",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "应佛僧",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "张材家",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "执事的媳妇子",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "文豹",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "新太爷",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "方椿",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "春燕母亲",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "曹雪芹",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "李氏",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "林之孝媳妇",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "林之孝家",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "林之孝的妻子",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "柳家嫂子",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "梦中丫鬟",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "王夫人之父",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "王济仁",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "珠大嫂子",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "琪官",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "甄夫人",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "甄府管家娘子",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "画蔷女孩",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "癞和尚",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "神僧",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "老僧",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "老妈妈",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "老姑子",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "老尼",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "胡公(山子野)",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "舞女",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "色空",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "薛家",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "蘅芜院婆子",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "诸王孙公子",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "贾妃",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "贾家三个姊妹",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "贾氏",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "贾芸母",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "赖升媳妇",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "赖大家",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "赖大母亲",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "跛道士",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "道婆",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "邢大姑娘",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "那媳妇",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "郑好时媳妇",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "金文翔的媳妇",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "金荣母亲",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "银姐",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "门吏",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "门客",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "风姐儿",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "鬼判",
+    "source": "txt",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "贾母",
+    "source": "video",
+    "occurrence_count": "134",
+    "file_count": "62",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "宝玉",
+    "source": "video",
+    "occurrence_count": "120",
+    "file_count": "57",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "黛玉",
+    "source": "video",
+    "occurrence_count": "36",
+    "file_count": "17",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "众女眷",
+    "source": "video",
+    "occurrence_count": "29",
+    "file_count": "18",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "宝钗",
+    "source": "video",
+    "occurrence_count": "22",
+    "file_count": "12",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "众姐妹",
+    "source": "video",
+    "occurrence_count": "19",
+    "file_count": "12",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "凤姐",
+    "source": "video",
+    "occurrence_count": "13",
+    "file_count": "4",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "探春",
+    "source": "video",
+    "occurrence_count": "13",
+    "file_count": "6",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "元春",
+    "source": "video",
+    "occurrence_count": "12",
+    "file_count": "8",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "老太太",
+    "source": "video",
+    "occurrence_count": "11",
+    "file_count": "8",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "清客",
+    "source": "video",
+    "occurrence_count": "9",
+    "file_count": "4",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "贾府众人",
+    "source": "video",
+    "occurrence_count": "8",
+    "file_count": "5",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "宫女",
+    "source": "video",
+    "occurrence_count": "7",
+    "file_count": "6",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "众清客",
+    "source": "video",
+    "occurrence_count": "6",
+    "file_count": "3",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "元妃",
+    "source": "video",
+    "occurrence_count": "6",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "北静王",
+    "source": "video",
+    "occurrence_count": "6",
+    "file_count": "3",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "英莲",
+    "source": "video",
+    "occurrence_count": "6",
+    "file_count": "3",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "随从",
+    "source": "video",
+    "occurrence_count": "6",
+    "file_count": "6",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "侍从",
+    "source": "video",
+    "occurrence_count": "5",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "周大娘",
+    "source": "video",
+    "occurrence_count": "5",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "惜春",
+    "source": "video",
+    "occurrence_count": "5",
+    "file_count": "4",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "戏曲演员",
+    "source": "video",
+    "occurrence_count": "5",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "老祖宗",
+    "source": "video",
+    "occurrence_count": "5",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "长史官",
+    "source": "video",
+    "occurrence_count": "5",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "二爷",
+    "source": "video",
+    "occurrence_count": "4",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "太监",
+    "source": "video",
+    "occurrence_count": "4",
+    "file_count": "3",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "奶奶",
+    "source": "video",
+    "occurrence_count": "4",
+    "file_count": "4",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "柳嫂子",
+    "source": "video",
+    "occurrence_count": "4",
+    "file_count": "3",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "琪官",
+    "source": "video",
+    "occurrence_count": "4",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "乐师",
+    "source": "video",
+    "occurrence_count": "3",
+    "file_count": "3",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "书童",
+    "source": "video",
+    "occurrence_count": "3",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "二奶奶",
+    "source": "video",
+    "occurrence_count": "3",
+    "file_count": "3",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "仆从",
+    "source": "video",
+    "occurrence_count": "3",
+    "file_count": "3",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "仪仗队",
+    "source": "video",
+    "occurrence_count": "3",
+    "file_count": "3",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "众宾客",
+    "source": "video",
+    "occurrence_count": "3",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "太太",
+    "source": "video",
+    "occurrence_count": "3",
+    "file_count": "3",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "宝二爷",
+    "source": "video",
+    "occurrence_count": "3",
+    "file_count": "3",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "宝姑娘",
+    "source": "video",
+    "occurrence_count": "3",
+    "file_count": "3",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "小戏子",
+    "source": "video",
+    "occurrence_count": "3",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "屋内丫头",
+    "source": "video",
+    "occurrence_count": "3",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "灰衣丫鬟",
+    "source": "video",
+    "occurrence_count": "3",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "管家",
+    "source": "video",
+    "occurrence_count": "3",
+    "file_count": "3",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "迎春",
+    "source": "video",
+    "occurrence_count": "3",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "两位神仙",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "众亲友",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "众小姐",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "僧道",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "单先生",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "孩童",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "官员",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "小道士",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "巧姐",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "戏班演员",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "旺儿媳妇",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "林姑娘",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "歌女",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "湘云",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "老爷",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "被告",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "袭人母亲",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "观众",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "詹先生",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "贵妃娘娘",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "贾府女眷",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "跛道人",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "都总管",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "门客",
+    "source": "video",
+    "occurrence_count": "2",
+    "file_count": "2",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "三姑娘",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "两人",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "两名丫鬟",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "丰氏",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "乌庄头",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "乐工",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "二叔",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "五奶奶",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "人物",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "代儒",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "众丫头",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "众夫人",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "众男丁",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "众男眷",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "众老爷",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "伙计",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "传令仆人",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "传话仆人",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "传话女眷",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "传话者",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "信使",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "僧众",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "僧侣",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "内侍",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "写字的人",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "冯家仆人",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "冯家代表",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "原告",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "另一丫鬟",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "另一媳妇",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "在场族人",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "大小姐",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "大爷",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "女官",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "妃嫔",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "姑娘",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "娘娘",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "守卫",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "宝叔",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "宴饮众人",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "宾客",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "小书童",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "小沙弥",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "工匠",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "巧姐儿",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "平姐姐",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "平姑娘",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "张太医",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "彩嫔",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "戏子",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "执事官员",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "扶侍者",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "护卫",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "报信人",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "报信仆人",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "报信太监",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "报喜仆人",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "抬轿侍从",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "拐子",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "搬运人员",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "摊主",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "朋友",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "杠夫",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "来升",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "林妹妹",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "林姐姐",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "湘莲",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "潇湘馆婆子",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "珍大奶奶",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "珍大爷",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "瑞儿",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "男性随从",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "病人",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "看门大爷",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "祖母",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "祖父",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "秦氏",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "管事女眷",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "管事婆子",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "管家媳妇",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "老者",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "老道",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "胡大夫",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "舅奶奶",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "舅母",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "芸儿",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "芹儿",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "薛宝",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "薛家代表",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "袭人哥哥",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "袭人家属",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "贵妃",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "贵妇",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "贾府人员",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "贾府众女眷",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "贾府男眷",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "贾芸之母",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "赵姨奶奶",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "轿夫",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "送葬亲眷",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "送葬家属",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "通报仆人",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "金钏儿",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "银姐",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "长府官",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "闹事媳妇",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "随行官员",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "骑兵",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "骑马信使",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "骑马送葬众人",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "鲍二老婆",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  },
+  {
+    "character": "黄衣人物",
+    "source": "video",
+    "occurrence_count": "1",
+    "file_count": "1",
+    "mention_type": "alias",
+    "rule_note": "未命中规则，待模型/人工判断"
+  }
+]

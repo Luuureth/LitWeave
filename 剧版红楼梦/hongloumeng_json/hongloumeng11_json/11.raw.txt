@@ -1,0 +1,54 @@
+```json
+{
+  "episode_id": "11",
+  "episode_title": "为争宠姐弟遭魔魇",
+  "segment_id": "S11",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉向王夫人请安，王夫人嘱咐其休息",
+      "characters": [
+        "贾宝玉",
+        "王夫人"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "晚间宝玉回房向王夫人请安，王夫人见其醉酒脸红，嘱咐其快去休息。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉睡前与袭人嬉闹",
+      "characters": [
+        "贾宝玉",
+        "袭人"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉躺下后仍不安静，与袭人嬉闹，袭人催促其入睡。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宝玉突发魔魇",
+      "characters": [
+        "贾宝玉",
+        "王夫人",
+        "袭人",
+        "众丫鬟"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉睡梦中突然惊厥抽搐，众人惊慌围视并呼喊。"
+    }
+  ]
+}
+```

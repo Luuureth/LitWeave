@@ -1,0 +1,36 @@
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S14",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众人簇拥宝玉出府并称赞其才情",
+      "characters": [
+        "贾宝玉",
+        "贾政"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾政等人簇拥贾宝玉走出大门，称赞其才情高，准备让他在大观园题对额。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "众人沿假山小径游览",
+      "characters": [
+        "贾宝玉",
+        "贾政"
+      ],
+      "location": "大观园",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众人进入大观园假山区域，沿着小径行走并讨论游览路线。"
+    }
+  ]
+}

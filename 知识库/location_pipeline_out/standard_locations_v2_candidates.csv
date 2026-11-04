@@ -1,0 +1,95 @@
+﻿standard_location,parent_location,location_type,note,source_of_addition,confidence,review_needed
+荣国府,,府邸,贾府主宅，核心居住与礼仪场所,existing,high,False
+宁国府,,府邸,贾府长房，秦可卿丧礼主场,existing,high,False
+大观园,,园林,元妃省亲别院，众钗聚居地,existing,high,False
+怡红院,大观园,院落,贾宝玉住所,existing,high,False
+潇湘馆,大观园,院落,林黛玉住所,existing,high,False
+蘅芜院,大观园,院落,薛宝钗住所,existing,high,False
+稻香村,大观园,院落,李纨、贾兰住所,existing,high,False
+秋爽斋,大观园,院落,贾探春住所,existing,high,False
+暖香坞,大观园,院落,贾惜春住所,existing,high,False
+缀锦楼,大观园,院落,贾迎春住所,existing,high,False
+栊翠庵,大观园,庵堂,妙玉修行居住之所,existing,high,False
+梨香院,荣国府,院落,薛家暂住、戏班驻地,existing,high,False
+贾母正房,荣国府,院落,贾母起居正房,existing,high,False
+荣禧堂,荣国府,厅堂,荣国府正厅礼仪场所,existing,high,False
+铁槛寺,,寺庙,贾府家庙、停灵场所,existing,high,False
+馒头庵,,寺庙,即水月庵，王熙凤弄权之地,existing,high,False
+太虚幻境,,神话场景,宝玉梦游、判词所在地,existing,high,False
+藕香榭,大观园,亭榭,大观园宴饮、赏荷之所,existing,high,False
+芦雪广,大观园,庭轩,众钗赏雪联诗之所,existing,high,False
+沁芳闸桥,大观园,景观,大观园核心水景桥,existing,high,False
+贾赦院,荣国府,院落,贾赦、邢夫人住所,existing,high,False
+贾政书房,荣国府,书房,贾政办公、训子之处,existing,high,False
+薛姨妈院,荣国府,院落,薛姨妈、薛宝钗住所,existing,high,False
+赵姨娘院,荣国府,院落,赵姨娘、贾环住所,existing,high,False
+宁国府会芳园,宁国府,园林,宁府旧园，后并入大观园,existing,high,False
+清虚观,,道观,张道士道观，打醮场所,existing,high,False
+沁芳亭,,景观,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=5 file=5；后缀「亭」+14（亭类后缀） → 总分 53.6，阈值 35,candidate_from_llm_input,medium,True
+冯紫英府,,府邸,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1；后缀「府」+18（府邸类后缀） → 总分 53.3，阈值 35,candidate_from_llm_input,medium,True
+甄士隐书房,,书房,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=4 file=1；后缀「书房」+16（书房复合） → 总分 52.2，阈值 35,candidate_from_llm_input,medium,True
+薛蟠书房,,书房,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1；后缀「书房」+16（书房复合） → 总分 51.3，阈值 35,candidate_from_llm_input,medium,True
+水月庵,,寺庙,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=4 file=2；后缀「庵」+14（庵类后缀） → 总分 51.2，阈值 35,candidate_from_llm_input,medium,True
+荣宁二府,,府邸,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「府」+18（府邸类后缀） → 总分 50.5，阈值 35,candidate_from_llm_input,medium,True
+宁荣街,,街巷,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=10 file=4；后缀「街」+8（街巷） → 总分 49.6，阈值 35,candidate_from_llm_input,medium,True
+天香楼,,楼阁,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=2 file=2；后缀「楼」+14（楼类后缀） → 总分 49.1，阈值 35,candidate_from_llm_input,medium,True
+荣庆堂,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=7 file=2；后缀「堂」+10（堂类后缀） → 总分 49.1，阈值 35,candidate_from_llm_input,medium,True
+荣府暖阁,,楼阁,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=5 file=1；后缀「阁」+12（阁类后缀） → 总分 48.9，阈值 35,candidate_from_llm_input,medium,True
+宴席厅堂,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=8 file=1；后缀「堂」+10（堂类后缀） → 总分 48.5，阈值 35,candidate_from_llm_input,medium,True
+绮散斋书房,,书房,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「书房」+16（书房复合） → 总分 48.5，阈值 35,candidate_from_llm_input,medium,True
+赖大家书房,,书房,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「书房」+16（书房复合） → 总分 48.5，阈值 35,candidate_from_llm_input,medium,True
+甄家书房,,书房,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「书房」+16（书房复合） → 总分 48.5，阈值 35,candidate_from_llm_input,medium,True
+贾母内院,,院落,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=4 file=1；后缀「院」+12（院落类后缀） → 总分 48.2，阈值 35,candidate_from_llm_input,medium,True
+府内庭院,,院落,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1；后缀「院」+12（院落类后缀） → 总分 47.3，阈值 35,candidate_from_llm_input,medium,True
+凤姐院,,院落,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=2 file=2；后缀「院」+12（院落类后缀） → 总分 47.1，阈值 35,candidate_from_llm_input,medium,True
+葫芦庙,,寺庙,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=2 file=2；后缀「庙」+12（庙类后缀） → 总分 47.1，阈值 35,candidate_from_llm_input,medium,True
+赖大家花园,,园林,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「园」+14（园林类后缀） → 总分 46.5，阈值 35,candidate_from_llm_input,medium,True
+甄家花园,,园林,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「园」+14（园林类后缀） → 总分 46.5，阈值 35,candidate_from_llm_input,medium,True
+水仙庵,,寺庙,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「庵」+14（庵类后缀） → 总分 46.5，阈值 35,candidate_from_llm_input,medium,True
+滴翠亭,,景观,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「亭」+14（亭类后缀） → 总分 46.5，阈值 35,candidate_from_llm_input,medium,True
+荒郊至水仙庵,,寺庙,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「庵」+14（庵类后缀） → 总分 46.5，阈值 35,candidate_from_llm_input,medium,True
+智通寺,,寺庙,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「寺」+14（寺类后缀） → 总分 46.5，阈值 35,candidate_from_llm_input,medium,True
+荣府,,府邸,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=11 file=8；后缀「府」+18（府邸类后缀）；名称过短（-15） → 总分 46.4，阈值 35,candidate_from_llm_input,medium,True
+缀锦阁,,楼阁,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=2 file=1；后缀「阁」+12（阁类后缀） → 总分 46.1，阈值 35,candidate_from_llm_input,medium,True
+宝玉房间,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=20 file=7 → 总分 45.4，阈值 35,candidate_from_llm_input,medium,True
+大官家庙,,寺庙,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「庙」+12（庙类后缀） → 总分 44.5，阈值 35,candidate_from_llm_input,medium,True
+水仙庵后园井台,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「台」+12（台类后缀） → 总分 44.5，阈值 35,candidate_from_llm_input,medium,True
+海棠院,,院落,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「院」+12（院落类后缀） → 总分 44.5，阈值 35,candidate_from_llm_input,medium,True
+蜂腰桥,,景观,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「桥」+12（桥类后缀） → 总分 44.5，阈值 35,candidate_from_llm_input,medium,True
+贾母院,,院落,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「院」+12（院落类后缀） → 总分 44.5，阈值 35,candidate_from_llm_input,medium,True
+怡红院庭院,,院落,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「院」+12（院落类后缀） → 总分 44.5，阈值 35,candidate_from_llm_input,medium,True
+戏班后台,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「台」+12（台类后缀） → 总分 44.5，阈值 35,candidate_from_llm_input,medium,True
+有凤来仪外庭院,,院落,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「院」+12（院落类后缀） → 总分 44.5，阈值 35,candidate_from_llm_input,medium,True
+花园石桥,,景观,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「桥」+12（桥类后缀） → 总分 44.5，阈值 35,candidate_from_llm_input,medium,True
+郊外石桥,,景观,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「桥」+12（桥类后缀） → 总分 44.5，阈值 35,candidate_from_llm_input,medium,True
+荣府戏台,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「台」+12（台类后缀） → 总分 44.5，阈值 35,candidate_from_llm_input,medium,True
+逗蜂轩,,院落,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「轩」+10（轩类后缀） → 总分 42.5，阈值 35,candidate_from_llm_input,medium,True
+寺庙佛堂,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「堂」+10（堂类后缀） → 总分 42.5，阈值 35,candidate_from_llm_input,medium,True
+荣府穿堂,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「堂」+10（堂类后缀） → 总分 42.5，阈值 35,candidate_from_llm_input,medium,True
+晓翠堂,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「堂」+10（堂类后缀） → 总分 42.5，阈值 35,candidate_from_llm_input,medium,True
+林黛玉房间,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35,candidate_from_llm_input,medium,True
+王熙凤房间,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=10 file=3 → 总分 41.1，阈值 35,candidate_from_llm_input,medium,True
+贾宝玉房间,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=9 file=3 → 总分 40.7，阈值 35,candidate_from_llm_input,medium,True
+姑苏城阊门外仁清巷,,街巷,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「巷」+8（街巷） → 总分 40.5，阈值 35,candidate_from_llm_input,medium,True
+宁府街,,街巷,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「街」+8（街巷） → 总分 40.5，阈值 35,candidate_from_llm_input,medium,True
+贾府,,府邸,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=3；后缀「府」+18（府邸类后缀）；名称过短（-15） → 总分 40.0，阈值 35,candidate_from_llm_input,medium,True
+省亲别墅,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=5 file=3 → 总分 38.6，阈值 35,candidate_from_llm_input,medium,True
+宁府,,府邸,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1；后缀「府」+18（府邸类后缀）；名称过短（-15） → 总分 38.3，阈值 35,candidate_from_llm_input,medium,True
+议事厅儿,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=6 file=1 → 总分 37.5，阈值 35,candidate_from_llm_input,medium,True
+省亲别墅正殿,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=4 file=2 → 总分 37.2，阈值 35,candidate_from_llm_input,medium,True
+秦可卿房间,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=4 file=2 → 总分 37.2，阈值 35,candidate_from_llm_input,medium,True
+蘅芜苑,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=2 → 总分 36.3，阈值 35,candidate_from_llm_input,medium,True
+贾氏家塾,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=4 file=1 → 总分 36.2，阈值 35,candidate_from_llm_input,medium,True
+林府,,府邸,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「府」+18（府邸类后缀）；名称过短（-15） → 总分 35.5，阈值 35,candidate_from_llm_input,medium,True
+赖府,,府邸,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「府」+18（府邸类后缀）；名称过短（-15） → 总分 35.5，阈值 35,candidate_from_llm_input,medium,True
+袭人家,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35,candidate_from_llm_input,medium,True
+花自芳家,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35,candidate_from_llm_input,medium,True
+探春房间,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35,candidate_from_llm_input,medium,True
+宅院巷道,,街巷,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35,candidate_from_llm_input,medium,True
+卜世仁店铺,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35,candidate_from_llm_input,medium,True
+贾母堂屋,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35,candidate_from_llm_input,medium,True
+柳叶渚,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35,candidate_from_llm_input,medium,True
+探春房外,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35,candidate_from_llm_input,medium,True
+凤姐院内,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=2 file=2 → 总分 35.1，阈值 35,candidate_from_llm_input,medium,True
+怡红院外,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=2 file=2 → 总分 35.1，阈值 35,candidate_from_llm_input,medium,True
+贾母院外,,其他,【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=2 file=2 → 总分 35.1，阈值 35,candidate_from_llm_input,medium,True

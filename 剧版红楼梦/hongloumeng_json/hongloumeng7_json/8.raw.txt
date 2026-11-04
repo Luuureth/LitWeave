@@ -1,0 +1,64 @@
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S08",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "丫鬟回禀",
+      "characters": [
+        "王熙凤",
+        "丫鬟"
+      ],
+      "location": "王熙凤房内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "一名丫鬟向王熙凤回禀，称已答复香菱的问题并将其打发回去。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾琏谈论香菱",
+      "characters": [
+        "贾琏",
+        "王熙凤"
+      ],
+      "location": "王熙凤房内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾琏告诉王熙凤自己偶遇了薛蟠的妾室香菱，称赞其标致并惋惜她跟了薛蟠。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "王熙凤打趣",
+      "characters": [
+        "王熙凤",
+        "贾琏"
+      ],
+      "location": "王熙凤房内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤打趣贾琏见了世面还眼馋，并戏言要用平儿换香菱。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "夫妻亲昵",
+      "characters": [
+        "贾琏",
+        "王熙凤"
+      ],
+      "location": "王熙凤房内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾琏听后嬉笑，凑近王熙凤并伸手轻触其嘴唇，两人举止亲昵。"
+    }
+  ]
+}

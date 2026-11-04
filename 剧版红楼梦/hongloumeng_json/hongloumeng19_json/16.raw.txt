@@ -1,0 +1,56 @@
+```json
+{
+  "episode_id": "19",
+  "episode_title": "琉璃世界白雪红梅",
+  "segment_id": "S16",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众人即景联句，王熙凤起头",
+      "characters": [
+        "王熙凤",
+        "李纨",
+        "贾宝玉"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤起头“一夜北风紧”，李纨等人接续即景联句。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾母冒雪来到大观园",
+      "characters": [
+        "贾母"
+      ],
+      "location": "大观园",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母坐轿冒雪来到大观园。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾宝玉联诗落后被罚折梅",
+      "characters": [
+        "贾宝玉",
+        "林黛玉",
+        "史湘云",
+        "薛宝琴",
+        "贾探春",
+        "李纨"
+      ],
+      "location": "室内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉联诗落后，被罚去栊翠庵折红梅。"
+    }
+  ]
+}
+```

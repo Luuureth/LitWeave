@@ -1,0 +1,95 @@
+{
+  "episode_id": "03",
+  "episode_title": "刘姥姥一进荣国府",
+  "segment_id": "S06",
+  "event_count": 6,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "拜见并请饭",
+      "characters": [
+        "刘姥姥",
+        "板儿",
+        "王熙凤"
+      ],
+      "location": "荣国府内室",
+      "time_hint": "background",
+      "explicit_time": "一大早",
+      "relation_to_previous": "start",
+      "event_summary": "刘姥姥带板儿拜见王熙凤，王熙凤得知其未用早饭，命人传饭招待。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "汇报亲戚渊源",
+      "characters": [
+        "王熙凤",
+        "平儿"
+      ],
+      "location": "荣国府内室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "平儿向王熙凤转达王夫人关于刘姥姥家连宗亲戚关系的交代，王熙凤表示此前并不知晓。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "享用饭菜",
+      "characters": [
+        "刘姥姥",
+        "板儿"
+      ],
+      "location": "荣国府内室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "饭菜上桌后，刘姥姥与板儿狼吞虎咽地进食，旁有丫鬟观看。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "诉苦并赠银",
+      "characters": [
+        "王熙凤",
+        "刘姥姥",
+        "平儿"
+      ],
+      "location": "荣国府内室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤向刘姥姥诉说贾府内务繁杂与难处，随后命平儿取来二十两银子及一串钱赠予刘姥姥。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "道谢与送客",
+      "characters": [
+        "刘姥姥",
+        "王熙凤"
+      ],
+      "location": "荣国府内室",
+      "time_hint": "after",
+      "explicit_time": "天也晚了",
+      "relation_to_previous": "sequential",
+      "event_summary": "刘姥姥对王熙凤的馈赠感激涕零，王熙凤嘱咐其代问家人好并示意天色已晚准备送客。"
+    },
+    {
+      "event_id": "E06",
+      "narrative_order": 6,
+      "action": "门外调侃与解释",
+      "characters": [
+        "周瑞家的",
+        "刘姥姥",
+        "板儿"
+      ],
+      "location": "荣国府大门外",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "周瑞家的在府门外调侃刘姥姥方才言辞笨拙，刘姥姥笑称是因见到贵人太过喜爱紧张所致。"
+    }
+  ]
+}

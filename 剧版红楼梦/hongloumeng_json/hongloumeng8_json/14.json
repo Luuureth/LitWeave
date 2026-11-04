@@ -1,0 +1,48 @@
+{
+  "episode_id": "08",
+  "episode_title": "荣国府归省庆元宵",
+  "segment_id": "S14",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉入殿跪拜",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "内殿",
+      "time_hint": "start",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "宝玉穿过珠帘进入内殿，在红毯上跪拜。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "元春扶宝玉叙旧",
+      "characters": [
+        "贾元春",
+        "贾宝玉"
+      ],
+      "location": "内殿",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "元春上前扶起宝玉，两人互称姐弟，元春感叹宝玉比以前长大了。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "元春与众人赴宴",
+      "characters": [
+        "贾元春"
+      ],
+      "location": "内殿",
+      "time_hint": "after",
+      "explicit_time": "今日",
+      "relation_to_previous": "sequential",
+      "event_summary": "元春在众姐妹的簇拥下起身，众人表示今日是大喜之日，准备前往筵宴。"
+    }
+  ]
+}

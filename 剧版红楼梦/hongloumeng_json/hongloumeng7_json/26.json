@@ -1,0 +1,30 @@
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S26",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "巡视灯笼作坊",
+      "characters": [],
+      "location": "灯笼作坊",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "老爷在工匠陪同下巡视灯笼作坊，查看灯笼的制作进度与工艺细节。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "悬挂布置灯笼",
+      "characters": [],
+      "location": "厅堂",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众人于夜间在厅堂内忙碌悬挂灯笼，完成场地布置。"
+    }
+  ]
+}

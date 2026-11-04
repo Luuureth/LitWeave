@@ -1,0 +1,41 @@
+{
+  "episode_id": "11",
+  "episode_title": "为争宠姐弟遭魔魇",
+  "segment_id": "S09",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "女子在水边凝视水中男子倒影并呼唤小红",
+      "characters": ["林黛玉", "贾宝玉"],
+      "location": "水边",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "林黛玉在水边看到水中贾宝玉的倒影，轻声呼唤小红。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "丫鬟告知小红太太找金刚经，让其送宝玉的书去",
+      "characters": ["小红", "丫鬟"],
+      "location": "廊下",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "一名丫鬟告知小红太太正在找金刚经，让小红将宝玉的那本送去。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "小红持物穿行园林偶遇贾宝玉",
+      "characters": ["小红", "贾宝玉"],
+      "location": "大观园假山处",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "小红手持黄色包裹穿过小桥和假山区域，途中遇见正在用红帕拭面的贾宝玉。"
+    }
+  ]
+}

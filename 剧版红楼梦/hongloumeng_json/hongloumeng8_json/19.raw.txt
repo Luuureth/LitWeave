@@ -1,0 +1,51 @@
+{
+  "episode_id": "08",
+  "episode_title": "荣国府归省庆元宵",
+  "segment_id": "S19",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "元春阅诗评卷",
+      "characters": [
+        "元春",
+        "宝玉",
+        "黛玉"
+      ],
+      "location": "省亲别墅正殿",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "元春审阅众人呈上的诗作，特别赞赏《杏帘在望》一首，将其评为前三首之冠。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "元春挥毫题匾",
+      "characters": [
+        "元春"
+      ],
+      "location": "省亲别墅正殿",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "元春提笔蘸墨，在宣纸上挥毫题写“省亲别墅”四字匾额。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "元春训诫戒奢",
+      "characters": [
+        "元春",
+        "贾母",
+        "王夫人"
+      ],
+      "location": "省亲别墅正殿",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "元春告诫贾府众人日后园子万不可太过奢华糜费，贾母与王夫人等人恭敬领命应答。"
+    }
+  ]
+}

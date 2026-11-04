@@ -1,0 +1,3193 @@
+[
+  {
+    "link_id": "SCL_00126",
+    "kb_event_id": "KBE009",
+    "event_name": "贾雨村判案",
+    "canonical_event_name": "贾雨村判案",
+    "alignment_score": 0.95,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00459",
+      "scene_name": "贾雨村判案",
+      "scene_summary": "贾雨村到应天府上任即接手争婢毙命案，审问时受门子眼色暗示，退堂后留门子于密室相谈。；门子向雨村出示护官符解释四大家族势力，并详述薛蟠强买被拐的英莲、打死冯渊的案件原委。；门子献策以扶乩假报薛蟠病死、赔钱给冯家并法办拐子的徇私之策，雨村斟酌后同意。；贾雨村次日升堂徇情枉法胡乱结案，修书告知贾政与王子腾，后因忌惮门子而寻借口将其充发。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第004回.json",
+      "member_count": 4,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "004",
+      "chapter_title": "第四回 薄命女偏逢薄命郎 葫芦僧判断葫芦案"
+    },
+    "video": {
+      "scene_id": "SCN_00272",
+      "scene_name": "贾雨村与门子相认",
+      "scene_summary": "贾雨村在衙门内室与门子重逢，通过回忆葫芦庙往事认出对方曾是庙中小沙弥。；门子向贾雨村展示并解释“护官符”，详细讲述四大家族的权势与联姻关系。；门子指出凶手薛蟠背景深厚，建议贾雨村徇私枉法，贾雨村表面斥责但内心动摇。；门子提出利用扶鸾请仙谎称薛蟠被冯渊鬼魂索命的计策，以掩盖真相。；贾雨村回忆起恩人甄士隐及其女英莲，决定采纳门子建议，给钱结案并试图寻找英莲。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng2_json\\5.json",
+      "member_count": 5,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "02_S05",
+      "episode_title": "宝黛钗初会荣庆堂",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng2_json\\5.json"
+    },
+    "shared": {
+      "characters": [
+        "冯渊",
+        "薛蟠",
+        "贾雨村",
+        "门子",
+        "香菱"
+      ],
+      "locations": [],
+      "timeline_id": "T007"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE009",
+      "event_name": "贾雨村判案",
+      "kb_score_text": 0.315329,
+      "kb_score_video": 0.252113
+    },
+    "llm_review": {
+      "decision": "aligned",
+      "confidence": 0.95,
+      "reason": "两者均完整涵盖雨村与门子密室相谈、护官符解析、薛蟠案始末及扶乩献策等核心情节，人物与动作高度重合。"
+    }
+  },
+  {
+    "link_id": "SCL_00067",
+    "kb_event_id": "KBE021",
+    "event_name": "宝钗扑蝶",
+    "canonical_event_name": "宝钗扑蝶",
+    "alignment_score": 0.95,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00534",
+      "scene_name": "宝钗扑蝶",
+      "scene_summary": "宝钗扑蝶至滴翠亭，偶然偷听到小红与坠儿私传信物，急使金蝉脱壳之计假意追赶黛玉脱身。；亭内二人受惊正议，凤姐隔坡招手使唤小红传话取物，小红领命前去。；小红返回途中探问凤姐去向，偶遇晴雯等人并遭其言语讥讽。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第027回.json",
+      "member_count": 3,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "027",
+      "chapter_title": "第二十七回 滴翠亭杨妃戏彩蝶 埋香冢飞燕泣残红"
+    },
+    "video": {
+      "scene_id": "SCN_00073",
+      "scene_name": "宝钗扑蝶",
+      "scene_summary": "薛宝钗在亭外无意间听到小红与坠儿谈论遗失手帕及贾芸之事，并听到坠儿起誓保密。；薛宝钗担心被察觉偷听，决定推开格子窗，并故意大声呼唤林黛玉以制造偶然路过的假象。；薛宝钗打开门窗后向小红和坠儿询问林黛玉的藏身处，丫鬟们否认见过并指路，宝钗借机离开。；宝钗离开后，小红与坠儿担心刚才的私密谈话已被林黛玉听去，坠儿惊慌失措，小红则强作镇定。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng12_json\\6.json",
+      "member_count": 4,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "12_S06",
+      "episode_title": "埋香冢飞燕泣残红",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng12_json\\6.json"
+    },
+    "shared": {
+      "characters": [
+        "坠儿",
+        "小红",
+        "薛宝钗"
+      ],
+      "locations": [],
+      "timeline_id": "T030"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE021",
+      "event_name": "宝钗扑蝶",
+      "kb_score_text": 0.349586,
+      "kb_score_video": 0.241824
+    },
+    "llm_review": {
+      "decision": "aligned",
+      "confidence": 0.95,
+      "reason": "文本与视频均精准对应滴翠亭扑蝶及宝钗金蝉脱壳窃听小红坠儿私语的核心情节与人物。"
+    }
+  },
+  {
+    "link_id": "SCL_00092",
+    "kb_event_id": "KBE037",
+    "event_name": "香菱学诗",
+    "canonical_event_name": "香菱学诗",
+    "alignment_score": 0.95,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00587",
+      "scene_name": "香菱学诗",
+      "scene_summary": "香菱拜访众人后夜至潇湘馆，向黛玉请教作诗之法并正式拜师。；黛玉为香菱讲授诗法要义并开具王维等人诗集书目，香菱携书回蘅芜苑彻夜苦读不肯歇息。；香菱读完诗集后向黛玉汇报心得并赏析王维名句，宝玉与探春赶来加入讨论并称赞其悟性。；黛玉命香菱以月为题赋诗，香菱苦心琢磨成诗后呈交，黛玉指出其措辞不雅令其重写。；香菱痴迷作诗废寝忘食在园中苦思并写出第二首诗，黛玉认为其偏离咏月主题要求再度重写。；香菱苦志学诗精血诚聚于梦中偶得佳句，醒后录写完毕急赴沁芳亭欲向归来的众姐妹展示。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第048回.json",
+      "member_count": 6,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "048",
+      "chapter_title": "第四十八回 滥情人情误思游艺 慕雅女雅集苦吟诗"
+    },
+    "video": {
+      "scene_id": "SCN_00197",
+      "scene_name": "香菱学诗",
+      "scene_summary": "香菱向黛玉阐述诗歌看似无理实则有理有情的妙处。；香菱引用王维诗句“大漠孤烟直，长河落日圆”，分析“直”和“圆”字的精妙。；香菱引用“日落江湖白，潮来天地青”，形容“白”“青”二字虽似无理却非此不可。；香菱引用“渡头余落日，墟里上孤烟”，并回忆那年进京傍晚泊船时见到的炊烟景色。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng19_json\\7.json",
+      "member_count": 4,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "19_S07",
+      "episode_title": "琉璃世界白雪红梅",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng19_json\\7.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉",
+        "香菱"
+      ],
+      "locations": [],
+      "timeline_id": "T058"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE037",
+      "event_name": "香菱学诗",
+      "kb_score_text": 0.95,
+      "kb_score_video": 0.244368
+    },
+    "llm_review": {
+      "decision": "aligned",
+      "confidence": 0.95,
+      "reason": "视频完整呈现香菱向黛玉请教并探讨王维诗句的核心情节，与文本第四十八回“香菱学诗”事件高度一致。"
+    }
+  },
+  {
+    "link_id": "SCL_00086",
+    "kb_event_id": "KBE038",
+    "event_name": "勇晴雯病补孔雀裘",
+    "canonical_event_name": "勇晴雯病补孔雀裘",
+    "alignment_score": 0.9205,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00603",
+      "scene_name": "勇晴雯病补孔雀裘",
+      "scene_summary": "晴雯病中怒戳坠儿手部并借故将其撵出，坠儿母亲争执后带女抱恨离去。；傍晚宝玉归来发现雀金裘烧破，派人外出找匠人织补未果，众人焦急。；晴雯强撑病体接过雀金裘查看，决定以孔雀金线界线之法尝试织补。；宝玉在旁照料，晴雯彻夜熬至凌晨四更补完雀金裘后力竭昏睡。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第052回.json",
+      "member_count": 4,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "052",
+      "chapter_title": "第五十二回 俏平儿情掩虾须镯 勇晴雯病补孔雀裘"
+    },
+    "video": {
+      "scene_id": "SCN_00227",
+      "scene_name": "勇晴雯病补孔雀裘",
+      "scene_summary": "宝玉回房脱下雀金裘，麝月发现衣服被烧破，宝玉嘱咐麝月悄悄拿出去找匠人修补，切勿声张。；麝月外出寻找织补匠人失败归来，告知宝玉跑遍半个城也没人认识雀金裘，无人敢揽活。；晴雯听闻后提出用孔雀金线织补的方案，虽宝玉劝阻其养病，晴雯仍坚持带病修补。；晴雯坐起，在麝月协助下连夜带病修补雀金裘，宝玉在一旁守候。；宝玉心疼晴雯辛苦，劝其去睡以免熬坏眼睛，晴雯让宝玉放心并继续修补。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng20_json\\9.json",
+      "member_count": 5,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "20_S09",
+      "episode_title": "勇晴雯病补雀金裘",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng20_json\\9.json"
+    },
+    "shared": {
+      "characters": [
+        "晴雯",
+        "贾宝玉",
+        "麝月"
+      ],
+      "locations": [
+        "怡红院"
+      ],
+      "timeline_id": "T060"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE038",
+      "event_name": "勇晴雯病补孔雀裘",
+      "kb_score_text": 0.98,
+      "kb_score_video": 0.97
+    }
+  },
+  {
+    "link_id": "SCL_00085",
+    "kb_event_id": "KBE028",
+    "event_name": "金钏之死",
+    "canonical_event_name": "金钏之死",
+    "alignment_score": 0.92,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00541",
+      "scene_name": "金钏之死",
+      "scene_summary": "宝玉趁午休至王夫人房中挑逗金钏并讨要她，王夫人醒后怒打金钏并将其撵出贾府。；宝玉入大观园见一女孩在蔷薇架下反复画“蔷”字，痴看间突降阵雨，二人互唤后各自避雨。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第030回.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "030",
+      "chapter_title": "第三十回 宝钗借扇机带双敲 椿龄画蔷痴及局外"
+    },
+    "video": {
+      "scene_id": "SCN_00100",
+      "scene_name": "金钏之死",
+      "scene_summary": "王夫人怒斥金钏是下作的小娼妇，教坏了宝玉，宝玉随即离开。；王夫人命令玉钏去叫母亲来领人，金钏跪在地上哭诉求饶，表示愿伺候一辈子。；王夫人指责玉钏养的好闺女，命令玉钏带着金钏滚出去，玉钏也跪下求情。；金钏绝望地磕头求饶，王夫人表示看见她们恶心，金钏最终起身。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng14_json\\4.json",
+      "member_count": 4,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "14_S04",
+      "episode_title": "含耻辱情烈死金钏",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng14_json\\4.json"
+    },
+    "shared": {
+      "characters": [
+        "玉钏",
+        "王夫人",
+        "贾宝玉",
+        "金钏"
+      ],
+      "locations": [
+        "荣国府"
+      ],
+      "timeline_id": "T034"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE028",
+      "event_name": "金钏之死",
+      "kb_score_text": 0.251575,
+      "kb_score_video": 0.378438
+    },
+    "llm_review": {
+      "decision": "aligned",
+      "confidence": 0.92,
+      "reason": "文本与视频均精准对应宝玉午休挑逗金钏、王夫人惊醒怒骂并将其撵出贾府的核心冲突场景，关键人物与动作高度一致。"
+    }
+  },
+  {
+    "link_id": "SCL_00084",
+    "kb_event_id": "KBE028",
+    "event_name": "金钏之死",
+    "canonical_event_name": "金钏之死",
+    "alignment_score": 0.92,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00541",
+      "scene_name": "金钏之死",
+      "scene_summary": "宝玉趁午休至王夫人房中挑逗金钏并讨要她，王夫人醒后怒打金钏并将其撵出贾府。；宝玉入大观园见一女孩在蔷薇架下反复画“蔷”字，痴看间突降阵雨，二人互唤后各自避雨。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第030回.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "030",
+      "chapter_title": "第三十回 宝钗借扇机带双敲 椿龄画蔷痴及局外"
+    },
+    "video": {
+      "scene_id": "SCN_00099",
+      "scene_name": "金钏之死",
+      "scene_summary": "宝玉进入王夫人房中，见王夫人熟睡，金钏在旁侍奉捶腿。；宝玉与金钏低声调笑并喂食，提议带其去怡红院，金钏提及贾环与彩云。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng14_json\\3.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "14_S03",
+      "episode_title": "含耻辱情烈死金钏",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng14_json\\3.json"
+    },
+    "shared": {
+      "characters": [
+        "王夫人",
+        "贾宝玉",
+        "金钏"
+      ],
+      "locations": [
+        "荣国府"
+      ],
+      "timeline_id": "T034"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE028",
+      "event_name": "金钏之死",
+      "kb_score_text": 0.251575,
+      "kb_score_video": 0.422508
+    },
+    "llm_review": {
+      "decision": "aligned",
+      "confidence": 0.92,
+      "reason": "文本与视频均聚焦宝玉在王夫人房中挑逗金钏的核心情节，主要人物、地点与关键动作高度一致。"
+    }
+  },
+  {
+    "link_id": "SCL_00107",
+    "kb_event_id": "KBE013",
+    "event_name": "王熙凤协理宁国府",
+    "canonical_event_name": "王熙凤协理宁国府",
+    "alignment_score": 0.88,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00490",
+      "scene_name": "王熙凤协理宁国府",
+      "scene_summary": "凤姐在伴宿之夕独力周全承应宾客，次日天明吉时请灵出殡，官客与仪仗队伍浩大。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第014回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "014",
+      "chapter_title": "第十四回 林如海灵返苏州郡 贾宝玉路谒北静王"
+    },
+    "video": {
+      "scene_id": "SCN_00350",
+      "scene_name": "王熙凤协理宁国府",
+      "scene_summary": "王熙凤乘车抵达，在仆人的搀扶下小心下车并进入府内。；僧道在灵堂内敲打法器、念经做法事。；镜头展示了秦可卿的灵位及灵堂内的祭品布置。；王熙凤走到灵位前跪拜、烧纸并放声痛哭。；乐师在一旁吹奏乐器，渲染悲凉气氛。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng6_json\\10.json",
+      "member_count": 5,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "06_S10",
+      "episode_title": "王熙凤协理宁国府",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng6_json\\10.json"
+    },
+    "shared": {
+      "characters": [
+        "王熙凤"
+      ],
+      "locations": [
+        "宁国府"
+      ],
+      "timeline_id": "T014"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE013",
+      "event_name": "王熙凤协理宁国府",
+      "kb_score_text": 0.266291,
+      "kb_score_video": 0.298526
+    },
+    "llm_review": {
+      "decision": "aligned",
+      "confidence": 0.88,
+      "reason": "文本与视频均聚焦秦可卿丧期及凤姐协理宁国府的核心阶段，主要人物、地点与丧仪叙事脉络高度吻合。"
+    }
+  },
+  {
+    "link_id": "SCL_00003",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.864,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00580",
+      "scene_name": "入住大观园",
+      "scene_summary": "凤姐晚间送画具入园中，宝钗探望患咳疾的黛玉，建议以燕窝粥平肝养胃，黛玉坦言身世孤苦与寄人篱下的顾虑。；黄昏秋雨骤至，黛玉触景生情，于灯下翻阅杂书后吟成《秋窗风雨夕》一词。；宝玉披蓑戴笠冒雨探望黛玉，二人闲话家常并互赠蓑衣与绣球灯，黛玉不慎失言后羞红面颊。；宝钗遣人送燕窝至潇湘馆，黛玉服侍安寝后感怀身世与情感，听雨落泪直至四更入睡。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第045回.json",
+      "member_count": 4,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "045",
+      "chapter_title": "第四十五回 金兰契互剖金兰语 风雨夕闷制风雨词"
+    },
+    "video": {
+      "scene_id": "SCN_00185",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "宝玉与黛玉在房中对弈，黛玉谈及自己曾错怪宝钗，后因宝钗送燕窝粥而看出其真心。；宝玉指出黛玉消瘦且眼泪变少，黛玉坦言近日心酸却少泪，宝玉劝其保重并告知明日芦雪庵起诗社。；宝玉告辞离开，黛玉独自拉上床帐准备休息。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng19_json\\13.json",
+      "member_count": 3,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "19_S13",
+      "episode_title": "琉璃世界白雪红梅",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng19_json\\13.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉",
+        "贾宝玉"
+      ],
+      "locations": [
+        "潇湘馆"
+      ],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.95,
+      "kb_score_video": 0.95
+    }
+  },
+  {
+    "link_id": "SCL_00004",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.864,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00580",
+      "scene_name": "入住大观园",
+      "scene_summary": "凤姐晚间送画具入园中，宝钗探望患咳疾的黛玉，建议以燕窝粥平肝养胃，黛玉坦言身世孤苦与寄人篱下的顾虑。；黄昏秋雨骤至，黛玉触景生情，于灯下翻阅杂书后吟成《秋窗风雨夕》一词。；宝玉披蓑戴笠冒雨探望黛玉，二人闲话家常并互赠蓑衣与绣球灯，黛玉不慎失言后羞红面颊。；宝钗遣人送燕窝至潇湘馆，黛玉服侍安寝后感怀身世与情感，听雨落泪直至四更入睡。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第045回.json",
+      "member_count": 4,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "045",
+      "chapter_title": "第四十五回 金兰契互剖金兰语 风雨夕闷制风雨词"
+    },
+    "video": {
+      "scene_id": "SCN_00007",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "宝玉遣退丫鬟后进入内室，与林黛玉因拿黛玉比戏子及给湘云使眼色之事发生激烈争吵，黛玉愤言让宝玉一辈子别来。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\15.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "10_S15",
+      "episode_title": "听曲文宝玉悟禅机",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\15.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉",
+        "贾宝玉"
+      ],
+      "locations": [
+        "潇湘馆"
+      ],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.95,
+      "kb_score_video": 0.95
+    }
+  },
+  {
+    "link_id": "SCL_00005",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.8535,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00580",
+      "scene_name": "入住大观园",
+      "scene_summary": "凤姐晚间送画具入园中，宝钗探望患咳疾的黛玉，建议以燕窝粥平肝养胃，黛玉坦言身世孤苦与寄人篱下的顾虑。；黄昏秋雨骤至，黛玉触景生情，于灯下翻阅杂书后吟成《秋窗风雨夕》一词。；宝玉披蓑戴笠冒雨探望黛玉，二人闲话家常并互赠蓑衣与绣球灯，黛玉不慎失言后羞红面颊。；宝钗遣人送燕窝至潇湘馆，黛玉服侍安寝后感怀身世与情感，听雨落泪直至四更入睡。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第045回.json",
+      "member_count": 4,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "045",
+      "chapter_title": "第四十五回 金兰契互剖金兰语 风雨夕闷制风雨词"
+    },
+    "video": {
+      "scene_id": "SCN_00194",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "贾宝玉披蓑戴笠冒雨探望林黛玉，二人围绕雨具互相打趣，黛玉试戴斗笠后表示不愿收下。；贾宝玉欲阅林黛玉诗稿，黛玉抢回烧掉，并告知病体好转以感谢其连日探视。；林黛玉因夜深欲歇催促贾宝玉离开，二人商定明日再会并交代饮食事宜。；林黛玉虑及雨夜路滑赠予贾宝玉玻璃绣球灯，贾宝玉感念其体贴后告辞离去。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng19_json\\4.json",
+      "member_count": 4,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "19_S04",
+      "episode_title": "琉璃世界白雪红梅",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng19_json\\4.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉",
+        "贾宝玉"
+      ],
+      "locations": [
+        "潇湘馆"
+      ],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.95,
+      "kb_score_video": 0.92
+    }
+  },
+  {
+    "link_id": "SCL_00093",
+    "kb_event_id": "KBE037",
+    "event_name": "香菱学诗",
+    "canonical_event_name": "香菱学诗",
+    "alignment_score": 0.85,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00588",
+      "scene_name": "香菱学诗",
+      "scene_summary": "香菱将新诗递给众人品评，众人称其新巧有意趣并邀其入社。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第049回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "049",
+      "chapter_title": "第四十九回 琉璃世界白雪红梅 脂粉香娃割腥啖膻"
+    },
+    "video": {
+      "scene_id": "SCN_00197",
+      "scene_name": "香菱学诗",
+      "scene_summary": "香菱向黛玉阐述诗歌看似无理实则有理有情的妙处。；香菱引用王维诗句“大漠孤烟直，长河落日圆”，分析“直”和“圆”字的精妙。；香菱引用“日落江湖白，潮来天地青”，形容“白”“青”二字虽似无理却非此不可。；香菱引用“渡头余落日，墟里上孤烟”，并回忆那年进京傍晚泊船时见到的炊烟景色。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng19_json\\7.json",
+      "member_count": 4,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "19_S07",
+      "episode_title": "琉璃世界白雪红梅",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng19_json\\7.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉",
+        "香菱"
+      ],
+      "locations": [],
+      "timeline_id": "T058"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE037",
+      "event_name": "香菱学诗",
+      "kb_score_text": 0.92,
+      "kb_score_video": 0.244368
+    },
+    "llm_review": {
+      "decision": "aligned",
+      "confidence": 0.85,
+      "reason": "同属“香菱学诗”规范事件，文本为成诗后众人品评，视频为学诗时与黛玉论诗析句，属同一连贯叙事。"
+    }
+  },
+  {
+    "link_id": "SCL_00088",
+    "kb_event_id": "KBE038",
+    "event_name": "勇晴雯病补孔雀裘",
+    "canonical_event_name": "勇晴雯病补孔雀裘",
+    "alignment_score": 0.848,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00603",
+      "scene_name": "勇晴雯病补孔雀裘",
+      "scene_summary": "晴雯病中怒戳坠儿手部并借故将其撵出，坠儿母亲争执后带女抱恨离去。；傍晚宝玉归来发现雀金裘烧破，派人外出找匠人织补未果，众人焦急。；晴雯强撑病体接过雀金裘查看，决定以孔雀金线界线之法尝试织补。；宝玉在旁照料，晴雯彻夜熬至凌晨四更补完雀金裘后力竭昏睡。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第052回.json",
+      "member_count": 4,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "052",
+      "chapter_title": "第五十二回 俏平儿情掩虾须镯 勇晴雯病补孔雀裘"
+    },
+    "video": {
+      "scene_id": "SCN_00219",
+      "scene_name": "胡大夫诊脉并产生误会",
+      "scene_summary": "胡大夫为帐内病人诊脉，因房间布置误以为病人是小姐，经绿衣女子解释后得知是宝玉屋里的丫鬟。；宝玉看药方后不满大夫用药，决定另请王太医，并让紫衣女子取银两打发胡大夫。；宝玉在房内扇药罐闻药香，晴雯嫌药气重想拿去茶房，宝玉则认为药气雅致且屋里正缺药香。；宝玉发现麝月、秋纹不在房内，便对晴雯说要从后门出去偷看她们在做什么。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng20_json\\3.json",
+      "member_count": 4,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "20_S03",
+      "episode_title": "勇晴雯病补雀金裘",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng20_json\\3.json"
+    },
+    "shared": {
+      "characters": [
+        "晴雯",
+        "贾宝玉"
+      ],
+      "locations": [
+        "怡红院"
+      ],
+      "timeline_id": "T060"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE038",
+      "event_name": "勇晴雯病补孔雀裘",
+      "kb_score_text": 0.98,
+      "kb_score_video": 0.82
+    }
+  },
+  {
+    "link_id": "SCL_00066",
+    "kb_event_id": "KBE026",
+    "event_name": "晴雯撕扇",
+    "canonical_event_name": "晴雯撕扇",
+    "alignment_score": 0.82,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00542",
+      "scene_name": "晴雯撕扇",
+      "scene_summary": "宝玉冒雨赶回怡红院，因叫门不应烦躁之下误踢开门的袭人致其内伤吐血，深夜察觉后心生不安。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第030回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "030",
+      "chapter_title": "第三十回 宝钗借扇机带双敲 椿龄画蔷痴及局外"
+    },
+    "video": {
+      "scene_id": "SCN_00061",
+      "scene_name": "晴雯撕扇",
+      "scene_summary": "夜晚宝玉归来，袭人责怪他外出未送信让自己牵肠挂肚地担忧等待。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng12_json\\13.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "12_S13",
+      "episode_title": "埋香冢飞燕泣残红",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng12_json\\13.json"
+    },
+    "shared": {
+      "characters": [
+        "袭人",
+        "贾宝玉"
+      ],
+      "locations": [
+        "怡红院"
+      ],
+      "timeline_id": "T036"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE026",
+      "event_name": "晴雯撕扇",
+      "kb_score_text": 0.259472,
+      "kb_score_video": 0.267872
+    },
+    "llm_review": {
+      "decision": "aligned",
+      "confidence": 0.82,
+      "reason": "文本与视频均描述宝玉冒雨返回怡红院并与袭人发生互动的同一情节节点，虽摘要侧重点不同但核心人物、地点与事件节拍一致。"
+    }
+  },
+  {
+    "link_id": "SCL_00089",
+    "kb_event_id": "KBE038",
+    "event_name": "勇晴雯病补孔雀裘",
+    "canonical_event_name": "勇晴雯病补孔雀裘",
+    "alignment_score": 0.8195,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00603",
+      "scene_name": "勇晴雯病补孔雀裘",
+      "scene_summary": "晴雯病中怒戳坠儿手部并借故将其撵出，坠儿母亲争执后带女抱恨离去。；傍晚宝玉归来发现雀金裘烧破，派人外出找匠人织补未果，众人焦急。；晴雯强撑病体接过雀金裘查看，决定以孔雀金线界线之法尝试织补。；宝玉在旁照料，晴雯彻夜熬至凌晨四更补完雀金裘后力竭昏睡。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第052回.json",
+      "member_count": 4,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "052",
+      "chapter_title": "第五十二回 俏平儿情掩虾须镯 勇晴雯病补孔雀裘"
+    },
+    "video": {
+      "scene_id": "SCN_00220",
+      "scene_name": "晴雯撕扇",
+      "scene_summary": "宝玉在怡红院窗外偷听平儿与屋内丫头的对话。；平儿向屋内丫头交代隐瞒虾须镯失窃的应对说辞，并叮嘱切勿走漏风声。；平儿叮嘱丫头日后防备坠儿并严密封锁消息以防晴雯发作，宝玉听完全程后默默离开。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng20_json\\4.json",
+      "member_count": 3,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "20_S04",
+      "episode_title": "勇晴雯病补雀金裘",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng20_json\\4.json"
+    },
+    "shared": {
+      "characters": [
+        "坠儿",
+        "晴雯",
+        "贾宝玉"
+      ],
+      "locations": [
+        "怡红院"
+      ],
+      "timeline_id": "T060"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE038",
+      "event_name": "勇晴雯病补孔雀裘",
+      "kb_score_text": 0.98,
+      "kb_score_video": 0.75
+    }
+  },
+  {
+    "link_id": "SCL_00087",
+    "kb_event_id": "KBE038",
+    "event_name": "勇晴雯病补孔雀裘",
+    "canonical_event_name": "勇晴雯病补孔雀裘",
+    "alignment_score": 0.817,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00603",
+      "scene_name": "勇晴雯病补孔雀裘",
+      "scene_summary": "晴雯病中怒戳坠儿手部并借故将其撵出，坠儿母亲争执后带女抱恨离去。；傍晚宝玉归来发现雀金裘烧破，派人外出找匠人织补未果，众人焦急。；晴雯强撑病体接过雀金裘查看，决定以孔雀金线界线之法尝试织补。；宝玉在旁照料，晴雯彻夜熬至凌晨四更补完雀金裘后力竭昏睡。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第052回.json",
+      "member_count": 4,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "052",
+      "chapter_title": "第五十二回 俏平儿情掩虾须镯 勇晴雯病补孔雀裘"
+    },
+    "video": {
+      "scene_id": "SCN_00212",
+      "scene_name": "勇晴雯病补孔雀裘",
+      "scene_summary": "深夜时分，晴雯不顾病体在内室点烛熬夜，竭力为宝玉缝补雀金裘。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng20_json\\10.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "20_S10",
+      "episode_title": "勇晴雯病补雀金裘",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng20_json\\10.json"
+    },
+    "shared": {
+      "characters": [
+        "晴雯",
+        "贾宝玉"
+      ],
+      "locations": [],
+      "timeline_id": "T060"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE038",
+      "event_name": "勇晴雯病补孔雀裘",
+      "kb_score_text": 0.98,
+      "kb_score_video": 0.96
+    }
+  },
+  {
+    "link_id": "SCL_00098",
+    "kb_event_id": "KBE013",
+    "event_name": "王熙凤协理宁国府",
+    "canonical_event_name": "王熙凤协理宁国府",
+    "alignment_score": 0.75,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00486",
+      "scene_name": "王熙凤协理宁国府",
+      "scene_summary": "忠靖侯等三家祭礼先后送至，各路贵眷亲至宁府祭奠，往来不绝场面浩大。；贾蓉次日换吉服领回官凭，宁国府按五品职例布置灵堂仪仗与僧道榜文。；贾珍因尤氏病倒忧虑内务管理，宝玉私下向其举荐凤姐暂理家事。；贾珍至内院当众跪求凤姐协理丧务，凤姐征得王夫人默许后应允并接收对牌。；女眷散去后凤姐独坐抱厦，逐一梳理宁国府存在的五大管理弊病。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第013回.json",
+      "member_count": 5,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "013",
+      "chapter_title": "第十三回 秦可卿死封龙禁尉 王熙凤协理宁国府"
+    },
+    "video": {
+      "scene_id": "SCN_00370",
+      "scene_name": "王熙凤协理宁国府",
+      "scene_summary": "贾珍在宁国府庭院指挥下人悬挂挽联与布置灵堂外务，神情忧虑。；贾珍向宝玉抱怨府内因主母生病而混乱失序，宝玉附耳献计，贾珍听后大喜并催促其立刻去办。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng6_json\\7.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "06_S07",
+      "episode_title": "王熙凤协理宁国府",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng6_json\\7.json"
+    },
+    "shared": {
+      "characters": [
+        "贾宝玉",
+        "贾珍"
+      ],
+      "locations": [
+        "宁国府"
+      ],
+      "timeline_id": "T014"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE013",
+      "event_name": "王熙凤协理宁国府",
+      "kb_score_text": 0.332744,
+      "kb_score_video": 0.319421
+    },
+    "llm_review": {
+      "decision": "aligned",
+      "confidence": 0.75,
+      "reason": "文本与视频均明确包含宝玉向贾珍举荐凤姐理家的核心情节，人物、地点与关键动作高度一致。"
+    }
+  },
+  {
+    "link_id": "SCL_00051",
+    "kb_event_id": "KBE026",
+    "event_name": "晴雯撕扇",
+    "canonical_event_name": "晴雯撕扇",
+    "alignment_score": 0.608716,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00543",
+      "scene_name": "晴雯撕扇",
+      "scene_summary": "袭人吐血后心灰意冷，宝玉心疼照料并亲自伺候。；天刚亮宝玉匆忙请王济仁问诊，记下药方回园为袭人调治。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第031回.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "031",
+      "chapter_title": "第三十一回 撕扇子作千金一笑 因麒麟伏白首双星"
+    },
+    "video": {
+      "scene_id": "SCN_00104",
+      "scene_name": "晴雯撕扇",
+      "scene_summary": "宝玉唤醒晴雯，两人谈论跌扇子的事，宝玉提议吃果子。；晴雯撕扇子取乐，宝玉纵容并让麝月拿扇子来，麝月劝阻无效。；袭人来到庭院，看到众人撕扇子，与众人交谈。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng14_json\\8.json",
+      "member_count": 3,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "14_S08",
+      "episode_title": "含耻辱情烈死金钏",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng14_json\\8.json"
+    },
+    "shared": {
+      "characters": [
+        "袭人",
+        "贾宝玉"
+      ],
+      "locations": [
+        "怡红院"
+      ],
+      "timeline_id": "T036"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE026",
+      "event_name": "晴雯撕扇",
+      "kb_score_text": 0.287147,
+      "kb_score_video": 0.97
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.25,
+      "reason": "文本侧重袭人病中照料，视频呈现晴雯撕扇取乐，核心事件与关键动作不符。"
+    }
+  },
+  {
+    "link_id": "SCL_00027",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.600809,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00498",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "贾琏护送黛玉及诸事停妥后返京，与宝玉悲喜重逢，黛玉分发礼物并拒收宝玉所赠香串。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第016回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "016",
+      "chapter_title": "第十六回 贾元春才选凤藻宫 秦鲸卿夭逝黄泉路"
+    },
+    "video": {
+      "scene_id": "SCN_00185",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "宝玉与黛玉在房中对弈，黛玉谈及自己曾错怪宝钗，后因宝钗送燕窝粥而看出其真心。；宝玉指出黛玉消瘦且眼泪变少，黛玉坦言近日心酸却少泪，宝玉劝其保重并告知明日芦雪庵起诗社。；宝玉告辞离开，黛玉独自拉上床帐准备休息。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng19_json\\13.json",
+      "member_count": 3,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "19_S13",
+      "episode_title": "琉璃世界白雪红梅",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng19_json\\13.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉",
+        "贾宝玉"
+      ],
+      "locations": [
+        "潇湘馆"
+      ],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.285131,
+      "kb_score_video": 0.95
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.15,
+      "reason": "文本为第十六回贾琏返京分发礼物，视频为第四十五回秋夕谈燕窝粥，时空与情节均不同。"
+    }
+  },
+  {
+    "link_id": "SCL_00028",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.600809,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00498",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "贾琏护送黛玉及诸事停妥后返京，与宝玉悲喜重逢，黛玉分发礼物并拒收宝玉所赠香串。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第016回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "016",
+      "chapter_title": "第十六回 贾元春才选凤藻宫 秦鲸卿夭逝黄泉路"
+    },
+    "video": {
+      "scene_id": "SCN_00007",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "宝玉遣退丫鬟后进入内室，与林黛玉因拿黛玉比戏子及给湘云使眼色之事发生激烈争吵，黛玉愤言让宝玉一辈子别来。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\15.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "10_S15",
+      "episode_title": "听曲文宝玉悟禅机",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\15.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉",
+        "贾宝玉"
+      ],
+      "locations": [
+        "潇湘馆"
+      ],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.285131,
+      "kb_score_video": 0.95
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.15,
+      "reason": "文本为第十六回返京场景，视频为第二十二回宝玉黛玉因戏子争吵，非同一叙事场景。"
+    }
+  },
+  {
+    "link_id": "SCL_00029",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.590309,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00498",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "贾琏护送黛玉及诸事停妥后返京，与宝玉悲喜重逢，黛玉分发礼物并拒收宝玉所赠香串。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第016回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "016",
+      "chapter_title": "第十六回 贾元春才选凤藻宫 秦鲸卿夭逝黄泉路"
+    },
+    "video": {
+      "scene_id": "SCN_00194",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "贾宝玉披蓑戴笠冒雨探望林黛玉，二人围绕雨具互相打趣，黛玉试戴斗笠后表示不愿收下。；贾宝玉欲阅林黛玉诗稿，黛玉抢回烧掉，并告知病体好转以感谢其连日探视。；林黛玉因夜深欲歇催促贾宝玉离开，二人商定明日再会并交代饮食事宜。；林黛玉虑及雨夜路滑赠予贾宝玉玻璃绣球灯，贾宝玉感念其体贴后告辞离去。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng19_json\\4.json",
+      "member_count": 4,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "19_S04",
+      "episode_title": "琉璃世界白雪红梅",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng19_json\\4.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉",
+        "贾宝玉"
+      ],
+      "locations": [
+        "潇湘馆"
+      ],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.285131,
+      "kb_score_video": 0.92
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.15,
+      "reason": "文本为贾琏护送返京，视频为第四十五回宝玉雨夜探病赠灯，核心事件完全不符。"
+    }
+  },
+  {
+    "link_id": "SCL_00011",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.580476,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00532",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "黛玉因前事独自悲泣至深夜，众人习以为常不予理会，她直至二更后方才入睡。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第027回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "027",
+      "chapter_title": "第二十七回 滴翠亭杨妃戏彩蝶 埋香冢飞燕泣残红"
+    },
+    "video": {
+      "scene_id": "SCN_00185",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "宝玉与黛玉在房中对弈，黛玉谈及自己曾错怪宝钗，后因宝钗送燕窝粥而看出其真心。；宝玉指出黛玉消瘦且眼泪变少，黛玉坦言近日心酸却少泪，宝玉劝其保重并告知明日芦雪庵起诗社。；宝玉告辞离开，黛玉独自拉上床帐准备休息。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng19_json\\13.json",
+      "member_count": 3,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "19_S13",
+      "episode_title": "琉璃世界白雪红梅",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng19_json\\13.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉"
+      ],
+      "locations": [
+        "潇湘馆"
+      ],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.306613,
+      "kb_score_video": 0.95
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.2,
+      "reason": "文本为第二十七回黛玉独自悲泣，视频为第四十五回秋夕谈心论燕窝，情节不匹配。"
+    }
+  },
+  {
+    "link_id": "SCL_00012",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.580476,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00532",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "黛玉因前事独自悲泣至深夜，众人习以为常不予理会，她直至二更后方才入睡。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第027回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "027",
+      "chapter_title": "第二十七回 滴翠亭杨妃戏彩蝶 埋香冢飞燕泣残红"
+    },
+    "video": {
+      "scene_id": "SCN_00007",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "宝玉遣退丫鬟后进入内室，与林黛玉因拿黛玉比戏子及给湘云使眼色之事发生激烈争吵，黛玉愤言让宝玉一辈子别来。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\15.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "10_S15",
+      "episode_title": "听曲文宝玉悟禅机",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\15.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉"
+      ],
+      "locations": [
+        "潇湘馆"
+      ],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.306613,
+      "kb_score_video": 0.95
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.15,
+      "reason": "文本为二十七回深夜悲泣，视频为二十二回二人激烈争吵，人物互动与事件不同。"
+    }
+  },
+  {
+    "link_id": "SCL_00013",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.569976,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00532",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "黛玉因前事独自悲泣至深夜，众人习以为常不予理会，她直至二更后方才入睡。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第027回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "027",
+      "chapter_title": "第二十七回 滴翠亭杨妃戏彩蝶 埋香冢飞燕泣残红"
+    },
+    "video": {
+      "scene_id": "SCN_00194",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "贾宝玉披蓑戴笠冒雨探望林黛玉，二人围绕雨具互相打趣，黛玉试戴斗笠后表示不愿收下。；贾宝玉欲阅林黛玉诗稿，黛玉抢回烧掉，并告知病体好转以感谢其连日探视。；林黛玉因夜深欲歇催促贾宝玉离开，二人商定明日再会并交代饮食事宜。；林黛玉虑及雨夜路滑赠予贾宝玉玻璃绣球灯，贾宝玉感念其体贴后告辞离去。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng19_json\\4.json",
+      "member_count": 4,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "19_S04",
+      "episode_title": "琉璃世界白雪红梅",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng19_json\\4.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉"
+      ],
+      "locations": [
+        "潇湘馆"
+      ],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.306613,
+      "kb_score_video": 0.92
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.2,
+      "reason": "文本为二十七回黛玉悲泣，视频为四十五回雨夜探病赠灯，时空与关键动作均不一致。"
+    }
+  },
+  {
+    "link_id": "SCL_00054",
+    "kb_event_id": "KBE026",
+    "event_name": "晴雯撕扇",
+    "canonical_event_name": "晴雯撕扇",
+    "alignment_score": 0.501716,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00543",
+      "scene_name": "晴雯撕扇",
+      "scene_summary": "袭人吐血后心灰意冷，宝玉心疼照料并亲自伺候。；天刚亮宝玉匆忙请王济仁问诊，记下药方回园为袭人调治。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第031回.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "031",
+      "chapter_title": "第三十一回 撕扇子作千金一笑 因麒麟伏白首双星"
+    },
+    "video": {
+      "scene_id": "SCN_00435",
+      "scene_name": "晴雯撕扇",
+      "scene_summary": "贾宝玉与麝月在房内闲谈，麝月提及宝玉早起头痒，宝玉遂为其蓖头。；晴雯赢钱归来撞见二人蓖头，出言调侃后表示要去算账并离开，麝月随即提及受薛宝钗传唤准备前往。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng9_json\\15.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "09_S15",
+      "episode_title": "意绵绵静日玉生香",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng9_json\\15.json"
+    },
+    "shared": {
+      "characters": [
+        "贾宝玉"
+      ],
+      "locations": [
+        "怡红院"
+      ],
+      "timeline_id": "T036"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE026",
+      "event_name": "晴雯撕扇",
+      "kb_score_text": 0.287147,
+      "kb_score_video": 0.75
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.3,
+      "reason": "文本侧重袭人吐血后的请医调治，视频描写宝玉为麝月篦头及晴雯调侃，虽同处第三十一回前后但为不同分场。"
+    }
+  },
+  {
+    "link_id": "SCL_00044",
+    "kb_event_id": "KBE029",
+    "event_name": "宝玉挨打",
+    "canonical_event_name": "宝玉挨打",
+    "alignment_score": 0.499243,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00555",
+      "scene_name": "宝玉挨打",
+      "scene_summary": "贾母吩咐亲随小厮以养病祭星为由替宝玉挡驾贾政的传唤，宝玉得知后杜绝社交，终日在园中与丫鬟相伴。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第036回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "036",
+      "chapter_title": "第三十六回 绣鸳鸯梦兆绦芸轩 识分定情悟梨香院"
+    },
+    "video": {
+      "scene_id": "SCN_00378",
+      "scene_name": "宝玉挨打",
+      "scene_summary": "贾母询问宝玉去向，丫鬟汇报宝玉被贾政叫去，贾母担忧并安排小厮打探。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng7_json\\15.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "07_S15",
+      "episode_title": "大观园试才题对额",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng7_json\\15.json"
+    },
+    "shared": {
+      "characters": [
+        "史太君",
+        "贾宝玉",
+        "贾政"
+      ],
+      "locations": [],
+      "timeline_id": "T038"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE029",
+      "event_name": "宝玉挨打",
+      "kb_score_text": 0.75,
+      "kb_score_video": 0.256409
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.2,
+      "reason": "文本为第三十六回宝玉借病避见贾政，视频为第十七回游大观园前的传唤铺垫，时间线与核心情节均不符。"
+    }
+  },
+  {
+    "link_id": "SCL_00036",
+    "kb_event_id": "KBE022",
+    "event_name": "黛玉葬花",
+    "canonical_event_name": "黛玉葬花",
+    "alignment_score": 0.497539,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00530",
+      "scene_name": "黛玉葬花",
+      "scene_summary": "宝玉病体痊愈后返回大观园。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第026回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "026",
+      "chapter_title": "第二十六回 蜂腰桥设言传心事 潇湘馆春困发幽情"
+    },
+    "video": {
+      "scene_id": "SCN_00077",
+      "scene_name": "黛玉葬花",
+      "scene_summary": "贾宝玉在花园向林黛玉倾诉被冷落的委屈，双方就昨夜闭门误会坦诚沟通，贾宝玉发誓澄清并承诺管教下人，林黛玉予以谅解并提醒其明日待客需谨慎。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng13_json\\1.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "13_S01",
+      "episode_title": "享福人福深还祷福",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng13_json\\1.json"
+    },
+    "shared": {
+      "characters": [
+        "贾宝玉"
+      ],
+      "locations": [],
+      "timeline_id": "T031"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE022",
+      "event_name": "黛玉葬花",
+      "kb_score_text": 0.311197,
+      "kb_score_video": 0.85
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.3,
+      "reason": "文本仅为第二十六回宝玉病愈回园的过渡简述，视频为二人化解闭门误会的对话场景，均非葬花核心场景。"
+    }
+  },
+  {
+    "link_id": "SCL_00072",
+    "kb_event_id": "KBE006",
+    "event_name": "林黛玉进贾府",
+    "canonical_event_name": "林黛玉进贾府",
+    "alignment_score": 0.493864,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00461",
+      "scene_name": "林黛玉进贾府",
+      "scene_summary": "简述黛玉在荣府受宠、宝钗到来后的人心向背以及宝玉待姊妹一视同仁的性情。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第005回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "005",
+      "chapter_title": "第五回 游幻境指迷十二钗 饮仙醪曲演红楼梦"
+    },
+    "video": {
+      "scene_id": "SCN_00145",
+      "scene_name": "林黛玉进贾府",
+      "scene_summary": "贾母带头提议凑份子给王熙凤过生日，众人纷纷响应并商定各自出的银钱数目。；贾宝玉听闻众人商议后若有所思，独自走出房间穿过庭院回到怡红院。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng17_json\\7.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "17_S07",
+      "episode_title": "变生不测凤姐泼醋",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng17_json\\7.json"
+    },
+    "shared": {
+      "characters": [
+        "史太君",
+        "贾宝玉"
+      ],
+      "locations": [],
+      "timeline_id": "T006"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE006",
+      "event_name": "林黛玉进贾府",
+      "kb_score_text": 0.8,
+      "kb_score_video": 0.245326
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.1,
+      "reason": "文本为第五回背景综述，视频为第四十四回凑份子给凤姐过生日，与林黛玉进贾府事件完全无关。"
+    }
+  },
+  {
+    "link_id": "SCL_00037",
+    "kb_event_id": "KBE022",
+    "event_name": "黛玉葬花",
+    "canonical_event_name": "黛玉葬花",
+    "alignment_score": 0.487039,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00530",
+      "scene_name": "黛玉葬花",
+      "scene_summary": "宝玉病体痊愈后返回大观园。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第026回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "026",
+      "chapter_title": "第二十六回 蜂腰桥设言传心事 潇湘馆春困发幽情"
+    },
+    "video": {
+      "scene_id": "SCN_00067",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "丫鬟唤醒熟睡的林黛玉，告知今日是芒种节，黛玉起身前往。；林黛玉在园中独行，细心收集落花。；贾宝玉跑进花园，看见众姐妹在树下玩耍，便跑向她们。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng12_json\\16.json",
+      "member_count": 3,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "12_S16",
+      "episode_title": "埋香冢飞燕泣残红",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng12_json\\16.json"
+    },
+    "shared": {
+      "characters": [
+        "贾宝玉"
+      ],
+      "locations": [],
+      "timeline_id": "T031"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE022",
+      "event_name": "黛玉葬花",
+      "kb_score_text": 0.311197,
+      "kb_score_video": 0.82
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.4,
+      "reason": "文本是第二十六回过场，视频是第二十七回芒种节黛玉葬花的起始画面，前后相继但非同一具体叙事场景。"
+    }
+  },
+  {
+    "link_id": "SCL_00129",
+    "kb_event_id": "KBE012",
+    "event_name": "王熙凤毒设相思局",
+    "canonical_event_name": "王熙凤毒设相思局",
+    "alignment_score": 0.481661,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00480",
+      "scene_name": "刘姥姥一进荣国府",
+      "scene_summary": "代儒向荣府求参汤救命，王夫人命凤姐配药，凤姐却只以药渣敷衍。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第012回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "012",
+      "chapter_title": "第十二回 王熙凤毒设相思局 贾天祥正照风月鉴"
+    },
+    "video": {
+      "scene_id": "SCN_00315",
+      "scene_name": "王熙凤毒设相思局",
+      "scene_summary": "贾瑞在暗处被贾蓉和贾蔷擒获，贾蓉假称要将其送交太太处置，趁机向贾瑞勒索钱财。；贾瑞在贾蓉的逼迫下，写下欠银五十两的文契并画押。；贾蓉和贾蔷让贾瑞在墙角等候后离开，随后贾瑞被从高处泼下粪尿。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng5_json\\12.json",
+      "member_count": 3,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "05_S12",
+      "episode_title": "王熙凤毒设相思局",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng5_json\\12.json"
+    },
+    "shared": {
+      "characters": [],
+      "locations": [],
+      "timeline_id": "T012"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE012",
+      "event_name": "王熙凤毒设相思局",
+      "kb_score_text": 0.85,
+      "kb_score_video": 0.283318
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.35,
+      "reason": "同属第十二回事件链，但文本侧重代儒求参汤与凤姐敷衍，视频侧重贾蓉贾蔷设局勒索并泼粪，为不同分场。"
+    }
+  },
+  {
+    "link_id": "SCL_00045",
+    "kb_event_id": "KBE029",
+    "event_name": "宝玉挨打",
+    "canonical_event_name": "宝玉挨打",
+    "alignment_score": 0.47735,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00555",
+      "scene_name": "宝玉挨打",
+      "scene_summary": "贾母吩咐亲随小厮以养病祭星为由替宝玉挡驾贾政的传唤，宝玉得知后杜绝社交，终日在园中与丫鬟相伴。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第036回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "036",
+      "chapter_title": "第三十六回 绣鸳鸯梦兆绦芸轩 识分定情悟梨香院"
+    },
+    "video": {
+      "scene_id": "SCN_00037",
+      "scene_name": "宝玉挨打",
+      "scene_summary": "宝玉病重昏迷，贾母、王夫人等女眷在床前焦急照料并痛哭。；贾政等男眷在房外询问病情，得知宝玉患的是热症，需服药治疗。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng11_json\\17.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "11_S17",
+      "episode_title": "为争宠姐弟遭魔魇",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng11_json\\17.json"
+    },
+    "shared": {
+      "characters": [
+        "史太君",
+        "贾宝玉",
+        "贾政"
+      ],
+      "locations": [],
+      "timeline_id": "T038"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE029",
+      "event_name": "宝玉挨打",
+      "kb_score_text": 0.75,
+      "kb_score_video": 0.252632
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.2,
+      "reason": "文本为第三十六回挨打后避客的日常，视频为第二十五回魔魇病危场景，病因与叙事节点均不同。"
+    }
+  },
+  {
+    "link_id": "SCL_00046",
+    "kb_event_id": "KBE029",
+    "event_name": "宝玉挨打",
+    "canonical_event_name": "宝玉挨打",
+    "alignment_score": 0.476686,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00555",
+      "scene_name": "宝玉挨打",
+      "scene_summary": "贾母吩咐亲随小厮以养病祭星为由替宝玉挡驾贾政的传唤，宝玉得知后杜绝社交，终日在园中与丫鬟相伴。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第036回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "036",
+      "chapter_title": "第三十六回 绣鸳鸯梦兆绦芸轩 识分定情悟梨香院"
+    },
+    "video": {
+      "scene_id": "SCN_00039",
+      "scene_name": "宝玉挨打",
+      "scene_summary": "众人给宝玉喂药，宝玉难以吞咽导致药水流出，众女眷惊慌擦拭。；贾政与众人商议宝玉病情，认为天命难违，有人提议预备后事或冲喜。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng11_json\\17.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "11_S17",
+      "episode_title": "为争宠姐弟遭魔魇",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng11_json\\17.json"
+    },
+    "shared": {
+      "characters": [
+        "史太君",
+        "贾宝玉",
+        "贾政"
+      ],
+      "locations": [],
+      "timeline_id": "T038"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE029",
+      "event_name": "宝玉挨打",
+      "kb_score_text": 0.75,
+      "kb_score_video": 0.250735
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.2,
+      "reason": "文本为挨打后调养期情节，视频为魔魇病重喂药难咽与商议后事的危机场景，非同一叙事时刻。"
+    }
+  },
+  {
+    "link_id": "SCL_00031",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.405452,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00498",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "贾琏护送黛玉及诸事停妥后返京，与宝玉悲喜重逢，黛玉分发礼物并拒收宝玉所赠香串。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第016回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "016",
+      "chapter_title": "第十六回 贾元春才选凤藻宫 秦鲸卿夭逝黄泉路"
+    },
+    "video": {
+      "scene_id": "SCN_00065",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "林黛玉在闺房中看着燃烧的蜡烛独自垂泪，随后提笔在纸上写下诗句。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng12_json\\15.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "12_S15",
+      "episode_title": "埋香冢飞燕泣残红",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng12_json\\15.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉"
+      ],
+      "locations": [
+        "潇湘馆"
+      ],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.285131,
+      "kb_score_video": 0.477551
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.15,
+      "reason": "文本述贾琏返京与黛玉分发礼物，视频为黛玉雨夜独处题诗，核心事件与动作完全不同。"
+    }
+  },
+  {
+    "link_id": "SCL_00081",
+    "kb_event_id": "KBE028",
+    "event_name": "金钏之死",
+    "canonical_event_name": "金钏之死",
+    "alignment_score": 0.39743,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00547",
+      "scene_name": "金钏之死",
+      "scene_summary": "王夫人赏赐金钏母亲簪环，并吩咐请僧人超度金钏。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第033回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "033",
+      "chapter_title": "第三十三回 手足眈眈小动唇舌 不肖种种大承笞挞"
+    },
+    "video": {
+      "scene_id": "SCN_00099",
+      "scene_name": "金钏之死",
+      "scene_summary": "宝玉进入王夫人房中，见王夫人熟睡，金钏在旁侍奉捶腿。；宝玉与金钏低声调笑并喂食，提议带其去怡红院，金钏提及贾环与彩云。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng14_json\\3.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "14_S03",
+      "episode_title": "含耻辱情烈死金钏",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng14_json\\3.json"
+    },
+    "shared": {
+      "characters": [
+        "王夫人"
+      ],
+      "locations": [
+        "荣国府"
+      ],
+      "timeline_id": "T034"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE028",
+      "event_name": "金钏之死",
+      "kb_score_text": 0.287893,
+      "kb_score_video": 0.422508
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.25,
+      "reason": "文本为金钏死后王夫人抚恤其母，视频为跳井前宝玉与金钏调笑，属同一事件不同阶段，非同一场景。"
+    }
+  },
+  {
+    "link_id": "SCL_00073",
+    "kb_event_id": "KBE006",
+    "event_name": "林黛玉进贾府",
+    "canonical_event_name": "林黛玉进贾府",
+    "alignment_score": 0.39117,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00483",
+      "scene_name": "林黛玉进贾府",
+      "scene_summary": "林如海冬底病重遣使接女，贾母命贾琏护送黛玉登舟返回扬州。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第012回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "012",
+      "chapter_title": "第十二回 王熙凤毒设相思局 贾天祥正照风月鉴"
+    },
+    "video": {
+      "scene_id": "SCN_00228",
+      "scene_name": "林黛玉进贾府",
+      "scene_summary": "贾母在众人的簇拥和劝说下入座准备开宴。；宝玉与众女子猜灯谜，宝玉猜中谜底为耍猴儿，解释谜底后众人笑闹。；贾母询问袭人为何没来，凤姐解释袭人因母丧守孝且已赏银，贾母表示理解并提及鸳鸯。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng21_json\\1.json",
+      "member_count": 3,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "21_S01",
+      "episode_title": "荣国府元宵开夜宴.",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng21_json\\1.json"
+    },
+    "shared": {
+      "characters": [
+        "史太君",
+        "林黛玉",
+        "贾宝玉"
+      ],
+      "locations": [
+        "荣国府"
+      ],
+      "timeline_id": "T006"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE006",
+      "event_name": "林黛玉进贾府",
+      "kb_score_text": 0.322219,
+      "kb_score_video": 0.346204
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.1,
+      "reason": "文本为黛玉返扬州，视频为荣国府元宵夜宴猜灯谜，人物、情节与时间节点均不匹配。"
+    }
+  },
+  {
+    "link_id": "SCL_00055",
+    "kb_event_id": "KBE026",
+    "event_name": "晴雯撕扇",
+    "canonical_event_name": "晴雯撕扇",
+    "alignment_score": 0.387472,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00543",
+      "scene_name": "晴雯撕扇",
+      "scene_summary": "袭人吐血后心灰意冷，宝玉心疼照料并亲自伺候。；天刚亮宝玉匆忙请王济仁问诊，记下药方回园为袭人调治。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第031回.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "031",
+      "chapter_title": "第三十一回 撕扇子作千金一笑 因麒麟伏白首双星"
+    },
+    "video": {
+      "scene_id": "SCN_00307",
+      "scene_name": "整理床铺",
+      "scene_summary": "丫鬟在宝玉房间整理床铺。；宝玉和晴雯对话，晴雯抱怨等了一天，宝玉给她暖手。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng4_json\\6.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "04_S06",
+      "episode_title": "探宝钗黛玉半含酸",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng4_json\\6.json"
+    },
+    "shared": {
+      "characters": [
+        "贾宝玉"
+      ],
+      "locations": [
+        "怡红院"
+      ],
+      "timeline_id": "T036"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE026",
+      "event_name": "晴雯撕扇",
+      "kb_score_text": 0.287147,
+      "kb_score_video": 0.395018
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.15,
+      "reason": "文本为袭人吐血求医，视频为宝玉与晴雯早期日常互动，非同一事件场景。"
+    }
+  },
+  {
+    "link_id": "SCL_00094",
+    "kb_event_id": "KBE013",
+    "event_name": "王熙凤协理宁国府",
+    "canonical_event_name": "王熙凤协理宁国府",
+    "alignment_score": 0.382358,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00486",
+      "scene_name": "王熙凤协理宁国府",
+      "scene_summary": "忠靖侯等三家祭礼先后送至，各路贵眷亲至宁府祭奠，往来不绝场面浩大。；贾蓉次日换吉服领回官凭，宁国府按五品职例布置灵堂仪仗与僧道榜文。；贾珍因尤氏病倒忧虑内务管理，宝玉私下向其举荐凤姐暂理家事。；贾珍至内院当众跪求凤姐协理丧务，凤姐征得王夫人默许后应允并接收对牌。；女眷散去后凤姐独坐抱厦，逐一梳理宁国府存在的五大管理弊病。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第013回.json",
+      "member_count": 5,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "013",
+      "chapter_title": "第十三回 秦可卿死封龙禁尉 王熙凤协理宁国府"
+    },
+    "video": {
+      "scene_id": "SCN_00369",
+      "scene_name": "僧道众人摆设香案举行法事",
+      "scene_summary": "宁国府院落中，僧道众人摆设香案与法器举行丧仪法事。；贾珍得知侯爷们等候后，催促仆役并签发对牌供下人领取物资。；贾珍与贾蓉等人查验义忠亲王遗留的樯木棺材板，贾蓉提议不计价钱直接赏赐工钱，贾珍欣然定夺。；贾珍不顾旁人劝阻下令将樯木板抬出开锯上漆，并随即安排仆役迎接齐国公诰命等贵客。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng6_json\\6.json",
+      "member_count": 4,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "06_S06",
+      "episode_title": "王熙凤协理宁国府",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng6_json\\6.json"
+    },
+    "shared": {
+      "characters": [
+        "贾珍",
+        "贾蓉"
+      ],
+      "locations": [
+        "宁国府"
+      ],
+      "timeline_id": "T014"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE013",
+      "event_name": "王熙凤协理宁国府",
+      "kb_score_text": 0.332744,
+      "kb_score_video": 0.350352
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.35,
+      "reason": "文本聚焦凤姐受托理家与梳理弊病，视频侧重贾珍治丧与查验棺木，关键动作与叙事焦点不同。"
+    }
+  },
+  {
+    "link_id": "SCL_00063",
+    "kb_event_id": "KBE026",
+    "event_name": "晴雯撕扇",
+    "canonical_event_name": "晴雯撕扇",
+    "alignment_score": 0.375019,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00542",
+      "scene_name": "晴雯撕扇",
+      "scene_summary": "宝玉冒雨赶回怡红院，因叫门不应烦躁之下误踢开门的袭人致其内伤吐血，深夜察觉后心生不安。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第030回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "030",
+      "chapter_title": "第三十回 宝钗借扇机带双敲 椿龄画蔷痴及局外"
+    },
+    "video": {
+      "scene_id": "SCN_00307",
+      "scene_name": "整理床铺",
+      "scene_summary": "丫鬟在宝玉房间整理床铺。；宝玉和晴雯对话，晴雯抱怨等了一天，宝玉给她暖手。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng4_json\\6.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "04_S06",
+      "episode_title": "探宝钗黛玉半含酸",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng4_json\\6.json"
+    },
+    "shared": {
+      "characters": [
+        "晴雯",
+        "贾宝玉"
+      ],
+      "locations": [
+        "怡红院"
+      ],
+      "timeline_id": "T036"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE026",
+      "event_name": "晴雯撕扇",
+      "kb_score_text": 0.259472,
+      "kb_score_video": 0.395018
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.1,
+      "reason": "文本为雨夜误踢袭人致其吐血，视频为宝玉晴雯早期对话，时空与情节均无关联。"
+    }
+  },
+  {
+    "link_id": "SCL_00082",
+    "kb_event_id": "KBE028",
+    "event_name": "金钏之死",
+    "canonical_event_name": "金钏之死",
+    "alignment_score": 0.372005,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00547",
+      "scene_name": "金钏之死",
+      "scene_summary": "王夫人赏赐金钏母亲簪环，并吩咐请僧人超度金钏。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第033回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "033",
+      "chapter_title": "第三十三回 手足眈眈小动唇舌 不肖种种大承笞挞"
+    },
+    "video": {
+      "scene_id": "SCN_00100",
+      "scene_name": "金钏之死",
+      "scene_summary": "王夫人怒斥金钏是下作的小娼妇，教坏了宝玉，宝玉随即离开。；王夫人命令玉钏去叫母亲来领人，金钏跪在地上哭诉求饶，表示愿伺候一辈子。；王夫人指责玉钏养的好闺女，命令玉钏带着金钏滚出去，玉钏也跪下求情。；金钏绝望地磕头求饶，王夫人表示看见她们恶心，金钏最终起身。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng14_json\\4.json",
+      "member_count": 4,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "14_S04",
+      "episode_title": "含耻辱情烈死金钏",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng14_json\\4.json"
+    },
+    "shared": {
+      "characters": [
+        "王夫人"
+      ],
+      "locations": [
+        "荣国府"
+      ],
+      "timeline_id": "T034"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE028",
+      "event_name": "金钏之死",
+      "kb_score_text": 0.287893,
+      "kb_score_video": 0.378438
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.25,
+      "reason": "文本为事后抚恤与超度，视频为事发时王夫人怒斥并逐出金钏，非同一叙事场景。"
+    }
+  },
+  {
+    "link_id": "SCL_00105",
+    "kb_event_id": "KBE013",
+    "event_name": "王熙凤协理宁国府",
+    "canonical_event_name": "王熙凤协理宁国府",
+    "alignment_score": 0.314272,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00490",
+      "scene_name": "王熙凤协理宁国府",
+      "scene_summary": "凤姐在伴宿之夕独力周全承应宾客，次日天明吉时请灵出殡，官客与仪仗队伍浩大。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第014回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "014",
+      "chapter_title": "第十四回 林如海灵返苏州郡 贾宝玉路谒北静王"
+    },
+    "video": {
+      "scene_id": "SCN_00366",
+      "scene_name": "王熙凤协理宁国府",
+      "scene_summary": "蓝衣青年与仆人匆忙入内报信称蓉大奶奶的丫头瑞珠触柱殉主，贾珍听闻后连称好好啊。；贾珍唤仆人下令按孙女规格厚葬殉主的瑞珠，在场族人纷纷称赞其为义婢烈女。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng6_json\\3.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "06_S03",
+      "episode_title": "王熙凤协理宁国府",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng6_json\\3.json"
+    },
+    "shared": {
+      "characters": [],
+      "locations": [
+        "宁国府"
+      ],
+      "timeline_id": "T014"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE013",
+      "event_name": "王熙凤协理宁国府",
+      "kb_score_text": 0.266291,
+      "kb_score_video": 0.326974
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.4,
+      "reason": "文本聚焦凤姐出殡周全宾客，视频聚焦瑞珠殉主与贾珍厚葬，虽同属丧事期但核心人物与动作不同。"
+    }
+  },
+  {
+    "link_id": "SCL_00106",
+    "kb_event_id": "KBE013",
+    "event_name": "王熙凤协理宁国府",
+    "canonical_event_name": "王熙凤协理宁国府",
+    "alignment_score": 0.311628,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00490",
+      "scene_name": "王熙凤协理宁国府",
+      "scene_summary": "凤姐在伴宿之夕独力周全承应宾客，次日天明吉时请灵出殡，官客与仪仗队伍浩大。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第014回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "014",
+      "chapter_title": "第十四回 林如海灵返苏州郡 贾宝玉路谒北静王"
+    },
+    "video": {
+      "scene_id": "SCN_00370",
+      "scene_name": "王熙凤协理宁国府",
+      "scene_summary": "贾珍在宁国府庭院指挥下人悬挂挽联与布置灵堂外务，神情忧虑。；贾珍向宝玉抱怨府内因主母生病而混乱失序，宝玉附耳献计，贾珍听后大喜并催促其立刻去办。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng6_json\\7.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "06_S07",
+      "episode_title": "王熙凤协理宁国府",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng6_json\\7.json"
+    },
+    "shared": {
+      "characters": [],
+      "locations": [
+        "宁国府"
+      ],
+      "timeline_id": "T014"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE013",
+      "event_name": "王熙凤协理宁国府",
+      "kb_score_text": 0.266291,
+      "kb_score_video": 0.319421
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.35,
+      "reason": "文本描述出殡当日凤姐周全宾客，视频为贾珍向宝玉抱怨府务混乱并求计，属前后关联的不同情节。"
+    }
+  },
+  {
+    "link_id": "SCL_00116",
+    "kb_event_id": "KBE013",
+    "event_name": "王熙凤协理宁国府",
+    "canonical_event_name": "王熙凤协理宁国府",
+    "alignment_score": 0.310577,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00469",
+      "scene_name": "王熙凤协理宁国府",
+      "scene_summary": "次日凤姐携宝玉至宁府赴宴，尤氏秦氏相迎，凤姐初见秦钟并赠见面礼。；宝玉与秦钟互生倾慕，私下避开众人密谈，约定同入贾家家塾读书。；晚间宁府宴毕，焦大奉命送人借醉痛骂宁府上下，揭露家族丑闻后被众小厮塞马粪，凤姐与宝玉闻听各异其趣。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第007回.json",
+      "member_count": 3,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "007",
+      "chapter_title": "第七回 送宫花贾琏戏熙凤 宴宁府宝玉会秦钟"
+    },
+    "video": {
+      "scene_id": "SCN_00328",
+      "scene_name": "王熙凤协理宁国府",
+      "scene_summary": "贾珍在房内欲取秦氏发簪作信物，秦氏因怕被旁人认出而坚决推拒。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng5_json\\22.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "05_S22",
+      "episode_title": "王熙凤毒设相思局",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng5_json\\22.json"
+    },
+    "shared": {
+      "characters": [
+        "秦可卿"
+      ],
+      "locations": [
+        "宁国府"
+      ],
+      "timeline_id": "T014"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE013",
+      "event_name": "王熙凤协理宁国府",
+      "kb_score_text": 0.255956,
+      "kb_score_video": 0.29161
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.2,
+      "reason": "文本为第七回宁府赴宴与焦大醉骂，视频为贾珍与秦氏互动，时间线与核心情节均不同。"
+    }
+  },
+  {
+    "link_id": "SCL_00113",
+    "kb_event_id": "KBE013",
+    "event_name": "王熙凤协理宁国府",
+    "canonical_event_name": "王熙凤协理宁国府",
+    "alignment_score": 0.309621,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00469",
+      "scene_name": "王熙凤协理宁国府",
+      "scene_summary": "次日凤姐携宝玉至宁府赴宴，尤氏秦氏相迎，凤姐初见秦钟并赠见面礼。；宝玉与秦钟互生倾慕，私下避开众人密谈，约定同入贾家家塾读书。；晚间宁府宴毕，焦大奉命送人借醉痛骂宁府上下，揭露家族丑闻后被众小厮塞马粪，凤姐与宝玉闻听各异其趣。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第007回.json",
+      "member_count": 3,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "007",
+      "chapter_title": "第七回 送宫花贾琏戏熙凤 宴宁府宝玉会秦钟"
+    },
+    "video": {
+      "scene_id": "SCN_00366",
+      "scene_name": "王熙凤协理宁国府",
+      "scene_summary": "蓝衣青年与仆人匆忙入内报信称蓉大奶奶的丫头瑞珠触柱殉主，贾珍听闻后连称好好啊。；贾珍唤仆人下令按孙女规格厚葬殉主的瑞珠，在场族人纷纷称赞其为义婢烈女。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng6_json\\3.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "06_S03",
+      "episode_title": "王熙凤协理宁国府",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng6_json\\3.json"
+    },
+    "shared": {
+      "characters": [],
+      "locations": [
+        "宁国府"
+      ],
+      "timeline_id": "T014"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE013",
+      "event_name": "王熙凤协理宁国府",
+      "kb_score_text": 0.255956,
+      "kb_score_video": 0.326974
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.15,
+      "reason": "文本属第七回宴饮焦大醉骂，视频属秦可卿死后丫头殉主情节，叙事内容完全不符。"
+    }
+  },
+  {
+    "link_id": "SCL_00016",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.308234,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00532",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "黛玉因前事独自悲泣至深夜，众人习以为常不予理会，她直至二更后方才入睡。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第027回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "027",
+      "chapter_title": "第二十七回 滴翠亭杨妃戏彩蝶 埋香冢飞燕泣残红"
+    },
+    "video": {
+      "scene_id": "SCN_00020",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "有人抚琴燃香，一女子在室内静坐。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\3.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "10_S03",
+      "episode_title": "听曲文宝玉悟禅机",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\3.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉"
+      ],
+      "locations": [],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.306613,
+      "kb_score_video": 0.372165
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.3,
+      "reason": "文本描述黛玉深夜独自悲泣，视频仅展示室内抚琴静坐场景，缺乏关键情节对应。"
+    }
+  },
+  {
+    "link_id": "SCL_00018",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.305639,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00532",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "黛玉因前事独自悲泣至深夜，众人习以为常不予理会，她直至二更后方才入睡。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第027回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "027",
+      "chapter_title": "第二十七回 滴翠亭杨妃戏彩蝶 埋香冢飞燕泣残红"
+    },
+    "video": {
+      "scene_id": "SCN_00062",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "夜晚，林黛玉独自在水边伫立，神情哀伤。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng12_json\\14.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "12_S14",
+      "episode_title": "埋香冢飞燕泣残红",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng12_json\\14.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉"
+      ],
+      "locations": [],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.306613,
+      "kb_score_video": 0.364752
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.35,
+      "reason": "文本为室内深夜悲泣入眠，视频为夜晚水边独自伫立，场景空间与具体动作不一致。"
+    }
+  },
+  {
+    "link_id": "SCL_00038",
+    "kb_event_id": "KBE022",
+    "event_name": "黛玉葬花",
+    "canonical_event_name": "黛玉葬花",
+    "alignment_score": 0.30496,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00530",
+      "scene_name": "黛玉葬花",
+      "scene_summary": "宝玉病体痊愈后返回大观园。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第026回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "026",
+      "chapter_title": "第二十六回 蜂腰桥设言传心事 潇湘馆春困发幽情"
+    },
+    "video": {
+      "scene_id": "SCN_00298",
+      "scene_name": "黛玉葬花",
+      "scene_summary": "贾宝玉在黛玉梳妆时嘱咐她等自己回来再吃饭和调制胭脂，黛玉打趣其不去辞别宝姐姐，宝玉听后匆忙离开。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng4_json\\11.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "04_S11",
+      "episode_title": "探宝钗黛玉半含酸",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng4_json\\11.json"
+    },
+    "shared": {
+      "characters": [
+        "贾宝玉"
+      ],
+      "locations": [],
+      "timeline_id": "T031"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE022",
+      "event_name": "黛玉葬花",
+      "kb_score_text": 0.311197,
+      "kb_score_video": 0.299776
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.1,
+      "reason": "文本为第二十六回宝玉痊愈返园，视频为第八回探宝钗情节，章节与事件均无关联。"
+    }
+  },
+  {
+    "link_id": "SCL_00057",
+    "kb_event_id": "KBE026",
+    "event_name": "晴雯撕扇",
+    "canonical_event_name": "晴雯撕扇",
+    "alignment_score": 0.296866,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00543",
+      "scene_name": "晴雯撕扇",
+      "scene_summary": "袭人吐血后心灰意冷，宝玉心疼照料并亲自伺候。；天刚亮宝玉匆忙请王济仁问诊，记下药方回园为袭人调治。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第031回.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "031",
+      "chapter_title": "第三十一回 撕扇子作千金一笑 因麒麟伏白首双星"
+    },
+    "video": {
+      "scene_id": "SCN_00115",
+      "scene_name": "晴雯撕扇",
+      "scene_summary": "宝玉躺在床上，嘱咐晴雯去林姑娘处探望，并特意让她送去两块旧手帕。；晴雯来到黛玉房间送交手帕，黛玉疑惑为何送旧物，晴雯解释后离开。；黛玉收到手帕后领悟宝玉苦心，独自垂泪感伤，并回忆起与宝玉共读、嬉戏的过往点滴。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng15_json\\7.json",
+      "member_count": 3,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "15_S07",
+      "episode_title": "弄唇舌宝玉遭笞挞",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng15_json\\7.json"
+    },
+    "shared": {
+      "characters": [
+        "贾宝玉"
+      ],
+      "locations": [
+        "怡红院"
+      ],
+      "timeline_id": "T036"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE026",
+      "event_name": "晴雯撕扇",
+      "kb_score_text": 0.287147,
+      "kb_score_video": 0.279
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.1,
+      "reason": "文本述袭人受伤请医，视频述晴雯送帕予黛玉，核心情节与事件均不符。"
+    }
+  },
+  {
+    "link_id": "SCL_00024",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.291923,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00522",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "香菱寻到黛玉，二人同回潇湘馆闲坐吃茶下棋，随后香菱离去。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第024回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "024",
+      "chapter_title": "第二十四回 醉金刚轻财尚义侠 痴女儿遗帕惹相思"
+    },
+    "video": {
+      "scene_id": "SCN_00020",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "有人抚琴燃香，一女子在室内静坐。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\3.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "10_S03",
+      "episode_title": "听曲文宝玉悟禅机",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\3.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉"
+      ],
+      "locations": [],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.292589,
+      "kb_score_video": 0.372165
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.1,
+      "reason": "文本为香菱与黛玉对弈闲谈，视频仅女子独坐抚琴，均非风雨夕作词场景。"
+    }
+  },
+  {
+    "link_id": "SCL_00026",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.289328,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00522",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "香菱寻到黛玉，二人同回潇湘馆闲坐吃茶下棋，随后香菱离去。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第024回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "024",
+      "chapter_title": "第二十四回 醉金刚轻财尚义侠 痴女儿遗帕惹相思"
+    },
+    "video": {
+      "scene_id": "SCN_00062",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "夜晚，林黛玉独自在水边伫立，神情哀伤。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng12_json\\14.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "12_S14",
+      "episode_title": "埋香冢飞燕泣残红",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng12_json\\14.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉"
+      ],
+      "locations": [],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.292589,
+      "kb_score_video": 0.364752
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.1,
+      "reason": "文本写香菱访黛玉下棋，视频为黛玉夜晚水边独伫，情节无交集且非目标事件。"
+    }
+  },
+  {
+    "link_id": "SCL_00065",
+    "kb_event_id": "KBE026",
+    "event_name": "晴雯撕扇",
+    "canonical_event_name": "晴雯撕扇",
+    "alignment_score": 0.288698,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00542",
+      "scene_name": "晴雯撕扇",
+      "scene_summary": "宝玉冒雨赶回怡红院，因叫门不应烦躁之下误踢开门的袭人致其内伤吐血，深夜察觉后心生不安。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第030回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "030",
+      "chapter_title": "第三十回 宝钗借扇机带双敲 椿龄画蔷痴及局外"
+    },
+    "video": {
+      "scene_id": "SCN_00115",
+      "scene_name": "晴雯撕扇",
+      "scene_summary": "宝玉躺在床上，嘱咐晴雯去林姑娘处探望，并特意让她送去两块旧手帕。；晴雯来到黛玉房间送交手帕，黛玉疑惑为何送旧物，晴雯解释后离开。；黛玉收到手帕后领悟宝玉苦心，独自垂泪感伤，并回忆起与宝玉共读、嬉戏的过往点滴。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng15_json\\7.json",
+      "member_count": 3,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "15_S07",
+      "episode_title": "弄唇舌宝玉遭笞挞",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng15_json\\7.json"
+    },
+    "shared": {
+      "characters": [
+        "晴雯",
+        "贾宝玉"
+      ],
+      "locations": [
+        "怡红院"
+      ],
+      "timeline_id": "T036"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE026",
+      "event_name": "晴雯撕扇",
+      "kb_score_text": 0.259472,
+      "kb_score_video": 0.279
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.1,
+      "reason": "文本描述宝玉冒雨归园误踢袭人，视频描述遣晴雯送旧帕予黛玉，属不同回目叙事。"
+    }
+  },
+  {
+    "link_id": "SCL_00032",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.288567,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00498",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "贾琏护送黛玉及诸事停妥后返京，与宝玉悲喜重逢，黛玉分发礼物并拒收宝玉所赠香串。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第016回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "016",
+      "chapter_title": "第十六回 贾元春才选凤藻宫 秦鲸卿夭逝黄泉路"
+    },
+    "video": {
+      "scene_id": "SCN_00020",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "有人抚琴燃香，一女子在室内静坐。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\3.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "10_S03",
+      "episode_title": "听曲文宝玉悟禅机",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\3.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉"
+      ],
+      "locations": [],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.285131,
+      "kb_score_video": 0.372165
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.1,
+      "reason": "文本为贾琏护送黛玉返京分赠礼物，视频仅为女子室内静坐，情节完全无关。"
+    }
+  },
+  {
+    "link_id": "SCL_00076",
+    "kb_event_id": "KBE006",
+    "event_name": "林黛玉进贾府",
+    "canonical_event_name": "林黛玉进贾府",
+    "alignment_score": 0.287633,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00470",
+      "scene_name": "林黛玉进贾府",
+      "scene_summary": "宝玉与凤姐回府向贾母提及邀秦钟伴读之事，贾母欣然同意。；众人应尤氏之邀前往看戏，晌午时贾母与王夫人先行回府歇息，凤姐留至晚间方散。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第008回.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "008",
+      "chapter_title": "第八回 比通灵金莺微露意 探宝钗黛玉半含酸"
+    },
+    "video": {
+      "scene_id": "SCN_00098",
+      "scene_name": "林黛玉进贾府",
+      "scene_summary": "王熙凤奉命查看贾宝玉与林黛玉，打趣两人昨日争吵今日和好，并带二人去见贾母以安老人家的心。；贾宝玉向薛宝钗解释因身体不适缺席其兄寿宴，随后借看戏怕热之事打趣宝钗体态丰腴似杨贵妃，宝钗闻言不悦并出言反讽。；林黛玉与贾宝玉借《负荆请罪》戏名暗指两人方才和好，薛宝钗借机反讽二人通今博古，王熙凤以吃生姜比喻言辞火辣，引得贾母与众人哄堂大笑。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng14_json\\2.json",
+      "member_count": 3,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "14_S02",
+      "episode_title": "含耻辱情烈死金钏",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng14_json\\2.json"
+    },
+    "shared": {
+      "characters": [
+        "史太君",
+        "林黛玉",
+        "王熙凤",
+        "贾宝玉"
+      ],
+      "locations": [],
+      "timeline_id": "T006"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE006",
+      "event_name": "林黛玉进贾府",
+      "kb_score_text": 0.291215,
+      "kb_score_video": 0.251472
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.1,
+      "reason": "文本述秦钟伴读及众人看戏，视频为宝黛和好及宝钗借戏反讽，非黛玉进府情节。"
+    }
+  },
+  {
+    "link_id": "SCL_00034",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.285972,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00498",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "贾琏护送黛玉及诸事停妥后返京，与宝玉悲喜重逢，黛玉分发礼物并拒收宝玉所赠香串。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第016回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "016",
+      "chapter_title": "第十六回 贾元春才选凤藻宫 秦鲸卿夭逝黄泉路"
+    },
+    "video": {
+      "scene_id": "SCN_00062",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "夜晚，林黛玉独自在水边伫立，神情哀伤。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng12_json\\14.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "12_S14",
+      "episode_title": "埋香冢飞燕泣残红",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng12_json\\14.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉"
+      ],
+      "locations": [],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.285131,
+      "kb_score_video": 0.364752
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.1,
+      "reason": "文本述黛玉返京分发礼物，视频为黛玉水边夜立哀伤，情节不一致且偏离目标事件。"
+    }
+  },
+  {
+    "link_id": "SCL_00074",
+    "kb_event_id": "KBE006",
+    "event_name": "林黛玉进贾府",
+    "canonical_event_name": "林黛玉进贾府",
+    "alignment_score": 0.284442,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00483",
+      "scene_name": "林黛玉进贾府",
+      "scene_summary": "林如海冬底病重遣使接女，贾母命贾琏护送黛玉登舟返回扬州。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第012回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "012",
+      "chapter_title": "第十二回 王熙凤毒设相思局 贾天祥正照风月鉴"
+    },
+    "video": {
+      "scene_id": "SCN_00098",
+      "scene_name": "林黛玉进贾府",
+      "scene_summary": "王熙凤奉命查看贾宝玉与林黛玉，打趣两人昨日争吵今日和好，并带二人去见贾母以安老人家的心。；贾宝玉向薛宝钗解释因身体不适缺席其兄寿宴，随后借看戏怕热之事打趣宝钗体态丰腴似杨贵妃，宝钗闻言不悦并出言反讽。；林黛玉与贾宝玉借《负荆请罪》戏名暗指两人方才和好，薛宝钗借机反讽二人通今博古，王熙凤以吃生姜比喻言辞火辣，引得贾母与众人哄堂大笑。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng14_json\\2.json",
+      "member_count": 3,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "14_S02",
+      "episode_title": "含耻辱情烈死金钏",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng14_json\\2.json"
+    },
+    "shared": {
+      "characters": [
+        "史太君",
+        "林黛玉",
+        "贾宝玉"
+      ],
+      "locations": [],
+      "timeline_id": "T006"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE006",
+      "event_name": "林黛玉进贾府",
+      "kb_score_text": 0.322219,
+      "kb_score_video": 0.251472
+    }
+  },
+  {
+    "link_id": "SCL_00002",
+    "kb_event_id": "KBE016",
+    "event_name": "听曲文宝玉悟禅机",
+    "canonical_event_name": "听曲文宝玉悟禅机",
+    "alignment_score": 0.281782,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00545",
+      "scene_name": "听曲文宝玉悟禅机",
+      "scene_summary": "湘云至贾母处与众人叙旧，分发戒指时因金麒麟暗引黛玉不悦。；湘云与丫鬟翠缕游园论阴阳，拾得金麒麟后与寻来的宝玉相认。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第031回.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "031",
+      "chapter_title": "第三十一回 撕扇子作千金一笑 因麒麟伏白首双星"
+    },
+    "video": {
+      "scene_id": "SCN_00004",
+      "scene_name": "听曲文宝玉悟禅机",
+      "scene_summary": "贾府众人在内室设宴入席，共同举杯庆祝薛宝钗的生日。；丫鬟递上戏单请贾母点戏，贾母坚持让寿星薛宝钗自行挑选，宝钗最终选定一出关于鲁智深的戏。；薛宝钗向贾宝玉剖析所选戏曲的词藻韵律并念唱《寄生草》曲文，贾宝玉听得入神大加赞赏，林黛玉在一旁出言调侃。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\12.json",
+      "member_count": 3,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "10_S12",
+      "episode_title": "听曲文宝玉悟禅机",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\12.json"
+    },
+    "shared": {
+      "characters": [
+        "史太君",
+        "林黛玉",
+        "薛宝钗",
+        "贾宝玉"
+      ],
+      "locations": [],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE016",
+      "event_name": "听曲文宝玉悟禅机",
+      "kb_score_text": 0.264278,
+      "kb_score_video": 0.293878
+    }
+  }
+]

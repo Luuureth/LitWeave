@@ -1,0 +1,1392 @@
+[
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00006",
+    "status": "ok",
+    "batch_index": 1,
+    "llm_best_kb_event_id": "",
+    "llm_decision": "unmatched",
+    "llm_confidence": 0.85,
+    "llm_reason": "场景核心为晴雯与宝玉因收拾衣物发生争执，与“撕扇”或“病补雀金裘”的核心动作及背景均不符。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00007",
+    "status": "ok",
+    "batch_index": 1,
+    "llm_best_kb_event_id": "KBE035",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.95,
+    "llm_reason": "场景名称与候选事件名称完全一致，人物、地点及激烈争吵情节高度吻合。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00009",
+    "status": "ok",
+    "batch_index": 1,
+    "llm_best_kb_event_id": "",
+    "llm_decision": "unmatched",
+    "llm_confidence": 0.8,
+    "llm_reason": "摘要核心为宝玉在怡红院书写及与丫鬟交谈，与候选事件“病补雀金裘”或“撕扇”情节完全不符。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00010",
+    "status": "ok",
+    "batch_index": 1,
+    "llm_best_kb_event_id": "KBE016",
+    "llm_decision": "aligned",
+    "llm_confidence": 1.0,
+    "llm_reason": "场景名称与事件完全一致，人物对话内容（续偈、讲禅宗公案）精准对应悟禅机情节。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00016",
+    "status": "ok",
+    "batch_index": 1,
+    "llm_best_kb_event_id": "KBE020",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.9,
+    "llm_reason": "摘要详细描述宝黛共读《西厢记》及用书中话语打趣，核心动作与“共读西厢”事件高度契合。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00050",
+    "status": "ok",
+    "batch_index": 1,
+    "llm_best_kb_event_id": "",
+    "llm_decision": "unmatched",
+    "llm_confidence": 0.7,
+    "llm_reason": "摘要仅描述黛玉在水边看倒影并呼唤小红，缺乏“葬花”或“共读西厢”的核心情节要素。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00063",
+    "status": "ok",
+    "batch_index": 1,
+    "llm_best_kb_event_id": "",
+    "llm_decision": "unmatched",
+    "llm_confidence": 0.9,
+    "llm_reason": "场景实为“晴雯误拒黛玉入院”引发黛玉伤感，与“撕扇”或“病补雀金裘”情节毫无关联。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00064",
+    "status": "ok",
+    "batch_index": 1,
+    "llm_best_kb_event_id": "KBE026",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.9,
+    "llm_reason": "摘要中晴雯质问扇坠去向及两人争执，正是“晴雯撕扇”事件的直接起因与核心情节铺垫。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00067",
+    "status": "ok",
+    "batch_index": 2,
+    "llm_best_kb_event_id": "KBE022",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.82,
+    "llm_reason": "场景描绘黛玉独自行走园中收集落花及宝玉入园，属于“黛玉葬花”事件的开端铺垫。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00068",
+    "status": "ok",
+    "batch_index": 2,
+    "llm_best_kb_event_id": "KBE022",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.96,
+    "llm_reason": "直接呈现黛玉吟诵《葬花吟》掩面哭泣及宝玉循声触动，与“黛玉葬花”核心情节完全一致。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00077",
+    "status": "ok",
+    "batch_index": 2,
+    "llm_best_kb_event_id": "KBE022",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.85,
+    "llm_reason": "讲述宝玉因“昨夜闭门”误会向黛玉赔罪获谅解，紧扣“黛玉葬花”的情感前因与人物互动脉络。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00094",
+    "status": "ok",
+    "batch_index": 2,
+    "llm_best_kb_event_id": "",
+    "llm_decision": "unmatched",
+    "llm_confidence": 0.3,
+    "llm_reason": "核心动作为宝玉错认丫鬟诉肺腑及石桥谈心，属“诉肺腑”桥段，与两候选事件均不匹配。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00102",
+    "status": "ok",
+    "batch_index": 2,
+    "llm_best_kb_event_id": "KBE026",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.9,
+    "llm_reason": "详细展现宝玉因跌扇斥责晴雯、主仆争吵及袭人劝架，是“晴雯撕扇”事件的直接冲突起因。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00104",
+    "status": "ok",
+    "batch_index": 2,
+    "llm_best_kb_event_id": "KBE026",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.97,
+    "llm_reason": "场景直接描写晴雯撕扇取乐与宝玉纵容，完美契合“晴雯撕扇”的核心动作与事件氛围。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00111",
+    "status": "ok",
+    "batch_index": 2,
+    "llm_best_kb_event_id": "KBE029",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.95,
+    "llm_reason": "描述贾政痛打宝玉后贾母怒斥救护及众人查验伤情，正是“宝玉挨打”事件的高潮与后续。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00115",
+    "status": "ok",
+    "batch_index": 2,
+    "llm_best_kb_event_id": "",
+    "llm_decision": "unmatched",
+    "llm_confidence": 0.25,
+    "llm_reason": "核心为宝玉伤后托晴雯送旧手帕予黛玉（题帕三绝），与候选的撕扇或补雀金裘事件毫无关联。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00131",
+    "status": "ok",
+    "batch_index": 3,
+    "llm_best_kb_event_id": "",
+    "llm_decision": "unmatched",
+    "llm_confidence": 0.25,
+    "llm_reason": "场景内容核心为宝玉谈论眼泪与外出寻静处，并提及凤姐生日筹备，无葬花核心动作与背景，与候选KB事件不符。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00185",
+    "status": "ok",
+    "batch_index": 3,
+    "llm_best_kb_event_id": "KBE035",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.95,
+    "llm_reason": "场景描述宝黛对弈、黛玉坦言泪少及感念宝钗送燕窝等情节，与“风雨夕闷制风雨词”事件高度吻合。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00194",
+    "status": "ok",
+    "batch_index": 3,
+    "llm_best_kb_event_id": "KBE035",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.92,
+    "llm_reason": "场景为宝玉冒雨探视、二人试戴雨具及赠玻璃绣球灯的典型情节，属于“风雨夕”事件的核心片段。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00212",
+    "status": "ok",
+    "batch_index": 3,
+    "llm_best_kb_event_id": "KBE038",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.96,
+    "llm_reason": "场景直接呈现晴雯带病熬夜在内室为宝玉缝补雀金裘的核心动作，与KBE038完全对应。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00219",
+    "status": "ok",
+    "batch_index": 3,
+    "llm_best_kb_event_id": "KBE038",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.82,
+    "llm_reason": "场景为胡大夫为病中晴雯诊脉及宝玉煎药互动，是“病补雀金裘”事件的前置病情铺垫，背景一致。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00220",
+    "status": "ok",
+    "batch_index": 3,
+    "llm_best_kb_event_id": "KBE038",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.75,
+    "llm_reason": "场景实为“虾须镯失窃与平儿掩过”情节，发生于“病补雀金裘”同一章回与人物关系网中，与撕扇事件无关。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00227",
+    "status": "ok",
+    "batch_index": 3,
+    "llm_best_kb_event_id": "KBE038",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.97,
+    "llm_reason": "场景完整呈现雀金裘烧破、寻匠人未果及晴雯坚持带病连夜织补的全过程，与KBE038精准匹配。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00252",
+    "status": "ok",
+    "batch_index": 3,
+    "llm_best_kb_event_id": "",
+    "llm_decision": "unmatched",
+    "llm_confidence": 0.88,
+    "llm_reason": "场景核心为怡红院众人闯入庆贺生辰，属群芳祝寿情节，与候选的补裘或撕扇事件在时间、背景上均无关联。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00298",
+    "status": "ok",
+    "batch_index": 4,
+    "llm_best_kb_event_id": "",
+    "llm_decision": "unmatched",
+    "llm_confidence": 0.15,
+    "llm_reason": "场景内容为闺房梳妆与调胭脂闲谈，与候选的葬花或共读西厢情节均不符。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00307",
+    "status": "ok",
+    "batch_index": 4,
+    "llm_best_kb_event_id": "",
+    "llm_decision": "unmatched",
+    "llm_confidence": 0.15,
+    "llm_reason": "场景内容为丫鬟整理床铺与宝玉晴雯暖手日常，与撕扇或病补雀金裘情节无关。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00373",
+    "status": "ok",
+    "batch_index": 4,
+    "llm_best_kb_event_id": "",
+    "llm_decision": "unmatched",
+    "llm_confidence": 0.15,
+    "llm_reason": "场景核心为宝玉转赠北静王念珠遭黛玉嫌弃拒绝，与葬花或共读西厢情节完全不符。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00389",
+    "status": "ok",
+    "batch_index": 4,
+    "llm_best_kb_event_id": "",
+    "llm_decision": "unmatched",
+    "llm_confidence": 0.15,
+    "llm_reason": "场景核心为剪荷包穗子误会与和解，非葬花或共读西厢情节。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00400",
+    "status": "ok",
+    "batch_index": 4,
+    "llm_best_kb_event_id": "",
+    "llm_decision": "unmatched",
+    "llm_confidence": 0.15,
+    "llm_reason": "场景内容为议论元春封妃与宝玉发呆，与晴雯撕扇或补裘情节不符。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00419",
+    "status": "ok",
+    "batch_index": 4,
+    "llm_best_kb_event_id": "KBE015",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.92,
+    "llm_reason": "场景内容为贾政宣读元春赐匾评诗及大观园题咏，高度契合元春省亲事件。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00431",
+    "status": "ok",
+    "batch_index": 4,
+    "llm_best_kb_event_id": "",
+    "llm_decision": "unmatched",
+    "llm_confidence": 0.15,
+    "llm_reason": "场景核心为黛玉对宝玉提出三件劝诫要求，与风雨夕作词情节无关。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00433",
+    "status": "ok",
+    "batch_index": 4,
+    "llm_best_kb_event_id": "",
+    "llm_decision": "unmatched",
+    "llm_confidence": 0.15,
+    "llm_reason": "场景内容为静日共枕闲聊与耗子精故事，与葬花或共读西厢情节无关。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00435",
+    "status": "ok",
+    "batch_index": 5,
+    "llm_best_kb_event_id": "KBE026",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.75,
+    "llm_reason": "场景为第三十一回“撕扇子作千金一笑”的前置互动，同属该核心事件篇章，人物与地点均吻合。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00438",
+    "status": "ok",
+    "batch_index": 5,
+    "llm_best_kb_event_id": "",
+    "llm_decision": "unmatched",
+    "llm_confidence": 0.9,
+    "llm_reason": "摘要描述的是第十九回宝玉黛玉因湘云生隙及梳头解误会情节，候选的“葬花”与“共读西厢”时间线与核心动作均严重不符。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00439",
+    "status": "ok",
+    "batch_index": 5,
+    "llm_best_kb_event_id": "KBE017",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.95,
+    "llm_reason": "场景名称与摘要中宝玉周旋调侃湘云黛玉的核心情节完全一致，准确对应原著第二十回该事件。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00461",
+    "status": "ok",
+    "batch_index": 5,
+    "llm_best_kb_event_id": "KBE006",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.8,
+    "llm_reason": "场景名称直接对应，且摘要围绕黛玉入府后的地位与人物关系展开，符合该事件的宏观背景。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00480",
+    "status": "ok",
+    "batch_index": 5,
+    "llm_best_kb_event_id": "KBE012",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.85,
+    "llm_reason": "摘要实述第十二回贾代儒求药与王熙凤敷衍情节，属“毒设相思局”事件脉络，场景名属误标。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00555",
+    "status": "ok",
+    "batch_index": 5,
+    "llm_best_kb_event_id": "KBE029",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.75,
+    "llm_reason": "场景为“宝玉挨打”后借祖母之名避见贾政、静养伴婢的余波情节，属该核心事件的直接延续。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00561",
+    "status": "ok",
+    "batch_index": 5,
+    "llm_best_kb_event_id": "KBE030",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.95,
+    "llm_reason": "摘要详尽描述三十七回众人起诗社、咏白海棠及定名海棠社的过程，与KBE030完全吻合，场景名误标不影响匹配。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00580",
+    "status": "ok",
+    "batch_index": 5,
+    "llm_best_kb_event_id": "KBE035",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.95,
+    "llm_reason": "摘要精准对应第四十五回宝钗送燕窝、黛玉秋雨吟诗及宝玉夜访细节，与KBE035高度一致，场景名属误标。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00587",
+    "status": "ok",
+    "batch_index": 6,
+    "llm_best_kb_event_id": "KBE037",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.95,
+    "llm_reason": "场景核心情节、主要人物与知识背景均与KBE037完全吻合，同属香菱拜师黛玉苦学作诗的主线。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00588",
+    "status": "ok",
+    "batch_index": 6,
+    "llm_best_kb_event_id": "KBE037",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.92,
+    "llm_reason": "该场景为香菱学诗成稿后的品评与入社环节，是KBE037事件的自然延续与收尾，人物与脉络高度一致。"
+  },
+  {
+    "type": "scene_kb_review",
+    "scene_id": "SCN_00603",
+    "status": "ok",
+    "batch_index": 6,
+    "llm_best_kb_event_id": "KBE038",
+    "llm_decision": "aligned",
+    "llm_confidence": 0.98,
+    "llm_reason": "核心动作（病中补裘）、关键人物、发生地点及时间线均与KBE038精准对应，确为同一事件。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00043",
+    "status": "drop",
+    "batch_index": 1,
+    "llm_confidence": 0.92,
+    "llm_reason": "文本为第36回挨打后养病挡驾，视频为第33回/第15集毒打现场，时间与核心动作不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00006",
+    "status": "drop",
+    "batch_index": 1,
+    "llm_confidence": 0.95,
+    "llm_reason": "文本为第45回秋夜制词，视频为第2集初入院落泪，时间线跨度过大且核心事件无关。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00007",
+    "status": "drop",
+    "batch_index": 1,
+    "llm_confidence": 0.94,
+    "llm_reason": "文本为第45回《秋窗风雨夕》，视频为第12集/第27回《葬花吟》写诗，诗词背景与节气均不符。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00009",
+    "status": "drop",
+    "batch_index": 1,
+    "llm_confidence": 0.93,
+    "llm_reason": "文本为第45回秋夜作诗，视频为第23集/第57回紫鹃试玉，核心事件与人物互动完全不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00090",
+    "status": "drop",
+    "batch_index": 1,
+    "llm_confidence": 0.95,
+    "llm_reason": "文本为第52回晴雯病补雀金裘，视频为第17集/第44回宝钗劝学，无补裘情节与晴雯出场。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00091",
+    "status": "drop",
+    "batch_index": 1,
+    "llm_confidence": 0.94,
+    "llm_reason": "文本为第52回补裘情节，视频为第23集/第57回紫鹃试玉引发宝玉疯癫，两者毫无关联。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00059",
+    "status": "drop",
+    "batch_index": 1,
+    "llm_confidence": 0.9,
+    "llm_reason": "文本摘要描述第30回误踢袭人致伤，视频展现第14集/第31回撕扇取乐，虽情节相邻但核心动作不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00070",
+    "status": "drop",
+    "batch_index": 1,
+    "llm_confidence": 0.93,
+    "llm_reason": "文本为第5回背景概述，视频为第21集/第53回元宵夜宴猜灯谜，时空与叙事焦点均不一致。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00051",
+    "status": "keep",
+    "batch_index": 2,
+    "llm_confidence": 0.25,
+    "llm_reason": "文本侧重袭人病中照料，视频呈现晴雯撕扇取乐，核心事件与关键动作不符。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00027",
+    "status": "keep",
+    "batch_index": 2,
+    "llm_confidence": 0.15,
+    "llm_reason": "文本为第十六回贾琏返京分发礼物，视频为第四十五回秋夕谈燕窝粥，时空与情节均不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00028",
+    "status": "keep",
+    "batch_index": 2,
+    "llm_confidence": 0.15,
+    "llm_reason": "文本为第十六回返京场景，视频为第二十二回宝玉黛玉因戏子争吵，非同一叙事场景。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00029",
+    "status": "keep",
+    "batch_index": 2,
+    "llm_confidence": 0.15,
+    "llm_reason": "文本为贾琏护送返京，视频为第四十五回宝玉雨夜探病赠灯，核心事件完全不符。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00011",
+    "status": "keep",
+    "batch_index": 2,
+    "llm_confidence": 0.2,
+    "llm_reason": "文本为第二十七回黛玉独自悲泣，视频为第四十五回秋夕谈心论燕窝，情节不匹配。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00012",
+    "status": "keep",
+    "batch_index": 2,
+    "llm_confidence": 0.15,
+    "llm_reason": "文本为二十七回深夜悲泣，视频为二十二回二人激烈争吵，人物互动与事件不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00093",
+    "status": "keep",
+    "batch_index": 2,
+    "llm_confidence": 0.85,
+    "llm_reason": "同属“香菱学诗”规范事件，文本为成诗后众人品评，视频为学诗时与黛玉论诗析句，属同一连贯叙事。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00013",
+    "status": "keep",
+    "batch_index": 2,
+    "llm_confidence": 0.2,
+    "llm_reason": "文本为二十七回黛玉悲泣，视频为四十五回雨夜探病赠灯，时空与关键动作均不一致。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00008",
+    "status": "drop",
+    "batch_index": 3,
+    "llm_confidence": 0.9,
+    "llm_reason": "文本为第45回秋雨夜黛玉作诗与宝玉探病，视频为室内静坐抚琴，核心情境与关键动作完全不符。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00019",
+    "status": "drop",
+    "batch_index": 3,
+    "llm_confidence": 0.88,
+    "llm_reason": "文本为第24回香菱与黛玉下棋，视频为第49回宝黛下棋并谈及燕窝与诗社，虽同有下棋但对话内容与叙事阶段不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00020",
+    "status": "drop",
+    "batch_index": 3,
+    "llm_confidence": 0.92,
+    "llm_reason": "文本为第24回香菱黛玉下棋，视频为第22回宝黛因戏子之事激烈争吵，人物互动与情节走向截然不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00010",
+    "status": "drop",
+    "batch_index": 3,
+    "llm_confidence": 0.9,
+    "llm_reason": "文本为第45回潇湘馆夜雨作诗与赠灯，视频为第27回黛玉水边独自哀伤，发生地点与核心事件均不匹配。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00052",
+    "status": "drop",
+    "batch_index": 3,
+    "llm_confidence": 0.87,
+    "llm_reason": "文本为第30回末袭人吐血与宝玉请医，视频为第31回初宝玉晴雯因折扇争吵，属前后相邻但独立的叙事场景。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00053",
+    "status": "drop",
+    "batch_index": 3,
+    "llm_confidence": 0.89,
+    "llm_reason": "文本为宝玉请医调治袭人吐血情节，视频为晴雯质问宝玉扇坠汗巾去向，人物互动焦点与时间线无重合。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00021",
+    "status": "drop",
+    "batch_index": 3,
+    "llm_confidence": 0.91,
+    "llm_reason": "文本摘要为香菱与黛玉吃茶下棋，视频摘要为宝玉冒雨探病互赠雨具与绣球灯，两者描述的交互内容完全不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00061",
+    "status": "drop",
+    "batch_index": 3,
+    "llm_confidence": 0.93,
+    "llm_reason": "文本为宝玉雨夜误踢袭人致其内伤，视频为晴雯质问扇坠汗巾去向，关键动作与叙事焦点毫无交集。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00071",
+    "status": "drop",
+    "batch_index": 4,
+    "llm_confidence": 0.9,
+    "llm_reason": "文本为第五回背景概述，视频为第三十回宝黛钗因戏名与体态口角及和好的具体场景，核心事件与时序不符。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00092",
+    "status": "keep",
+    "batch_index": 4,
+    "llm_confidence": 0.95,
+    "llm_reason": "视频完整呈现香菱向黛玉请教并探讨王维诗句的核心情节，与文本第四十八回“香菱学诗”事件高度一致。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00035",
+    "status": "drop",
+    "batch_index": 4,
+    "llm_confidence": 0.85,
+    "llm_reason": "文本仅述宝玉痊愈回园未涉葬花，视频为第二十七回黛玉吟诵《葬花吟》场景，二者属前后章回但非同一叙事片段。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00060",
+    "status": "drop",
+    "batch_index": 4,
+    "llm_confidence": 0.9,
+    "llm_reason": "文本为第三十回雨夜误踢袭人的前因，视频为第三十一回端午日因跌折扇子引发的争吵，属因果关联但非同一场景。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00001",
+    "status": "drop",
+    "batch_index": 4,
+    "llm_confidence": 0.95,
+    "llm_reason": "文本实为第三十一回湘云拾金麒麟情节，视频为第二十二回众人续偈参禅场景，核心事件与人物互动完全不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00048",
+    "status": "drop",
+    "batch_index": 4,
+    "llm_confidence": 0.9,
+    "llm_reason": "视频为第三十三回贾母怒斥贾政毒打宝玉的高潮，文本为第三十七回贾政外放离府的后续背景，时间与事件均不匹配。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00047",
+    "status": "drop",
+    "batch_index": 4,
+    "llm_confidence": 0.95,
+    "llm_reason": "文本为第三十六回贾母为宝玉挡驾贾政的养病日常，视频仅为贾赦与贾政廊下闲聊，毫无场景关联。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00062",
+    "status": "drop",
+    "batch_index": 4,
+    "llm_confidence": 0.95,
+    "llm_reason": "文本为第三十回雨夜误踢袭人情节，视频为第二十回宝玉为麝月篦头的日常片段，均非“撕扇”核心冲突场景。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00054",
+    "status": "keep",
+    "batch_index": 5,
+    "llm_confidence": 0.3,
+    "llm_reason": "文本侧重袭人吐血后的请医调治，视频描写宝玉为麝月篦头及晴雯调侃，虽同处第三十一回前后但为不同分场。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00044",
+    "status": "keep",
+    "batch_index": 5,
+    "llm_confidence": 0.2,
+    "llm_reason": "文本为第三十六回宝玉借病避见贾政，视频为第十七回游大观园前的传唤铺垫，时间线与核心情节均不符。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00036",
+    "status": "keep",
+    "batch_index": 5,
+    "llm_confidence": 0.3,
+    "llm_reason": "文本仅为第二十六回宝玉病愈回园的过渡简述，视频为二人化解闭门误会的对话场景，均非葬花核心场景。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00072",
+    "status": "keep",
+    "batch_index": 5,
+    "llm_confidence": 0.1,
+    "llm_reason": "文本为第五回背景综述，视频为第四十四回凑份子给凤姐过生日，与林黛玉进贾府事件完全无关。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00037",
+    "status": "keep",
+    "batch_index": 5,
+    "llm_confidence": 0.4,
+    "llm_reason": "文本是第二十六回过场，视频是第二十七回芒种节黛玉葬花的起始画面，前后相继但非同一具体叙事场景。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00129",
+    "status": "keep",
+    "batch_index": 5,
+    "llm_confidence": 0.35,
+    "llm_reason": "同属第十二回事件链，但文本侧重代儒求参汤与凤姐敷衍，视频侧重贾蓉贾蔷设局勒索并泼粪，为不同分场。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00045",
+    "status": "keep",
+    "batch_index": 5,
+    "llm_confidence": 0.2,
+    "llm_reason": "文本为第三十六回挨打后避客的日常，视频为第二十五回魔魇病危场景，病因与叙事节点均不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00046",
+    "status": "keep",
+    "batch_index": 5,
+    "llm_confidence": 0.2,
+    "llm_reason": "文本为挨打后调养期情节，视频为魔魇病重喂药难咽与商议后事的危机场景，非同一叙事时刻。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00041",
+    "status": "drop",
+    "batch_index": 6,
+    "llm_confidence": 0.93,
+    "llm_reason": "文本为二十六回宝玉病愈回园，视频为十集宝玉听曲悟禅机，均非葬花情节，核心事件与动作完全不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00014",
+    "status": "drop",
+    "batch_index": 6,
+    "llm_confidence": 0.9,
+    "llm_reason": "文本出自第二十七回，视频为剧集早期黛玉初入园情节，虽均为独处垂泪，但叙事时间与具体背景不符。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00017",
+    "status": "drop",
+    "batch_index": 6,
+    "llm_confidence": 0.95,
+    "llm_reason": "文本为二十七回黛玉夜间悲泣，视频为五十七回紫鹃试玉后黛玉嘱咐雪雁，情节跨度大且核心互动不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00015",
+    "status": "drop",
+    "batch_index": 6,
+    "llm_confidence": 0.92,
+    "llm_reason": "视频对应第四十五回黛玉灯下作《秋窗风雨夕》，文本实为第二十七回夜泣，两者非同一叙事场景。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00058",
+    "status": "drop",
+    "batch_index": 6,
+    "llm_confidence": 0.94,
+    "llm_reason": "文本为三十一回袭人吐血宝玉悉心照料，视频为袭人埋怨宝玉夜归未报，均与晴雯撕扇情节无关。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00022",
+    "status": "drop",
+    "batch_index": 6,
+    "llm_confidence": 0.91,
+    "llm_reason": "文本为二十四回香菱访黛玉闲坐吃茶，视频为早期黛玉独自伤心落泪，人物关系与核心动作不匹配。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00030",
+    "status": "drop",
+    "batch_index": 6,
+    "llm_confidence": 0.95,
+    "llm_reason": "文本为十六回黛玉南返后赠礼拒香串，视频为黛玉早期独处垂泪，时间线与关键事件均不一致。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00023",
+    "status": "drop",
+    "batch_index": 6,
+    "llm_confidence": 0.93,
+    "llm_reason": "文本为香菱寻访黛玉闲谈，视频为黛玉秋夜听雨制词，两者回目跨度大且核心叙事内容完全不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00031",
+    "status": "keep",
+    "batch_index": 7,
+    "llm_confidence": 0.15,
+    "llm_reason": "文本述贾琏返京与黛玉分发礼物，视频为黛玉雨夜独处题诗，核心事件与动作完全不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00081",
+    "status": "keep",
+    "batch_index": 7,
+    "llm_confidence": 0.25,
+    "llm_reason": "文本为金钏死后王夫人抚恤其母，视频为跳井前宝玉与金钏调笑，属同一事件不同阶段，非同一场景。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00073",
+    "status": "keep",
+    "batch_index": 7,
+    "llm_confidence": 0.1,
+    "llm_reason": "文本为黛玉返扬州，视频为荣国府元宵夜宴猜灯谜，人物、情节与时间节点均不匹配。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00055",
+    "status": "keep",
+    "batch_index": 7,
+    "llm_confidence": 0.15,
+    "llm_reason": "文本为袭人吐血求医，视频为宝玉与晴雯早期日常互动，非同一事件场景。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00094",
+    "status": "keep",
+    "batch_index": 7,
+    "llm_confidence": 0.35,
+    "llm_reason": "文本聚焦凤姐受托理家与梳理弊病，视频侧重贾珍治丧与查验棺木，关键动作与叙事焦点不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00063",
+    "status": "keep",
+    "batch_index": 7,
+    "llm_confidence": 0.1,
+    "llm_reason": "文本为雨夜误踢袭人致其吐血，视频为宝玉晴雯早期对话，时空与情节均无关联。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00082",
+    "status": "keep",
+    "batch_index": 7,
+    "llm_confidence": 0.25,
+    "llm_reason": "文本为事后抚恤与超度，视频为事发时王夫人怒斥并逐出金钏，非同一叙事场景。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00098",
+    "status": "keep",
+    "batch_index": 7,
+    "llm_confidence": 0.75,
+    "llm_reason": "文本与视频均明确包含宝玉向贾珍举荐凤姐理家的核心情节，人物、地点与关键动作高度一致。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00068",
+    "status": "drop",
+    "batch_index": 8,
+    "llm_confidence": 0.95,
+    "llm_reason": "文本为芒种节祭花神情节，视频为元妃省亲后阅诗改字，情节、时间节点与核心动作完全不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00128",
+    "status": "drop",
+    "batch_index": 8,
+    "llm_confidence": 0.9,
+    "llm_reason": "文本为凤姐向王夫人回禀事务并商定赴宴，视频为凤姐惩戒仆役与巡视庆典，属同一回目的不同具体场景。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00025",
+    "status": "drop",
+    "batch_index": 8,
+    "llm_confidence": 0.95,
+    "llm_reason": "文本描述香菱访黛玉闲坐下棋，视频描述黛玉嘱托雪雁留紫鹃照顾宝玉，情节与发生时间均不一致。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00077",
+    "status": "drop",
+    "batch_index": 8,
+    "llm_confidence": 0.98,
+    "llm_reason": "文本为黛玉初进府听闻薛蟠命案，视频为元宵夜宴猜灯谜与询问袭人，回目跨度大且核心情节完全错位。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00085",
+    "status": "keep",
+    "batch_index": 8,
+    "llm_confidence": 0.92,
+    "llm_reason": "文本与视频均精准对应宝玉午休挑逗金钏、王夫人惊醒怒骂并将其撵出贾府的核心冲突场景，关键人物与动作高度一致。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00095",
+    "status": "drop",
+    "batch_index": 8,
+    "llm_confidence": 0.88,
+    "llm_reason": "文本侧重贾珍请托与凤姐接管前的弊端梳理，视频为侍女送药并旁白讲述凤姐忙碌情形，非同一叙事镜头。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00096",
+    "status": "drop",
+    "batch_index": 8,
+    "llm_confidence": 0.85,
+    "llm_reason": "文本为凤姐接手宁国府时的交接与谋划，视频为凤姐日常记账及听取下人回报，属同一大事件下的前后分场景。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00033",
+    "status": "drop",
+    "batch_index": 8,
+    "llm_confidence": 0.95,
+    "llm_reason": "文本为贾琏护送黛玉返京后的重逢与分发礼物，视频为紫鹃试玉情节中黛玉的嘱托，两者时间与情节毫无关联。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00084",
+    "status": "keep",
+    "batch_index": 9,
+    "llm_confidence": 0.92,
+    "llm_reason": "文本与视频均聚焦宝玉在王夫人房中挑逗金钏的核心情节，主要人物、地点与关键动作高度一致。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00097",
+    "status": "drop",
+    "batch_index": 9,
+    "llm_confidence": 0.85,
+    "llm_reason": "文本侧重贾珍请凤姐协理丧务及梳理弊病，视频侧重瑞珠殉主与贾珍下令厚葬，核心事件与关键动作不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00075",
+    "status": "drop",
+    "batch_index": 9,
+    "llm_confidence": 0.95,
+    "llm_reason": "文本出自第八回秦钟伴读与看戏情节，视频为第二十一回元宵猜灯谜，时空与核心事件完全不符。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00103",
+    "status": "drop",
+    "batch_index": 9,
+    "llm_confidence": 0.88,
+    "llm_reason": "文本描写次日请灵出殡的浩大场面，视频侧重秦可卿病榻前送粥与仆人旁述凤姐理家，处于不同时间节点。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00104",
+    "status": "drop",
+    "batch_index": 9,
+    "llm_confidence": 0.85,
+    "llm_reason": "文本聚焦出殡当日场面，视频为凤姐核记账本与接收昭儿回苏汇报，具体情节与场景焦点不一致。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00099",
+    "status": "drop",
+    "batch_index": 9,
+    "llm_confidence": 0.82,
+    "llm_reason": "文本为贾珍跪请凤姐协理及凤姐分析管理弊病，视频为凤姐抵达宁府及灵前跪拜痛哭，属于同一事件链条下的不同场景。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00111",
+    "status": "drop",
+    "batch_index": 9,
+    "llm_confidence": 0.93,
+    "llm_reason": "文本为第七回宁府宴饮与焦大醉骂，视频为秦可卿病中凤姐理家旁述，时间线与核心情节完全错位。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00078",
+    "status": "drop",
+    "batch_index": 9,
+    "llm_confidence": 0.95,
+    "llm_reason": "文本为第四十九回亲戚齐聚叙话，视频为元宵宴猜灯谜，时空与事件均无关联。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00100",
+    "status": "drop",
+    "batch_index": 10,
+    "llm_confidence": 0.92,
+    "llm_reason": "文本为凤姐受托协理丧务，视频为贾珍与秦氏关于发簪的私下互动，核心事件与关键动作不符。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00101",
+    "status": "drop",
+    "batch_index": 10,
+    "llm_confidence": 0.9,
+    "llm_reason": "文本聚焦凤姐接收对牌与梳理管理弊病，视频为贾珍安排丧葬仪程与抱怨内务混乱，具体场景与叙事焦点不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00080",
+    "status": "drop",
+    "batch_index": 10,
+    "llm_confidence": 0.95,
+    "llm_reason": "文本为第四十四回凤姐庆生宴，视频为元宵夜宴猜灯谜，两者所属回目、节日背景与核心情节均完全不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00056",
+    "status": "drop",
+    "batch_index": 10,
+    "llm_confidence": 0.93,
+    "llm_reason": "文本描述宝玉照料吐血袭人并延医问药，视频为晴雯等人闲聊宝玉思黛玉及元春晋封，情节与人物互动无交集。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00050",
+    "status": "drop",
+    "batch_index": 10,
+    "llm_confidence": 0.94,
+    "llm_reason": "文本为贾政奉旨出任学差离家，视频为贾政与贾赦闲谈贵妃去向，发生时间与背景事件均不一致。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00079",
+    "status": "drop",
+    "batch_index": 10,
+    "llm_confidence": 0.95,
+    "llm_reason": "文本为第十六回秦钟病逝与凤姐弄权退婚，视频为元宵夜宴猜灯谜，两者情节、回目与时空背景均毫无关联。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00118",
+    "status": "drop",
+    "batch_index": 10,
+    "llm_confidence": 0.91,
+    "llm_reason": "文本为宁府寿宴与贾瑞调戏凤姐，视频为僧道做法事与查验樯木棺材，分属秦氏病逝前后不同阶段的独立场景。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00064",
+    "status": "drop",
+    "batch_index": 10,
+    "llm_confidence": 0.92,
+    "llm_reason": "文本为宝玉雨天回院误踢袭人致吐血，视频为晴雯闲聊宝玉思黛玉之事，人物状态与具体情节完全不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00107",
+    "status": "keep",
+    "batch_index": 11,
+    "llm_confidence": 0.88,
+    "llm_reason": "文本与视频均聚焦秦可卿丧期及凤姐协理宁国府的核心阶段，主要人物、地点与丧仪叙事脉络高度吻合。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00127",
+    "status": "drop",
+    "batch_index": 11,
+    "llm_confidence": 0.92,
+    "llm_reason": "文本描写凤姐晚间向王夫人回禀事务并商议次日赴宴，视频展现刘姥姥初至荣府等候并误认平儿，属同一回目内不同时刻的独立场景。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00119",
+    "status": "drop",
+    "batch_index": 11,
+    "llm_confidence": 0.85,
+    "llm_reason": "文本为第十一回宁府庆寿与探病秦氏及贾瑞起淫心，视频为丫鬟在秦氏病榻前讲述凤姐协理繁忙，时间线（病中探视vs丧期理家）与核心动作不符。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00110",
+    "status": "drop",
+    "batch_index": 11,
+    "llm_confidence": 0.95,
+    "llm_reason": "文本为第七回宁府家宴与焦大醉骂，视频为第十三至十四回丧仪布置与贾珍定棺，叙事时间相差甚远，仅共享地点与次要人物。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00066",
+    "status": "keep",
+    "batch_index": 11,
+    "llm_confidence": 0.82,
+    "llm_reason": "文本与视频均描述宝玉冒雨返回怡红院并与袭人发生互动的同一情节节点，虽摘要侧重点不同但核心人物、地点与事件节拍一致。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00115",
+    "status": "drop",
+    "batch_index": 11,
+    "llm_confidence": 0.93,
+    "llm_reason": "文本为第七回家宴与焦大醉骂，视频为凤姐抵达灵堂哭奠与僧道做法事，两者处于故事不同阶段，并非同一叙事场景。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00112",
+    "status": "drop",
+    "batch_index": 11,
+    "llm_confidence": 0.91,
+    "llm_reason": "文本为第七回宴饮焦大骂街，视频为凤姐理家期间昭儿从苏州归来报信，事件发生时间、关键动作与对话内容完全不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00083",
+    "status": "drop",
+    "batch_index": 11,
+    "llm_confidence": 0.87,
+    "llm_reason": "文本为金钏死后王夫人公开抚恤其母与安排超度，视频为袭人私下向王夫人进言建议宝玉搬出园子，属前后相继但人物互动与场景性质不同的独立片段。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00122",
+    "status": "drop",
+    "batch_index": 12,
+    "llm_confidence": 0.88,
+    "llm_reason": "文本为第11回贾敬寿辰与探病情节，视频为秦氏死后灵堂布置与治丧商议，时间与核心事件不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00102",
+    "status": "drop",
+    "batch_index": 12,
+    "llm_confidence": 0.85,
+    "llm_reason": "文本为第14回出殡送葬当日情景，视频为出殡前法事与棺木准备，属同一事件不同阶段的具体场景。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00120",
+    "status": "drop",
+    "batch_index": 12,
+    "llm_confidence": 0.92,
+    "llm_reason": "文本为庆寿探病情节，视频为凤姐协理宁府期间记账与听闻苏州来信，时间与情节均无重合。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00114",
+    "status": "drop",
+    "batch_index": 12,
+    "llm_confidence": 0.95,
+    "llm_reason": "文本为第7回宁府家宴与焦大醉骂，视频为秦氏死后治丧准备，相隔多回且核心事件完全不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00123",
+    "status": "drop",
+    "batch_index": 12,
+    "llm_confidence": 0.9,
+    "llm_reason": "文本为凤姐探望病中秦可卿，视频为秦氏亡故后凤姐赴宁府哭灵致祭，人物生死状态与场景节点不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00121",
+    "status": "drop",
+    "batch_index": 12,
+    "llm_confidence": 0.88,
+    "llm_reason": "文本为寿辰探病情节，视频为秦氏死后丫鬟瑞珠殉主及贾珍议葬，事件阶段与核心情节无关。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00069",
+    "status": "drop",
+    "batch_index": 12,
+    "llm_confidence": 0.93,
+    "llm_reason": "文本为芒种节祭饯花神与宝钗避嫌折返，视频为宝钗助邢岫烟赎棉衣，时间线与核心事件均不匹配。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00124",
+    "status": "drop",
+    "batch_index": 12,
+    "llm_confidence": 0.85,
+    "llm_reason": "文本为贾敬寿辰期间探病情节，视频暗示贾珍与秦氏私情片段，虽同人物同地点但非同一叙事场景。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00105",
+    "status": "keep",
+    "batch_index": 13,
+    "llm_confidence": 0.4,
+    "llm_reason": "文本聚焦凤姐出殡周全宾客，视频聚焦瑞珠殉主与贾珍厚葬，虽同属丧事期但核心人物与动作不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00106",
+    "status": "keep",
+    "batch_index": 13,
+    "llm_confidence": 0.35,
+    "llm_reason": "文本描述出殡当日凤姐周全宾客，视频为贾珍向宝玉抱怨府务混乱并求计，属前后关联的不同情节。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00116",
+    "status": "keep",
+    "batch_index": 13,
+    "llm_confidence": 0.2,
+    "llm_reason": "文本为第七回宁府赴宴与焦大醉骂，视频为贾珍与秦氏互动，时间线与核心情节均不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00113",
+    "status": "keep",
+    "batch_index": 13,
+    "llm_confidence": 0.15,
+    "llm_reason": "文本属第七回宴饮焦大醉骂，视频属秦可卿死后丫头殉主情节，叙事内容完全不符。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00016",
+    "status": "keep",
+    "batch_index": 13,
+    "llm_confidence": 0.3,
+    "llm_reason": "文本描述黛玉深夜独自悲泣，视频仅展示室内抚琴静坐场景，缺乏关键情节对应。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00018",
+    "status": "keep",
+    "batch_index": 13,
+    "llm_confidence": 0.35,
+    "llm_reason": "文本为室内深夜悲泣入眠，视频为夜晚水边独自伫立，场景空间与具体动作不一致。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00126",
+    "status": "keep",
+    "batch_index": 13,
+    "llm_confidence": 0.95,
+    "llm_reason": "两者均完整涵盖雨村与门子密室相谈、护官符解析、薛蟠案始末及扶乩献策等核心情节，人物与动作高度重合。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00038",
+    "status": "keep",
+    "batch_index": 13,
+    "llm_confidence": 0.1,
+    "llm_reason": "文本为第二十六回宝玉痊愈返园，视频为第八回探宝钗情节，章节与事件均无关联。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00049",
+    "status": "drop",
+    "batch_index": 14,
+    "llm_confidence": 0.9,
+    "llm_reason": "文本为第三十七回贾政赴任背景，视频为第十七回贾母因宝玉被传唤而担忧，情节与时间线均不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00039",
+    "status": "drop",
+    "batch_index": 14,
+    "llm_confidence": 0.9,
+    "llm_reason": "文本为第二十六回宝玉病愈回园，视频为荷包误会与和解情节，均非葬花场景且章节不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00125",
+    "status": "drop",
+    "batch_index": 14,
+    "llm_confidence": 0.85,
+    "llm_reason": "文本为第十一回贾敬寿宴与贾瑞起淫心，视频为秦可卿丧事筹备，虽同地点但非同一叙事场景。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00040",
+    "status": "drop",
+    "batch_index": 14,
+    "llm_confidence": 0.9,
+    "llm_reason": "文本为第二十六回日常情节，视频涉及凤姐生日相关情节，时间线与具体场景均不匹配。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00108",
+    "status": "drop",
+    "batch_index": 14,
+    "llm_confidence": 0.85,
+    "llm_reason": "文本描述第十四回秦氏出殡盛况，视频情节为发簪推拒，两者核心事件与画面完全不符。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00042",
+    "status": "drop",
+    "batch_index": 14,
+    "llm_confidence": 0.95,
+    "llm_reason": "文本为第二十六回情节，视频为第十九回“玉生香”共枕打趣，均非葬花且章节不同。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00109",
+    "status": "drop",
+    "batch_index": 14,
+    "llm_confidence": 0.85,
+    "llm_reason": "文本聚焦第十四回出殡当日仪仗，视频侧重丧事初期筹备与人员抱怨，属同一事件不同阶段的不同场景。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00117",
+    "status": "drop",
+    "batch_index": 14,
+    "llm_confidence": 0.95,
+    "llm_reason": "文本为第七回宁府寿宴与焦大醉骂，视频为秦可卿丧事筹备，时间线与情节完全错位。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00057",
+    "status": "keep",
+    "batch_index": 15,
+    "llm_confidence": 0.1,
+    "llm_reason": "文本述袭人受伤请医，视频述晴雯送帕予黛玉，核心情节与事件均不符。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00024",
+    "status": "keep",
+    "batch_index": 15,
+    "llm_confidence": 0.1,
+    "llm_reason": "文本为香菱与黛玉对弈闲谈，视频仅女子独坐抚琴，均非风雨夕作词场景。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00026",
+    "status": "keep",
+    "batch_index": 15,
+    "llm_confidence": 0.1,
+    "llm_reason": "文本写香菱访黛玉下棋，视频为黛玉夜晚水边独伫，情节无交集且非目标事件。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00065",
+    "status": "keep",
+    "batch_index": 15,
+    "llm_confidence": 0.1,
+    "llm_reason": "文本描述宝玉冒雨归园误踢袭人，视频描述遣晴雯送旧帕予黛玉，属不同回目叙事。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00032",
+    "status": "keep",
+    "batch_index": 15,
+    "llm_confidence": 0.1,
+    "llm_reason": "文本为贾琏护送黛玉返京分赠礼物，视频仅为女子室内静坐，情节完全无关。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00076",
+    "status": "keep",
+    "batch_index": 15,
+    "llm_confidence": 0.1,
+    "llm_reason": "文本述秦钟伴读及众人看戏，视频为宝黛和好及宝钗借戏反讽，非黛玉进府情节。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00067",
+    "status": "keep",
+    "batch_index": 15,
+    "llm_confidence": 0.95,
+    "llm_reason": "文本与视频均精准对应滴翠亭扑蝶及宝钗金蝉脱壳窃听小红坠儿私语的核心情节与人物。"
+  },
+  {
+    "type": "cross_modal_link_review",
+    "link_id": "SCL_00034",
+    "status": "keep",
+    "batch_index": 15,
+    "llm_confidence": 0.1,
+    "llm_reason": "文本述黛玉返京分发礼物，视频为黛玉水边夜立哀伤，情节不一致且偏离目标事件。"
+  }
+]

@@ -1,0 +1,49 @@
+{
+  "episode_id": "11",
+  "episode_title": "为争宠姐弟遭魔魇",
+  "segment_id": "S19",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "通报贾宝玉伤愈喊疼并索要食物",
+      "characters": [
+        "薛宝钗",
+        "林黛玉"
+      ],
+      "location": "闺房",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "红衣女子进入闺房通报贾宝玉伤愈喊疼并要吃食，引起众人注意。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "薛宝钗调侃如来佛繁忙及众人近况",
+      "characters": [
+        "薛宝钗",
+        "林黛玉"
+      ],
+      "location": "闺房",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "薛宝钗在房内调侃如来佛比人还忙，需兼顾讲经、为宝玉凤姐祈福及操办黛玉婚事，引得众人大笑。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "林黛玉嗔怪众人贫嘴并与大家嬉闹",
+      "characters": [
+        "林黛玉"
+      ],
+      "location": "闺房",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉听罢嗔怪众人不学好、只知贫嘴，随后与众女子在房内嬉笑打闹。"
+    }
+  ]
+}

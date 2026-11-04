@@ -1,0 +1,49 @@
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S18",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "攀登假山",
+      "characters": [
+        "贾政",
+        "贾宝玉"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾政带领众人攀登假山，登上高处的亭子。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "游览园林",
+      "characters": [
+        "贾政",
+        "贾宝玉"
+      ],
+      "location": "大观园",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉在园林中穿行游览，众人跟随其后。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "核对陈设清单",
+      "characters": [
+        "贾政"
+      ],
+      "location": "大观园",
+      "time_hint": "after",
+      "explicit_time": "昨日",
+      "relation_to_previous": "sequential",
+      "event_summary": "管家在亭中向贾政汇报院落桌椅及各类帐幔竹帘的准备清单，提及昨日已收齐部分物品。"
+    }
+  ]
+}

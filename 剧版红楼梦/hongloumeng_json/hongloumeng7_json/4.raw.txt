@@ -1,0 +1,19 @@
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S04",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "整理凤冠服饰并准备出行",
+      "characters": ["太太", "丫鬟", "老太太"],
+      "location": "内室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "丫鬟为太太整理凤冠与服饰，并禀报轿子已备好及老太太已先行，太太随即准备出行。"
+    }
+  ]
+}

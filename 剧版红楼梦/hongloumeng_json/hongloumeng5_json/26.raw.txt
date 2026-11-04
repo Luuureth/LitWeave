@@ -1,0 +1,38 @@
+```json
+{
+  "episode_id": "05",
+  "episode_title": "王熙凤毒设相思局",
+  "segment_id": "S26",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "秦可卿托梦警示",
+      "characters": [
+        "王熙凤",
+        "秦可卿"
+      ],
+      "location": "王熙凤卧室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤熟睡时，秦可卿在梦中现身，告诫她荣辱周而复始、盛筵必散，劝其不要忘记俗语以免后悔。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "王熙凤惊醒",
+      "characters": [
+        "王熙凤",
+        "丫鬟"
+      ],
+      "location": "王熙凤卧室",
+      "time_hint": "after",
+      "explicit_time": "四下",
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤从梦中惊醒，丫鬟告知二门云板已敲四下，王熙凤连呼不好。"
+    }
+  ]
+}
+```

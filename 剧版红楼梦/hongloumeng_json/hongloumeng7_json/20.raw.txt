@@ -1,0 +1,38 @@
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S20",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "品评园景并争论天然之理",
+      "characters": [
+        "贾政",
+        "贾宝玉",
+        "众清客"
+      ],
+      "location": "大观园农庄景致",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾政携众人游园至农庄景致处询问意见，宝玉批评此处人工穿凿缺乏天然之气，贾政斥其不读书并与之辩论天然之意。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉题联遭贾政否定",
+      "characters": [
+        "贾政",
+        "贾宝玉",
+        "众清客"
+      ],
+      "location": "大观园农庄景致",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾政命宝玉退回重新题写对联，宝玉吟出新联后遭贾政连声斥责为不好。"
+    }
+  ]
+}

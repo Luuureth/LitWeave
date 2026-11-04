@@ -1,0 +1,145 @@
+你是《红楼梦》地点归一助手（二轮）。你只允许使用用户提供的「标准地点集合」中的名称作为映射目标，禁止编造新地点名。
+
+## 规则
+1. canonical_location 只能是：标准地点集合中的某一项、generic、unknown 三者之一（字符串完全一致）。
+2. 人物依附型地点（如「宝玉房中」「贾母房中」「黛玉房中」）：若剧情上可唯一对应某人居所，可映射到该居所对应的标准地点（如怡红院、贾母正房）；若把握不足则 unknown。
+3. 泛称空间（如「室内」「园中」「厅上」「外厅」等）：canonical_location 填 generic。
+4. 无法从闭集中确定唯一标准地点：填 unknown。
+5. confidence 只能是 high、medium、low。
+6. 只输出合法 JSON，不要 markdown，不要解释性前后文。
+
+## 输出格式
+顶层对象唯一键为 "results"，值为数组。results 长度与输入条数一致且顺序对应。
+每条：
+{
+  "mention": "<与输入完全一致>",
+  "canonical_location": "<标准名或 generic 或 unknown>",
+  "confidence": "high|medium|low",
+  "reason": "简短中文"
+}
+
+## 标准地点集合（JSON 数组，闭集）
+[
+  "宁府",
+  "林府",
+  "荣府",
+  "贾府",
+  "赖府",
+  "凤姐院",
+  "大观园",
+  "天香楼",
+  "宁国府",
+  "宁府街",
+  "宁荣街",
+  "宗祠内",
+  "怡红院",
+  "晓翠堂",
+  "智通寺",
+  "暖香坞",
+  "柳叶渚",
+  "栊翠庵",
+  "梨香院",
+  "水仙庵",
+  "水月庵",
+  "沁芳亭",
+  "海棠院",
+  "清虚观",
+  "滴翠亭",
+  "潇湘馆",
+  "秋爽斋",
+  "稻香村",
+  "缀锦楼",
+  "缀锦阁",
+  "芦雪广",
+  "芦雪庭",
+  "芦雪庵",
+  "荣国府",
+  "荣庆堂",
+  "荣禧堂",
+  "葫芦庙",
+  "藕香榭",
+  "蘅芜苑",
+  "蘅芜院"
+]
+...（完整列表见 llm_location_normalization_round2_input.json）
+
+## 待归一列表（JSON 数组；含 original_location / source / round2_strategy 等）
+[
+  {
+    "original_location": "宝玉房中",
+    "source": "txt",
+    "occurrence_count": 15,
+    "file_count": 6,
+    "location_type": "descriptive",
+    "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+    "round2_strategy": "keep_as_alias"
+  },
+  {
+    "original_location": "贾母房中",
+    "source": "txt",
+    "occurrence_count": 15,
+    "file_count": 10,
+    "location_type": "descriptive",
+    "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+    "round2_strategy": "keep_as_alias"
+  },
+  {
+    "original_location": "宝玉房内",
+    "source": "txt",
+    "occurrence_count": 12,
+    "file_count": 3,
+    "location_type": "descriptive",
+    "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+    "round2_strategy": "keep_as_alias"
+  },
+  {
+    "original_location": "荣府",
+    "source": "txt",
+    "occurrence_count": 11,
+    "file_count": 8,
+    "location_type": "alias",
+    "rule_note": "常见别称，倾向映射至「荣国府」（须由模型在闭表内确认）",
+    "round2_strategy": "map_to_canonical"
+  },
+  {
+    "original_location": "黛玉房中",
+    "source": "txt",
+    "occurrence_count": 10,
+    "file_count": 6,
+    "location_type": "descriptive",
+    "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+    "round2_strategy": "keep_as_alias"
+  },
+  {
+    "original_location": "王夫人上房",
+    "source": "txt",
+    "occurrence_count": 8,
+    "file_count": 5,
+    "location_type": "descriptive",
+    "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+    "round2_strategy": "keep_as_alias"
+  },
+  {
+    "original_location": "贾母处",
+    "source": "txt",
+    "occurrence_count": 8,
+    "file_count": 5,
+    "location_type": "descriptive",
+    "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+    "round2_strategy": "generic_or_unknown"
+  },
+  {
+    "original_location": "家塾",
+    "source": "txt",
+    "occurrence_count": 7,
+    "file_count": 1,
+    "location_type": "alias",
+    "rule_note": "未命中细分规则，默认按别称/待考处理",
+    "round2_strategy": "map_to_canonical"
+  }
+]
+
+说明：round2_strategy 含义供你参考——
+- map_to_canonical：优先映射到某一标准地点；
+- keep_as_alias：多为人物居所类，请结合人物与原著映射；
+- generic_or_unknown：泛称或不宜强行归一者，倾向 generic 或 unknown。

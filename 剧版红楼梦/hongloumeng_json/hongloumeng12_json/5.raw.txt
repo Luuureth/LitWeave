@@ -1,0 +1,21 @@
+{
+  "episode_id": "12",
+  "episode_title": "埋香冢飞燕泣残红",
+  "segment_id": "S05",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "持扇游园赏花并走向亭阁",
+      "characters": [
+        "女子"
+      ],
+      "location": "花园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "一名女子手持团扇在花园中漫步赏花，随后穿过石桥走向一处亭阁。"
+    }
+  ]
+}

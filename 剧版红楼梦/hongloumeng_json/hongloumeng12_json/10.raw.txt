@@ -1,0 +1,30 @@
+{
+  "episode_id": "12",
+  "episode_title": "埋香冢飞燕泣残红",
+  "segment_id": "S10",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "薛蟠遣小厮谎称贾政传唤哄骗宝玉出门",
+      "characters": ["贾宝玉", "薛蟠", "小厮"],
+      "location": "贾府巷道",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "薛蟠派小厮谎称贾政传唤，将贾宝玉哄出房门，两人在院门口相会并揭穿骗局。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "薛蟠与宝玉同行游廊并炫耀生日厚礼",
+      "characters": ["贾宝玉", "薛蟠"],
+      "location": "贾府游廊",
+      "time_hint": "after",
+      "explicit_time": "五月初三",
+      "relation_to_previous": "sequential",
+      "event_summary": "薛蟠与贾宝玉漫步游廊，薛蟠坦白哄骗缘由是为次日生日，并逐一炫耀收到的鲜藕、西瓜、鲟鱼及暹猪等厚礼。"
+    }
+  ]
+}

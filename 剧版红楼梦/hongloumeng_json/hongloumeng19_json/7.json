@@ -1,0 +1,64 @@
+{
+  "episode_id": "19",
+  "episode_title": "琉璃世界白雪红梅",
+  "segment_id": "S07",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "香菱谈论诗歌妙处",
+      "characters": [
+        "香菱",
+        "林黛玉"
+      ],
+      "location": "庭院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "香菱向黛玉阐述诗歌看似无理实则有理有情的妙处。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "香菱赏析王维诗句",
+      "characters": [
+        "香菱",
+        "林黛玉"
+      ],
+      "location": "庭院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "香菱引用王维诗句“大漠孤烟直，长河落日圆”，分析“直”和“圆”字的精妙。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "香菱赏析江湖诗句",
+      "characters": [
+        "香菱",
+        "林黛玉"
+      ],
+      "location": "庭院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "香菱引用“日落江湖白，潮来天地青”，形容“白”“青”二字虽似无理却非此不可。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "香菱回忆进京往事",
+      "characters": [
+        "香菱",
+        "林黛玉"
+      ],
+      "location": "庭院",
+      "time_hint": null,
+      "explicit_time": "那年上京来",
+      "relation_to_previous": "sequential",
+      "event_summary": "香菱引用“渡头余落日，墟里上孤烟”，并回忆那年进京傍晚泊船时见到的炊烟景色。"
+    }
+  ]
+}

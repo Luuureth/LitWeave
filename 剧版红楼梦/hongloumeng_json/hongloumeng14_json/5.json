@@ -1,0 +1,76 @@
+{
+  "episode_id": "14",
+  "episode_title": "含耻辱情烈死金钏",
+  "segment_id": "S05",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾宝玉在花园撞见龄官雨中画蔷字",
+      "characters": [
+        "贾宝玉",
+        "龄官"
+      ],
+      "location": "花园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉在花园散步时，发现龄官在雨中痴迷地在地上反复画蔷字，两人因突降大雨产生短暂交集。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾宝玉冒雨跑回院落敲门遭丫鬟延迟",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "院落门口",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉淋雨跑回住处急忙敲门，门内的丫鬟们却以为是薛宝钗而说笑打趣，故意延迟开门。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾宝玉进门误踢丫鬟并被劝换衣",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "院落走廊",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "门开后贾宝玉恼怒进门误踢了一名丫鬟，随后在众人的劝慰下前往内室更换湿衣。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "贾宝玉发现袭人吐血欲取药被劝阻",
+      "characters": [
+        "贾宝玉",
+        "袭人"
+      ],
+      "location": "卧室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉在内室发现袭人卧病吐血，焦急地要去取黄酒和丸药，袭人担心惊动众人出言劝阻。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "袭人提及端阳节宴请事宜并催促贾宝玉歇息",
+      "characters": [
+        "贾宝玉",
+        "袭人"
+      ],
+      "location": "卧室",
+      "time_hint": "after",
+      "explicit_time": "明儿",
+      "relation_to_previous": "sequential",
+      "event_summary": "袭人与贾宝玉共饮后，提及明日端阳节太太设宴之事，提醒他需作陪并催促其早些歇息。"
+    }
+  ]
+}

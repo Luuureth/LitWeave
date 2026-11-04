@@ -1,0 +1,407 @@
+[
+  {
+    "timeline_id": "TL006",
+    "timeline_year": "红楼七年",
+    "timeline_season": "冬季",
+    "timeline_event_name": "贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+    "timeline_ref": "TL006｜红楼七年｜冬季｜贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+    "matched_event_count": 3,
+    "event_names": [
+      "林黛玉进贾府"
+    ],
+    "characters": [
+      "史太君",
+      "贾宝玉",
+      "林黛玉",
+      "王熙凤"
+    ],
+    "locations": [
+      "荣国府",
+      "贾母院"
+    ],
+    "link_ids": [
+      "SCL_00072",
+      "SCL_00076",
+      "SCL_00074"
+    ]
+  },
+  {
+    "timeline_id": "TL007",
+    "timeline_year": "红楼七年",
+    "timeline_season": "冬末",
+    "timeline_event_name": "薛蟠为抢英莲打死冯渊；贾雨村补授应天府受理命案；门子出示护官符雨村徇情枉法乱判",
+    "timeline_ref": "TL007｜红楼七年｜冬末｜薛蟠为抢英莲打死冯渊；贾雨村补授应天府受理命案；门子出示护官符雨村徇情枉法乱判",
+    "matched_event_count": 1,
+    "event_names": [
+      "贾雨村判案"
+    ],
+    "characters": [
+      "冯渊",
+      "薛蟠",
+      "贾雨村",
+      "门子",
+      "香菱"
+    ],
+    "locations": [
+      "应天府衙"
+    ],
+    "link_ids": [
+      "SCL_00126"
+    ]
+  },
+  {
+    "timeline_id": "TL012",
+    "timeline_year": "红楼十年",
+    "timeline_season": "秋冬",
+    "timeline_event_name": "贾瑞调戏凤姐凤姐毒设相思局；贾瑞冻馁致病得风月宝鉴；不听告诫正面照镜精尽人亡",
+    "timeline_ref": "TL012｜红楼十年｜秋冬｜贾瑞调戏凤姐凤姐毒设相思局；贾瑞冻馁致病得风月宝鉴；不听告诫正面照镜精尽人亡",
+    "matched_event_count": 1,
+    "event_names": [
+      "王熙凤毒设相思局"
+    ],
+    "characters": [
+      "王熙凤",
+      "贾瑞"
+    ],
+    "locations": [
+      "荣国府"
+    ],
+    "link_ids": [
+      "SCL_00129"
+    ]
+  },
+  {
+    "timeline_id": "TL014",
+    "timeline_year": "红楼十一年",
+    "timeline_season": "秋季",
+    "timeline_event_name": "贾珍请王熙凤协理宁国府内务；凤姐分派职守立威惩奴将丧事料理得整肃有序",
+    "timeline_ref": "TL014｜红楼十一年｜秋季｜贾珍请王熙凤协理宁国府内务；凤姐分派职守立威惩奴将丧事料理得整肃有序",
+    "matched_event_count": 7,
+    "event_names": [
+      "王熙凤协理宁国府"
+    ],
+    "characters": [
+      "王熙凤",
+      "贾珍",
+      "贾蓉",
+      "尤氏",
+      "贾宝玉",
+      "秦可卿"
+    ],
+    "locations": [
+      "宁国府"
+    ],
+    "link_ids": [
+      "SCL_00107",
+      "SCL_00098",
+      "SCL_00094",
+      "SCL_00105",
+      "SCL_00106",
+      "SCL_00116",
+      "SCL_00113"
+    ]
+  },
+  {
+    "timeline_id": "TL016",
+    "timeline_year": "红楼十一年",
+    "timeline_season": "冬季",
+    "timeline_event_name": "林如海病重贾琏送黛玉回扬州探视；林如海病故黛玉经此彻底成为孤女长住贾府",
+    "timeline_ref": "TL016｜红楼十一年｜冬季｜林如海病重贾琏送黛玉回扬州探视；林如海病故黛玉经此彻底成为孤女长住贾府",
+    "matched_event_count": 2,
+    "event_names": [
+      "风雨夕闷制风雨词",
+      "林黛玉进贾府"
+    ],
+    "characters": [
+      "林黛玉",
+      "史太君",
+      "贾宝玉"
+    ],
+    "locations": [
+      "潇湘馆",
+      "荣国府",
+      "贾母院"
+    ],
+    "link_ids": [
+      "SCL_00031",
+      "SCL_00073"
+    ]
+  },
+  {
+    "timeline_id": "TL025",
+    "timeline_year": "红楼十三年",
+    "timeline_season": "三月中浣",
+    "timeline_event_name": "宝玉沁芳闸桥桃花树下读《会真记》黛玉葬花经过；二人共读西厢宝玉笑说倾国倾城貌黛玉嗔怒",
+    "timeline_ref": "TL025｜红楼十三年｜三月中浣｜宝玉沁芳闸桥桃花树下读《会真记》黛玉葬花经过；二人共读西厢宝玉笑说倾国倾城貌黛玉嗔怒",
+    "matched_event_count": 1,
+    "event_names": [
+      "黛玉葬花"
+    ],
+    "characters": [
+      "贾宝玉"
+    ],
+    "locations": [
+      "大观园",
+      "花冢"
+    ],
+    "link_ids": [
+      "SCL_00038"
+    ]
+  },
+  {
+    "timeline_id": "TL030",
+    "timeline_year": "红楼十三年",
+    "timeline_season": "四月二十六",
+    "timeline_event_name": "芒种饯花神宝钗追蝶至滴翠亭外听见小红坠儿私语；宝钗金蝉脱壳喊颦儿我看你往哪里藏",
+    "timeline_ref": "TL030｜红楼十三年｜四月二十六｜芒种饯花神宝钗追蝶至滴翠亭外听见小红坠儿私语；宝钗金蝉脱壳喊颦儿我看你往哪里藏",
+    "matched_event_count": 1,
+    "event_names": [
+      "宝钗扑蝶"
+    ],
+    "characters": [
+      "坠儿",
+      "小红",
+      "薛宝钗"
+    ],
+    "locations": [
+      "大观园",
+      "滴翠亭"
+    ],
+    "link_ids": [
+      "SCL_00067"
+    ]
+  },
+  {
+    "timeline_id": "TL031",
+    "timeline_year": "红楼十三年",
+    "timeline_season": "四月二十六",
+    "timeline_event_name": "黛玉因昨夜晴雯不开门疑宝玉见落花伤感于花冢哭吟《葬花吟》；宝玉山坡上听见恸倒",
+    "timeline_ref": "TL031｜红楼十三年｜四月二十六｜黛玉因昨夜晴雯不开门疑宝玉见落花伤感于花冢哭吟《葬花吟》；宝玉山坡上听见恸倒",
+    "matched_event_count": 4,
+    "event_names": [
+      "黛玉葬花",
+      "风雨夕闷制风雨词"
+    ],
+    "characters": [
+      "贾宝玉",
+      "林黛玉"
+    ],
+    "locations": [
+      "大观园",
+      "花冢",
+      "潇湘馆"
+    ],
+    "link_ids": [
+      "SCL_00036",
+      "SCL_00037",
+      "SCL_00016",
+      "SCL_00018"
+    ]
+  },
+  {
+    "timeline_id": "TL034",
+    "timeline_year": "红楼十三年",
+    "timeline_season": "五月初四",
+    "timeline_event_name": "宝玉调笑金钏儿王夫人怒打撵出；金钏儿投井自尽；贾环诬告宝玉强奸不遂",
+    "timeline_ref": "TL034｜红楼十三年｜五月初四｜宝玉调笑金钏儿王夫人怒打撵出；金钏儿投井自尽；贾环诬告宝玉强奸不遂",
+    "matched_event_count": 1,
+    "event_names": [
+      "金钏之死"
+    ],
+    "characters": [
+      "玉钏",
+      "王夫人",
+      "贾宝玉",
+      "金钏"
+    ],
+    "locations": [
+      "荣国府",
+      "王夫人房"
+    ],
+    "link_ids": [
+      "SCL_00085"
+    ]
+  },
+  {
+    "timeline_id": "TL036",
+    "timeline_year": "红楼十三年",
+    "timeline_season": "五月初四",
+    "timeline_event_name": "晴雯跌折扇子宝玉斥骂晚间为哄晴雯任其撕扇取乐",
+    "timeline_ref": "TL036｜红楼十三年｜五月初四｜晴雯跌折扇子宝玉斥骂晚间为哄晴雯任其撕扇取乐",
+    "matched_event_count": 7,
+    "event_names": [
+      "晴雯撕扇"
+    ],
+    "characters": [
+      "袭人",
+      "贾宝玉",
+      "晴雯"
+    ],
+    "locations": [
+      "怡红院"
+    ],
+    "link_ids": [
+      "SCL_00066",
+      "SCL_00051",
+      "SCL_00054",
+      "SCL_00055",
+      "SCL_00063",
+      "SCL_00057",
+      "SCL_00065"
+    ]
+  },
+  {
+    "timeline_id": "TL038",
+    "timeline_year": "红楼十三年",
+    "timeline_season": "五月初四",
+    "timeline_event_name": "忠顺王府索蒋玉菡贾环诬告金钏之死贾政怒极痛打宝玉贾母救护",
+    "timeline_ref": "TL038｜红楼十三年｜五月初四｜忠顺王府索蒋玉菡贾环诬告金钏之死贾政怒极痛打宝玉贾母救护",
+    "matched_event_count": 3,
+    "event_names": [
+      "金钏之死"
+    ],
+    "characters": [
+      "王夫人",
+      "贾宝玉",
+      "金钏"
+    ],
+    "locations": [
+      "荣国府",
+      "王夫人房"
+    ],
+    "link_ids": [
+      "SCL_00084",
+      "SCL_00081",
+      "SCL_00082"
+    ]
+  },
+  {
+    "timeline_id": "TL039",
+    "timeline_year": "红楼十三年",
+    "timeline_season": "五月中",
+    "timeline_event_name": "宝玉挨打养伤想吃莲叶羹玉钏儿送来宝玉哄她亲尝",
+    "timeline_ref": "TL039｜红楼十三年｜五月中｜宝玉挨打养伤想吃莲叶羹玉钏儿送来宝玉哄她亲尝",
+    "matched_event_count": 3,
+    "event_names": [
+      "宝玉挨打"
+    ],
+    "characters": [
+      "史太君",
+      "贾宝玉",
+      "贾政"
+    ],
+    "locations": [
+      "荣国府"
+    ],
+    "link_ids": [
+      "SCL_00044",
+      "SCL_00045",
+      "SCL_00046"
+    ]
+  },
+  {
+    "timeline_id": "TL054",
+    "timeline_year": "红楼十三年",
+    "timeline_season": "九月",
+    "timeline_event_name": "黛玉病中宝钗来探赠燕窝二人互剖心迹释前嫌结金兰契",
+    "timeline_ref": "TL054｜红楼十三年｜九月｜黛玉病中宝钗来探赠燕窝二人互剖心迹释前嫌结金兰契",
+    "matched_event_count": 13,
+    "event_names": [
+      "风雨夕闷制风雨词"
+    ],
+    "characters": [
+      "林黛玉",
+      "贾宝玉"
+    ],
+    "locations": [
+      "潇湘馆"
+    ],
+    "link_ids": [
+      "SCL_00003",
+      "SCL_00004",
+      "SCL_00005",
+      "SCL_00027",
+      "SCL_00028",
+      "SCL_00029",
+      "SCL_00011",
+      "SCL_00012",
+      "SCL_00013",
+      "SCL_00024",
+      "SCL_00026",
+      "SCL_00032",
+      "SCL_00034"
+    ]
+  },
+  {
+    "timeline_id": "TL058",
+    "timeline_year": "红楼十三年",
+    "timeline_season": "冬季",
+    "timeline_event_name": "香菱随宝钗住进大观园拜黛玉为师苦学作诗梦里得佳句",
+    "timeline_ref": "TL058｜红楼十三年｜冬季｜香菱随宝钗住进大观园拜黛玉为师苦学作诗梦里得佳句",
+    "matched_event_count": 2,
+    "event_names": [
+      "香菱学诗"
+    ],
+    "characters": [
+      "林黛玉",
+      "香菱"
+    ],
+    "locations": [
+      "大观园",
+      "潇湘馆"
+    ],
+    "link_ids": [
+      "SCL_00092",
+      "SCL_00093"
+    ]
+  },
+  {
+    "timeline_id": "TL060",
+    "timeline_year": "红楼十三年",
+    "timeline_season": "冬季",
+    "timeline_event_name": "宝玉赴宴烧坏贾母所赐雀金裘晴雯带病连夜织补",
+    "timeline_ref": "TL060｜红楼十三年｜冬季｜宝玉赴宴烧坏贾母所赐雀金裘晴雯带病连夜织补",
+    "matched_event_count": 4,
+    "event_names": [
+      "勇晴雯病补孔雀裘"
+    ],
+    "characters": [
+      "晴雯",
+      "贾宝玉",
+      "麝月",
+      "坠儿"
+    ],
+    "locations": [
+      "怡红院"
+    ],
+    "link_ids": [
+      "SCL_00086",
+      "SCL_00088",
+      "SCL_00089",
+      "SCL_00087"
+    ]
+  },
+  {
+    "timeline_id": "不确定",
+    "timeline_year": "不确定",
+    "timeline_season": "不确定",
+    "timeline_event_name": "不确定",
+    "timeline_ref": "不确定",
+    "matched_event_count": 1,
+    "event_names": [
+      "听曲文宝玉悟禅机"
+    ],
+    "characters": [
+      "史太君",
+      "林黛玉",
+      "薛宝钗",
+      "贾宝玉"
+    ],
+    "locations": [
+      "荣国府"
+    ],
+    "link_ids": [
+      "SCL_00002"
+    ]
+  }
+]

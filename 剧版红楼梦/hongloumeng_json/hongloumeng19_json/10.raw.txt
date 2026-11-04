@@ -1,0 +1,38 @@
+```json
+{
+    "episode_id": "19",
+    "episode_title": "琉璃世界白雪红梅",
+    "segment_id": "S10",
+    "event_count": 2,
+    "events": [
+        {
+            "event_id": "E01",
+            "narrative_order": 1,
+            "action": "丫鬟们整理衣物并议论薛家兄妹",
+            "characters": [
+                "平儿",
+                "丫鬟"
+            ],
+            "location": "大观园",
+            "time_hint": null,
+            "explicit_time": null,
+            "relation_to_previous": "start",
+            "event_summary": "平儿与众丫鬟在廊下整理衣物，议论薛宝钗的哥哥和妹妹的容貌举止。"
+        },
+        {
+            "event_id": "E02",
+            "narrative_order": 2,
+            "action": "贾宝玉赞叹薛宝琴",
+            "characters": [
+                "贾宝玉",
+                "平儿"
+            ],
+            "location": "大观园",
+            "time_hint": null,
+            "explicit_time": null,
+            "relation_to_previous": "sequential",
+            "event_summary": "贾宝玉听闻后大赞薛宝琴是绝代佳人，自叹往日见识浅薄。"
+        }
+    ]
+}
+```

@@ -1,0 +1,50 @@
+{
+  "episode_id": "19",
+  "episode_title": "琉璃世界白雪红梅",
+  "segment_id": "S01",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "骑马相遇寒暄",
+      "characters": [
+        "薛蟠",
+        "柳湘莲"
+      ],
+      "location": "郊外石桥",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "薛蟠与柳湘莲在郊外骑马相遇，两人在桥上寒暄，薛蟠表示对柳湘莲的信任。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "下马设誓",
+      "characters": [
+        "薛蟠",
+        "柳湘莲"
+      ],
+      "location": "郊外树林",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "两人下马后，薛蟠提议设誓以防日后变心泄密，并发下天诛地灭的重誓。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "柳湘莲痛打并羞辱薛蟠",
+      "characters": [
+        "薛蟠",
+        "柳湘莲"
+      ],
+      "location": "郊外树林",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "柳湘莲突然动手将薛蟠打倒，将其拖入泥沟强迫喝脏水，薛蟠狼狈求饶。"
+    }
+  ]
+}

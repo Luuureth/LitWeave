@@ -1,0 +1,30 @@
+{
+  "episode_id": "12",
+  "episode_title": "埋香冢飞燕泣残红",
+  "segment_id": "S03",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众人穿行园林石桥与假山区域",
+      "characters": [],
+      "location": "园林",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "粉衣女子与绿衣女子先后走过石桥，黄衣男子在园中行走，众人逐渐在假山附近汇聚。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "绿衣女子借故搭话与众人眼神交汇",
+      "characters": [],
+      "location": "园林",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "绿衣女子以银钱数目不对为由叫住粉衣女子，三人短暂对视微笑后，粉衣女子转身离开。"
+    }
+  ]
+}

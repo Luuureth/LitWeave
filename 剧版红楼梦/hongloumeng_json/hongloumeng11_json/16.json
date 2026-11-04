@@ -1,0 +1,63 @@
+{
+  "episode_id": "11",
+  "episode_title": "为争宠姐弟遭魔魇",
+  "segment_id": "S16",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "赵姨娘与马道婆议论病情并决定看热闹",
+      "characters": [
+        "赵姨娘",
+        "马道婆"
+      ],
+      "location": "赵姨娘院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "丫鬟向赵姨娘和马道婆汇报宝玉和琏二奶奶病了，二人幸灾乐祸并决定去看热闹。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "赵姨娘与马道婆在窗外偷看呼喊",
+      "characters": [
+        "赵姨娘",
+        "马道婆"
+      ],
+      "location": "荣国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "赵姨娘与马道婆来到王熙凤房外，透过窗户偷看，赵姨娘假装焦急地呼喊二奶奶醒醒。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "王熙凤持刀发疯要杀人",
+      "characters": [
+        "王熙凤"
+      ],
+      "location": "荣国府",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "parallel",
+      "event_summary": "王熙凤在房内持刀发疯大喊要杀人，丫鬟们拼命阻拦并按住她。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "贾琏进房查看王熙凤",
+      "characters": [
+        "贾琏",
+        "王熙凤"
+      ],
+      "location": "荣国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾琏进入房间，看到王熙凤躺在床上，丫鬟在旁伺候。"
+    }
+  ]
+}

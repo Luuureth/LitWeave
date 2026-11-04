@@ -1,0 +1,39 @@
+```json
+{
+  "episode_id": "06",
+  "episode_title": "王熙凤协理宁国府",
+  "segment_id": "S05",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾珍吩咐芸儿芹儿去请阴阳司",
+      "characters": [
+        "贾珍",
+        "芸儿",
+        "芹儿"
+      ],
+      "location": "宁国府内堂",
+      "time_hint": null,
+      "explicit_time": "三天后",
+      "relation_to_previous": "start",
+      "event_summary": "贾珍吩咐芸儿、芹儿立刻去请钦太监阴阳司择定停灵日子，并安排三天后发丧送讣闻。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾珍送客并抱怨府内无人招待亲戚",
+      "characters": [
+        "贾珍",
+        "下人"
+      ],
+      "location": "宁国府大门",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾珍在府门送别客人，随后向手下抱怨找器皿茶果推诿且无人招待外头亲戚，得知来升家的在灵堂忙碌。"
+    }
+  ]
+}
+```

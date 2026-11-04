@@ -1,0 +1,82 @@
+```json
+{
+  "episode_id": "08",
+  "episode_title": "荣国府归省庆元宵",
+  "segment_id": "S12",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "交谈并离开",
+      "characters": [
+        "贾赦",
+        "贾政"
+      ],
+      "location": "荣国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾赦与贾政在廊下交谈贵妃去向并离去。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "拜见贾母",
+      "characters": [
+        "贾元春",
+        "贾母"
+      ],
+      "location": "荣国府正堂",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾元春进入正堂欲向贾母行跪拜礼，被贾母拦阻并相拥。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "认亲并诉苦",
+      "characters": [
+        "贾元春",
+        "王夫人"
+      ],
+      "location": "荣国府正堂",
+      "time_hint": "same_time",
+      "explicit_time": "当日, 今日",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾元春称呼王夫人为母亲，诉说入宫之苦并劝慰众人不要哭泣。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "抱头痛哭",
+      "characters": [
+        "贾元春",
+        "贾母",
+        "王夫人",
+        "众女眷"
+      ],
+      "location": "荣国府正堂",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母、王夫人等女眷与贾元春抱头痛哭。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "归座并感叹",
+      "characters": [
+        "贾元春",
+        "丫鬟"
+      ],
+      "location": "荣国府正堂",
+      "time_hint": "after",
+      "explicit_time": "一会子",
+      "relation_to_previous": "sequential",
+      "event_summary": "丫鬟请贾元春归座，贾元春坐下后感叹不知何时能再见面。"
+    }
+  ]
+}
+```

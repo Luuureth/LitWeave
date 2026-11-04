@@ -1,0 +1,41 @@
+{
+  "episode_id": "11",
+  "episode_title": "为争宠姐弟遭魔魇",
+  "segment_id": "S15",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "密谋并布置魇魔法器",
+      "characters": ["赵姨娘", "马道婆"],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "马道婆收受赵姨娘银钱，密谋将写有年庚八字的纸人掖在目标床上，并交付绘有鬼怪字样的纸人法器完成施法准备。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "接传唤准备前往",
+      "characters": ["丫鬟", "林黛玉", "王熙凤", "薛宝钗"],
+      "location": "厅堂内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "丫鬟通报老太太传唤众人去见大舅太太，姑娘们准备前往，王熙凤叫住林黛玉低声叮嘱。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宝黛默默对视",
+      "characters": ["贾宝玉", "林黛玉"],
+      "location": "厅堂内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉独自拭面神情郁郁，林黛玉驻足凝视，二人相对无言默默对视。"
+    }
+  ]
+}

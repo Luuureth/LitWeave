@@ -1,0 +1,93 @@
+{
+  "episode_id": "13",
+  "episode_title": "享福人福深还祷福",
+  "segment_id": "S02",
+  "event_count": 6,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "小红花园传话",
+      "characters": [
+        "小红",
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "花园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "小红在花园追上宝玉和林姑娘，告知端午赏赐已下，传袭人之话叫宝玉回房查看。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉查看节礼",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉在房内查看端午赏赐，发现其中有扇子和数珠。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宝玉询问礼物差异",
+      "characters": [
+        "贾宝玉",
+        "袭人"
+      ],
+      "location": "怡红院",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉询问袭人得知宝姑娘与自己礼物相同，而林姑娘等人不同，心生疑惑。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "宝玉派小红去林姑娘处",
+      "characters": [
+        "贾宝玉",
+        "袭人",
+        "小红"
+      ],
+      "location": "怡红院",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉因礼物分配疑惑，派小红去林姑娘处，让她挑选自己喜欢的留下。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "袭人传达指令与宝玉烦躁",
+      "characters": [
+        "贾宝玉",
+        "袭人"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": "明儿五更天",
+      "relation_to_previous": "sequential",
+      "event_summary": "袭人告知宝玉明日需去谢恩及王熙凤要调走小红之事，宝玉因心绪不佳烦躁应允。"
+    },
+    {
+      "event_id": "E06",
+      "narrative_order": 6,
+      "action": "小红复命与宝玉失落",
+      "characters": [
+        "贾宝玉",
+        "小红"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "小红回来复命称林姑娘拒绝挑选礼物，宝玉听后十分失落。"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "episode_id": "16",
+  "episode_title": "刘姥姥嬉游大观园",
+  "segment_id": "S02",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众人穿行竹林并称赞潇湘馆景致",
+      "characters": [
+        "史太君",
+        "刘姥姥"
+      ],
+      "location": "潇湘馆",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾母携刘姥姥及众女眷穿行于潇湘馆竹林，众人称赞此处景致精致。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "刘姥姥踉跄滑倒，贾母命人搀扶并欲安排捶腿",
+      "characters": [
+        "刘姥姥",
+        "史太君"
+      ],
+      "location": "潇湘馆",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "刘姥姥行走时不慎踉跄，贾母命人上前搀扶并欲让丫头为其捶腿。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "刘姥姥婉拒服侍并随众人步入室内",
+      "characters": [
+        "刘姥姥",
+        "史太君"
+      ],
+      "location": "潇湘馆",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "刘姥姥以习惯乡下劳作为由婉拒捶腿服侍，随后众人簇拥其继续前行并步入屋内。"
+    }
+  ]
+}

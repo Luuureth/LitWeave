@@ -1,0 +1,75 @@
+{
+  "episode_id": "13",
+  "episode_title": "享福人福深还祷福",
+  "segment_id": "S13",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "戏曲演员登台表演",
+      "characters": [],
+      "location": "清虚观",
+      "time_hint": "background",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "一名黑衣戏曲演员在台上进行开场表演，动作夸张，挥舞水袖。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "张道士向宝玉献贺礼",
+      "characters": [
+        "张道士",
+        "史太君",
+        "贾宝玉"
+      ],
+      "location": "清虚观",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "张道士端着装有金银法器的托盘上前，称是众道士给宝玉的贺礼，贾母推辞后收下。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宝玉众人议论金麒麟",
+      "characters": [
+        "贾宝玉",
+        "薛宝钗",
+        "林黛玉",
+        "史湘云",
+        "史太君"
+      ],
+      "location": "清虚观",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉拿起托盘中的金麒麟，宝钗提起史湘云也有一个，黛玉出言讽刺，宝玉最终将麒麟收起。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "戏台演出驸马公主拜堂",
+      "characters": [
+        "王熙凤"
+      ],
+      "location": "清虚观",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "戏台上演出驸马与公主拜天地的戏码，王熙凤在台下赞叹戏演得好。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "戏台继续演出",
+      "characters": [],
+      "location": "清虚观",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "戏台上继续演出，演员唱词“绿暗红稀出凤城”，并有茶童上场与官员对话。"
+    }
+  ]
+}

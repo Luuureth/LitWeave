@@ -1,0 +1,57 @@
+```json
+{
+  "episode_id": "21",
+  "episode_title": "荣国府元宵开夜宴.",
+  "segment_id": "S12",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "探春提出取消家学每位爷每年八两银子的支出",
+      "characters": [
+        "探春",
+        "李纨",
+        "平儿"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "探春在室内提出取消家学中每位爷每年八两银子的额外支出，并让平儿传话给王熙凤确认免除。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "探春决定取消外头买办每月的二两银子",
+      "characters": [
+        "探春",
+        "李纨",
+        "平儿",
+        "宝钗"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "探春指出姑娘们的头油脂粉钱与月钱重叠，导致买办敷衍，决定取消外头买办每月的二两银子，称之为第一件大事。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "探春提出将园子承包给老妈妈管理以获利",
+      "characters": [
+        "探春",
+        "李纨",
+        "宝钗",
+        "平儿"
+      ],
+      "location": "园子",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众人移步园中，探春引用赖大家园子收益的例子，提出将本府园子承包给懂园艺的老妈妈管理以获利，众人表示赞同。"
+    }
+  ]
+}
+```

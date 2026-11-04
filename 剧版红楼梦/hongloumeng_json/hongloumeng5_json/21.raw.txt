@@ -1,0 +1,25 @@
+```json
+{
+  "episode_id": "05",
+  "episode_title": "王熙凤毒设相思局",
+  "segment_id": "S21",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝珠在花园发现瑞珠哭泣并听其哭诉",
+      "characters": [
+        "宝珠",
+        "瑞珠",
+        "奶奶"
+      ],
+      "location": "花园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "宝珠夜行花园时发现瑞珠在树下哭泣，瑞珠向宝珠哭诉自己活不下去了，并提及上次宴会后奶奶去天香楼更衣的事。"
+    }
+  ]
+}
+```

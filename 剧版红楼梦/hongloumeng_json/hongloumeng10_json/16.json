@@ -1,0 +1,47 @@
+{
+  "episode_id": "10",
+  "episode_title": "听曲文宝玉悟禅机",
+  "segment_id": "S16",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "独自徘徊沉思",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉独自一人在园中林木间徘徊，闭目凝神，似在思索心事。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "回想嬉戏场景",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "大观园",
+      "time_hint": "flashback",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉脑海中浮现出园中众女子结伴嬉戏、追逐玩闹的欢乐景象。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "吟诵经文感悟禅机",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "大观园",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉吟诵《南华经》与戏文词句，领悟“赤条条来去无牵挂”之理，随后决然快步离去。"
+    }
+  ]
+}

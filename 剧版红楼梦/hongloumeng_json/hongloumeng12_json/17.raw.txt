@@ -1,0 +1,50 @@
+```json
+{
+    "episode_id": "12",
+    "episode_title": "埋香冢飞燕泣残红",
+    "segment_id": "S17",
+    "event_count": 3,
+    "events": [
+        {
+            "event_id": "E01",
+            "narrative_order": 1,
+            "action": "吟诵葬花吟并收集落花",
+            "characters": [
+                "林黛玉"
+            ],
+            "location": "花园",
+            "time_hint": null,
+            "explicit_time": "一年三百六十日",
+            "relation_to_previous": "start",
+            "event_summary": "林黛玉在花园中看着满地落花，吟诵《葬花吟》并将花瓣收集入囊。"
+        },
+        {
+            "event_id": "E02",
+            "narrative_order": 2,
+            "action": "循声寻人",
+            "characters": [
+                "贾宝玉"
+            ],
+            "location": "花园",
+            "time_hint": "same_time",
+            "explicit_time": null,
+            "relation_to_previous": "sequential",
+            "event_summary": "贾宝玉在附近听到黛玉的吟诗声，循声寻找并看到了黛玉葬花的情景。"
+        },
+        {
+            "event_id": "E03",
+            "narrative_order": 3,
+            "action": "悲泣与呼唤",
+            "characters": [
+                "林黛玉",
+                "贾宝玉"
+            ],
+            "location": "花园",
+            "time_hint": "same_time",
+            "explicit_time": null,
+            "relation_to_previous": "sequential",
+            "event_summary": "林黛玉吟诵至伤心处掩面哭泣，贾宝玉在一旁深受触动，最终忍不住呼唤林妹妹。"
+        }
+    ]
+}
+```

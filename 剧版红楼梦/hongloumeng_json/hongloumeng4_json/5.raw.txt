@@ -1,0 +1,109 @@
+{
+  "episode_id": "04",
+  "episode_title": "探宝钗黛玉半含酸",
+  "segment_id": "S05",
+  "event_count": 7,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "李嬷嬷劝阻宝玉饮酒",
+      "characters": [
+        "李嬷嬷",
+        "宝玉"
+      ],
+      "location": "薛姨妈处",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "李嬷嬷以怕挨骂为由劝阻宝玉饮酒，宝玉不以为意并支开她。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝钗劝宝玉不饮冷酒",
+      "characters": [
+        "宝钗",
+        "宝玉"
+      ],
+      "location": "薛姨妈处",
+      "time_hint": "sequential",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉欲饮冷酒，宝钗以冷酒伤身为由劝阻，宝玉听从劝告。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "黛玉借训斥雪雁暗讽宝玉",
+      "characters": [
+        "黛玉",
+        "雪雁",
+        "宝玉"
+      ],
+      "location": "薛姨妈处",
+      "time_hint": "sequential",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "雪雁送来手炉，黛玉借训斥雪雁听紫鹃的话，暗讽宝玉听宝钗劝告之快。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "李嬷嬷求黛玉劝酒",
+      "characters": [
+        "李嬷嬷",
+        "黛玉",
+        "宝玉"
+      ],
+      "location": "薛姨妈处",
+      "time_hint": "sequential",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "李嬷嬷见宝玉仍在饮酒，便请黛玉帮忙劝阻，认为宝玉或许会听黛玉的话。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "黛玉言辞推脱",
+      "characters": [
+        "黛玉",
+        "李嬷嬷",
+        "薛姨妈"
+      ],
+      "location": "薛姨妈处",
+      "time_hint": "sequential",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "黛玉以姨妈高兴和自己是外人为由，推脱不愿劝阻宝玉。"
+    },
+    {
+      "event_id": "E06",
+      "narrative_order": 6,
+      "action": "李嬷嬷评价黛玉",
+      "characters": [
+        "李嬷嬷"
+      ],
+      "location": "薛姨妈处",
+      "time_hint": "sequential",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "李嬷嬷笑称黛玉的嘴比刀子还尖，让人又恨又爱。"
+    },
+    {
+      "event_id": "E07",
+      "narrative_order": 7,
+      "action": "众人用餐上热锅",
+      "characters": [
+        "李嬷嬷",
+        "宝玉",
+        "众人"
+      ],
+      "location": "薛姨妈处",
+      "time_hint": "sequential",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "李嬷嬷安抚宝玉，众人继续用餐，随后端上热锅。"
+    }
+  ]
+}

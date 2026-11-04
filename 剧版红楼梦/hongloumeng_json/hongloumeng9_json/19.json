@@ -1,0 +1,104 @@
+{
+  "episode_id": "09",
+  "episode_title": "意绵绵静日玉生香",
+  "segment_id": "S19",
+  "event_count": 6,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉被丫鬟催促去见父亲",
+      "characters": [
+        "贾宝玉",
+        "金钏",
+        "彩云"
+      ],
+      "location": "走廊",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "金钏和彩云在走廊催促宝玉去见贾政，宝玉虽不情愿但仍前往。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉进屋拜见长辈和姐妹",
+      "characters": [
+        "贾宝玉",
+        "贾政",
+        "王夫人",
+        "贾迎春",
+        "贾探春",
+        "贾惜春"
+      ],
+      "location": "荣国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉进入贾政房中，向贾政、王夫人及众姐妹行礼。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾政传达旨并训斥宝玉",
+      "characters": [
+        "贾政",
+        "贾宝玉",
+        "王夫人",
+        "贾迎春",
+        "贾探春",
+        "贾惜春"
+      ],
+      "location": "荣国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾政传达元春让姐妹们搬入园子居住的谕旨，并训斥宝玉整日游荡不务正业。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "贾政质问袭人名字由来",
+      "characters": [
+        "贾政",
+        "贾宝玉",
+        "王夫人"
+      ],
+      "location": "荣国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾政质问丫鬟“袭人”名字的由来，宝玉引用诗句解释，贾政批评其专在浓词艳赋上下功夫。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "王夫人劝解并让宝玉离开",
+      "characters": [
+        "王夫人",
+        "贾宝玉",
+        "贾政"
+      ],
+      "location": "荣国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王夫人劝贾政息怒并让宝玉去陪老太太吃饭，宝玉退出房间。"
+    },
+    {
+      "event_id": "E06",
+      "narrative_order": 6,
+      "action": "宝玉离开后与门外丫鬟交谈",
+      "characters": [
+        "贾宝玉",
+        "金钏",
+        "彩云"
+      ],
+      "location": "走廊",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉离开房间后，金钏和彩云询问他是否挨骂，宝玉跑开。"
+    }
+  ]
+}

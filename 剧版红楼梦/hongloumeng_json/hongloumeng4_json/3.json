@@ -1,0 +1,8 @@
+{
+  "episode_id": "04",
+  "episode_title": "探宝钗黛玉半含酸",
+  "segment_id": "S03",
+  "video_file": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng4_segments\\3.mp4",
+  "model": "qwen3.6-plus",
+  "error": "HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/uploads?action=getPolicy&model=qwen3.6-plus (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000001969E9FA150>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 11001] getaddrinfo failed)\"))"
+}

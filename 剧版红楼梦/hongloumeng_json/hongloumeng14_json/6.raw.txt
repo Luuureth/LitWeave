@@ -1,0 +1,68 @@
+```json
+{
+  "episode_id": "14",
+  "episode_title": "含耻辱情烈死金钏",
+  "segment_id": "S06",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉抱怨节日无趣，晴雯劝其进屋换衣",
+      "characters": [
+        "贾宝玉",
+        "晴雯"
+      ],
+      "location": "怡红院庭院",
+      "time_hint": "background",
+      "explicit_time": "端午",
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉在庭院抱怨端午节过得无趣，晴雯在一旁劝慰并催促其进屋换衣服。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉因跌折扇骨责备晴雯，双方发生激烈争吵",
+      "characters": [
+        "贾宝玉",
+        "晴雯"
+      ],
+      "location": "怡红院内室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉进屋换衣时因扇子跌折而责备晴雯，晴雯反唇相讥提及袭人挨打，宝玉怒言要打发晴雯。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "袭人进屋劝解反遭晴雯讽刺，宝玉怒斥",
+      "characters": [
+        "贾宝玉",
+        "晴雯",
+        "袭人"
+      ],
+      "location": "怡红院内室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "袭人进屋试图劝架，反被晴雯讽刺只会服侍爷，宝玉见状更加生气，场面混乱。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "宝玉执意要回太太打发晴雯，晴雯誓死不从，宝玉痛苦绝望",
+      "characters": [
+        "贾宝玉",
+        "晴雯",
+        "袭人"
+      ],
+      "location": "怡红院内室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉执意要去回禀太太打发晴雯，晴雯哭诉誓死不出门，宝玉感到心灰意冷痛苦不堪。"
+    }
+  ]
+}
+```

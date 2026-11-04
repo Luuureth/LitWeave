@@ -1,0 +1,67 @@
+```json
+{
+  "episode_id": "09",
+  "episode_title": "意绵绵静日玉生香",
+  "segment_id": "S07",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾环与莺儿赌钱争执",
+      "characters": [
+        "贾环",
+        "莺儿"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾环与莺儿因赌钱发生争执，互相指责对方耍赖。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝钗斥责莺儿维护贾环",
+      "characters": [
+        "宝钗",
+        "莺儿",
+        "贾环"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝钗斥责莺儿没规矩，维护贾环，认为贾环不会赖账。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾环哭诉身世",
+      "characters": [
+        "贾环"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾环大哭，抱怨大家偏心宝玉，欺负自己不是太太养的。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "宝钗与莺儿劝解贾环",
+      "characters": [
+        "宝钗",
+        "莺儿",
+        "贾环"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝钗与莺儿劝慰贾环别哭，数落他耍赖没规矩，让他离开。"
+    }
+  ]
+}
+```

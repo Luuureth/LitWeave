@@ -1,0 +1,40 @@
+{
+  "episode_id": "15",
+  "episode_title": "弄唇舌宝玉遭笞挞",
+  "segment_id": "S06",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "袭人向王夫人进言建议宝玉搬出园子",
+      "characters": [
+        "袭人",
+        "王夫人",
+        "贾宝玉",
+        "林黛玉",
+        "薛宝钗"
+      ],
+      "location": "荣国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "袭人向王夫人进言，指出园中姑娘渐大且宝玉性格特殊，建议日后让宝玉搬出园子外住以保全名声。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "王夫人托付袭人照管宝玉",
+      "characters": [
+        "王夫人",
+        "袭人",
+        "贾宝玉"
+      ],
+      "location": "荣国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王夫人被袭人的忠心打动，赞赏其保全了娘儿俩的体面，遂将宝玉托付给袭人，并承诺日后不会亏待她。"
+    }
+  ]
+}

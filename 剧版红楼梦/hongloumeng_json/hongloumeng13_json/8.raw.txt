@@ -1,0 +1,68 @@
+```json
+{
+  "episode_id": "13",
+  "episode_title": "享福人福深还祷福",
+  "segment_id": "S08",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "林之孝催促众人并嘱咐小丫头",
+      "characters": [
+        "林之孝",
+        "小丫头"
+      ],
+      "location": "府门外",
+      "time_hint": null,
+      "explicit_time": "昨儿",
+      "relation_to_previous": "start",
+      "event_summary": "林之孝在府门外催促众人赶路，并嘱咐随行的小丫头因是头次跟出门要好生伺候。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾珍向林之孝布置仆役安排",
+      "characters": [
+        "贾珍",
+        "林之孝"
+      ],
+      "location": "台阶",
+      "time_hint": "after",
+      "explicit_time": "今儿个",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾珍在台阶上向林之孝交代今日仆役的调度安排，要求闲杂人等不得靠近。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾珍迎接张道士",
+      "characters": [
+        "贾珍",
+        "张道士"
+      ],
+      "location": "台阶",
+      "time_hint": "after",
+      "explicit_time": "今天",
+      "relation_to_previous": "sequential",
+      "event_summary": "张道士下山，贾珍上前迎接并与其一同上山，两人言语间颇为熟稔。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "贾珍训斥贾蓉并派其回家",
+      "characters": [
+        "贾珍",
+        "贾蓉",
+        "张道士",
+        "小厮"
+      ],
+      "location": "廊下",
+      "time_hint": "after",
+      "explicit_time": "今儿个",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾珍在廊下发现贾蓉偷懒乘凉，对其严厉训斥并命其骑马回家接女眷前来伺候。"
+    }
+  ]
+}
+```

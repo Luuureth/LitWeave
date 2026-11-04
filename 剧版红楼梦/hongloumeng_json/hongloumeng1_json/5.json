@@ -1,0 +1,49 @@
+{
+  "episode_id": "01",
+  "episode_title": "林黛玉别父进京都",
+  "segment_id": "S05",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "回忆父亲叮嘱",
+      "characters": [
+        "林黛玉",
+        "林如海"
+      ],
+      "location": "船上",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "林黛玉在船上听到父亲林如海送别时的叮嘱，神情忧郁悲伤。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "吟诗抒怀",
+      "characters": [
+        "贾雨村"
+      ],
+      "location": "船上",
+      "time_hint": "parallel",
+      "explicit_time": null,
+      "relation_to_previous": "parallel",
+      "event_summary": "贾雨村在船头观赏风景并吟诗，表达自己待时而飞的抱负。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "伺候吃药",
+      "characters": [
+        "林黛玉",
+        "雪雁"
+      ],
+      "location": "船上",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "夜间雪雁进舱伺候生病咳嗽的林黛玉吃药。"
+    }
+  ]
+}

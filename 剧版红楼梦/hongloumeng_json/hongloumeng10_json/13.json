@@ -1,0 +1,63 @@
+{
+  "episode_id": "10",
+  "episode_title": "听曲文宝玉悟禅机",
+  "segment_id": "S13",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "戏曲演员登台献唱",
+      "characters": [
+        "芳官",
+        "龄官",
+        "王熙凤",
+        "贾宝玉",
+        "林黛玉",
+        "薛宝钗",
+        "史湘云"
+      ],
+      "location": "贾府宴席处",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "戏曲演员登台演唱，众人在宴席处观看。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "众人赞赏并打赏戏曲演员",
+      "characters": [
+        "王熙凤",
+        "贾宝玉",
+        "林黛玉",
+        "薛宝钗",
+        "史湘云",
+        "芳官",
+        "龄官"
+      ],
+      "location": "贾府宴席处",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众人赞赏表演并打赏钱物，同时询问并得知演员名为芳官与龄官。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "史湘云直言戏子似黛玉引不快",
+      "characters": [
+        "王熙凤",
+        "史湘云",
+        "贾宝玉",
+        "林黛玉",
+        "薛宝钗"
+      ],
+      "location": "贾府宴席处",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众人议论戏子容貌，史湘云直言其像林黛玉，贾宝玉示意制止，林黛玉心生不悦。"
+    }
+  ]
+}

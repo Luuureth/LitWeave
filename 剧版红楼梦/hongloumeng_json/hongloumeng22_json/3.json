@@ -1,0 +1,81 @@
+{
+  "episode_id": "22",
+  "episode_title": "判冤决狱平儿行权",
+  "segment_id": "S03",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "室内女子因脸上发痒欲向林姑娘讨要蔷薇硝",
+      "characters": [
+        "莺儿",
+        "蕊官"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "莺儿感觉脸上发痒，欲找林姑娘要些蔷薇硝，蕊官告知前儿剩下的已给了琴妹妹。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "莺儿在水边折柳条鲜花编花篮",
+      "characters": [
+        "莺儿",
+        "蕊官"
+      ],
+      "location": "水边",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "莺儿在水边折柳条和鲜花编花篮，准备送给林姑娘。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "莺儿将花篮送给林姑娘并讨得蔷薇硝",
+      "characters": [
+        "莺儿",
+        "林黛玉",
+        "紫鹃"
+      ],
+      "location": "室内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "莺儿将编好的花篮送给林黛玉，林黛玉夸赞后吩咐紫鹃包些蔷薇硝给莺儿。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "莺儿等人在水边折花柳遭夏婆子指责追赶",
+      "characters": [
+        "莺儿",
+        "春燕",
+        "夏婆子"
+      ],
+      "location": "水边",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "莺儿、春燕等人在水边折花柳编柳篮，被管理该地的夏婆子发现并指责追赶。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "春燕逃至回廊向宝玉求救",
+      "characters": [
+        "春燕",
+        "夏婆子",
+        "贾宝玉"
+      ],
+      "location": "回廊",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "春燕被夏婆子追赶逃至回廊向贾宝玉求救，宝玉出面制止并责备夏婆子。"
+    }
+  ]
+}

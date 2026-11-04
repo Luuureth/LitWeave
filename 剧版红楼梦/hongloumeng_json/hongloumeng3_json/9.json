@@ -1,0 +1,39 @@
+{
+  "episode_id": "03",
+  "episode_title": "刘姥姥一进荣国府",
+  "segment_id": "S09",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王熙凤乘马车到达并与尤氏等人会面",
+      "characters": [
+        "王熙凤",
+        "尤氏",
+        "秦可卿"
+      ],
+      "location": "府内庭院",
+      "time_hint": "start",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤乘坐马车到达荣国府，与尤氏、秦可卿等人会面。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "王熙凤与贾蓉等人交谈并询问宝叔去向",
+      "characters": [
+        "王熙凤",
+        "贾蓉",
+        "尤氏",
+        "秦可卿"
+      ],
+      "location": "府内庭院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤与贾蓉等人交谈，得知宝叔去了玄真观，并要求见宝叔要见的兄弟。"
+    }
+  ]
+}

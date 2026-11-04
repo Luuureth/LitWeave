@@ -1,0 +1,37 @@
+{
+  "episode_id": "05",
+  "episode_title": "王熙凤毒设相思局",
+  "segment_id": "S15",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "仆人奔跑呼唤贾琏，贾琏闻声走出屋外",
+      "characters": [
+        "贾琏",
+        "仆人"
+      ],
+      "location": "贾府庭院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "仆人在庭院中奔跑呼唤二哥哥，贾琏闻声从屋内走出。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾宝玉入内得知林黛玉需回乡探父，询问归期",
+      "characters": [
+        "贾宝玉",
+        "林黛玉",
+        "贾母"
+      ],
+      "location": "贾母房中",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉急步入内，见林黛玉垂泪，贾母告知其父病重需接她回乡，宝玉担忧询问归期并获安抚。"
+    }
+  ]
+}

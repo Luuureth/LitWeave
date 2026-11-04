@@ -1,0 +1,41 @@
+```json
+{
+  "episode_id": "05",
+  "episode_title": "王熙凤毒设相思局",
+  "segment_id": "S03",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王熙凤与平儿谈论收取利银及贾瑞来访",
+      "characters": [
+        "王熙凤",
+        "平儿",
+        "旺儿媳妇",
+        "贾瑞"
+      ],
+      "location": "王熙凤房间",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤与平儿谈论收取旺儿媳妇送来的利银，并得知贾瑞来打听她的行踪。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "平儿为熙凤梳头并通报贾瑞已到",
+      "characters": [
+        "王熙凤",
+        "平儿",
+        "贾瑞"
+      ],
+      "location": "王熙凤房间",
+      "time_hint": null,
+      "explicit_time": "这几天",
+      "relation_to_previous": "sequential",
+      "event_summary": "平儿在王熙凤梳妆时提到贾瑞这几天来过多次，随后通报贾瑞已到，王熙凤命其进屋。"
+    }
+  ]
+}
+```

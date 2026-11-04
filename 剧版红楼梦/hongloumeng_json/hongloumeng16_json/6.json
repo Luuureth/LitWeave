@@ -1,0 +1,124 @@
+{
+  "episode_id": "16",
+  "episode_title": "刘姥姥嬉游大观园",
+  "segment_id": "S06",
+  "event_count": 8,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众人布置宴席",
+      "characters": [
+        "王熙凤",
+        "鸳鸯",
+        "李纨"
+      ],
+      "location": "宴席厅堂",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "丫鬟们搬运食盒，凤姐与鸳鸯指挥众人布置宴席桌椅。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "凤姐鸳鸯密谋",
+      "characters": [
+        "王熙凤",
+        "鸳鸯"
+      ],
+      "location": "宴席厅堂",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "凤姐与鸳鸯商量将刘姥姥当作女清客来取笑。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "鸳鸯叮嘱刘姥姥",
+      "characters": [
+        "鸳鸯",
+        "刘姥姥"
+      ],
+      "location": "宴席厅堂",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "鸳鸯私下叮嘱刘姥姥待会儿要守规矩，配合行事以免被人笑话。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "刘姥姥讲笑话",
+      "characters": [
+        "刘姥姥",
+        "史太君",
+        "王熙凤"
+      ],
+      "location": "宴席厅堂",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宴席开始，刘姥姥站起说出“食量大如牛”的滑稽话语。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "众人哄堂大笑",
+      "characters": [
+        "史湘云",
+        "林黛玉",
+        "贾宝玉",
+        "王夫人",
+        "史太君"
+      ],
+      "location": "宴席厅堂",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众人被刘姥姥逗得前仰后合，史湘云喷饭，林黛玉岔气，宝玉滚入贾母怀中。"
+    },
+    {
+      "event_id": "E06",
+      "narrative_order": 6,
+      "action": "刘姥姥夹鸽子蛋",
+      "characters": [
+        "王熙凤",
+        "刘姥姥"
+      ],
+      "location": "宴席厅堂",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "凤姐给刘姥姥换上长筷子，刘姥姥费力夹鸽子蛋并夸赞其小巧。"
+    },
+    {
+      "event_id": "E07",
+      "narrative_order": 7,
+      "action": "刘姥姥掉落鸽子蛋",
+      "characters": [
+        "刘姥姥"
+      ],
+      "location": "宴席厅堂",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "刘姥姥夹起鸽子蛋却掉落地上，感叹一两银子没听见响就没了。"
+    },
+    {
+      "event_id": "E08",
+      "narrative_order": 8,
+      "action": "贾母提议行酒令",
+      "characters": [
+        "史太君",
+        "薛姨妈"
+      ],
+      "location": "宴席厅堂",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母解释那是鸽子蛋，并提议大家吃酒后行酒令助兴。"
+    }
+  ]
+}

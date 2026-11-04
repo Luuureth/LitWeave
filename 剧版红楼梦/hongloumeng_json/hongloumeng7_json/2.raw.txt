@@ -1,0 +1,38 @@
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S02",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "信使策马疾驰赶回贾府",
+      "characters": [
+        "骑马信使",
+        "路人"
+      ],
+      "location": "街道",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "多名信使骑马在街道上匆忙疾驰，直奔贾府方向。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "仆人急报赖总管归来",
+      "characters": [
+        "传话仆人",
+        "贾母",
+        "王熙凤",
+        "众女眷"
+      ],
+      "location": "贾府正堂前",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "传话仆人跑入府中跪地急报赖总管归来，王熙凤下令速去传唤，贾母双手合十念阿弥陀佛，众女眷闻讯情绪激动。"
+    }
+  ]
+}

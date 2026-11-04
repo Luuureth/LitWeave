@@ -1,0 +1,30 @@
+{
+  "episode_id": "17",
+  "episode_title": "变生不测凤姐泼醋",
+  "segment_id": "S10",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾宝玉与林黛玉等在竹林中交谈",
+      "characters": ["贾宝玉", "林黛玉", "侍女"],
+      "location": "竹林",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉在竹林中与林黛玉等交谈，称自己关于眼泪的话错了，并提及琏二嫂子生日。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾宝玉与男性骑马出城",
+      "characters": ["贾宝玉", "男性随从"],
+      "location": "城外道路",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉与男性骑马出北门，称要找冷清的地方。"
+    }
+  ]
+}

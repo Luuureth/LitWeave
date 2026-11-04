@@ -1,0 +1,50 @@
+{
+  "episode_id": "21",
+  "episode_title": "荣国府元宵开夜宴.",
+  "segment_id": "S13",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "探春宣布承包政策，众婆子响应认领",
+      "characters": [
+        "贾探春"
+      ],
+      "location": "大观园",
+      "time_hint": "same_time",
+      "explicit_time": "从今儿起",
+      "relation_to_previous": "start",
+      "event_summary": "探春宣布大观园各处的修理照看由个人承包，众婆子争相认领竹子、稻地等区域并表示愿意上交收益。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "探春与平儿明确收益分配规则",
+      "characters": [
+        "贾探春",
+        "平儿"
+      ],
+      "location": "大观园",
+      "time_hint": "same_time",
+      "explicit_time": "年终",
+      "relation_to_previous": "sequential",
+      "event_summary": "探春说明承包者除供给分例外可自取利润，平儿建议年终算账归入公中账房，避免层层盘剥。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宝钗提出分润建议，众婆子感激答应",
+      "characters": [
+        "薛宝钗",
+        "贾探春",
+        "平儿"
+      ],
+      "location": "大观园",
+      "time_hint": "same_time",
+      "explicit_time": "一年",
+      "relation_to_previous": "sequential",
+      "event_summary": "宝钗建议从承包收益中拿钱分给不承包的老妈妈以全大体，众婆子感激涕零并承诺尽心尽力。"
+    }
+  ]
+}

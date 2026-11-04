@@ -1,0 +1,51 @@
+{
+  "episode_id": "09",
+  "episode_title": "意绵绵静日玉生香",
+  "segment_id": "S04",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "袭人与丫鬟嬉闹争抢饰物，花自芳旁观发笑",
+      "characters": [
+        "袭人",
+        "花自芳"
+      ],
+      "location": "花自芳家",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "袭人与丫鬟在屋内嬉闹争抢饰物，花自芳在一旁观看发笑，随后听闻有人到来。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "袭人院外撞见茗烟并斥责其私自带人外出，茗烟辩白",
+      "characters": [
+        "袭人",
+        "茗烟"
+      ],
+      "location": "花自芳家",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "袭人在院外撞见茗烟，斥责他私自带二爷外出胡闹，茗烟辩称为二爷所逼。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "花自芳劝解袭人，宝玉现身窗前寒暄",
+      "characters": [
+        "花自芳",
+        "贾宝玉",
+        "袭人"
+      ],
+      "location": "花自芳家",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "花自芳出面劝解袭人勿再责怪，宝玉现身窗前，谦称居所简陋并询问袭人如何就座。"
+    }
+  ]
+}

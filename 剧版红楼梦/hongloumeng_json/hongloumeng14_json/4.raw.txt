@@ -1,0 +1,70 @@
+```json
+{
+  "episode_id": "14",
+  "episode_title": "含耻辱情烈死金钏",
+  "segment_id": "S04",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "怒斥",
+      "characters": [
+        "王夫人",
+        "金钏",
+        "宝玉"
+      ],
+      "location": "王夫人房中",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王夫人怒斥金钏是下作的小娼妇，教坏了宝玉，宝玉随即离开。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "命令与求饶",
+      "characters": [
+        "王夫人",
+        "玉钏",
+        "金钏"
+      ],
+      "location": "王夫人房中",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王夫人命令玉钏去叫母亲来领人，金钏跪在地上哭诉求饶，表示愿伺候一辈子。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "连骂与驱逐",
+      "characters": [
+        "王夫人",
+        "玉钏",
+        "金钏"
+      ],
+      "location": "王夫人房中",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王夫人指责玉钏养的好闺女，命令玉钏带着金钏滚出去，玉钏也跪下求情。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "磕头求饶",
+      "characters": [
+        "金钏",
+        "玉钏",
+        "王夫人"
+      ],
+      "location": "王夫人房中",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "金钏绝望地磕头求饶，王夫人表示看见她们恶心，金钏最终起身。"
+    }
+  ]
+}
+```

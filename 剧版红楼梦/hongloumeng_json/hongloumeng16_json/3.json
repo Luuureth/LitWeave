@@ -1,0 +1,44 @@
+{
+  "episode_id": "16",
+  "episode_title": "刘姥姥嬉游大观园",
+  "segment_id": "S03",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "侍女商议午宴安排",
+      "characters": [],
+      "location": "秋爽斋",
+      "time_hint": null,
+      "explicit_time": "今儿午饭",
+      "relation_to_previous": "start",
+      "event_summary": "侍女在廊下商议将午饭设在缀锦阁，并提及老太太正与薛姨妈交谈，随后引众人进入秋爽斋。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "众人入斋参观",
+      "characters": [],
+      "location": "秋爽斋",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众小姐与丫鬟进入秋爽斋内，观赏书架上的典籍与文房四宝，并互相招呼落座。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "板儿抢食糕点遭劝止",
+      "characters": [
+        "刘姥姥",
+        "板儿"
+      ],
+      "location": "秋爽斋",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "刘姥姥带板儿赏玩斋内玉雕与挂饰，板儿伸手抢夺叶子状糕点欲吃，刘姥姥急忙劝阻称不可食用只能玩赏，引发众小姐掩嘴哄笑，随后刘姥姥责备板儿淘气并带其离开。"
+    }
+  ]
+}

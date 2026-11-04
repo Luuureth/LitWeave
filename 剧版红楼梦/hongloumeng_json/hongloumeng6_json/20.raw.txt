@@ -1,0 +1,38 @@
+```json
+{
+  "episode_id": "06",
+  "episode_title": "王熙凤协理宁国府",
+  "segment_id": "S20",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "举行法事并焚烧纸扎祭品",
+      "characters": [
+        "僧众",
+        "送葬亲眷"
+      ],
+      "location": null,
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "僧众与送葬亲眷在户外举行法事，并焚烧大量纸扎祭品。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "轿子抵达水月庵",
+      "characters": [
+        "奶奶",
+        "随从"
+      ],
+      "location": "水月庵",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "载有奶奶的轿子抵达水月庵门口，众人准备进入。"
+    }
+  ]
+}
+```

@@ -1,0 +1,161 @@
+{
+  "chapter_id": "039",
+  "chapter_title": "第三十九回 村姥姥是信口开河 情哥哥偏寻根究底",
+  "source_type": "hongloumeng_text",
+  "event_count": 9,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "平儿赴宴与众人闲话品评丫鬟",
+      "characters": [
+        "平儿",
+        "李纨",
+        "薛宝钗",
+        "史湘云",
+        "贾惜春",
+        "贾宝玉",
+        "贾探春"
+      ],
+      "location": "园中亭子",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "平儿被李纨留下吃螃蟹，席间众人闲话品评各房得力大丫鬟的性情与功劳。",
+      "source_text": "话说众人见平儿来了，都说：“你们奶奶做什么呢，怎么不来了？”……李氏道：“你倒是有造化的，凤丫头也是有造化的。……说着不觉眼圈儿红了。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "袭人私下向平儿打听月钱",
+      "characters": [
+        "袭人",
+        "平儿"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众人散席洗手，袭人私下询问平儿月钱迟发原委，得知王熙凤挪用月钱放债。",
+      "source_text": "众人都道：“这又何必伤心，不如散了倒好。”……袭人道：“此时也用不着。怕一时要用起来不够了，我打发人去取就是了。”"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "平儿接待进府送菜的刘姥姥",
+      "characters": [
+        "平儿",
+        "刘姥姥",
+        "板儿",
+        "张材家的",
+        "周瑞家的"
+      ],
+      "location": "荣国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "平儿出园门应凤姐传唤，至院中接待进府送瓜果野菜的刘姥姥等人并闲话螃蟹价钱。",
+      "source_text": "平儿答应着，一径出了园门，只见凤姐那边打发人来找平儿，说：“奶奶有事等你。”……刘姥姥道：“这些螃蟹，今年就值五分一斤，十斤五钱，五五二两五，三五一十五，再搭上酒菜，一共倒有二十多两银子。阿弥陀佛！这一顿的银子，够我们庄家人过一年了！”"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "平儿准假小厮并领刘姥姥见贾母",
+      "characters": [
+        "平儿",
+        "刘姥姥",
+        "周瑞家的"
+      ],
+      "location": "荣国府",
+      "time_hint": "after",
+      "explicit_time": "这会子也好早晚了",
+      "relation_to_previous": "sequential",
+      "event_summary": "周瑞家的回报贾母欲见刘姥姥，平儿陪同前往并在二门口准假小厮并吩咐讨债。",
+      "source_text": "平儿因问：“想是见过奶奶了？”……那小厮欢天喜地，答应去了。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "刘姥姥拜见贾母获留宿",
+      "characters": [
+        "刘姥姥",
+        "史太君",
+        "王熙凤",
+        "板儿",
+        "周瑞家的"
+      ],
+      "location": "贾母院",
+      "time_hint": null,
+      "explicit_time": "彼时",
+      "relation_to_previous": "sequential",
+      "event_summary": "刘姥姥拜见贾母并互问年纪，贾母挽留留宿，刘姥姥讲乡村趣事引得贾母感兴趣。",
+      "source_text": "平儿等来至贾母房中。……正说着，凤姐儿便命人请刘姥姥吃晚饭，贾母又将自己的菜拣了几样，命人送过去给刘姥姥吃。"
+    },
+    {
+      "event_id": "E06",
+      "narrative_order": 6,
+      "action": "刘姥姥讲故事引马棚走火",
+      "characters": [
+        "刘姥姥",
+        "史太君",
+        "王夫人"
+      ],
+      "location": "贾母院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "刘姥姥讲雪夜抽柴女孩故事时忽闻马棚走火，贾母受惊查看，火熄后方回屋。",
+      "source_text": "凤姐知道合了贾母的心，吃了饭便又打发过来。……贾母足足的看着火光熄了，方领众人进来。"
+    },
+    {
+      "event_id": "E07",
+      "narrative_order": 7,
+      "action": "刘姥姥改讲老奶奶求孙故事",
+      "characters": [
+        "贾宝玉",
+        "史太君",
+        "刘姥姥",
+        "王夫人"
+      ],
+      "location": "贾母院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉追问雪天抽柴女孩，贾母打断，刘姥姥转而讲述老奶奶念佛得孙的故事。",
+      "source_text": "宝玉且忙问刘姥姥：“那女孩儿大雪地里做什么抽柴火？倘或冻出病来呢？”……这一席话暗合了贾母王夫人的心事，连王夫人也都听住了。"
+    },
+    {
+      "event_id": "E08",
+      "narrative_order": 8,
+      "action": "宝玉私下追问抽柴故事详情",
+      "characters": [
+        "贾宝玉",
+        "刘姥姥",
+        "贾探春",
+        "林黛玉",
+        "薛宝钗"
+      ],
+      "location": "贾母院",
+      "time_hint": null,
+      "explicit_time": "一时散了",
+      "relation_to_previous": "sequential",
+      "event_summary": "众人闲谈作诗时，宝玉私下拦住刘姥姥细问抽柴女孩原委，刘姥姥编出若玉小姐祠堂故事。",
+      "source_text": "宝玉心中只惦记抽柴的事，因闷的心中筹画。……宝玉又问他地名庄名，来往远近，坐落何方，刘姥姥便顺口诌了出来。"
+    },
+    {
+      "event_id": "E09",
+      "narrative_order": 9,
+      "action": "焙茗寻庙回报实为瘟神爷",
+      "characters": [
+        "贾宝玉",
+        "茗烟"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": "次日一早",
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉遣焙茗按地名寻访，焙茗日落回报寻得破庙，泥胎实为青脸红发瘟神爷而非女孩。",
+      "source_text": "宝玉信以为真，回至房中，盘算了一夜。……不知何事，下回分解。"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "episode_id": "17",
+  "episode_title": "变生不测凤姐泼醋",
+  "segment_id": "S15",
+  "event_count": 6,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "偷听密谋并掌掴平儿",
+      "characters": [
+        "王熙凤",
+        "平儿",
+        "贾琏",
+        "鲍二家的"
+      ],
+      "location": "庭院",
+      "time_hint": "start",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "凤姐在庭院偷听到贾琏与鲍二家的商议毒死自己并扶正平儿，愤怒之下掌掴平儿。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "大闹卧房引发混战",
+      "characters": [
+        "王熙凤",
+        "贾琏",
+        "鲍二家的",
+        "平儿"
+      ],
+      "location": "荣国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "凤姐冲入贾琏卧房大闹殴打鲍二家的，贾琏护人并踢打凤姐，双方扭打，贾琏拔剑欲杀凤姐。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "逃至贾母处哭诉求救",
+      "characters": [
+        "王熙凤",
+        "史太君"
+      ],
+      "location": "贾母院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "凤姐躲避贾琏追打跑至贾母处，扑入贾母怀中哭诉贾琏要杀她。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "陈述冲突原委",
+      "characters": [
+        "王熙凤",
+        "史太君"
+      ],
+      "location": "贾母院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "凤姐向贾母详细陈述偷听到的奸情及谋害计划，解释因气愤打了平儿才引来贾琏动武。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "贾琏追至被贾母斥责",
+      "characters": [
+        "贾琏",
+        "史太君",
+        "王熙凤"
+      ],
+      "location": "贾母院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾琏持剑追至贾母房，被贾母怒斥为下流坯子并命人拿下，贾琏辩称凤姐是夜叉星后被赶出。"
+    },
+    {
+      "event_id": "E06",
+      "narrative_order": 6,
+      "action": "众人劝解安抚凤姐",
+      "characters": [
+        "史太君",
+        "王熙凤"
+      ],
+      "location": "贾母院",
+      "time_hint": "after",
+      "explicit_time": "今儿、明儿个一早",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母及众女眷劝解凤姐，贾母表示年轻人难免犯错，承诺让贾琏明日赔罪，安抚凤姐情绪。"
+    }
+  ]
+}

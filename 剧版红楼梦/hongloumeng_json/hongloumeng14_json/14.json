@@ -1,0 +1,93 @@
+{
+  "episode_id": "14",
+  "episode_title": "含耻辱情烈死金钏",
+  "segment_id": "S14",
+  "event_count": 6,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "忠顺王府长史官求见贾政",
+      "characters": [
+        "贾政"
+      ],
+      "location": "荣禧堂",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "忠顺王府长史官来到贾府，贾政出面迎接。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "长史官向贾政索要琪官",
+      "characters": [
+        "贾政",
+        "蒋玉菡",
+        "忠顺王爷"
+      ],
+      "location": "荣禧堂",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "长史官说明奉忠顺王爷之命，因琪官失踪且与贾府公子交好，请求贾政协助找回。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾政传唤贾宝玉",
+      "characters": [
+        "贾政",
+        "贾宝玉"
+      ],
+      "location": "荣禧堂",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾政听闻长史官来意后，传唤贾宝玉前来问话。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "长史官质问贾宝玉",
+      "characters": [
+        "贾宝玉",
+        "贾政",
+        "蒋玉菡"
+      ],
+      "location": "荣禧堂",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "长史官当面质问贾宝玉是否认识琪官，贾宝玉起初矢口否认。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "贾宝玉透露琪官下落",
+      "characters": [
+        "贾宝玉",
+        "蒋玉菡"
+      ],
+      "location": "荣禧堂",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "长史官出示红汗巾子作为证据，贾宝玉被迫透露琪官可能在东郊紫檀堡。"
+    },
+    {
+      "event_id": "E06",
+      "narrative_order": 6,
+      "action": "长史官告辞，贾政警告贾宝玉",
+      "characters": [
+        "贾政",
+        "贾宝玉"
+      ],
+      "location": "荣禧堂",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "长史官表示将前往紫檀堡寻找并告辞，贾政警告贾宝玉不要乱动，稍后问话。"
+    }
+  ]
+}

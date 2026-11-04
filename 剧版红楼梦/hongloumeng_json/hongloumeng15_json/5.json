@@ -1,0 +1,37 @@
+{
+  "episode_id": "15",
+  "episode_title": "弄唇舌宝玉遭笞挞",
+  "segment_id": "S05",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉解释伤情并表露心迹",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "卧室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "宝玉向黛玉解释挨打是假装的，黛玉劝其改过，宝玉表示心甘情愿。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "黛玉避嫌离开",
+      "characters": [
+        "贾宝玉",
+        "林黛玉",
+        "王熙凤"
+      ],
+      "location": "卧室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉察觉王熙凤来了，黛玉害怕被取笑，匆匆从后院离开。"
+    }
+  ]
+}

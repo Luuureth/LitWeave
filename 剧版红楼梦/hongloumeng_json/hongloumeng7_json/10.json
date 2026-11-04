@@ -1,0 +1,64 @@
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S10",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "清点分配礼物",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "贾府内室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉与林黛玉在室内清点礼物，并按归属分发给宝姐姐、迎春、探春及惜春。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "赠礼与闲谈",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "贾府内室",
+      "time_hint": null,
+      "explicit_time": "半年",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉将部分礼物赠予林黛玉，二人闲聊近况，贾宝玉提及半年未见林黛玉有所成长。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "拒收信物",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "贾府内室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉欲将北静王爷所赠的念珠转赠林黛玉，林黛玉嫌弃是男人拿过的东西而拒绝。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "姐妹相聚寒暄",
+      "characters": [
+        "林黛玉",
+        "贾宝玉"
+      ],
+      "location": "贾府内室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众姐妹陆续进入房间，与林黛玉和贾宝玉互相问候寒暄，气氛融洽。"
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "episode_id": "12",
+  "episode_title": "埋香冢飞燕泣残红",
+  "segment_id": "S04",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉询问坠儿姓名及丫鬟情况并商议归还手帕",
+      "characters": ["贾宝玉", "坠儿", "小红"],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": "刚一年",
+      "relation_to_previous": "start",
+      "event_summary": "宝玉向坠儿打听其姓名及房内丫鬟情况，并拿出拾到的小红的手帕商议归还与酬谢。"
+    }
+  ]
+}

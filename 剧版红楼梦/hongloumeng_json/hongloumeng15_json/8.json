@@ -1,0 +1,69 @@
+{
+  "episode_id": "15",
+  "episode_title": "弄唇舌宝玉遭笞挞",
+  "segment_id": "S08",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "刘姥姥携板儿携新鲜蔬果入内室拜见",
+      "characters": [
+        "刘姥姥",
+        "板儿",
+        "平儿",
+        "周瑞家的"
+      ],
+      "location": "贾府内室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "刘姥姥带着板儿提着刚摘的蔬果进入内室，向平儿等人恭敬行礼并送上礼物。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "众人落座交谈农事丰收与赠菜心意",
+      "characters": [
+        "刘姥姥",
+        "平儿",
+        "周瑞家的"
+      ],
+      "location": "贾府内室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "刘姥姥与平儿等人落座交谈，解释因今年庄稼丰收特意送来头茬蔬果给府里尝鲜。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "平儿解释面红原因并计算螃蟹酒菜花费",
+      "characters": [
+        "刘姥姥",
+        "平儿",
+        "周瑞家的"
+      ],
+      "location": "贾府内室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "平儿说明自己因陪姑娘们吃蟹饮酒作诗而脸红，众人计算螃蟹与酒菜花费，刘姥姥惊叹其昂贵。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "周大娘转述贾母召见意图并陪同引路",
+      "characters": [
+        "刘姥姥",
+        "平儿",
+        "周瑞家的"
+      ],
+      "location": "贾府内室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "周大娘告知贾母听闻刘姥姥到来欲一见，刘姥姥自谦推辞，经众人劝说后由平儿等人陪同前往。"
+    }
+  ]
+}

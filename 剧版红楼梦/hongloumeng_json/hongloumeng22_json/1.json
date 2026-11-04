@@ -1,0 +1,34 @@
+{
+  "episode_id": "22",
+  "episode_title": "判冤决狱平儿行权",
+  "segment_id": "S01",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "仆人园中劳作",
+      "characters": [],
+      "location": "花园",
+      "time_hint": "background",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "仆人们在花园中挖掘春笋、采摘花卉，展现春日繁忙景象。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉湘云桥上交谈",
+      "characters": [
+        "贾宝玉",
+        "史湘云",
+        "葵官"
+      ],
+      "location": "石桥",
+      "time_hint": null,
+      "explicit_time": "清明节",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉与史湘云在石桥相遇，葵官跑来送花，二人谈论清明节、老太妃薨逝后的守制规矩及十二官的去留。"
+    }
+  ]
+}

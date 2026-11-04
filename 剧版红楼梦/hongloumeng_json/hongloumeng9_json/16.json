@@ -1,0 +1,76 @@
+{
+  "episode_id": "09",
+  "episode_title": "意绵绵静日玉生香",
+  "segment_id": "S16",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "丫鬟通报史湘云到来",
+      "characters": [
+        "莺儿"
+      ],
+      "location": "贾府门口",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "一名丫鬟向莺儿通报史大姑娘已到老太太处，催促其快去。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "史湘云进屋与众人嬉戏",
+      "characters": [
+        "史湘云"
+      ],
+      "location": "贾府内室",
+      "time_hint": "after",
+      "explicit_time": "大正月里",
+      "relation_to_previous": "sequential",
+      "event_summary": "史湘云进入内室与众姐妹笑闹，抱怨大家正月里玩耍却忘了她。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "史湘云向贾宝玉抱怨接待不周",
+      "characters": [
+        "史湘云",
+        "贾宝玉"
+      ],
+      "location": "贾府内室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉进屋，史湘云拉着他抱怨未叫老太太去接自己，宝玉出声安抚。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "贾宝玉与林黛玉交谈生隙",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "贾府内室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉上前与林黛玉搭话，黛玉因宝玉刚从宝钗处来而语带讥讽，随后离席。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "贾宝玉追至回廊与林黛玉争执同行",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "贾府回廊",
+      "time_hint": "after",
+      "explicit_time": "大正月里",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉追至回廊劝慰林黛玉，两人就生气与生死之言发生争执，最终并肩缓步而行。"
+    }
+  ]
+}

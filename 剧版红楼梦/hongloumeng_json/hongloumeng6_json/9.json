@@ -1,0 +1,71 @@
+{
+  "episode_id": "06",
+  "episode_title": "王熙凤协理宁国府",
+  "segment_id": "S09",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "训诫下人",
+      "characters": [],
+      "location": "宁国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "宁国府都总管训诫众下人，强调新来的琏二奶奶管理严厉，要求大家小心谨慎，不要丢脸。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "领取物品并确认时间",
+      "characters": [],
+      "location": "宁国府",
+      "time_hint": "after",
+      "explicit_time": "明儿一早卯正二刻",
+      "relation_to_previous": "sequential",
+      "event_summary": "管家媳妇向都总管领取纸扎等物品，并确认琏二奶奶将于次日卯正二刻上任派差。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "立威训话",
+      "characters": [
+        "王熙凤"
+      ],
+      "location": "宁国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤在宁国府大厅主位落座，威严训诫众下人，表示将严格管理，不讲情面，一例现清白处治。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "分派差事",
+      "characters": [
+        "王熙凤",
+        "彩明"
+      ],
+      "location": "宁国府",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤命彩明念花名册，将下人分组，分派倒茶、守灵、管器物等具体差事，并规定丢失损坏需赔偿。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "定立规矩",
+      "characters": [
+        "王熙凤",
+        "彩明"
+      ],
+      "location": "宁国府",
+      "time_hint": "same_time",
+      "explicit_time": "卯正二刻, 巳时, 午初刻, 戌时",
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤指派彩明每日总查，并规定点卯、吃饭、领牌、查夜等严格作息时间，强调若有违规严惩不贷。"
+    }
+  ]
+}

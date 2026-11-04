@@ -1,0 +1,30 @@
+{
+  "episode_id": "08",
+  "episode_title": "荣国府归省庆元宵",
+  "segment_id": "S15",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众人分工准备迎接",
+      "characters": [],
+      "location": "荣国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "众人在府内走廊互相安排去正楼招呼和去请老爷的任务。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "汇报行程并商议等待",
+      "characters": [],
+      "location": "正厅",
+      "time_hint": "after",
+      "explicit_time": "半个时辰",
+      "relation_to_previous": "sequential",
+      "event_summary": "一人在正厅向老爷汇报娘娘已游览多处景点即将到达，催促去正楼伺候，老爷表示尚需半个时辰不必着急。"
+    }
+  ]
+}

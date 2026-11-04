@@ -1,0 +1,609 @@
+你是一个《红楼梦》人物归一助手。下面提供两类信息：
+
+1）从文本与视频事件 JSON 中统计得到的「原始人物 mention」列表（可能为简称、别称、关系称呼等）。
+2）标准人物名全集（来自《红楼梦人物表》的「姓名」列），你必须**只从该列表中选择**作为映射目标；若无法合理对应到唯一标准人物，请输出 null，并简短说明原因。
+
+每条输入包含：mention, source (txt/video), occurrence_count, file_count。
+
+请对每条 mention 输出一行 JSON 对象（或输出一个 JSON 数组），字段建议为：
+- "mention": 原始字符串
+- "canonical_name": 标准姓名字符串，或 null
+- "confidence": 0~1
+- "reason": 简短中文理由
+
+注意：
+- 不要将群体称呼、纯视觉描述映射到具体人物。
+- 若 mention 可能对应多人（歧义），canonical_name 置 null，并在 reason 说明歧义。
+
+标准人物名列表（仅允许从中选择）：
+[
+  "贾演",
+  "贾源",
+  "贾代化",
+  "贾代善",
+  "贾代儒",
+  "贾代修",
+  "贾敷",
+  "贾敬",
+  "贾赦",
+  "贾政",
+  "贾敏",
+  "贾敕",
+  "贾效",
+  "贾敦",
+  "贾珍",
+  "贾琏",
+  "贾琮",
+  "贾珠",
+  "贾宝玉",
+  "贾环",
+  "贾瑞",
+  "贾璜",
+  "贾珩",
+  "贾㻞",
+  "贾玚",
+  "贾琛",
+  "贾琼",
+  "贾璘",
+  "贾元春",
+  "贾迎春",
+  "贾探春",
+  "贾惜春",
+  "贾巧姐",
+  "喜鸾",
+  "四姐",
+  "贾蓉",
+  "贾兰",
+  "贾蔷",
+  "贾菌",
+  "贾芸",
+  "贾芹",
+  "贾萍",
+  "贾菖",
+  "贾菱",
+  "贾蓁",
+  "贾藻",
+  "贾蘅",
+  "贾芬",
+  "贾芳",
+  "贾芝",
+  "贾荇",
+  "贾芷",
+  "贾葛",
+  "史太君",
+  "史鼐",
+  "史鼎",
+  "史湘云",
+  "王子腾",
+  "王子胜",
+  "王夫人",
+  "薛姨妈",
+  "王仁",
+  "王熙凤",
+  "薛蟠",
+  "薛蝌",
+  "薛宝钗",
+  "薛宝琴",
+  "林黛玉",
+  "妙玉",
+  "邢夫人",
+  "尤氏",
+  "李纨",
+  "秦可卿",
+  "许氏",
+  "香菱",
+  "赵姨娘",
+  "刘姥姥",
+  "甄宝玉",
+  "袭人",
+  "媚人",
+  "晴雯",
+  "绮霰",
+  "麝月",
+  "檀云",
+  "秋纹",
+  "碧痕",
+  "茜雪",
+  "春燕",
+  "坠儿",
+  "四儿",
+  "佳蕙",
+  "抱琴",
+  "司棋",
+  "莲花儿",
+  "绣橘",
+  "侍书",
+  "翠墨",
+  "蝉姐",
+  "入画",
+  "彩屏",
+  "紫鹃",
+  "雪雁",
+  "春纤",
+  "鸳鸯",
+  "琥珀",
+  "珍珠",
+  "玻璃",
+  "翡翠",
+  "鹦鹉",
+  "靛儿",
+  "傻大姐",
+  "银蝶",
+  "炒豆儿",
+  "卐儿",
+  "莺儿",
+  "文杏",
+  "平儿",
+  "小红",
+  "丰儿",
+  "金钏",
+  "玉钏",
+  "绣鸾",
+  "绣凤",
+  "彩云",
+  "彩霞",
+  "素云",
+  "同喜",
+  "同贵",
+  "缕儿",
+  "翠缕",
+  "宝珠",
+  "瑞珠",
+  "姣杏",
+  "小螺",
+  "善姐",
+  "臻儿",
+  "篆儿",
+  "小吉祥儿",
+  "小鹊",
+  "小舍儿",
+  "宝蟾",
+  "茗烟",
+  "焦大",
+  "李贵",
+  "锄药",
+  "墨雨",
+  "伴鹤",
+  "扫花",
+  "引泉",
+  "挑芸",
+  "双瑞",
+  "双寿",
+  "来旺",
+  "兴儿",
+  "王荣",
+  "钱启",
+  "张若锦",
+  "赵亦华",
+  "钱槐",
+  "小玄儿",
+  "隆儿",
+  "昭儿",
+  "喜儿",
+  "寿儿",
+  "杏奴",
+  "庆儿",
+  "王信",
+  "芳官",
+  "龄官",
+  "蕊官",
+  "藕官",
+  "豆官",
+  "宝官",
+  "文官",
+  "茄官",
+  "菂官",
+  "艾官",
+  "玉官",
+  "葵官",
+  "张如圭",
+  "乌进孝",
+  "二丫头",
+  "云儿",
+  "云光",
+  "五儿",
+  "万儿",
+  "代儒夫人",
+  "何婆子",
+  "倪二",
+  "冯渊",
+  "冯紫英",
+  "冷子兴",
+  "净虚",
+  "北静王水溶",
+  "单聘仁",
+  "卜世仁",
+  "卜氏",
+  "史鼎夫人",
+  "吴新登",
+  "吴新登媳妇",
+  "周姨娘",
+  "周瑞",
+  "周瑞家的",
+  "夏婆子",
+  "夏秉忠",
+  "多姑娘",
+  "多浑虫",
+  "嫣红",
+  "宋嬷嬷",
+  "定儿",
+  "封氏",
+  "封肃",
+  "山子野",
+  "张友士",
+  "张德辉",
+  "张材家的",
+  "张道士",
+  "张金哥",
+  "彩明",
+  "忠顺王爷",
+  "情僧",
+  "戴权",
+  "戴良",
+  "扫红",
+  "旺儿",
+  "智善",
+  "智能儿",
+  "李婶娘",
+  "李嬷嬷",
+  "李纹",
+  "李绮",
+  "赖升",
+  "来旺媳妇",
+  "板儿",
+  "林之孝",
+  "林之孝家的",
+  "林如海",
+  "柳家的",
+  "柳湘莲",
+  "王狗儿",
+  "玉爱",
+  "王兴媳妇",
+  "王太医",
+  "王嬷嬷",
+  "王子腾夫人",
+  "王成",
+  "蒋玉菡",
+  "璜大奶奶",
+  "甄士隐",
+  "癞头和尚",
+  "白老媳妇",
+  "石呆子",
+  "碧月",
+  "神瑛侍者",
+  "秋桐",
+  "秦显家的",
+  "秦邦业",
+  "秦钟",
+  "程日兴",
+  "空空道人",
+  "绛珠仙草",
+  "胡斯来",
+  "花自芳",
+  "莺儿姑妈",
+  "董妈妈",
+  "詹光",
+  "警幻仙姑",
+  "贾雨村",
+  "赖大",
+  "赖嬷嬷",
+  "赖尚荣",
+  "赵嬷嬷",
+  "跛足道人",
+  "邢岫烟",
+  "金文翔",
+  "金荣",
+  "钱华",
+  "门子",
+  "霍启",
+  "青儿",
+  "靓儿",
+  "香怜",
+  "马道婆",
+  "鲍二",
+  "鲍二家的"
+]
+
+待归一的 mention 列表：
+[
+  {
+    "mention": "宝玉",
+    "source": "txt",
+    "occurrence_count": 303,
+    "file_count": 49
+  },
+  {
+    "mention": "贾母",
+    "source": "txt",
+    "occurrence_count": 168,
+    "file_count": 46
+  },
+  {
+    "mention": "凤姐",
+    "source": "txt",
+    "occurrence_count": 115,
+    "file_count": 30
+  },
+  {
+    "mention": "黛玉",
+    "source": "txt",
+    "occurrence_count": 106,
+    "file_count": 34
+  },
+  {
+    "mention": "宝钗",
+    "source": "txt",
+    "occurrence_count": 96,
+    "file_count": 34
+  },
+  {
+    "mention": "探春",
+    "source": "txt",
+    "occurrence_count": 58,
+    "file_count": 27
+  },
+  {
+    "mention": "湘云",
+    "source": "txt",
+    "occurrence_count": 31,
+    "file_count": 14
+  },
+  {
+    "mention": "凤姐儿",
+    "source": "txt",
+    "occurrence_count": 24,
+    "file_count": 7
+  },
+  {
+    "mention": "迎春",
+    "source": "txt",
+    "occurrence_count": 24,
+    "file_count": 17
+  },
+  {
+    "mention": "惜春",
+    "source": "txt",
+    "occurrence_count": 23,
+    "file_count": 17
+  },
+  {
+    "mention": "秦氏",
+    "source": "txt",
+    "occurrence_count": 17,
+    "file_count": 6
+  },
+  {
+    "mention": "众清客",
+    "source": "txt",
+    "occurrence_count": 9,
+    "file_count": 1
+  },
+  {
+    "mention": "元妃",
+    "source": "txt",
+    "occurrence_count": 8,
+    "file_count": 2
+  },
+  {
+    "mention": "焙茗",
+    "source": "txt",
+    "occurrence_count": 8,
+    "file_count": 6
+  },
+  {
+    "mention": "太监",
+    "source": "txt",
+    "occurrence_count": 6,
+    "file_count": 1
+  },
+  {
+    "mention": "宝琴",
+    "source": "txt",
+    "occurrence_count": 6,
+    "file_count": 4
+  },
+  {
+    "mention": "众姐妹",
+    "source": "txt",
+    "occurrence_count": 5,
+    "file_count": 5
+  },
+  {
+    "mention": "大姐儿",
+    "source": "txt",
+    "occurrence_count": 5,
+    "file_count": 4
+  },
+  {
+    "mention": "英莲",
+    "source": "txt",
+    "occurrence_count": 5,
+    "file_count": 2
+  },
+  {
+    "mention": "金钏儿",
+    "source": "txt",
+    "occurrence_count": 5,
+    "file_count": 5
+  },
+  {
+    "mention": "众媳妇",
+    "source": "txt",
+    "occurrence_count": 4,
+    "file_count": 1
+  },
+  {
+    "mention": "张先生",
+    "source": "txt",
+    "occurrence_count": 4,
+    "file_count": 1
+  },
+  {
+    "mention": "智能",
+    "source": "txt",
+    "occurrence_count": 4,
+    "file_count": 2
+  },
+  {
+    "mention": "蒋玉函",
+    "source": "txt",
+    "occurrence_count": 4,
+    "file_count": 2
+  },
+  {
+    "mention": "静虚",
+    "source": "txt",
+    "occurrence_count": 4,
+    "file_count": 1
+  },
+  {
+    "mention": "代儒",
+    "source": "txt",
+    "occurrence_count": 3,
+    "file_count": 1
+  },
+  {
+    "mention": "北静王",
+    "source": "txt",
+    "occurrence_count": 3,
+    "file_count": 2
+  },
+  {
+    "mention": "女先儿",
+    "source": "txt",
+    "occurrence_count": 3,
+    "file_count": 1
+  },
+  {
+    "mention": "小蝉",
+    "source": "txt",
+    "occurrence_count": 3,
+    "file_count": 2
+  },
+  {
+    "mention": "春燕娘",
+    "source": "txt",
+    "occurrence_count": 3,
+    "file_count": 1
+  },
+  {
+    "mention": "昭容",
+    "source": "txt",
+    "occurrence_count": 3,
+    "file_count": 1
+  },
+  {
+    "mention": "老嬷嬷",
+    "source": "txt",
+    "occurrence_count": 3,
+    "file_count": 3
+  },
+  {
+    "mention": "胡氏",
+    "source": "txt",
+    "occurrence_count": 3,
+    "file_count": 3
+  },
+  {
+    "mention": "花袭人",
+    "source": "txt",
+    "occurrence_count": 3,
+    "file_count": 1
+  },
+  {
+    "mention": "薛王氏",
+    "source": "txt",
+    "occurrence_count": 3,
+    "file_count": 1
+  },
+  {
+    "mention": "鲍二老婆",
+    "source": "txt",
+    "occurrence_count": 3,
+    "file_count": 1
+  },
+  {
+    "mention": "鹦哥",
+    "source": "txt",
+    "occurrence_count": 3,
+    "file_count": 2
+  },
+  {
+    "mention": "众姊妹",
+    "source": "txt",
+    "occurrence_count": 2,
+    "file_count": 2
+  },
+  {
+    "mention": "傅家嬷嬷",
+    "source": "txt",
+    "occurrence_count": 2,
+    "file_count": 1
+  },
+  {
+    "mention": "僧",
+    "source": "txt",
+    "occurrence_count": 2,
+    "file_count": 1
+  },
+  {
+    "mention": "元春",
+    "source": "txt",
+    "occurrence_count": 2,
+    "file_count": 2
+  },
+  {
+    "mention": "刘氏",
+    "source": "txt",
+    "occurrence_count": 2,
+    "file_count": 1
+  },
+  {
+    "mention": "吴新登的媳妇",
+    "source": "txt",
+    "occurrence_count": 2,
+    "file_count": 1
+  },
+  {
+    "mention": "奶子",
+    "source": "txt",
+    "occurrence_count": 2,
+    "file_count": 2
+  },
+  {
+    "mention": "小丫鬟",
+    "source": "txt",
+    "occurrence_count": 2,
+    "file_count": 2
+  },
+  {
+    "mention": "干娘",
+    "source": "txt",
+    "occurrence_count": 2,
+    "file_count": 1
+  },
+  {
+    "mention": "彩嫔",
+    "source": "txt",
+    "occurrence_count": 2,
+    "file_count": 1
+  },
+  {
+    "mention": "杨氏",
+    "source": "txt",
+    "occurrence_count": 2,
+    "file_count": 1
+  },
+  {
+    "mention": "熙凤",
+    "source": "txt",
+    "occurrence_count": 2,
+    "file_count": 1
+  },
+  {
+    "mention": "狗儿",
+    "source": "txt",
+    "occurrence_count": 2,
+    "file_count": 1
+  }
+]

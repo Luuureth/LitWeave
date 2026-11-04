@@ -1,0 +1,400 @@
+## 角色
+你是《红楼梦》地点归一助手。映射目标是「可叙事锚点」的标准地点（院落、府邸、园林节点等），
+禁止编造表外名称。
+
+## 核心语义（与人物别称不同）
+- **层级包含**：若原文是某标准地点内部的房间、局部（如「黛玉房中」「怡红院外」），应归到**上一级标准节点**
+  （如潇湘馆、怡红院、荣国府），只要可依据剧情或人物居所唯一确定。
+- **泛称丢弃**：「园中」「厅上」「厨房」「书房」等无法唯一锚定到某一标准建筑时 → canonical_location 填 **generic**
+  （或 unknown），不要硬选一个院落。
+
+## 输入字段
+- mention / original_location：原始字符串
+- location_type：alias | descriptive | subspace 等
+- standard_table_rows：含 parent_location，表示大地点—小地点关系（辅助判断）
+
+## 输出
+- canonical_location：闭集内一项，或 **unknown**，或 **generic**
+- confidence、reason
+
+## 输出格式（仅 JSON）
+{"results":[{"mention":"...","canonical_location":"...","confidence":"...","reason":"..."}]}
+
+## 标准地点层级与闭集
+{
+  "candidate_canonical_locations": [
+    "荣国府",
+    "宁国府",
+    "大观园",
+    "怡红院",
+    "潇湘馆",
+    "蘅芜院",
+    "稻香村",
+    "秋爽斋",
+    "暖香坞",
+    "缀锦楼",
+    "栊翠庵",
+    "藕香榭",
+    "芦雪广",
+    "沁芳亭",
+    "滴翠亭",
+    "梨香院",
+    "贾母院",
+    "荣禧堂",
+    "荣庆堂",
+    "贾赦院",
+    "贾政书房",
+    "薛姨妈院",
+    "赵姨娘院",
+    "宁国府会芳园",
+    "天香楼",
+    "铁槛寺",
+    "馒头庵",
+    "清虚观",
+    "太虚幻境",
+    "葫芦庙",
+    "水仙庵",
+    "智通寺",
+    "姑苏城阊门外仁清巷",
+    "甄士隐书房",
+    "应天府衙",
+    "金陵薛家",
+    "林府"
+  ],
+  "standard_table_rows": [
+    {
+      "standard_location": "荣国府",
+      "parent_location": "",
+      "location_type": "府邸",
+      "note": "贾府主宅，核心礼仪与居住空间"
+    },
+    {
+      "standard_location": "宁国府",
+      "parent_location": "",
+      "location_type": "府邸",
+      "note": "贾府长房府邸，宁府主场景"
+    },
+    {
+      "standard_location": "大观园",
+      "parent_location": "",
+      "location_type": "园林",
+      "note": "元妃省亲别院，小说核心园林空间"
+    },
+    {
+      "standard_location": "怡红院",
+      "parent_location": "大观园",
+      "location_type": "院落",
+      "note": "贾宝玉住所，宝玉线核心场景"
+    },
+    {
+      "standard_location": "潇湘馆",
+      "parent_location": "大观园",
+      "location_type": "院落",
+      "note": "林黛玉住所，黛玉线核心场景"
+    },
+    {
+      "standard_location": "蘅芜院",
+      "parent_location": "大观园",
+      "location_type": "院落",
+      "note": "薛宝钗住所"
+    },
+    {
+      "standard_location": "稻香村",
+      "parent_location": "大观园",
+      "location_type": "院落",
+      "note": "李纨、贾兰住所"
+    },
+    {
+      "standard_location": "秋爽斋",
+      "parent_location": "大观园",
+      "location_type": "院落",
+      "note": "贾探春住所"
+    },
+    {
+      "standard_location": "暖香坞",
+      "parent_location": "大观园",
+      "location_type": "院落",
+      "note": "贾惜春住所"
+    },
+    {
+      "standard_location": "缀锦楼",
+      "parent_location": "大观园",
+      "location_type": "院落",
+      "note": "贾迎春住所"
+    },
+    {
+      "standard_location": "栊翠庵",
+      "parent_location": "大观园",
+      "location_type": "庵堂",
+      "note": "妙玉修行居住之所"
+    },
+    {
+      "standard_location": "藕香榭",
+      "parent_location": "大观园",
+      "location_type": "亭榭",
+      "note": "大观园宴饮、赏荷与雅集场景"
+    },
+    {
+      "standard_location": "芦雪广",
+      "parent_location": "大观园",
+      "location_type": "庭轩",
+      "note": "赏雪联诗代表性场景"
+    },
+    {
+      "standard_location": "沁芳亭",
+      "parent_location": "大观园",
+      "location_type": "景观",
+      "note": "大观园水景核心节点，统摄沁芳桥亭一带"
+    },
+    {
+      "standard_location": "滴翠亭",
+      "parent_location": "大观园",
+      "location_type": "景观",
+      "note": "大观园内代表性亭景"
+    },
+    {
+      "standard_location": "梨香院",
+      "parent_location": "荣国府",
+      "location_type": "院落",
+      "note": "薛家暂居之所，亦为戏班活动场景"
+    },
+    {
+      "standard_location": "贾母院",
+      "parent_location": "荣国府",
+      "location_type": "院落",
+      "note": "贾母居所总称，合并正房、内院、堂屋等碎片表达"
+    },
+    {
+      "standard_location": "荣禧堂",
+      "parent_location": "荣国府",
+      "location_type": "厅堂",
+      "note": "荣国府正厅礼仪场所"
+    },
+    {
+      "standard_location": "荣庆堂",
+      "parent_location": "荣国府",
+      "location_type": "厅堂",
+      "note": "荣国府重要会客与礼仪场景"
+    },
+    {
+      "standard_location": "贾赦院",
+      "parent_location": "荣国府",
+      "location_type": "院落",
+      "note": "贾赦、邢夫人住所"
+    },
+    {
+      "standard_location": "贾政书房",
+      "parent_location": "荣国府",
+      "location_type": "书房",
+      "note": "贾政办公、训子之处"
+    },
+    {
+      "standard_location": "薛姨妈院",
+      "parent_location": "荣国府",
+      "location_type": "院落",
+      "note": "薛姨妈、薛宝钗住所"
+    },
+    {
+      "standard_location": "赵姨娘院",
+      "parent_location": "荣国府",
+      "location_type": "院落",
+      "note": "赵姨娘、贾环住所"
+    },
+    {
+      "standard_location": "宁国府会芳园",
+      "parent_location": "宁国府",
+      "location_type": "园林",
+      "note": "宁府园林空间，后与大观园叙事相关"
+    },
+    {
+      "standard_location": "天香楼",
+      "parent_location": "宁国府",
+      "location_type": "楼阁",
+      "note": "宁国府代表性楼阁场景"
+    },
+    {
+      "standard_location": "铁槛寺",
+      "parent_location": "",
+      "location_type": "寺庙",
+      "note": "贾府家庙与停灵相关场景"
+    },
+    {
+      "standard_location": "馒头庵",
+      "parent_location": "",
+      "location_type": "寺庙",
+      "note": "即水月庵，王熙凤弄权之地"
+    },
+    {
+      "standard_location": "清虚观",
+      "parent_location": "",
+      "location_type": "道观",
+      "note": "张道士道观，打醮场景"
+    },
+    {
+      "standard_location": "太虚幻境",
+      "parent_location": "",
+      "location_type": "神话场景",
+      "note": "宝玉梦游与判词场景"
+    },
+    {
+      "standard_location": "葫芦庙",
+      "parent_location": "",
+      "location_type": "寺庙",
+      "note": "甄士隐、贾雨村早期叙事场景"
+    },
+    {
+      "standard_location": "水仙庵",
+      "parent_location": "",
+      "location_type": "寺庙",
+      "note": "城外庵堂场景"
+    },
+    {
+      "standard_location": "智通寺",
+      "parent_location": "",
+      "location_type": "寺庙",
+      "note": "贾雨村相关早期叙事场景"
+    },
+    {
+      "standard_location": "姑苏城阊门外仁清巷",
+      "parent_location": "",
+      "location_type": "街巷",
+      "note": "甄士隐故居所在巷子"
+    },
+    {
+      "standard_location": "甄士隐书房",
+      "parent_location": "姑苏城阊门外仁清巷",
+      "location_type": "书房",
+      "note": "甄士隐相关室内场景"
+    },
+    {
+      "standard_location": "应天府衙",
+      "parent_location": "",
+      "location_type": "衙署",
+      "note": "贾雨村审案的核心场景"
+    },
+    {
+      "standard_location": "金陵薛家",
+      "parent_location": "",
+      "location_type": "宅邸",
+      "note": "薛蟠、薛宝钗一家在金陵的家宅场景"
+    },
+    {
+      "standard_location": "林府",
+      "parent_location": "",
+      "location_type": "府邸",
+      "note": "林如海家宅场景"
+    }
+  ]
+}
+
+## 待归一条目
+[
+  {
+    "mention": "宝玉房中",
+    "source": "txt",
+    "occurrence_count": 15,
+    "file_count": 6,
+    "json_paths": "红楼梦文本/hongloumeng_txt_json/第019回.json|红楼梦文本/hongloumeng_txt_json/第020回.json|红楼梦文本/hongloumeng_txt_json/第021回.json|红楼梦文本/hongloumeng_txt_json/第022回.json|红楼梦文本/hongloumeng_txt_json/第024回.json|红楼梦文本/hongloumeng_txt_json/第039回.json",
+    "location_type": "descriptive",
+    "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+  },
+  {
+    "mention": "贾母房中",
+    "source": "txt",
+    "occurrence_count": 15,
+    "file_count": 10,
+    "json_paths": "红楼梦文本/hongloumeng_txt_json/第008回.json|红楼梦文本/hongloumeng_txt_json/第022回.json|红楼梦文本/hongloumeng_txt_json/第028回.json|红楼梦文本/hongloumeng_txt_json/第030回.json|红楼梦文本/hongloumeng_txt_json/第031回.json|红楼梦文本/hongloumeng_txt_json/第039回.json|红楼梦文本/hongloumeng_txt_json/第042回.json|红楼梦文本/hongloumeng_txt_json/第043回.json|红楼梦文本/hongloumeng_txt_json/第050回.json|红楼梦文本/hongloumeng_txt_json/第052回.json",
+    "location_type": "descriptive",
+    "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+  },
+  {
+    "mention": "宝玉房内",
+    "source": "txt",
+    "occurrence_count": 12,
+    "file_count": 3,
+    "json_paths": "红楼梦文本/hongloumeng_txt_json/第025回.json|红楼梦文本/hongloumeng_txt_json/第034回.json|红楼梦文本/hongloumeng_txt_json/第052回.json",
+    "location_type": "descriptive",
+    "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+  },
+  {
+    "mention": "荣府",
+    "source": "txt",
+    "occurrence_count": 11,
+    "file_count": 8,
+    "json_paths": "红楼梦文本/hongloumeng_txt_json/第011回.json|红楼梦文本/hongloumeng_txt_json/第012回.json|红楼梦文本/hongloumeng_txt_json/第013回.json|红楼梦文本/hongloumeng_txt_json/第029回.json|红楼梦文本/hongloumeng_txt_json/第037回.json|红楼梦文本/hongloumeng_txt_json/第044回.json|红楼梦文本/hongloumeng_txt_json/第054回.json|红楼梦文本/hongloumeng_txt_json/第059回.json",
+    "location_type": "alias",
+    "rule_note": "常见别称，倾向映射至「荣国府」（须由模型在闭表内确认）"
+  },
+  {
+    "mention": "黛玉房中",
+    "source": "txt",
+    "occurrence_count": 10,
+    "file_count": 6,
+    "json_paths": "红楼梦文本/hongloumeng_txt_json/第017回.json|红楼梦文本/hongloumeng_txt_json/第019回.json|红楼梦文本/hongloumeng_txt_json/第020回.json|红楼梦文本/hongloumeng_txt_json/第021回.json|红楼梦文本/hongloumeng_txt_json/第022回.json|红楼梦文本/hongloumeng_txt_json/第030回.json",
+    "location_type": "descriptive",
+    "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+  },
+  {
+    "mention": "贾母正房",
+    "source": "txt",
+    "occurrence_count": 9,
+    "file_count": 2,
+    "json_paths": "红楼梦文本/hongloumeng_txt_json/第003回.json|红楼梦文本/hongloumeng_txt_json/第047回.json",
+    "location_type": "alias",
+    "rule_note": "未命中细分规则，默认按别称/待考处理"
+  },
+  {
+    "mention": "王夫人上房",
+    "source": "txt",
+    "occurrence_count": 8,
+    "file_count": 5,
+    "json_paths": "红楼梦文本/hongloumeng_txt_json/第017回.json|红楼梦文本/hongloumeng_txt_json/第025回.json|红楼梦文本/hongloumeng_txt_json/第034回.json|红楼梦文本/hongloumeng_txt_json/第035回.json|红楼梦文本/hongloumeng_txt_json/第049回.json",
+    "location_type": "descriptive",
+    "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+  },
+  {
+    "mention": "贾母处",
+    "source": "txt",
+    "occurrence_count": 8,
+    "file_count": 5,
+    "json_paths": "红楼梦文本/hongloumeng_txt_json/第020回.json|红楼梦文本/hongloumeng_txt_json/第042回.json|红楼梦文本/hongloumeng_txt_json/第044回.json|红楼梦文本/hongloumeng_txt_json/第049回.json|红楼梦文本/hongloumeng_txt_json/第056回.json",
+    "location_type": "descriptive",
+    "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+  },
+  {
+    "mention": "家塾",
+    "source": "txt",
+    "occurrence_count": 7,
+    "file_count": 1,
+    "json_paths": "红楼梦文本/hongloumeng_txt_json/第009回.json",
+    "location_type": "alias",
+    "rule_note": "未命中细分规则，默认按别称/待考处理"
+  },
+  {
+    "mention": "王夫人房中",
+    "source": "txt",
+    "occurrence_count": 7,
+    "file_count": 5,
+    "json_paths": "红楼梦文本/hongloumeng_txt_json/第023回.json|红楼梦文本/hongloumeng_txt_json/第028回.json|红楼梦文本/hongloumeng_txt_json/第030回.json|红楼梦文本/hongloumeng_txt_json/第031回.json|红楼梦文本/hongloumeng_txt_json/第032回.json",
+    "location_type": "descriptive",
+    "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+  },
+  {
+    "mention": "薛姨妈处",
+    "source": "txt",
+    "occurrence_count": 7,
+    "file_count": 3,
+    "json_paths": "红楼梦文本/hongloumeng_txt_json/第008回.json|红楼梦文本/hongloumeng_txt_json/第020回.json|红楼梦文本/hongloumeng_txt_json/第034回.json",
+    "location_type": "descriptive",
+    "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+  },
+  {
+    "mention": "王夫人处",
+    "source": "txt",
+    "occurrence_count": 6,
+    "file_count": 6,
+    "json_paths": "红楼梦文本/hongloumeng_txt_json/第003回.json|红楼梦文本/hongloumeng_txt_json/第007回.json|红楼梦文本/hongloumeng_txt_json/第013回.json|红楼梦文本/hongloumeng_txt_json/第033回.json|红楼梦文本/hongloumeng_txt_json/第034回.json|红楼梦文本/hongloumeng_txt_json/第036回.json",
+    "location_type": "descriptive",
+    "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+  }
+]

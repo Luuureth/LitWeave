@@ -1,0 +1,22 @@
+{
+  "episode_id": "04",
+  "episode_title": "探宝钗黛玉半含酸",
+  "segment_id": "S11",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉嘱咐黛玉等候并匆忙告辞",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉在黛玉梳妆时嘱咐她等自己回来再吃饭和调制胭脂，黛玉打趣其不去辞别宝姐姐，宝玉听后匆忙离开。"
+    }
+  ]
+}

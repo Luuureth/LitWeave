@@ -1,0 +1,37 @@
+{
+  "episode_id": "17",
+  "episode_title": "变生不测凤姐泼醋",
+  "segment_id": "S06",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉与袭人私谈去留并批判忠烈生死观",
+      "characters": [
+        "贾宝玉",
+        "袭人"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉与袭人谈论去留事宜，期间宝玉激烈批判文臣武将的沽名钓誉，并表达对生死与归宿的极端看法。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "黛玉进屋调侃袭人引发笑闹",
+      "characters": [
+        "林黛玉",
+        "贾宝玉",
+        "袭人"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉持扇进入房间，听闻贾宝玉的言论后借机调侃袭人已是“太太的人”，引发众人笑闹。"
+    }
+  ]
+}

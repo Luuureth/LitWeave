@@ -1,0 +1,23 @@
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S15",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾母询问宝玉去向，丫鬟汇报宝玉被贾政叫去，贾母安排打探",
+      "characters": [
+        "史太君",
+        "贾宝玉",
+        "贾政"
+      ],
+      "location": "贾母院",
+      "time_hint": null,
+      "explicit_time": "今儿",
+      "relation_to_previous": "start",
+      "event_summary": "贾母询问宝玉去向，丫鬟汇报宝玉被贾政叫去，贾母担忧并安排小厮打探。"
+    }
+  ]
+}

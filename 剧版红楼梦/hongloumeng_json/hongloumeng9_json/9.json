@@ -1,0 +1,50 @@
+{
+  "episode_id": "09",
+  "episode_title": "意绵绵静日玉生香",
+  "segment_id": "S09",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "袭人归来，宝玉询问饮食并倒茶",
+      "characters": [
+        "贾宝玉",
+        "袭人"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "袭人回到房内，贾宝玉询问其是否用饭并表达口渴，随后亲自倒茶准备饮用。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "袭人询问亲戚身份并谈及表妹婚期",
+      "characters": [
+        "贾宝玉",
+        "袭人"
+      ],
+      "location": "怡红院",
+      "time_hint": "same_time",
+      "explicit_time": "明年",
+      "relation_to_previous": "sequential",
+      "event_summary": "袭人询问今日穿红衣女子的身份，贾宝玉告知是姨表妹，袭人提及该表妹明年即将出嫁。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "袭人透露赎身打算，贾宝玉挽留",
+      "characters": [
+        "贾宝玉",
+        "袭人"
+      ],
+      "location": "怡红院",
+      "time_hint": "same_time",
+      "explicit_time": "明年",
+      "relation_to_previous": "sequential",
+      "event_summary": "袭人告知家人计划明年赎她出府，贾宝玉强烈反对并担忧日后孤独，袭人则以府中规矩和老太太可能开恩进行宽慰。"
+    }
+  ]
+}

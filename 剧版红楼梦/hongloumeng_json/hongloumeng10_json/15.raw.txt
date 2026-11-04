@@ -1,0 +1,23 @@
+{
+  "episode_id": "10",
+  "episode_title": "听曲文宝玉悟禅机",
+  "segment_id": "S15",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉进房与黛玉争吵",
+      "characters": [
+        "贾宝玉",
+        "林黛玉",
+        "丫鬟"
+      ],
+      "location": "林黛玉闺房",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "宝玉遣退丫鬟后进入内室，与林黛玉因拿黛玉比戏子及给湘云使眼色之事发生激烈争吵，黛玉愤言让宝玉一辈子别来。"
+    }
+  ]
+}

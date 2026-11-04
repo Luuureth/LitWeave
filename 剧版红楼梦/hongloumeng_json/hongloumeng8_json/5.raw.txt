@@ -1,0 +1,41 @@
+{
+  "episode_id": "08",
+  "episode_title": "荣国府归省庆元宵",
+  "segment_id": "S05",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "列队等候",
+      "characters": ["贾府众人", "执事官员"],
+      "location": "宁荣街",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "黄昏时分，贾府众人及执事官员在宁荣街整齐列队，静候仪仗到来。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "仪仗行进",
+      "characters": ["仪仗队", "护卫"],
+      "location": "宁荣街",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "夜幕降临，手持旗帜、乐器与兵器的仪仗护卫队伍沿街道有序行进。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "元春入府与庆贺",
+      "characters": ["贾元春", "抬轿侍从", "贾府众人"],
+      "location": "宁荣街",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾元春乘坐金顶轿辇在侍从簇拥下入府，空中燃放烟花以示庆贺。"
+    }
+  ]
+}

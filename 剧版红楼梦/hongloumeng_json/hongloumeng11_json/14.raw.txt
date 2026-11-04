@@ -1,0 +1,81 @@
+{
+  "episode_id": "11",
+  "episode_title": "为争宠姐弟遭魔魇",
+  "segment_id": "S14",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王熙凤询问林黛玉对前日所送茶叶的品评",
+      "characters": [
+        "王熙凤",
+        "林黛玉"
+      ],
+      "location": "贾府室内",
+      "time_hint": null,
+      "explicit_time": "前儿",
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤询问林黛玉前日所送茶叶的品评，黛玉一时忘记后礼貌道谢。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "众人讨论暹罗贡茶的味道与色泽",
+      "characters": [
+        "贾宝玉",
+        "王熙凤",
+        "林黛玉"
+      ],
+      "location": "贾府室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉评价茶叶味轻色差，王熙凤说明是暹罗贡茶，黛玉表示喜欢，熙凤承诺再送。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "王熙凤借吃茶典故调侃林黛玉",
+      "characters": [
+        "王熙凤",
+        "林黛玉",
+        "贾宝玉"
+      ],
+      "location": "贾府室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤借“吃了茶”的习俗调侃黛玉为何还不作贾家媳妇，引得众人发笑。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "李纨评价熙凤诙谐，熙凤追问宝玉黛玉相配与否",
+      "characters": [
+        "李纨",
+        "王熙凤",
+        "贾宝玉"
+      ],
+      "location": "贾府室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "李纨评价王熙凤诙谐贫嘴，熙凤转而连番追问宝玉黛玉二人门第家私是否相配。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "林黛玉羞急欲走，李纨安抚挽留",
+      "characters": [
+        "林黛玉",
+        "李纨"
+      ],
+      "location": "贾府室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉因被调侃羞急欲走，李纨上前安抚并挽留她继续坐下。"
+    }
+  ]
+}

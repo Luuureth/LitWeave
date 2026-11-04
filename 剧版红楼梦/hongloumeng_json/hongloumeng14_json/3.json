@@ -1,0 +1,37 @@
+{
+  "episode_id": "14",
+  "episode_title": "含耻辱情烈死金钏",
+  "segment_id": "S03",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉进入王夫人房间查看",
+      "characters": [
+        "贾宝玉",
+        "王夫人",
+        "金钏"
+      ],
+      "location": "荣国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "宝玉进入王夫人房中，见王夫人熟睡，金钏在旁侍奉捶腿。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉与金钏调笑并喂食",
+      "characters": [
+        "贾宝玉",
+        "金钏"
+      ],
+      "location": "荣国府",
+      "time_hint": "sequential",
+      "explicit_time": "明天, 一会儿",
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉与金钏低声调笑并喂食，提议带其去怡红院，金钏提及贾环与彩云。"
+    }
+  ]
+}

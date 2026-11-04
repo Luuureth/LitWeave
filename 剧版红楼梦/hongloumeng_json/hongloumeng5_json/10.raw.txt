@@ -1,0 +1,50 @@
+{
+  "episode_id": "05",
+  "episode_title": "王熙凤毒设相思局",
+  "segment_id": "S10",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "吩咐送点心",
+      "characters": [
+        "王熙凤",
+        "丫鬟"
+      ],
+      "location": "王熙凤房内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "丫鬟禀报枣泥山药糕已备好，王熙凤吩咐派人送往东府给蓉大奶奶。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "责问失约",
+      "characters": [
+        "王熙凤",
+        "贾瑞"
+      ],
+      "location": "王熙凤房内",
+      "time_hint": null,
+      "explicit_time": "昨儿晚上",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾瑞进屋请安，王熙凤当面责问其昨夜为何失信未赴约。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "设局约见",
+      "characters": [
+        "王熙凤",
+        "贾瑞"
+      ],
+      "location": "王熙凤房内",
+      "time_hint": null,
+      "explicit_time": "今儿晚上",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾瑞发誓昨夜苦等无果，王熙凤顺势哄骗其今夜在房后空屋等候私会。"
+    }
+  ]
+}

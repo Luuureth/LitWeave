@@ -1,0 +1,41 @@
+{
+  "episode_id": "14",
+  "episode_title": "含耻辱情烈死金钏",
+  "segment_id": "S02",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王熙凤打趣宝黛和好并引见贾母",
+      "characters": ["王熙凤", "贾宝玉", "林黛玉", "贾母"],
+      "location": "贾母房中",
+      "time_hint": null,
+      "explicit_time": "昨儿",
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤奉命查看贾宝玉与林黛玉，打趣两人昨日争吵今日和好，并带二人去见贾母以安老人家的心。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾宝玉解释缺席寿宴并打趣宝钗",
+      "characters": ["贾宝玉", "薛宝钗"],
+      "location": "贾母房中",
+      "time_hint": "after",
+      "explicit_time": "昨儿大哥的生日",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉向薛宝钗解释因身体不适缺席其兄寿宴，随后借看戏怕热之事打趣宝钗体态丰腴似杨贵妃，宝钗闻言不悦并出言反讽。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宝黛借戏名暗讽宝钗引发哄笑",
+      "characters": ["林黛玉", "贾宝玉", "薛宝钗", "王熙凤", "贾母"],
+      "location": "贾母房中",
+      "time_hint": "after",
+      "explicit_time": "大暑天",
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉与贾宝玉借《负荆请罪》戏名暗指两人方才和好，薛宝钗借机反讽二人通今博古，王熙凤以吃生姜比喻言辞火辣，引得贾母与众人哄堂大笑。"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+```json
+{
+  "episode_id": "23",
+  "episode_title": "慧紫鹃情辞试忙玉",
+  "segment_id": "S05",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "紫鹃试探宝玉",
+      "characters": [
+        "宝玉",
+        "紫鹃"
+      ],
+      "location": "庭院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "紫鹃在庭院中故意用言语试探宝玉，宝玉信以为真并激烈表露心迹。"
+    }
+  ]
+}
+```

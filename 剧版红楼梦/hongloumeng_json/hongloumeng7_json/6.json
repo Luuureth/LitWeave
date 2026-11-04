@@ -1,0 +1,24 @@
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S06",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "平儿遣丫鬟传信告知贾琏与林妹妹归来，宝二爷惊喜起身准备同去",
+      "characters": [
+        "贾宝玉",
+        "平儿",
+        "贾琏",
+        "林黛玉"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "平儿派丫鬟至卧房传信告知贾琏与林妹妹已回府，宝二爷惊喜起身欲往，经丫鬟提醒换衣后准备一同出门。"
+    }
+  ]
+}

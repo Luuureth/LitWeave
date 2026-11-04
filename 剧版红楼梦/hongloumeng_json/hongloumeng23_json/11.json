@@ -1,0 +1,47 @@
+{
+  "episode_id": "23",
+  "episode_title": "慧紫鹃情辞试忙玉",
+  "segment_id": "S11",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾宝玉抱怨生日行礼繁琐，脱下外袍准备歇息",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉抱怨生日礼节繁琐，脱下礼服在房内准备歇息。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "众丫鬟姐妹闯入祝寿，发现多人同日生日并互相玩笑作揖",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": "今儿",
+      "relation_to_previous": "sequential",
+      "event_summary": "众丫鬟姐妹闯入房间祝寿，众人发现今日多人同日生辰，互相玩笑作揖。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "众人提及寿礼与寿面，催促贾宝玉更衣一同前往",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "紫衣丫鬟提及少爷送来寿礼并邀吃寿面，众人催促贾宝玉重新穿上外袍一同前往。"
+    }
+  ]
+}

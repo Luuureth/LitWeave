@@ -1,0 +1,51 @@
+{
+  "episode_id": "16",
+  "episode_title": "刘姥姥嬉游大观园",
+  "segment_id": "S08",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "讲解茄鲞做法",
+      "characters": [
+        "王熙凤",
+        "刘姥姥"
+      ],
+      "location": "大观园厅堂",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤喂刘姥姥吃菜并详细讲解茄鲞的复杂制作工艺，刘姥姥听后惊叹费工费料。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "辨认木杯材质",
+      "characters": [
+        "王熙凤",
+        "刘姥姥"
+      ],
+      "location": "大观园厅堂",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "刘姥姥端详手中的木杯，认出是黄松木所制，并调侃自己与树林子是街坊。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "众人划拳饮酒",
+      "characters": [
+        "史太君",
+        "王熙凤",
+        "刘姥姥"
+      ],
+      "location": "大观园厅堂",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宴席气氛热烈，众人一起划拳行令，互相劝酒干杯。"
+    }
+  ]
+}

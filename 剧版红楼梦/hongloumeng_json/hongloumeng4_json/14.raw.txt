@@ -1,0 +1,55 @@
+```json
+{
+  "episode_id": "04",
+  "episode_title": "探宝钗黛玉半含酸",
+  "segment_id": "S14",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众人在花园议论贾母未至及秦可卿病情",
+      "characters": [
+        "王熙凤",
+        "王夫人",
+        "众女眷"
+      ],
+      "location": "花园",
+      "time_hint": null,
+      "explicit_time": "前儿, 晚上, 五更天, 过了二十以后, 两个月",
+      "relation_to_previous": "start",
+      "event_summary": "众人在花园赏花时，议论贾母因吃桃身体不适未能前来，并谈及秦可卿病重且经期两月未至，疑似怀孕。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉请求同去探望秦可卿",
+      "characters": [
+        "贾宝玉",
+        "王熙凤",
+        "王夫人"
+      ],
+      "location": "花园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉出现并请求王熙凤带他一同去探望秦可卿，王熙凤应允。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "众人商议用餐地点并移步",
+      "characters": [
+        "王熙凤",
+        "贾宝玉",
+        "众女眷"
+      ],
+      "location": "花园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众人商议决定先在厅上吃饭，随后移步前往厅堂准备用餐。"
+    }
+  ]
+}
+```

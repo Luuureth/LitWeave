@@ -1,0 +1,52 @@
+{
+  "episode_id": "12",
+  "episode_title": "埋香冢飞燕泣残红",
+  "segment_id": "S06",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝钗隔窗窃听丫鬟私语",
+      "characters": ["薛宝钗", "小红", "坠儿"],
+      "location": "亭子",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "薛宝钗在亭外无意间听到小红与坠儿谈论遗失手帕及贾芸之事，并听到坠儿起誓保密。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝钗推窗佯装寻人",
+      "characters": ["薛宝"],
+      "location": "亭子",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "薛宝钗担心被察觉偷听，决定推开格子窗，并故意大声呼唤林黛玉以制造偶然路过的假象。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宝钗向丫鬟打听黛玉去向",
+      "characters": ["薛宝钗", "小红", "坠儿"],
+      "location": "亭子",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "薛宝钗打开门窗后向小红和坠儿询问林黛玉的藏身处，丫鬟们否认见过并指路，宝钗借机离开。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "小红与坠儿担忧谈话泄露",
+      "characters": ["小红", "坠儿", "林黛玉"],
+      "location": "亭子",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝钗离开后，小红与坠儿担心刚才的私密谈话已被林黛玉听去，坠儿惊慌失措，小红则强作镇定。"
+    }
+  ]
+}

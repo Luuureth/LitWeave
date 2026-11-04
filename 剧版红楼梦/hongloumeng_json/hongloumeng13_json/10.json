@@ -1,0 +1,84 @@
+{
+  "episode_id": "13",
+  "episode_title": "享福人福深还祷福",
+  "segment_id": "S10",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王熙凤带秦可卿向贾母请安，张道士随后进入向众人问好",
+      "characters": [
+        "王熙凤",
+        "秦可卿",
+        "史太君",
+        "张道士"
+      ],
+      "location": "贾母院",
+      "time_hint": "null",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤带秦可卿向贾母请安，随后张道士进入房间向贾母及众人问好。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "张道士与贾母寒暄并询问贾宝玉近况",
+      "characters": [
+        "张道士",
+        "史太君",
+        "贾宝玉"
+      ],
+      "location": "贾母院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "张道士与贾母互相问候，夸赞贾母气色好，并询问贾宝玉的身体状况，贾宝玉上前向张道士问好。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "张道士提及前日法事欲请贾宝玉未果",
+      "characters": [
+        "张道士",
+        "贾政",
+        "贾宝玉"
+      ],
+      "location": "贾母院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "张道士提及前日做遮天大王圣诞想请贾宝玉，贾政解释贾宝玉去了北静王府，张道士夸赞贾宝玉长胖了。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "贾母抱怨贾政逼书与张道士夸赞贾宝玉才学",
+      "characters": [
+        "史太君",
+        "张道士",
+        "贾政"
+      ],
+      "location": "贾母院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母抱怨贾政逼迫贾宝玉读书致其生病，张道士则称在外见过贾宝玉写的字和作的诗，十分出色。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "张道士称贾宝玉像国公爷引贾母感慨落泪",
+      "characters": [
+        "张道士",
+        "史太君",
+        "贾政"
+      ],
+      "location": "贾母院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "张道士称贾宝玉言谈举止像当年的国公爷，贾母闻言感慨落泪，叹惜子孙中无人像祖父。"
+    }
+  ]
+}

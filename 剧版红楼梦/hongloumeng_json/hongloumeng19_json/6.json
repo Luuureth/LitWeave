@@ -1,0 +1,37 @@
+{
+  "episode_id": "19",
+  "episode_title": "琉璃世界白雪红梅",
+  "segment_id": "S06",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "香菱携书过桥入亭苦读",
+      "characters": [
+        "香菱"
+      ],
+      "location": "园中水亭",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "香菱手持书卷穿过石桥进入水亭，坐下专心诵读诗书。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉与众姐妹旁观议论香菱苦读",
+      "characters": [
+        "贾宝玉",
+        "薛宝钗",
+        "林黛玉",
+        "香菱"
+      ],
+      "location": "园中假山旁",
+      "time_hint": "after",
+      "explicit_time": "五更天",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉与薛宝钗、林黛玉等人在假山旁发现香菱苦读，众人笑谈其痴迷，贾宝玉赞叹其苦心，旁人借机劝勉贾宝玉。"
+    }
+  ]
+}

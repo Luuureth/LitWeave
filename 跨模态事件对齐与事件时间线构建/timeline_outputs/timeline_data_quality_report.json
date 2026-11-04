@@ -1,0 +1,23 @@
+{
+  "total_matched_events": 54,
+  "determined_timeline_events": 53,
+  "uncertain_timeline_events": 1,
+  "timeline_status_counts": {
+    "llm_aligned": 26,
+    "rule_matched": 13,
+    "manual_confirmed": 14,
+    "uncertain": 1
+  },
+  "unique_timeline_nodes": 15,
+  "unique_person_nodes": 24,
+  "unique_location_nodes": 10,
+  "events_without_characters": 0,
+  "events_without_locations": 0,
+  "canonical_timeline_id_merges": {},
+  "outputs": {
+    "matched_events_with_timeline": "d:\\大三下\\礼物计划\\跨模态事件对齐与事件时间线构建\\timeline_outputs\\matched_events_with_timeline.json",
+    "timeline_event_index": "d:\\大三下\\礼物计划\\跨模态事件对齐与事件时间线构建\\timeline_outputs\\timeline_event_index.json",
+    "person_event_timeline_index": "d:\\大三下\\礼物计划\\跨模态事件对齐与事件时间线构建\\timeline_outputs\\person_event_timeline_index.json",
+    "location_event_timeline_index": "d:\\大三下\\礼物计划\\跨模态事件对齐与事件时间线构建\\timeline_outputs\\location_event_timeline_index.json"
+  }
+}

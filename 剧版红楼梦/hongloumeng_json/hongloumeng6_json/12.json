@@ -1,0 +1,22 @@
+{
+  "episode_id": "06",
+  "episode_title": "王熙凤协理宁国府",
+  "segment_id": "S12",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "送粥探病并述说王熙凤协理诸事",
+      "characters": [
+        "王熙凤",
+        "秦可卿"
+      ],
+      "location": "宁国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "侍女将王熙凤吩咐送来的细粥小菜端至秦可卿病榻前，并详细讲述王熙凤近日协理宁国府时处理各项繁杂事务的忙碌情形及出色筹划能力。"
+    }
+  ]
+}

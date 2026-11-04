@@ -1,0 +1,35 @@
+{
+  "episode_id": "09",
+  "episode_title": "意绵绵静日玉生香",
+  "segment_id": "S03",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "孩童点燃地上爆竹",
+      "characters": [
+        "孩童"
+      ],
+      "location": "庭院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "几名孩童在庭院中点燃一排爆竹，引线燃烧后爆竹接连炸响并产生浓烟。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "二人骑马疾驰经过",
+      "characters": [
+        "绿衣男子",
+        "黄衣人物"
+      ],
+      "location": "庭院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "爆竹炸响后，一名绿衣男子与一名黄衣人物骑马快速穿过庭院。"
+    }
+  ]
+}

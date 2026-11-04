@@ -1,0 +1,2717 @@
+{
+  "meta": {
+    "description": "将每条 mention 映射到标准「姓名」之一，或标记为无法映射（保留为别名录入但需人工确认）",
+    "candidate_canonical_names_count": 285
+  },
+  "candidate_canonical_names": [
+    "贾演",
+    "贾源",
+    "贾代化",
+    "贾代善",
+    "贾代儒",
+    "贾代修",
+    "贾敷",
+    "贾敬",
+    "贾赦",
+    "贾政",
+    "贾敏",
+    "贾敕",
+    "贾效",
+    "贾敦",
+    "贾珍",
+    "贾琏",
+    "贾琮",
+    "贾珠",
+    "贾宝玉",
+    "贾环",
+    "贾瑞",
+    "贾璜",
+    "贾珩",
+    "贾㻞",
+    "贾玚",
+    "贾琛",
+    "贾琼",
+    "贾璘",
+    "贾元春",
+    "贾迎春",
+    "贾探春",
+    "贾惜春",
+    "贾巧姐",
+    "喜鸾",
+    "四姐",
+    "贾蓉",
+    "贾兰",
+    "贾蔷",
+    "贾菌",
+    "贾芸",
+    "贾芹",
+    "贾萍",
+    "贾菖",
+    "贾菱",
+    "贾蓁",
+    "贾藻",
+    "贾蘅",
+    "贾芬",
+    "贾芳",
+    "贾芝",
+    "贾荇",
+    "贾芷",
+    "贾葛",
+    "史太君",
+    "史鼐",
+    "史鼎",
+    "史湘云",
+    "王子腾",
+    "王子胜",
+    "王夫人",
+    "薛姨妈",
+    "王仁",
+    "王熙凤",
+    "薛蟠",
+    "薛蝌",
+    "薛宝钗",
+    "薛宝琴",
+    "林黛玉",
+    "妙玉",
+    "邢夫人",
+    "尤氏",
+    "李纨",
+    "秦可卿",
+    "许氏",
+    "香菱",
+    "赵姨娘",
+    "刘姥姥",
+    "甄宝玉",
+    "袭人",
+    "媚人",
+    "晴雯",
+    "绮霰",
+    "麝月",
+    "檀云",
+    "秋纹",
+    "碧痕",
+    "茜雪",
+    "春燕",
+    "坠儿",
+    "四儿",
+    "佳蕙",
+    "抱琴",
+    "司棋",
+    "莲花儿",
+    "绣橘",
+    "侍书",
+    "翠墨",
+    "蝉姐",
+    "入画",
+    "彩屏",
+    "紫鹃",
+    "雪雁",
+    "春纤",
+    "鸳鸯",
+    "琥珀",
+    "珍珠",
+    "玻璃",
+    "翡翠",
+    "鹦鹉",
+    "靛儿",
+    "傻大姐",
+    "银蝶",
+    "炒豆儿",
+    "卐儿",
+    "莺儿",
+    "文杏",
+    "平儿",
+    "小红",
+    "丰儿",
+    "金钏",
+    "玉钏",
+    "绣鸾",
+    "绣凤",
+    "彩云",
+    "彩霞",
+    "素云",
+    "同喜",
+    "同贵",
+    "缕儿",
+    "翠缕",
+    "宝珠",
+    "瑞珠",
+    "姣杏",
+    "小螺",
+    "善姐",
+    "臻儿",
+    "篆儿",
+    "小吉祥儿",
+    "小鹊",
+    "小舍儿",
+    "宝蟾",
+    "茗烟",
+    "焦大",
+    "李贵",
+    "锄药",
+    "墨雨",
+    "伴鹤",
+    "扫花",
+    "引泉",
+    "挑芸",
+    "双瑞",
+    "双寿",
+    "来旺",
+    "兴儿",
+    "王荣",
+    "钱启",
+    "张若锦",
+    "赵亦华",
+    "钱槐",
+    "小玄儿",
+    "隆儿",
+    "昭儿",
+    "喜儿",
+    "寿儿",
+    "杏奴",
+    "庆儿",
+    "王信",
+    "芳官",
+    "龄官",
+    "蕊官",
+    "藕官",
+    "豆官",
+    "宝官",
+    "文官",
+    "茄官",
+    "菂官",
+    "艾官",
+    "玉官",
+    "葵官",
+    "张如圭",
+    "乌进孝",
+    "二丫头",
+    "云儿",
+    "云光",
+    "五儿",
+    "万儿",
+    "代儒夫人",
+    "何婆子",
+    "倪二",
+    "冯渊",
+    "冯紫英",
+    "冷子兴",
+    "净虚",
+    "北静王水溶",
+    "单聘仁",
+    "卜世仁",
+    "卜氏",
+    "史鼎夫人",
+    "吴新登",
+    "吴新登媳妇",
+    "周姨娘",
+    "周瑞",
+    "周瑞家的",
+    "夏婆子",
+    "夏秉忠",
+    "多姑娘",
+    "多浑虫",
+    "嫣红",
+    "宋嬷嬷",
+    "定儿",
+    "封氏",
+    "封肃",
+    "山子野",
+    "张友士",
+    "张德辉",
+    "张材家的",
+    "张道士",
+    "张金哥",
+    "彩明",
+    "忠顺王爷",
+    "情僧",
+    "戴权",
+    "戴良",
+    "扫红",
+    "旺儿",
+    "智善",
+    "智能儿",
+    "李婶娘",
+    "李嬷嬷",
+    "李纹",
+    "李绮",
+    "赖升",
+    "来旺媳妇",
+    "板儿",
+    "林之孝",
+    "林之孝家的",
+    "林如海",
+    "柳家的",
+    "柳湘莲",
+    "王狗儿",
+    "玉爱",
+    "王兴媳妇",
+    "王太医",
+    "王嬷嬷",
+    "王子腾夫人",
+    "王成",
+    "蒋玉菡",
+    "璜大奶奶",
+    "甄士隐",
+    "癞头和尚",
+    "白老媳妇",
+    "石呆子",
+    "碧月",
+    "神瑛侍者",
+    "秋桐",
+    "秦显家的",
+    "秦邦业",
+    "秦钟",
+    "程日兴",
+    "空空道人",
+    "绛珠仙草",
+    "胡斯来",
+    "花自芳",
+    "莺儿姑妈",
+    "董妈妈",
+    "詹光",
+    "警幻仙姑",
+    "贾雨村",
+    "赖大",
+    "赖嬷嬷",
+    "赖尚荣",
+    "赵嬷嬷",
+    "跛足道人",
+    "邢岫烟",
+    "金文翔",
+    "金荣",
+    "钱华",
+    "门子",
+    "霍启",
+    "青儿",
+    "靓儿",
+    "香怜",
+    "马道婆",
+    "鲍二",
+    "鲍二家的"
+  ],
+  "alias_mentions": [
+    {
+      "mention": "宝玉",
+      "source": "txt",
+      "occurrence_count": 303,
+      "file_count": 49,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "贾母",
+      "source": "txt",
+      "occurrence_count": 168,
+      "file_count": 46,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "凤姐",
+      "source": "txt",
+      "occurrence_count": 115,
+      "file_count": 30,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "黛玉",
+      "source": "txt",
+      "occurrence_count": 106,
+      "file_count": 34,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "宝钗",
+      "source": "txt",
+      "occurrence_count": 96,
+      "file_count": 34,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "探春",
+      "source": "txt",
+      "occurrence_count": 58,
+      "file_count": 27,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "湘云",
+      "source": "txt",
+      "occurrence_count": 31,
+      "file_count": 14,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "凤姐儿",
+      "source": "txt",
+      "occurrence_count": 24,
+      "file_count": 7,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "迎春",
+      "source": "txt",
+      "occurrence_count": 24,
+      "file_count": 17,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "惜春",
+      "source": "txt",
+      "occurrence_count": 23,
+      "file_count": 17,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "秦氏",
+      "source": "txt",
+      "occurrence_count": 17,
+      "file_count": 6,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "众清客",
+      "source": "txt",
+      "occurrence_count": 9,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "元妃",
+      "source": "txt",
+      "occurrence_count": 8,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "焙茗",
+      "source": "txt",
+      "occurrence_count": 8,
+      "file_count": 6,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "太监",
+      "source": "txt",
+      "occurrence_count": 6,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "宝琴",
+      "source": "txt",
+      "occurrence_count": 6,
+      "file_count": 4,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "众姐妹",
+      "source": "txt",
+      "occurrence_count": 5,
+      "file_count": 5,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "大姐儿",
+      "source": "txt",
+      "occurrence_count": 5,
+      "file_count": 4,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "英莲",
+      "source": "txt",
+      "occurrence_count": 5,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "金钏儿",
+      "source": "txt",
+      "occurrence_count": 5,
+      "file_count": 5,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "众媳妇",
+      "source": "txt",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "张先生",
+      "source": "txt",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "智能",
+      "source": "txt",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "蒋玉函",
+      "source": "txt",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "静虚",
+      "source": "txt",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "代儒",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "北静王",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "女先儿",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "小蝉",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "春燕娘",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "昭容",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "老嬷嬷",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 3,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "胡氏",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 3,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "花袭人",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "薛王氏",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "鲍二老婆",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "鹦哥",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "众姊妹",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "傅家嬷嬷",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "僧",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "元春",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "刘氏",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "吴新登的媳妇",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "奶子",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "小丫鬟",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "干娘",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "彩嫔",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "杨氏",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "熙凤",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "狗儿",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "玉钏儿",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "王大夫",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "甄家娘子",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "绮霞",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "药官",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "蕙香",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "袭人之母",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "贾蓝",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "道人",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "邢王二夫人",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "金钏儿母亲",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "长府官",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "顽石",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "三位姑娘",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "两个媳妇",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "严老爷",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "二舅母",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "五儿侄儿",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "五儿姑舅哥哥",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "五城兵马司",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "仆妇",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "众仙子",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "众女孩",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "众婆娘媳妇",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "众嬷嬷",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "众子弟",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "作者",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "值日婆子",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "僧众",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "八公后裔",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "公人",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "冯家",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "原告",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "另一宝玉",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "可卿",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "同窗子弟",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "吴大娘",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "周奶妈",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "周瑞媳妇",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "周瑞家",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "周瑞家的女孩儿",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "唱曲儿小子",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "回话媳妇",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "坠儿母亲",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "夏妈",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "夏婆",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "夏忠",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "多姑娘儿",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "大舅母",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "大观园众人",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "女娲",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "女孩儿",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "姨奶奶",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "娄氏",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "娇杏",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "媳妇",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "孔梅溪",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "守备之子",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "宋妈妈",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "家人媳妇",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "小丫头子",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "小么儿",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "小道士儿",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "尼僧",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "工部官员",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "应佛僧",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "张材家",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "执事的媳妇子",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "文豹",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "新太爷",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "方椿",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "春燕母亲",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "曹雪芹",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "李氏",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "林之孝媳妇",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "林之孝家",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "林之孝的妻子",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "柳家嫂子",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "梦中丫鬟",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "王夫人之父",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "王济仁",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "珠大嫂子",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "琪官",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "甄夫人",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "甄府管家娘子",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "画蔷女孩",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "癞和尚",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "神僧",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "老僧",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "老妈妈",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "老姑子",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "老尼",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "胡公(山子野)",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "舞女",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "色空",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "薛家",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "蘅芜院婆子",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "诸王孙公子",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "贾妃",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "贾家三个姊妹",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "贾氏",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "贾芸母",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "赖升媳妇",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "赖大家",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "赖大母亲",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "跛道士",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "道婆",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "邢大姑娘",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "那媳妇",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "郑好时媳妇",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "金文翔的媳妇",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "金荣母亲",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "银姐",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "门吏",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "门客",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "风姐儿",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "鬼判",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "贾母",
+      "source": "video",
+      "occurrence_count": 134,
+      "file_count": 62,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "宝玉",
+      "source": "video",
+      "occurrence_count": 120,
+      "file_count": 57,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "黛玉",
+      "source": "video",
+      "occurrence_count": 36,
+      "file_count": 17,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "众女眷",
+      "source": "video",
+      "occurrence_count": 29,
+      "file_count": 18,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "宝钗",
+      "source": "video",
+      "occurrence_count": 22,
+      "file_count": 12,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "众姐妹",
+      "source": "video",
+      "occurrence_count": 19,
+      "file_count": 12,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "凤姐",
+      "source": "video",
+      "occurrence_count": 13,
+      "file_count": 4,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "探春",
+      "source": "video",
+      "occurrence_count": 13,
+      "file_count": 6,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "元春",
+      "source": "video",
+      "occurrence_count": 12,
+      "file_count": 8,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "老太太",
+      "source": "video",
+      "occurrence_count": 11,
+      "file_count": 8,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "清客",
+      "source": "video",
+      "occurrence_count": 9,
+      "file_count": 4,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "贾府众人",
+      "source": "video",
+      "occurrence_count": 8,
+      "file_count": 5,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "宫女",
+      "source": "video",
+      "occurrence_count": 7,
+      "file_count": 6,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "众清客",
+      "source": "video",
+      "occurrence_count": 6,
+      "file_count": 3,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "元妃",
+      "source": "video",
+      "occurrence_count": 6,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "北静王",
+      "source": "video",
+      "occurrence_count": 6,
+      "file_count": 3,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "英莲",
+      "source": "video",
+      "occurrence_count": 6,
+      "file_count": 3,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "随从",
+      "source": "video",
+      "occurrence_count": 6,
+      "file_count": 6,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "侍从",
+      "source": "video",
+      "occurrence_count": 5,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "周大娘",
+      "source": "video",
+      "occurrence_count": 5,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "惜春",
+      "source": "video",
+      "occurrence_count": 5,
+      "file_count": 4,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "戏曲演员",
+      "source": "video",
+      "occurrence_count": 5,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "老祖宗",
+      "source": "video",
+      "occurrence_count": 5,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "长史官",
+      "source": "video",
+      "occurrence_count": 5,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "二爷",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "太监",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 3,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "奶奶",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 4,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "柳嫂子",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 3,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "琪官",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "乐师",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 3,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "书童",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "二奶奶",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 3,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "仆从",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 3,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "仪仗队",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 3,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "众宾客",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "太太",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 3,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "宝二爷",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 3,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "宝姑娘",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 3,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "小戏子",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "屋内丫头",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "灰衣丫鬟",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "管家",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 3,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "迎春",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "两位神仙",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "众亲友",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "众小姐",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "僧道",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "单先生",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "孩童",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "官员",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "小道士",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "巧姐",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "戏班演员",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "旺儿媳妇",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "林姑娘",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "歌女",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "湘云",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "老爷",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "被告",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "袭人母亲",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "观众",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "詹先生",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "贵妃娘娘",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "贾府女眷",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "跛道人",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "都总管",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "门客",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "三姑娘",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "两人",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "两名丫鬟",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "丰氏",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "乌庄头",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "乐工",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "二叔",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "五奶奶",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "人物",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "代儒",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "众丫头",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "众夫人",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "众男丁",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "众男眷",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "众老爷",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "伙计",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "传令仆人",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "传话仆人",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "传话女眷",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "传话者",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "信使",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "僧众",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "僧侣",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "内侍",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "写字的人",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "冯家仆人",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "冯家代表",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "原告",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "另一丫鬟",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "另一媳妇",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "在场族人",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "大小姐",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "大爷",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "女官",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "妃嫔",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "姑娘",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "娘娘",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "守卫",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "宝叔",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "宴饮众人",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "宾客",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "小书童",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "小沙弥",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "工匠",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "巧姐儿",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "平姐姐",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "平姑娘",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "张太医",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "彩嫔",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "戏子",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "执事官员",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "扶侍者",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "护卫",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "报信人",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "报信仆人",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "报信太监",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "报喜仆人",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "抬轿侍从",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "拐子",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "搬运人员",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "摊主",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "朋友",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "杠夫",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "来升",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "林妹妹",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "林姐姐",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "湘莲",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "潇湘馆婆子",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "珍大奶奶",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "珍大爷",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "瑞儿",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "男性随从",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "病人",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "看门大爷",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "祖母",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "祖父",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "秦氏",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "管事女眷",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "管事婆子",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "管家媳妇",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "老者",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "老道",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "胡大夫",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "舅奶奶",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "舅母",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "芸儿",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "芹儿",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "薛宝",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "薛家代表",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "袭人哥哥",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "袭人家属",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "贵妃",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "贵妇",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "贾府人员",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "贾府众女眷",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "贾府男眷",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "贾芸之母",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "赵姨奶奶",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "轿夫",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "送葬亲眷",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "送葬家属",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "通报仆人",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "金钏儿",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "银姐",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "长府官",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "闹事媳妇",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "随行官员",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "骑兵",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "骑马信使",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "骑马送葬众人",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "鲍二老婆",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    },
+    {
+      "mention": "黄衣人物",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "rule_note": "未命中规则，待模型/人工判断"
+    }
+  ]
+}

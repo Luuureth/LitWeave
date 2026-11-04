@@ -1,0 +1,36 @@
+{
+  "episode_id": "10",
+  "episode_title": "听曲文宝玉悟禅机",
+  "segment_id": "S06",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾琏在仆人引导下穿过园林长廊",
+      "characters": [
+        "贾琏"
+      ],
+      "location": "园林长廊",
+      "time_hint": "start",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾琏在仆人的引导下穿过园林长廊，前往某处。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾琏让昭儿送银子给多姑娘",
+      "characters": [
+        "贾琏",
+        "昭儿",
+        "多姑娘"
+      ],
+      "location": "夜晚户外",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "夜晚，多姑娘持花出现，贾琏让昭儿将准备好的银子送给多姑娘。"
+    }
+  ]
+}

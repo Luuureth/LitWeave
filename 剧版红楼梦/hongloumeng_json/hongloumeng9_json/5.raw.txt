@@ -1,0 +1,56 @@
+```json
+{
+  "episode_id": "09",
+  "episode_title": "意绵绵静日玉生香",
+  "segment_id": "S05",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉进屋受迎",
+      "characters": [
+        "贾宝玉",
+        "香菱",
+        "随从",
+        "丫鬟"
+      ],
+      "location": "香菱房中",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉在随从和丫鬟陪同下进入香菱房中，香菱热情迎接并引其入座。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "拒果与玩香炉",
+      "characters": [
+        "贾宝玉",
+        "香菱",
+        "丫鬟"
+      ],
+      "location": "香菱房中",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "丫鬟欲给宝玉递水果被香菱以不敢乱吃东西为由阻拦，随后宝玉摆弄桌上的香炉。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "香菱劝茶",
+      "characters": [
+        "贾宝玉",
+        "香菱",
+        "丫鬟"
+      ],
+      "location": "香菱房中",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "香菱为宝玉斟茶并执意劝其品尝，宝玉接过茶杯略显推辞，丫鬟在一旁围观。"
+    }
+  ]
+}
+```

@@ -1,0 +1,37 @@
+```json
+{
+  "episode_id": "10",
+  "episode_title": "听曲文宝玉悟禅机",
+  "segment_id": "S04",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众人围坐下棋",
+      "characters": [
+        "众女子"
+      ],
+      "location": "庭院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "众女子在庭院围坐下棋，有人落子有人旁观。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "争抢绣扇",
+      "characters": [
+        "宝姑娘",
+        "众女子"
+      ],
+      "location": "庭院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众女子在庭院争抢绣扇，宝姑娘将扇子赠予他人。"
+    }
+  ]
+}
+```

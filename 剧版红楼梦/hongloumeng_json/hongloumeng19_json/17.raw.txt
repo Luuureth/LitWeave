@@ -1,0 +1,69 @@
+```json
+{
+  "episode_id": "19",
+  "episode_title": "琉璃世界白雪红梅",
+  "segment_id": "S17",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾宝玉踏雪前往佛院向妙玉求取红梅",
+      "characters": [
+        "贾宝玉",
+        "妙玉"
+      ],
+      "location": "栊翠庵",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉踏雪前往佛院，妙玉剪下一枝红梅赠予他，宝玉吟诗后离开。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾宝玉带回红梅与众人在室内共赏",
+      "characters": [
+        "贾宝玉",
+        "史湘云"
+      ],
+      "location": "室内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉将红梅带回室内，史湘云等人围拢观赏并称赞梅花好看。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾母到来并提议去惜春处看画",
+      "characters": [
+        "贾母",
+        "贾宝玉",
+        "史湘云"
+      ],
+      "location": "室内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母来到室内夸赞红梅，因嫌潮湿提议众人去惜春房中看画。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "众人发现贾宝玉与薛宝琴在雪地梅花旁",
+      "characters": [
+        "贾母",
+        "贾宝玉",
+        "薛宝琴",
+        "史湘云"
+      ],
+      "location": "山坡",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众人随贾母出行时发现贾宝玉与薛宝琴立于雪地梅花旁，贾母赞其如画中双艳图。"
+    }
+  ]
+}
+```

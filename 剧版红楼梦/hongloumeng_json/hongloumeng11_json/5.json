@@ -1,0 +1,64 @@
+{
+  "episode_id": "11",
+  "episode_title": "为争宠姐弟遭魔魇",
+  "segment_id": "S05",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "仆人打扫庭院并停下迎接，王熙凤带人走出房门",
+      "characters": [
+        "王熙凤"
+      ],
+      "location": "庭院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "仆人打扫庭院，王熙凤带人走出房门。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾芸向王熙凤请安，二人寒暄并谈及贾芸母亲",
+      "characters": [
+        "贾芸",
+        "王熙凤"
+      ],
+      "location": "庭院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾芸向王熙凤请安，二人寒暄并谈及贾芸母亲及王熙凤理家。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾芸解释礼盒为朋友所赠香料并孝敬王熙凤，王熙凤收下并吩咐平儿",
+      "characters": [
+        "贾芸",
+        "王熙凤",
+        "平儿"
+      ],
+      "location": "庭院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾芸解释礼盒为朋友所赠香料并孝敬王熙凤，王熙凤收下并吩咐平儿。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "王熙凤称赞贾芸懂事并提及贾芸叔叔的夸奖，随后让贾芸离开",
+      "characters": [
+        "王熙凤",
+        "贾芸"
+      ],
+      "location": "庭院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤称赞贾芸懂事并提及长辈夸奖，随后让贾芸离开。"
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "episode_id": "12",
+  "episode_title": "埋香冢飞燕泣残红",
+  "segment_id": "S07",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王熙凤吩咐小红去取银子和荷包",
+      "characters": [
+        "王熙凤",
+        "小红"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤在园中遇见小红，吩咐她去取一百六十两银子和一个小荷包。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "小红急忙穿过园子去办事",
+      "characters": [
+        "小红"
+      ],
+      "location": "大观园",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "小红领命后，急忙穿过石桥和假山去取东西。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "晴雯讥讽小红攀高枝",
+      "characters": [
+        "小红",
+        "晴雯"
+      ],
+      "location": "大观园",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "小红途中遇见晴雯等人，解释自己正忙着替王熙凤办事，晴雯讥讽她一心攀高枝。"
+    }
+  ]
+}

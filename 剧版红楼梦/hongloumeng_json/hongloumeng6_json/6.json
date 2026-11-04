@@ -1,0 +1,59 @@
+{
+  "episode_id": "06",
+  "episode_title": "王熙凤协理宁国府",
+  "segment_id": "S06",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "僧道众人摆设香案举行法事",
+      "characters": [],
+      "location": "宁国府",
+      "time_hint": "background",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "宁国府院落中，僧道众人摆设香案与法器举行丧仪法事。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾珍催促仆役并签发对牌",
+      "characters": [
+        "贾珍"
+      ],
+      "location": "宁国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾珍得知侯爷们等候后，催促仆役并签发对牌供下人领取物资。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "众人查验并决定使用樯木板",
+      "characters": [
+        "贾珍",
+        "贾蓉"
+      ],
+      "location": "宁国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾珍与贾蓉等人查验义忠亲王遗留的樯木棺材板，贾蓉提议不计价钱直接赏赐工钱，贾珍欣然定夺。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "贾珍下令加工木材并迎接贵客",
+      "characters": [
+        "贾珍"
+      ],
+      "location": "宁国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾珍不顾旁人劝阻下令将樯木板抬出开锯上漆，并随即安排仆役迎接齐国公诰命等贵客。"
+    }
+  ]
+}

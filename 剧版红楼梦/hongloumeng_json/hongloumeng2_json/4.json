@@ -1,0 +1,48 @@
+{
+  "episode_id": "02",
+  "episode_title": "宝黛钗初会荣庆堂",
+  "segment_id": "S04",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "冯家仆人诉冤",
+      "characters": [
+        "贾雨村"
+      ],
+      "location": "公堂",
+      "time_hint": null,
+      "explicit_time": "一年",
+      "relation_to_previous": "start",
+      "event_summary": "冯家仆人向贾雨村哭诉小主人被薛蟠打死且告状一年无果的冤情。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾雨村下令缉凶",
+      "characters": [
+        "贾雨村"
+      ],
+      "location": "公堂",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾雨村听闻案情后大怒，斥责薛蟠行凶，并下令缉拿凶犯归案。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "门子示意退堂",
+      "characters": [
+        "门子",
+        "贾雨村"
+      ],
+      "location": "公堂",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "门子向贾雨村使眼色示意不可抓人，贾雨村随即改变主意宣布退堂。"
+    }
+  ]
+}

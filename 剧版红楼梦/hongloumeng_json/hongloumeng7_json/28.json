@@ -1,0 +1,32 @@
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S28",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "整理衣冠盛装等待",
+      "characters": [],
+      "location": "荣国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾府众人整理衣冠，盛装等待贵妃。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "通报贵妃将至并起身迎接",
+      "characters": [
+        "史太君"
+      ],
+      "location": "荣国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "传话女眷告知贵妃即将到达，贾母等人急忙起身迎接。"
+    }
+  ]
+}

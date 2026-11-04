@@ -1,0 +1,78 @@
+{
+  "episode_id": "09",
+  "episode_title": "意绵绵静日玉生香",
+  "segment_id": "S08",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾环被丫鬟询问后哭着离开房间",
+      "characters": [
+        "贾环"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": "大正月",
+      "relation_to_previous": "start",
+      "event_summary": "贾环从外面回来被丫鬟询问是否去看戏，贾环称没看戏只是逛了一趟，随后被催促到别处玩去，哭着离开。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾环向赵姨娘哭诉被欺负",
+      "characters": [
+        "贾环",
+        "赵姨娘"
+      ],
+      "location": "赵姨娘院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "赵姨娘唤贾环过来，贾环哭诉莺儿欺负他赖他的钱，宝哥哥把他撵了回来。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "王熙凤出现并责备贾环",
+      "characters": [
+        "王熙凤",
+        "贾环"
+      ],
+      "location": "走廊",
+      "time_hint": "after",
+      "explicit_time": "大正月",
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤走来责备贾环上高台儿盘、讨没趣儿，骂他下流没脸，并与丫鬟争论不该跟小孩子计较。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "王熙凤维护贾环并呼唤他出来",
+      "characters": [
+        "王熙凤",
+        "贾环"
+      ],
+      "location": "走廊",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤认为贾环是小孩子自有老爷太太管，不该由丫鬟大口啐他，并呼唤贾环快出来。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "王熙凤训斥贾环并安排处置",
+      "characters": [
+        "王熙凤",
+        "贾环",
+        "赵姨娘"
+      ],
+      "location": "赵姨娘院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾环出来后，王熙凤责备他没气性、不尊重自己往下流走，询问输了多少钱，命令取一吊钱送他去姑娘那边玩，并威胁若再如此便打他并告诉学堂里。"
+    }
+  ]
+}

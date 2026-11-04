@@ -1,0 +1,54 @@
+```json
+{
+  "episode_id": "09",
+  "episode_title": "意绵绵静日玉生香",
+  "segment_id": "S14",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "讲述宝玉典故趣事",
+      "characters": [
+        "薛宝钗",
+        "林黛玉",
+        "贾宝玉"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "薛宝钗讲述贾宝玉爱用典故却在娘娘跟前作诗时遗忘的趣事，林黛玉借此打趣宝玉。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉闻讯探病",
+      "characters": [
+        "薛宝钗",
+        "贾宝玉",
+        "袭人"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "薛宝钗提及袭人患病，贾宝玉闻讯焦急起身离去探视。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宝钗邀约黛玉",
+      "characters": [
+        "薛宝钗",
+        "林黛玉"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉离开后，薛宝钗邀请林黛玉稍后去她那里。"
+    }
+  ]
+}
+```

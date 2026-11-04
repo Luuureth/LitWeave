@@ -1,0 +1,50 @@
+{
+  "episode_id": "09",
+  "episode_title": "意绵绵静日玉生香",
+  "segment_id": "S13",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉劝黛玉活动，黛玉欲睡，二人共枕",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "卧室",
+      "time_hint": "after",
+      "explicit_time": "饭后",
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉劝林黛玉饭后起身活动，林黛玉欲睡，二人争执枕头后共枕闲聊。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "黛玉闻香，宝玉调侃冷香暖香，黛玉反讽金玉",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "卧室",
+      "time_hint": "sequential",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉闻手帕香气，贾宝玉借“冷香丸”与“暖香”打趣，林黛玉以“金玉良缘”回击，二人嬉闹。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宝玉讲耗子精故事，黛玉识破并打闹",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "卧室",
+      "time_hint": "sequential",
+      "explicit_time": "腊月初七, 腊八",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉讲述“耗子精偷香芋”的故事暗指林黛玉是“香玉”，林黛玉识破其意并拧贾宝玉的嘴。"
+    }
+  ]
+}

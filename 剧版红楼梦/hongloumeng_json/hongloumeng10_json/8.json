@@ -1,0 +1,35 @@
+{
+  "episode_id": "10",
+  "episode_title": "听曲文宝玉悟禅机",
+  "segment_id": "S08",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "整理床铺并发现头发",
+      "characters": [
+        "平儿"
+      ],
+      "location": "卧室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "平儿在卧室整理床铺时捡起一绺头发。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "争夺头发并调情",
+      "characters": [
+        "贾琏",
+        "平儿"
+      ],
+      "location": "卧室",
+      "time_hint": "after",
+      "explicit_time": "昨天晚上",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾琏进入卧室与平儿争夺头发，两人言语调情。"
+    }
+  ]
+}

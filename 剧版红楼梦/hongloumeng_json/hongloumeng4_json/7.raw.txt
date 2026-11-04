@@ -1,0 +1,58 @@
+```json
+{
+  "episode_id": "04",
+  "episode_title": "探宝钗黛玉半含酸",
+  "segment_id": "S07",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "赏字闲聊并询问袭人",
+      "characters": [
+        "贾宝玉",
+        "林黛玉",
+        "袭人"
+      ],
+      "location": "贾宝玉房中",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉与林黛玉在房内赏字闲聊，贾宝玉询问袭人。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "谈论豆腐皮包子",
+      "characters": [
+        "贾宝玉",
+        "林黛玉",
+        "李嬷嬷",
+        "珍大奶奶"
+      ],
+      "location": "贾宝玉房中",
+      "time_hint": "after",
+      "explicit_time": "今儿, 晚上",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉向林黛玉解释豆腐皮包子的去向，林黛玉告知已被李嬷嬷拿走。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "怒摔茶杯",
+      "characters": [
+        "贾宝玉",
+        "林黛玉",
+        "丫鬟",
+        "袭人",
+        "李嬷嬷"
+      ],
+      "location": "贾宝玉房中",
+      "time_hint": "after",
+      "explicit_time": "早上",
+      "relation_to_previous": "sequential",
+      "event_summary": "丫鬟端茶，贾宝玉发现枫露茶被李嬷嬷喝了，怒摔茶杯并扬言撵人，袭人与林黛玉劝解。"
+    }
+  ]
+}
+```

@@ -1,0 +1,124 @@
+{
+  "chapter_id": "056",
+  "chapter_title": "第五十六回 敏探春兴利除宿弊 贤宝钗小惠全大体",
+  "source_type": "hongloumeng_text",
+  "event_count": 7,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "商议蠲免头油脂粉买办钱",
+      "characters": [
+        "平儿",
+        "贾探春",
+        "李纨",
+        "薛宝钗"
+      ],
+      "location": "秋爽斋",
+      "time_hint": "start",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "平儿至探春处参与理家会议，探春指出外头买办敷衍且重重叠叠费钱，提出蠲免姑娘们每月二两头油脂粉买办银两。",
+      "source_text": "话说平儿陪着凤姐吃了饭，伏侍盥漱毕，方往探春处来……平儿便笑道：“买办买的是那东西，别人买了好的来，买办的也不依他，又说他使坏心，要夺他的买办。所以他们宁可得罪了里头。不肯得罪了外头办事的。要是姑娘们使了奶妈子们，他们也就不敢说闲话了。”"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "提议大观园承包生利",
+      "characters": [
+        "贾探春",
+        "薛宝钗",
+        "李纨",
+        "平儿"
+      ],
+      "location": "秋爽斋",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "探春继而提议将大观园花木蔬果包给本分老妈妈们打理以生利，平儿前去回禀凤姐并获准。",
+      "source_text": "探春道：“因此我心里不自在，饶费了两起钱，东西又白丢一半。不如意把买办的这一项每月蠲了为是。此是第一件事。第二件，年里往赖大家去……探春听了，便和李纨命人将园中所有婆子的名单要来，大家参度，大概定了几个人。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "落实承包名单与分配利益",
+      "characters": [
+        "贾探春",
+        "薛宝钗",
+        "李纨",
+        "平儿"
+      ],
+      "location": "秋爽斋",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "探春等人敲定各处管事婆子人选，宝钗建议账目不归账房、日常用度包揽节省，并提议均沾利益以安抚园内无差事婆子。",
+      "source_text": "探春听了，便和李纨命人将园中所有婆子的名单要来……众人都欢喜说：“姑娘说的很是。从此姑娘奶奶只管放心。姑娘奶奶这么疼顾我们，我们再要不体上情，天地也不容了。”"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "甄府送礼请安与比对宝玉",
+      "characters": [
+        "林之孝家的",
+        "史太君",
+        "贾探春",
+        "李纨"
+      ],
+      "location": "贾母院",
+      "time_hint": "after",
+      "explicit_time": "昨日/今日",
+      "relation_to_previous": "sequential",
+      "event_summary": "林之孝家报江南甄府家眷进京送礼请安，贾母召见甄府四个管家娘子，听闻甄家亦有一同名宝玉并询问其性情样貌。",
+      "source_text": "刚说着，只见林之孝家的进来，说：“江南甄府里家眷昨日到京，今日进宫朝贺，此刻先遣人来送礼请安。”……四人告辞了贾母，便往王夫人处来，说了一会子家务，打发他们回去，不必细说。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "湘云打趣与宝玉回房生疑",
+      "characters": [
+        "史太君",
+        "贾宝玉",
+        "史湘云"
+      ],
+      "location": "大观园",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母逢人便说甄宝玉之事，湘云以古人同名为例打趣宝玉，宝玉回房后心中暗自疑惑。",
+      "source_text": "这里贾母喜得逢人便告诉：也有一个宝玉，也都一般行景。……说着，便睡下了。"
+    },
+    {
+      "event_id": "E06",
+      "narrative_order": 6,
+      "action": "宝玉梦中邂逅另一宝玉",
+      "characters": [
+        "贾宝玉",
+        "甄宝玉"
+      ],
+      "location": "太虚幻境",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉昏昏睡去梦游至另一花园，遇见陌生丫鬟与榻上少年，两人对话后互认对方即为同名同貌的另一宝玉。",
+      "source_text": "宝玉心中便又疑惑起来：若说必无，也似必有……吓得二人皆慌了，一个宝玉就走。一个便忙叫：“宝玉快回来！宝玉快回来！”"
+    },
+    {
+      "event_id": "E07",
+      "narrative_order": 7,
+      "action": "袭人唤醒宝玉并点破梦境缘由",
+      "characters": [
+        "袭人",
+        "贾宝玉",
+        "麝月",
+        "王夫人"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "袭人推醒梦中呼喊的宝玉，麝月指出其为照大镜所致胡梦，随后王夫人遣人来唤宝玉。",
+      "source_text": "袭人在旁听他梦中自唤，忙推醒他，笑问道：“宝玉在那里？”……一语未了，只见王夫人遣人来叫宝玉。不知有何话说，且听下回分解。"
+    }
+  ]
+}

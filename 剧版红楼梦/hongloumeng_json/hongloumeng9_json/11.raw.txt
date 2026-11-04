@@ -1,0 +1,52 @@
+```json
+{
+  "episode_id": "09",
+  "episode_title": "意绵绵静日玉生香",
+  "segment_id": "S11",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉求留并许诺三件事，黛玉劝其莫说死话",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "林黛玉房间",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉向林黛玉求情不愿回去，林黛玉提出让他答应三件事，并首先劝他不要再说化成灰烟之类的狠话。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "黛玉提出第二件事要求宝玉假装读书",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "林黛玉房间",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉向贾宝玉提出第二件事，要求他在老爷和别人面前装作喜欢读书的样子，以免惹老父生气和招人非议，贾宝玉表示不再乱说。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "黛玉提出第三件事要求宝玉改掉坏毛病",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "林黛玉房间",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉提出第三件事，要求贾宝玉不再毁僧谤道和吃人嘴上的胭脂，贾宝玉一口答应，两人言语间流露亲密情意。"
+    }
+  ]
+}
+```

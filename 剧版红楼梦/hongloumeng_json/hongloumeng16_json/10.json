@@ -1,0 +1,47 @@
+{
+  "episode_id": "16",
+  "episode_title": "刘姥姥嬉游大观园",
+  "segment_id": "S10",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "刘姥姥迷路寻找茅厕",
+      "characters": [
+        "刘姥姥"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "刘姥姥醉酒后在大观园迷路，向丫鬟询问茅厕位置后独自离开寻找。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "刘姥姥误入房间照镜睡觉",
+      "characters": [
+        "刘姥姥"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "刘姥姥误打误撞进入怡红院，对着镜子误认亲家母，随后醉酒躺在宝玉床上睡着。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "丫鬟发现并带离刘姥姥",
+      "characters": [
+        "刘姥姥"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "一名丫鬟进屋发现睡在床上的刘姥姥，将其唤醒并带离，刘姥姥得知误入宝二爷卧室后十分惊讶。"
+    }
+  ]
+}

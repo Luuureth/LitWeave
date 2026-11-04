@@ -1,0 +1,80 @@
+```json
+{
+  "episode_id": "13",
+  "episode_title": "享福人福深还祷福",
+  "segment_id": "S05",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王熙凤提议去清虚观打醮，林黛玉嫌热不去，王熙凤解释已安排妥当",
+      "characters": [
+        "王熙凤",
+        "林黛玉"
+      ],
+      "location": "贾母房中",
+      "time_hint": "background",
+      "explicit_time": "初一",
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤提议初一去清虚观打醮看戏，林黛玉嫌热拒绝，王熙凤解释那里凉快且已派人打扫。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾母决定同去，安排王熙凤坐旁边楼不用立规矩",
+      "characters": [
+        "贾母",
+        "王熙凤"
+      ],
+      "location": "贾母房中",
+      "time_hint": "after",
+      "explicit_time": "明儿个",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母表示要同去，并安排自己坐正面楼，让王熙凤坐旁边楼不用立规矩，王熙凤感激。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾母邀请薛宝钗及其母亲同去",
+      "characters": [
+        "贾母",
+        "薛宝钗"
+      ],
+      "location": "贾母房中",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母邀请薛宝钗及其母亲也去清虚观，说在家也是睡觉。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "贾宝玉邀林黛玉同去，王熙凤调侃姑娘们兴奋",
+      "characters": [
+        "贾宝玉",
+        "林黛玉",
+        "王熙凤"
+      ],
+      "location": "贾母房中",
+      "time_hint": "same_time",
+      "explicit_time": "明天",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉邀林黛玉明天同去，王熙凤调侃姑娘们听说逛庙乐得连觉都不想睡了。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "贾母决定逛三天，吩咐准备轿马",
+      "characters": [
+        "贾母"
+      ],
+      "location": "贾母房中",
+      "time_hint": "after",
+      "explicit_time": "明儿个, 三天",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母决定明儿个热热闹闹逛三天，并吩咐准备好轿马。"
+    }
+  ]
+}
+```

@@ -1,0 +1,30 @@
+{
+  "episode_id": "05",
+  "episode_title": "王熙凤毒设相思局",
+  "segment_id": "S24",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "丫鬟进房寻人",
+      "characters": [],
+      "location": "闺房",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "两名丫鬟进入昏暗的房间寻找奶奶，发现房内空无一人。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "白衣人夜行走廊",
+      "characters": [],
+      "location": "楼阁走廊",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "夜色中，一名身穿白衣的人物独自沿着楼阁上层走廊行走并驻足观望。"
+    }
+  ]
+}

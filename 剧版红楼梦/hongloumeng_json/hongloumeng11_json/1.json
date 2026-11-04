@@ -1,0 +1,35 @@
+{
+  "episode_id": "11",
+  "episode_title": "为争宠姐弟遭魔魇",
+  "segment_id": "S01",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾芸恳求二叔帮忙遭拒",
+      "characters": [
+        "贾芸"
+      ],
+      "location": "宅院门口",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾芸跟随二叔出门恳求照顾，二叔推脱称园中栽花种树工程需找婶子讨要，随后径直离开。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "旺儿向贾芸献策贿赂谋差",
+      "characters": [
+        "贾芸",
+        "旺儿"
+      ],
+      "location": "宅院门口",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "二叔离开后，旺儿上前向贾芸献策，建议先破费银子孝敬琏二奶奶以谋得种树差事，贾芸坦言无钱，旺儿劝其变通。"
+    }
+  ]
+}

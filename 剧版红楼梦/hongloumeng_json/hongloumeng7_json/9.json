@@ -1,0 +1,37 @@
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S09",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "平儿传话后贾琏离开房间",
+      "characters": [
+        "贾琏",
+        "平儿",
+        "王熙凤"
+      ],
+      "location": "荣国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "平儿告知贾琏大爷在书房等候，贾琏回应后起身离开房间。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "平儿向王熙凤解释隐瞒利钱银子的缘由",
+      "characters": [
+        "平儿",
+        "王熙凤"
+      ],
+      "location": "荣国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "平儿向王熙凤坦白借香菱之名撒谎实为截留旺儿媳妇送来的利钱银子以防贾琏挥霍，王熙凤听后识破其安排。"
+    }
+  ]
+}

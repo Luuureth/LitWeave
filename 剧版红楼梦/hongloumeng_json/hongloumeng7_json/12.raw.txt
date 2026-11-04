@@ -1,0 +1,79 @@
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S12",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "打发丫鬟并起身会客",
+      "characters": [
+        "王熙凤",
+        "丫鬟"
+      ],
+      "location": "王熙凤房内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤打发走传话的丫鬟后起身去见贾琏与贾蓉。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "汇报建造省亲别院的决定",
+      "characters": [
+        "王熙凤",
+        "贾琏",
+        "贾蓉"
+      ],
+      "location": "王熙凤房内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾琏与贾蓉向王熙凤汇报老爷们已议定丈量三里半地建造省亲别院。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "交代姑苏采买任务并叮嘱",
+      "characters": [
+        "王熙凤",
+        "贾蓉"
+      ],
+      "location": "王熙凤房内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾蓉汇报被派往姑苏采买教习与乐器等事宜，王熙凤询问其能力并予以鼓励。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "商议下江南的银两出处",
+      "characters": [
+        "王熙凤",
+        "贾琏"
+      ],
+      "location": "王熙凤房内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾琏询问采买银两出处，王熙凤决定先支取江南甄家寄存的三万两银子。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "提议代购遭王熙凤斥责",
+      "characters": [
+        "王熙凤",
+        "贾琏"
+      ],
+      "location": "王熙凤房内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾琏建议开账让贾蔷代购物品，王熙凤出言斥责并拒绝。"
+    }
+  ]
+}

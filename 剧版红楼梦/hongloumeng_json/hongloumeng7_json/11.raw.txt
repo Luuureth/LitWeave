@@ -1,0 +1,69 @@
+```json
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S11",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾琏、王熙凤与赵嬷嬷共进晚餐，确认元春省亲事宜",
+      "characters": [
+        "贾琏",
+        "王熙凤",
+        "赵嬷嬷"
+      ],
+      "location": "贾府内室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾琏、王熙凤与赵嬷嬷共进晚餐，贾琏告知元春省亲之事已基本确定。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "赵嬷嬷回忆贾府当年接驾的奢华",
+      "characters": [
+        "赵嬷嬷",
+        "贾琏",
+        "王熙凤"
+      ],
+      "location": "贾府内室",
+      "time_hint": "flashback",
+      "explicit_time": "我刚记事",
+      "relation_to_previous": "sequential",
+      "event_summary": "赵嬷嬷回忆自己刚记事时，贾府在姑苏一带修造海船、修理海塘只为接驾一次的奢华花费。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "王熙凤与赵嬷嬷谈论王家接驾经历",
+      "characters": [
+        "王熙凤",
+        "赵嬷嬷"
+      ],
+      "location": "贾府内室",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤提及王府也曾接驾，赵嬷嬷引用“东海少了白玉床，龙王来请江南王”的口号佐证王家的显赫。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "贾琏提及甄家接驾四次并感叹花费",
+      "characters": [
+        "贾琏",
+        "王熙凤",
+        "赵嬷嬷"
+      ],
+      "location": "贾府内室",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾琏提及江南甄家接驾四次，感叹其挥霍无度，赵嬷嬷解释接驾花费不过是拿着皇家的银子往皇上身上使。"
+    }
+  ]
+}
+```

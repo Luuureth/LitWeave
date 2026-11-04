@@ -1,0 +1,69 @@
+{
+  "episode_id": "06",
+  "episode_title": "王熙凤协理宁国府",
+  "segment_id": "S10",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王熙凤抵达并被搀扶入内",
+      "characters": [
+        "王熙凤"
+      ],
+      "location": "宁国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤乘车抵达，在仆人的搀扶下小心下车并进入府内。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "僧道做法事",
+      "characters": [],
+      "location": "宁国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "僧道在灵堂内敲打法器、念经做法事。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "展示秦可卿灵位",
+      "characters": [
+        "秦可卿"
+      ],
+      "location": "宁国府",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "镜头展示了秦可卿的灵位及灵堂内的祭品布置。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "王熙凤祭拜痛哭",
+      "characters": [
+        "王熙凤"
+      ],
+      "location": "宁国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤走到灵位前跪拜、烧纸并放声痛哭。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "乐师奏乐",
+      "characters": [],
+      "location": "宁国府",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "乐师在一旁吹奏乐器，渲染悲凉气氛。"
+    }
+  ]
+}

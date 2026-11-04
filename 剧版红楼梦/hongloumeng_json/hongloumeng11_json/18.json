@@ -1,0 +1,95 @@
+{
+  "episode_id": "11",
+  "episode_title": "为争宠姐弟遭魔魇",
+  "segment_id": "S18",
+  "event_count": 6,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "守候昏迷的贾宝玉",
+      "characters": [
+        "贾宝玉",
+        "史太君",
+        "王夫人",
+        "贾政"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉昏迷不醒，贾母、王夫人、贾政等人在床前焦急守候并呼唤。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾宝玉醒来胡言乱语",
+      "characters": [
+        "贾宝玉",
+        "史太君",
+        "王夫人"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉短暂醒来但神智不清，说出要离开的话，令众人惊慌。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾母痛骂赵姨娘",
+      "characters": [
+        "史太君",
+        "赵姨娘",
+        "王夫人"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母情绪失控，迁怒并痛骂赵姨娘，认为是她逼害了宝玉。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "贾政安抚贾母",
+      "characters": [
+        "贾政",
+        "史太君"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾政试图劝阻贾母，告诉她已经请大夫去了，让她不要着急。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "黛玉探望",
+      "characters": [
+        "林黛玉",
+        "紫鹃"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉和紫鹃在窗外/走廊探望，神情担忧。"
+    },
+    {
+      "event_id": "E06",
+      "narrative_order": 6,
+      "action": "众人救治宝玉",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众人给贾宝玉喂药并进行针灸治疗，宝玉最终安睡。"
+    }
+  ]
+}

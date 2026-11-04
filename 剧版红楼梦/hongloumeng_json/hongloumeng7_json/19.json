@@ -1,0 +1,49 @@
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S19",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾政与众人游园并初定杏花村之名",
+      "characters": [
+        "贾政"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾政与众清客游园至一处院落，贾政表达归农之意并规划乡村布局，众人初步提议题名为杏花村。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾宝玉引诗改题杏帘在望获赞",
+      "characters": [
+        "贾宝玉",
+        "贾政"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉引用古诗指出原名稍显俗套，提议改用四字匾额杏帘在望，获得在场众人一致称赞。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾政斥责宝玉卖弄后宝玉再题稻香村",
+      "characters": [
+        "贾政",
+        "贾宝玉"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾政斥责贾宝玉在长辈面前卖弄诗词，贾宝玉随即再引诗句提议改题稻香村，众人听后连连称妙。"
+    }
+  ]
+}

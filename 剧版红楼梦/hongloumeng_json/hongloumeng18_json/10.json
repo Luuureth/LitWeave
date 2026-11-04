@@ -1,0 +1,40 @@
+{
+  "episode_id": "18",
+  "episode_title": "鸳鸯女誓绝鸳鸯偶",
+  "segment_id": "S10",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾宝玉偶遇女子聊天并带其回房",
+      "characters": [
+        "贾宝玉",
+        "史湘云",
+        "袭人"
+      ],
+      "location": "大观园",
+      "time_hint": "background",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉在园中偶遇史湘云等人聊天，解释自己行踪后，因天气转阴带她们回房。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "邢夫人抱怨并差遣小红叫平儿",
+      "characters": [
+        "邢夫人",
+        "王夫人",
+        "小红",
+        "平儿",
+        "林黛玉"
+      ],
+      "location": "荣国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "邢夫人在王夫人房中抱怨被骂一事，因平儿被林黛玉叫走不在场，命小红去将平儿叫回。"
+    }
+  ]
+}

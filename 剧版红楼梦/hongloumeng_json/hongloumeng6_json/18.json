@@ -1,0 +1,21 @@
+{
+  "episode_id": "06",
+  "episode_title": "王熙凤协理宁国府",
+  "segment_id": "S18",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "路祭赠珠与寒暄起驾",
+      "characters": [
+        "北静王水溶"
+      ],
+      "location": "送殡路上",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "北静王于送殡途中路祭，将御赐鹡鸰香珠赠予贾府人员，双方寒暄行礼后北静王登舆离去。"
+    }
+  ]
+}

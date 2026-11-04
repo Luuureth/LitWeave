@@ -1,0 +1,84 @@
+```json
+{
+  "episode_id": "02",
+  "episode_title": "宝黛钗初会荣庆堂",
+  "segment_id": "S01",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "请安与更衣",
+      "characters": [
+        "贾宝玉",
+        "贾母"
+      ],
+      "location": "荣庆堂",
+      "time_hint": "start",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉进屋向贾母请安，贾母命其去见母亲，宝玉更衣后返回。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "引见黛玉",
+      "characters": [
+        "贾母",
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "荣庆堂",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母责备宝玉未见外客便更衣，引见林黛玉，宝黛二人互相打量，贾母让黛玉入座。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "问名送字",
+      "characters": [
+        "贾宝玉",
+        "林黛玉",
+        "众姐妹"
+      ],
+      "location": "荣庆堂",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉询问黛玉名字与学识，并送字“颦颦”，一妹妹询问典故出处。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "摔玉",
+      "characters": [
+        "贾宝玉",
+        "林黛玉",
+        "贾母"
+      ],
+      "location": "荣庆堂",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉询问黛玉是否有玉，得知无玉后愤而摔玉，贾母等人惊慌哄劝。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "解释无玉",
+      "characters": [
+        "贾母",
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "荣庆堂",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母向宝玉解释黛玉无玉是因为其母去世带走，宝玉听劝后才平息。"
+    }
+  ]
+}
+```

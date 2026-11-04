@@ -1,0 +1,55 @@
+```json
+{
+  "episode_id": "05",
+  "episode_title": "王熙凤毒设相思局",
+  "segment_id": "S12",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾瑞被擒并遭勒索",
+      "characters": [
+        "贾瑞",
+        "贾蓉",
+        "贾蔷"
+      ],
+      "location": "贾府过道",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾瑞在暗处被贾蓉和贾蔷擒获，贾蓉假称要将其送交太太处置，趁机向贾瑞勒索钱财。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾瑞立据画押",
+      "characters": [
+        "贾瑞",
+        "贾蓉",
+        "贾蔷"
+      ],
+      "location": "贾府过道",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾瑞在贾蓉的逼迫下，写下欠银五十两的文契并画押。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾瑞被泼粪尿",
+      "characters": [
+        "贾瑞",
+        "贾蓉",
+        "贾蔷"
+      ],
+      "location": "贾府过道",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾蓉和贾蔷让贾瑞在墙角等候后离开，随后贾瑞被从高处泼下粪尿。"
+    }
+  ]
+}
+```

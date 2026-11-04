@@ -1,0 +1,39 @@
+```json
+{
+  "episode_id": "11",
+  "episode_title": "为争宠姐弟遭魔魇",
+  "segment_id": "S12",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王熙凤斥责贾环烫伤宝玉并埋怨赵姨娘",
+      "characters": [
+        "王熙凤",
+        "贾宝玉",
+        "赵姨娘"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤因贾宝玉被贾环烫伤而大怒，斥责下人慌乱并埋怨赵姨娘教子无方，命人快找药来。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "林黛玉查看宝玉伤情并商议对策",
+      "characters": [
+        "林黛玉",
+        "贾宝玉"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": "明儿",
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉赶来查看贾宝玉的伤势，贾宝玉温言安慰说不疼了，两人商议若明日老太太问起便说是宝玉自己烫的。"
+    }
+  ]
+}
+```

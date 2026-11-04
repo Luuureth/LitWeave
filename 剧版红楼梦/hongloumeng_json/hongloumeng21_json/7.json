@@ -1,0 +1,41 @@
+{
+  "episode_id": "21",
+  "episode_title": "荣国府元宵开夜宴.",
+  "segment_id": "S07",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王熙凤卧病在床，平儿转述王夫人安排李纨、探春、宝钗协理家务，王熙凤借机打算退步抽身",
+      "characters": [
+        "王熙凤",
+        "平儿",
+        "王夫人",
+        "李纨",
+        "贾探春",
+        "薛宝钗"
+      ],
+      "location": "荣国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤小产卧病，平儿传达王夫人之命由李纨、探春、宝钗暂理家务，王熙凤顺势打算退步抽身。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "两名婆子在回廊行走交谈，抱怨李纨、探春、宝钗三人协理家务后规矩森严，下人再无夜间偷闲玩乐的机会",
+      "characters": [
+        "李纨",
+        "贾探春",
+        "薛宝钗"
+      ],
+      "location": "荣国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "两名婆子在回廊闲聊，抱怨李纨、探春与宝钗三人协理家务后巡查严格，下人夜间偷闲玩乐的日子就此结束。"
+    }
+  ]
+}

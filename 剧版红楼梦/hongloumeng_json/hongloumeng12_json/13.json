@@ -1,0 +1,76 @@
+{
+  "episode_id": "12",
+  "episode_title": "埋香冢飞燕泣残红",
+  "segment_id": "S13",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "袭人担忧宝玉未归",
+      "characters": [
+        "袭人"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "袭人在怡红院门口焦急等待宝玉归来，因担心而派人去书房查看。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "薛蟠宴饮行令被罚",
+      "characters": [
+        "薛蟠",
+        "贾宝玉"
+      ],
+      "location": "宴会场所",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "parallel",
+      "event_summary": "薛蟠在宴会上因误解'花气袭人'诗句被罚酒，并说出粗俗酒令引得众人大笑。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宝玉与琪官私交谈赠物",
+      "characters": [
+        "贾宝玉",
+        "蒋玉菡"
+      ],
+      "location": "廊下",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "parallel",
+      "event_summary": "宝玉与琪官在廊下私谈，琪官表明身份并赠予宝玉茜香国进贡的汗巾子。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "薛蟠回席唱粗俗酒令",
+      "characters": [
+        "薛蟠"
+      ],
+      "location": "宴会场所",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "薛蟠回到宴席继续行令，唱出'蚊子哼哼''苍蝇嗡嗡'等粗俗酒令再次引得众人发笑。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "袭人夜迎宝玉归来",
+      "characters": [
+        "袭人",
+        "贾宝玉"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "夜晚宝玉归来，袭人责怪他外出未送信让自己牵肠挂肚地担忧等待。"
+    }
+  ]
+}

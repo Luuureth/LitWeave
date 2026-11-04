@@ -1,0 +1,69 @@
+```json
+{
+  "episode_id": "06",
+  "episode_title": "王熙凤协理宁国府",
+  "segment_id": "S11",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王熙凤审问迟到下人",
+      "characters": [
+        "王熙凤",
+        "下人"
+      ],
+      "location": "宁国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤质问迟到的下人，下人跪地求饶解释睡迷了。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "王兴媳妇领牌取钱",
+      "characters": [
+        "王熙凤",
+        "王兴媳妇",
+        "彩明"
+      ],
+      "location": "宁国府",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王兴媳妇前来领牌取钱打车轿网络，彩明念账登记，王熙凤发牌。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "王熙凤纠错并处理另一媳妇领钱",
+      "characters": [
+        "王熙凤",
+        "彩明",
+        "另一媳妇"
+      ],
+      "location": "宁国府",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤指出账目开销错误，随后另一媳妇来领裁缝工银被要求等候对牌。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "王熙凤重罚下人并立威",
+      "characters": [
+        "王熙凤",
+        "下人",
+        "来升"
+      ],
+      "location": "宁国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤下令重罚迟到下人，扣除月钱，并宣布严厉规矩以震慑众人。"
+    }
+  ]
+}
+```

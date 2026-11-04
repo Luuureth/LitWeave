@@ -1,0 +1,72 @@
+```json
+{
+  "episode_id": "03",
+  "episode_title": "刘姥姥一进荣国府",
+  "segment_id": "S02",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "刘姥姥带板儿拜访，周瑞家的在院中迎接",
+      "characters": [
+        "刘姥姥",
+        "周瑞家的",
+        "板儿"
+      ],
+      "location": "周瑞家院子",
+      "time_hint": "start",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "刘姥姥带着板儿来到周瑞家，周瑞家的认出刘姥姥并热情迎接，双方互致问候。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "众人进屋落座，红衣女子端茶招待",
+      "characters": [
+        "刘姥姥",
+        "周瑞家的",
+        "板儿",
+        "红衣女子"
+      ],
+      "location": "周瑞家屋内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "刘姥姥等人进屋坐下，周瑞家的吩咐红衣女子倒茶招待刘姥姥。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "刘姥姥说明来意，周瑞家的介绍府中现状",
+      "characters": [
+        "刘姥姥",
+        "周瑞家的",
+        "板儿"
+      ],
+      "location": "周瑞家屋内",
+      "time_hint": "after",
+      "explicit_time": "五年前",
+      "relation_to_previous": "sequential",
+      "event_summary": "刘姥姥说明是特意来请安，周瑞家的解释如今府里由琏二奶奶管家，刘姥姥表示想见见她。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "周瑞家的安排刘姥姥去见王熙凤",
+      "characters": [
+        "刘姥姥",
+        "周瑞家的",
+        "红衣女子",
+        "板儿"
+      ],
+      "location": "周瑞家屋内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "周瑞家的派红衣女子去打听时机，得知二奶奶有空，便准备带刘姥姥去见她。"
+    }
+  ]
+}
+```

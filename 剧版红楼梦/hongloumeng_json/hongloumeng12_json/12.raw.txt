@@ -1,0 +1,66 @@
+```json
+{
+  "episode_id": "12",
+  "episode_title": "埋香冢飞燕泣残红",
+  "segment_id": "S12",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "紫鹃劝黛玉进屋",
+      "characters": [
+        "林黛玉",
+        "紫鹃"
+      ],
+      "location": "户外",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "紫鹃劝黛玉进屋避风，并让她去怡红院看宝玉回来没有。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉提议行酒令",
+      "characters": [
+        "贾宝玉",
+        "薛蟠"
+      ],
+      "location": "酒席间",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉提议行“悲愁喜乐”酒令，薛蟠推脱不愿参与。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宝玉行酒令并唱曲",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "酒席间",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉行酒令并唱《红豆曲》，期间穿插黛玉在房中卧床感伤的画面。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "薛蟠行酒令",
+      "characters": [
+        "薛蟠",
+        "冯紫英"
+      ],
+      "location": "酒席间",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "薛蟠行酒令，说出“女儿悲愁喜乐”四句。"
+    }
+  ]
+}
+```

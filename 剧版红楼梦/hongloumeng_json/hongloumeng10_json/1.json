@@ -1,0 +1,19 @@
+{
+  "episode_id": "10",
+  "episode_title": "听曲文宝玉悟禅机",
+  "segment_id": "S01",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "游园嬉戏",
+      "characters": [],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "众女子跑入大观园，在花丛和水边追逐嬉戏，并观赏鸳鸯与飞鸟。"
+    }
+  ]
+}

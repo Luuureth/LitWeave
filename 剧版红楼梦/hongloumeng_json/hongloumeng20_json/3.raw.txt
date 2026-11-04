@@ -1,0 +1,67 @@
+```json
+{
+  "episode_id": "20",
+  "episode_title": "勇晴雯病补雀金裘",
+  "segment_id": "S03",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "胡大夫诊脉并产生误会",
+      "characters": [
+        "胡大夫",
+        "绿衣女子",
+        "病人"
+      ],
+      "location": "宝玉房内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "胡大夫为帐内病人诊脉，因房间布置误以为病人是小姐，经绿衣女子解释后得知是宝玉屋里的丫鬟。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉看药方并安排银两",
+      "characters": [
+        "宝玉",
+        "紫衣女子"
+      ],
+      "location": "宝玉房内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉看药方后不满大夫用药，决定另请王太医，并让紫衣女子取银两打发胡大夫。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宝玉扇药并与晴雯论药香",
+      "characters": [
+        "宝玉",
+        "晴雯"
+      ],
+      "location": "宝玉房内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉在房内扇药罐闻药香，晴雯嫌药气重想拿去茶房，宝玉则认为药气雅致且屋里正缺药香。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "宝玉寻找丫鬟并计划偷看",
+      "characters": [
+        "宝玉",
+        "晴雯"
+      ],
+      "location": "宝玉房内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉发现麝月、秋纹不在房内，便对晴雯说要从后门出去偷看她们在做什么。"
+    }
+  ]
+}
+```

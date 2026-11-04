@@ -1,0 +1,46 @@
+{
+  "episode_id": "06",
+  "episode_title": "王熙凤协理宁国府",
+  "segment_id": "S02",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "举办丧事祭祀",
+      "characters": [],
+      "location": "天香楼",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "天香楼举办丧事，僧人行走，道士做法事，灵堂布置。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "病重卧床",
+      "characters": [
+        "秦可卿"
+      ],
+      "location": "宁国府",
+      "time_hint": "flashback",
+      "explicit_time": null,
+      "relation_to_previous": "flashback",
+      "event_summary": "秦可卿病重卧床，心口疼痛，床边备有人参。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "探望病人",
+      "characters": [
+        "贾宝玉",
+        "秦可卿"
+      ],
+      "location": "宁国府",
+      "time_hint": "flashback",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉探望秦可卿，秦可卿诉说心口疼，宝玉焦急担忧。"
+    }
+  ]
+}

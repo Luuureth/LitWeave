@@ -1,0 +1,22 @@
+{
+  "episode_id": "19",
+  "episode_title": "琉璃世界白雪红梅",
+  "segment_id": "S12",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众人商议雪天起诗社",
+      "characters": [
+        "林黛玉",
+        "史湘云"
+      ],
+      "location": "室内",
+      "time_hint": "background",
+      "explicit_time": "今儿夜里、明天",
+      "relation_to_previous": "start",
+      "event_summary": "众姐妹在室内交谈，感叹此次聚会人员齐整，并因今夜将降大雪而商议明日于芦雪庵起诗社。"
+    }
+  ]
+}

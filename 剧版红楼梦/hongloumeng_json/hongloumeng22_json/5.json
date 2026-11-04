@@ -1,0 +1,54 @@
+{
+  "episode_id": "22",
+  "episode_title": "判冤决狱平儿行权",
+  "segment_id": "S05",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "黄衣女子交代素菜要求并与柳嫂子交谈",
+      "characters": [
+        "柳家的",
+        "贾宝玉",
+        "五儿"
+      ],
+      "location": "厨房",
+      "time_hint": null,
+      "explicit_time": "晚饭",
+      "relation_to_previous": "start",
+      "event_summary": "黄衣女子向柳嫂子传达宝二爷晚饭素菜的要求，并询问五儿的情况，随后离开。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "莲花儿索要炖鸡蛋引发争执与抱怨",
+      "characters": [
+        "柳家的",
+        "莲花儿",
+        "司棋",
+        "贾探春",
+        "薛宝钗"
+      ],
+      "location": "厨房",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "莲花儿传达司棋要吃炖鸡蛋的要求，柳嫂子拒绝，莲花儿翻出鸡蛋后，柳嫂子斥责并抱怨各屋索要物品需给钱的规矩。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "绣橘催促莲花儿离开",
+      "characters": [
+        "绣橘",
+        "莲花儿"
+      ],
+      "location": "厨房",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "绣橘进入厨房催促莲花儿回去。"
+    }
+  ]
+}

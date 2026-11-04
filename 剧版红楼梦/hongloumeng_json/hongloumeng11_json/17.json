@@ -1,0 +1,93 @@
+{
+  "episode_id": "11",
+  "episode_title": "为争宠姐弟遭魔魇",
+  "segment_id": "S17",
+  "event_count": 6,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉病重昏迷，贾母王夫人等女眷在床前痛哭照料",
+      "characters": [
+        "贾宝玉",
+        "史太君",
+        "王夫人"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "宝玉病重昏迷，贾母、王夫人等女眷在床前焦急照料并痛哭。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾政等男眷询问大夫病情，得知宝玉患热症",
+      "characters": [
+        "贾政",
+        "贾琏"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾政等男眷在房外询问病情，得知宝玉患的是热症，需服药治疗。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "王熙凤病重卧床，神志不清拒绝喝药",
+      "characters": [
+        "王熙凤",
+        "李纨"
+      ],
+      "location": "荣国府",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "parallel",
+      "event_summary": "王熙凤也病重在床，神志不清，拒绝喝药并指责他人想药死她。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "众人给宝玉喂药困难，药水流出引起惊慌",
+      "characters": [
+        "贾宝玉",
+        "史太君",
+        "王夫人"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众人给宝玉喂药，宝玉难以吞咽导致药水流出，众女眷惊慌擦拭。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "贾政与众人商议，有人提议冲喜或预备后事",
+      "characters": [
+        "贾政",
+        "贾琏"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾政与众人商议宝玉病情，认为天命难违，有人提议预备后事或冲喜。"
+    },
+    {
+      "event_id": "E06",
+      "narrative_order": 6,
+      "action": "林黛玉在窗外独自垂泪担忧宝玉",
+      "characters": [
+        "林黛玉"
+      ],
+      "location": "窗外",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉在窗外听闻宝玉病重，独自伤心落泪，担忧宝玉安危。"
+    }
+  ]
+}

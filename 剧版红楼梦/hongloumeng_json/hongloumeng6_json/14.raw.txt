@@ -1,0 +1,36 @@
+{
+  "episode_id": "06",
+  "episode_title": "王熙凤协理宁国府",
+  "segment_id": "S14",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "仆从禀报林如海死讯及贾琏行程，王熙凤叮嘱仆从伺候贾琏",
+      "characters": [
+        "王熙凤",
+        "仆从"
+      ],
+      "location": "室内",
+      "time_hint": "start",
+      "explicit_time": "九月初三巳时",
+      "relation_to_previous": "start",
+      "event_summary": "仆从向王熙凤禀报林如海于九月初三巳时去世及贾琏送灵苏州的行程，王熙凤听后严厉叮嘱仆从在外小心伺候贾琏。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "王熙凤遣退仆从后与丫鬟交谈，提及夜深无法入睡及后续殡仪安排",
+      "characters": [
+        "王熙凤",
+        "丫鬟"
+      ],
+      "location": "室内",
+      "time_hint": "after",
+      "explicit_time": "快四更了",
+      "relation_to_previous": "sequential",
+      "event_summary": "仆从退下后，王熙凤与身旁丫鬟交谈，感叹已近四更无法入睡，并交代次日伴宿与后日出殡的日程。"
+    }
+  ]
+}

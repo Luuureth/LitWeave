@@ -1,0 +1,64 @@
+{
+  "episode_id": "06",
+  "episode_title": "王熙凤协理宁国府",
+  "segment_id": "S17",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉被召去见王爷",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "街道",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "仆从让宝玉脱了孝服去见王爷"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "王爷接见宝玉",
+      "characters": [
+        "贾宝玉",
+        "北静王水溶"
+      ],
+      "location": "街道",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "北静王接见贾宝玉，宝玉叩见王爷"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "王爷赏鉴通灵宝玉",
+      "characters": [
+        "贾宝玉",
+        "北静王水溶"
+      ],
+      "location": "街道",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "北静王询问并赏鉴宝玉佩戴的通灵宝玉"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "王爷询问宝玉学业并赞赏",
+      "characters": [
+        "贾宝玉",
+        "北静王水溶",
+        "贾政"
+      ],
+      "location": "街道",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "北静王询问宝玉读书情况，赞赏其为龙驹凤雏前程不可限量"
+    }
+  ]
+}

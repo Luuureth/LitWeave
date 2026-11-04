@@ -1,0 +1,38 @@
+```json
+{
+  "episode_id": "19",
+  "episode_title": "琉璃世界白雪红梅",
+  "segment_id": "S03",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "倾诉身世与顾虑",
+      "characters": [
+        "林黛玉",
+        "薛宝钗"
+      ],
+      "location": "房间内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "林黛玉向薛宝钗倾诉自己身体不好、每年吃药惹得家里不安，以及担心吃燕窝粥会被下人嫌弃多事的顾虑。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "劝慰并承诺送燕窝",
+      "characters": [
+        "薛宝钗",
+        "林黛玉"
+      ],
+      "location": "房间内",
+      "time_hint": "sequential",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "薛宝钗劝慰林黛玉不必多虑，表示两人同病相怜，并承诺私下送燕窝给林黛玉熬粥，随后告辞。"
+    }
+  ]
+}
+```

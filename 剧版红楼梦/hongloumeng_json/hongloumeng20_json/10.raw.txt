@@ -1,0 +1,30 @@
+{
+  "episode_id": "20",
+  "episode_title": "勇晴雯病补雀金裘",
+  "segment_id": "S10",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "雪夜赶路运送年物",
+      "characters": ["乌庄头", "伙计", "珍大爷"],
+      "location": "野外雪路",
+      "time_hint": null,
+      "explicit_time": "腊月二十三",
+      "relation_to_previous": "start",
+      "event_summary": "乌庄头带领伙计在黑灯瞎火的雪夜艰难赶路运送年物，因担心延误腊月二十三的期限遭珍大爷责罚而不敢停歇。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "带病熬夜缝补雀金裘",
+      "characters": ["晴雯", "宝玉", "丫鬟"],
+      "location": "内室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "深夜时分，晴雯不顾病体在内室点烛熬夜，竭力为宝玉缝补雀金裘。"
+    }
+  ]
+}

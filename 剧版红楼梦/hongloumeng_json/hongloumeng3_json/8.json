@@ -1,0 +1,66 @@
+{
+  "episode_id": "03",
+  "episode_title": "刘姥姥一进荣国府",
+  "segment_id": "S08",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王夫人吩咐周瑞家的分发宫花",
+      "characters": [
+        "王夫人",
+        "周瑞家的",
+        "香菱"
+      ],
+      "location": "荣国府",
+      "time_hint": null,
+      "explicit_time": "昨儿",
+      "relation_to_previous": "start",
+      "event_summary": "王夫人在房中吩咐周瑞家的将宫里的十二枝堆纱花分送给家中三位姑娘、林黛玉及王熙凤。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "周瑞家的与金钏儿闲聊香菱与金钏儿身世",
+      "characters": [
+        "周瑞家的",
+        "金钏"
+      ],
+      "location": "府内庭院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "周瑞家的携花出门时遇见金钏儿，二人闲聊香菱的容貌像秦可卿，并询问金钏儿的年龄与籍贯。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "周瑞家的向惜春送花并闲聊",
+      "characters": [
+        "周瑞家的",
+        "贾惜春"
+      ],
+      "location": "荣国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "周瑞家的在花园遇见正与丫鬟玩耍的惜春，将宫花赠予她，惜春调侃自己若剃度出家便无处戴花。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "周瑞家的向黛玉送花引发不快及宝玉托问宝钗病情",
+      "characters": [
+        "周瑞家的",
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": "这两天",
+      "relation_to_previous": "sequential",
+      "event_summary": "周瑞家的将最后两枝宫花送给林黛玉，黛玉因怀疑是别人挑剩的而不悦，贾宝玉借机询问薛宝钗近况并托周瑞家的代为问安。"
+    }
+  ]
+}

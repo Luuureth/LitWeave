@@ -1,0 +1,1900 @@
+[
+  {
+    "link_id": "SCL_00027",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.600809,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00498",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "贾琏护送黛玉及诸事停妥后返京，与宝玉悲喜重逢，黛玉分发礼物并拒收宝玉所赠香串。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第016回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "016",
+      "chapter_title": "第十六回 贾元春才选凤藻宫 秦鲸卿夭逝黄泉路"
+    },
+    "video": {
+      "scene_id": "SCN_00185",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "宝玉与黛玉在房中对弈，黛玉谈及自己曾错怪宝钗，后因宝钗送燕窝粥而看出其真心。；宝玉指出黛玉消瘦且眼泪变少，黛玉坦言近日心酸却少泪，宝玉劝其保重并告知明日芦雪庵起诗社。；宝玉告辞离开，黛玉独自拉上床帐准备休息。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng19_json\\13.json",
+      "member_count": 3,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "19_S13",
+      "episode_title": "琉璃世界白雪红梅",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng19_json\\13.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉",
+        "贾宝玉"
+      ],
+      "locations": [
+        "潇湘馆"
+      ],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.285131,
+      "kb_score_video": 0.95
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.15,
+      "reason": "文本为第十六回贾琏返京分发礼物，视频为第四十五回秋夕谈燕窝粥，时空与情节均不同。"
+    },
+    "timeline_rule_candidates": [
+      {
+        "timeline_id": "TL006",
+        "timeline_year": "红楼七年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+        "timeline_ref": "TL006｜红楼七年｜冬季｜贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+        "rule_score": 0.008832,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.02944,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL024",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "二月廿二",
+        "timeline_event_name": "元春命太监传谕让宝玉及众姊妹搬入园中居住；宝玉住怡红院黛玉潇湘馆宝钗蘅芜苑迎探惜各居一处",
+        "timeline_ref": "TL024｜红楼十三年｜二月廿二｜元春命太监传谕让宝玉及众姊妹搬入园中居住；宝玉住怡红院黛玉潇湘馆宝钗蘅芜苑迎探惜各居一处",
+        "rule_score": 0.007816,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.026054,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL021",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "正月内",
+        "timeline_event_name": "宝玉午间来潇湘馆怕黛玉积食编耗子精偷香芋故事逗她",
+        "timeline_ref": "TL021｜红楼十三年｜正月内｜宝玉午间来潇湘馆怕黛玉积食编耗子精偷香芋故事逗她",
+        "rule_score": 0.006038,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.020127,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL016",
+        "timeline_year": "红楼十一年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "林如海病重贾琏送黛玉回扬州探视；林如海病故黛玉经此彻底成为孤女长住贾府",
+        "timeline_ref": "TL016｜红楼十一年｜冬季｜林如海病重贾琏送黛玉回扬州探视；林如海病故黛玉经此彻底成为孤女长住贾府",
+        "rule_score": 0.006004,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.020014,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL033",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "五月初二",
+        "timeline_event_name": "宝黛因提亲口角大闹；宝玉赌气砸玉黛玉哭吐铰断玉穗子",
+        "timeline_ref": "TL033｜红楼十三年｜五月初二｜宝黛因提亲口角大闹；宝玉赌气砸玉黛玉哭吐铰断玉穗子",
+        "rule_score": 0.00558,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.018601,
+        "kb_bonus": 0.0
+      }
+    ],
+    "timeline_rule_top_score": 0.008832,
+    "timeline_rule_gap": 0.001016,
+    "timeline_id": "不确定",
+    "timeline_year": "不确定",
+    "timeline_season": "不确定",
+    "timeline_event_name": "不确定",
+    "timeline_ref": "不确定",
+    "timeline_status": "uncertain",
+    "timeline_llm_review": {
+      "decision": "unmatched",
+      "best_timeline_id": "",
+      "confidence": 0.3,
+      "reason": "事件名与视频指向第四十五回风雨词情节，文本却指向第十六回贾琏南返，候选时间线无对应秋季或第四十五回条目，无法可靠归属。"
+    }
+  },
+  {
+    "link_id": "SCL_00028",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.600809,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00498",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "贾琏护送黛玉及诸事停妥后返京，与宝玉悲喜重逢，黛玉分发礼物并拒收宝玉所赠香串。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第016回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "016",
+      "chapter_title": "第十六回 贾元春才选凤藻宫 秦鲸卿夭逝黄泉路"
+    },
+    "video": {
+      "scene_id": "SCN_00007",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "宝玉遣退丫鬟后进入内室，与林黛玉因拿黛玉比戏子及给湘云使眼色之事发生激烈争吵，黛玉愤言让宝玉一辈子别来。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\15.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "10_S15",
+      "episode_title": "听曲文宝玉悟禅机",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\15.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉",
+        "贾宝玉"
+      ],
+      "locations": [
+        "潇湘馆"
+      ],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.285131,
+      "kb_score_video": 0.95
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.15,
+      "reason": "文本为第十六回返京场景，视频为第二十二回宝玉黛玉因戏子争吵，非同一叙事场景。"
+    },
+    "timeline_rule_candidates": [
+      {
+        "timeline_id": "TL024",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "二月廿二",
+        "timeline_event_name": "元春命太监传谕让宝玉及众姊妹搬入园中居住；宝玉住怡红院黛玉潇湘馆宝钗蘅芜苑迎探惜各居一处",
+        "timeline_ref": "TL024｜红楼十三年｜二月廿二｜元春命太监传谕让宝玉及众姊妹搬入园中居住；宝玉住怡红院黛玉潇湘馆宝钗蘅芜苑迎探惜各居一处",
+        "rule_score": 0.007785,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.02595,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL006",
+        "timeline_year": "红楼七年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+        "timeline_ref": "TL006｜红楼七年｜冬季｜贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+        "rule_score": 0.006812,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.022708,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL021",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "正月内",
+        "timeline_event_name": "宝玉午间来潇湘馆怕黛玉积食编耗子精偷香芋故事逗她",
+        "timeline_ref": "TL021｜红楼十三年｜正月内｜宝玉午间来潇湘馆怕黛玉积食编耗子精偷香芋故事逗她",
+        "rule_score": 0.006323,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.021078,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL016",
+        "timeline_year": "红楼十一年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "林如海病重贾琏送黛玉回扬州探视；林如海病故黛玉经此彻底成为孤女长住贾府",
+        "timeline_ref": "TL016｜红楼十一年｜冬季｜林如海病重贾琏送黛玉回扬州探视；林如海病故黛玉经此彻底成为孤女长住贾府",
+        "rule_score": 0.006253,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.020842,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL025",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "三月中浣",
+        "timeline_event_name": "宝玉沁芳闸桥桃花树下读《会真记》黛玉葬花经过；二人共读西厢宝玉笑说倾国倾城貌黛玉嗔怒",
+        "timeline_ref": "TL025｜红楼十三年｜三月中浣｜宝玉沁芳闸桥桃花树下读《会真记》黛玉葬花经过；二人共读西厢宝玉笑说倾国倾城貌黛玉嗔怒",
+        "rule_score": 0.005214,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.01738,
+        "kb_bonus": 0.0
+      }
+    ],
+    "timeline_rule_top_score": 0.007785,
+    "timeline_rule_gap": 0.000973,
+    "timeline_id": "不确定",
+    "timeline_year": "不确定",
+    "timeline_season": "不确定",
+    "timeline_event_name": "不确定",
+    "timeline_ref": "不确定",
+    "timeline_status": "uncertain",
+    "timeline_llm_review": {
+      "decision": "unmatched",
+      "best_timeline_id": "",
+      "confidence": 0.25,
+      "reason": "事件名、文本与视频分别指向第四十五、十六与二十二回内容，跨模态信息存在严重章节冲突，候选时间线均无合理匹配项。"
+    }
+  },
+  {
+    "link_id": "SCL_00029",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.590309,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00498",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "贾琏护送黛玉及诸事停妥后返京，与宝玉悲喜重逢，黛玉分发礼物并拒收宝玉所赠香串。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第016回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "016",
+      "chapter_title": "第十六回 贾元春才选凤藻宫 秦鲸卿夭逝黄泉路"
+    },
+    "video": {
+      "scene_id": "SCN_00194",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "贾宝玉披蓑戴笠冒雨探望林黛玉，二人围绕雨具互相打趣，黛玉试戴斗笠后表示不愿收下。；贾宝玉欲阅林黛玉诗稿，黛玉抢回烧掉，并告知病体好转以感谢其连日探视。；林黛玉因夜深欲歇催促贾宝玉离开，二人商定明日再会并交代饮食事宜。；林黛玉虑及雨夜路滑赠予贾宝玉玻璃绣球灯，贾宝玉感念其体贴后告辞离去。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng19_json\\4.json",
+      "member_count": 4,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "19_S04",
+      "episode_title": "琉璃世界白雪红梅",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng19_json\\4.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉",
+        "贾宝玉"
+      ],
+      "locations": [
+        "潇湘馆"
+      ],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.285131,
+      "kb_score_video": 0.92
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.15,
+      "reason": "文本为贾琏护送返京，视频为第四十五回宝玉雨夜探病赠灯，核心事件完全不符。"
+    },
+    "timeline_rule_candidates": [
+      {
+        "timeline_id": "TL016",
+        "timeline_year": "红楼十一年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "林如海病重贾琏送黛玉回扬州探视；林如海病故黛玉经此彻底成为孤女长住贾府",
+        "timeline_ref": "TL016｜红楼十一年｜冬季｜林如海病重贾琏送黛玉回扬州探视；林如海病故黛玉经此彻底成为孤女长住贾府",
+        "rule_score": 0.007927,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.026422,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL006",
+        "timeline_year": "红楼七年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+        "timeline_ref": "TL006｜红楼七年｜冬季｜贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+        "rule_score": 0.007135,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.023782,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL001",
+        "timeline_year": "红楼元年",
+        "timeline_season": "夏季",
+        "timeline_event_name": "贾宝玉衔通灵宝玉降生；甄士隐书房昼寝梦见一僧一道携蠢物下凡；神瑛侍者与绛珠仙草下凡历劫之始",
+        "timeline_ref": "TL001｜红楼元年｜夏季｜贾宝玉衔通灵宝玉降生；甄士隐书房昼寝梦见一僧一道携蠢物下凡；神瑛侍者与绛珠仙草下凡历劫之始",
+        "rule_score": 0.00603,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.020101,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL025",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "三月中浣",
+        "timeline_event_name": "宝玉沁芳闸桥桃花树下读《会真记》黛玉葬花经过；二人共读西厢宝玉笑说倾国倾城貌黛玉嗔怒",
+        "timeline_ref": "TL025｜红楼十三年｜三月中浣｜宝玉沁芳闸桥桃花树下读《会真记》黛玉葬花经过；二人共读西厢宝玉笑说倾国倾城貌黛玉嗔怒",
+        "rule_score": 0.005818,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.019392,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL003",
+        "timeline_year": "红楼四年",
+        "timeline_season": "二月十二",
+        "timeline_event_name": "林如海与贾敏之女林黛玉降生；绛珠仙草托生林家以泪还灌溉之恩",
+        "timeline_ref": "TL003｜红楼四年｜二月十二｜林如海与贾敏之女林黛玉降生；绛珠仙草托生林家以泪还灌溉之恩",
+        "rule_score": 0.005729,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.019096,
+        "kb_bonus": 0.0
+      }
+    ],
+    "timeline_rule_top_score": 0.007927,
+    "timeline_rule_gap": 0.000792,
+    "timeline_id": "不确定",
+    "timeline_year": "不确定",
+    "timeline_season": "不确定",
+    "timeline_event_name": "不确定",
+    "timeline_ref": "不确定",
+    "timeline_status": "uncertain",
+    "timeline_llm_review": {
+      "decision": "unmatched",
+      "best_timeline_id": "",
+      "confidence": 0.15,
+      "reason": "场景为第四十五回秋雨夕宝玉探视赠玻璃灯情节，候选时间线均指向其他季节或章节事件，无对应条目。"
+    }
+  },
+  {
+    "link_id": "SCL_00012",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.580476,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00532",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "黛玉因前事独自悲泣至深夜，众人习以为常不予理会，她直至二更后方才入睡。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第027回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "027",
+      "chapter_title": "第二十七回 滴翠亭杨妃戏彩蝶 埋香冢飞燕泣残红"
+    },
+    "video": {
+      "scene_id": "SCN_00007",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "宝玉遣退丫鬟后进入内室，与林黛玉因拿黛玉比戏子及给湘云使眼色之事发生激烈争吵，黛玉愤言让宝玉一辈子别来。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\15.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "10_S15",
+      "episode_title": "听曲文宝玉悟禅机",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\15.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉"
+      ],
+      "locations": [
+        "潇湘馆"
+      ],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.306613,
+      "kb_score_video": 0.95
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.15,
+      "reason": "文本为二十七回深夜悲泣，视频为二十二回二人激烈争吵，人物互动与事件不同。"
+    },
+    "timeline_rule_candidates": [
+      {
+        "timeline_id": "TL031",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "四月二十六",
+        "timeline_event_name": "黛玉因昨夜晴雯不开门疑宝玉见落花伤感于花冢哭吟《葬花吟》；宝玉山坡上听见恸倒",
+        "timeline_ref": "TL031｜红楼十三年｜四月二十六｜黛玉因昨夜晴雯不开门疑宝玉见落花伤感于花冢哭吟《葬花吟》；宝玉山坡上听见恸倒",
+        "rule_score": 0.007719,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.025731,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL024",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "二月廿二",
+        "timeline_event_name": "元春命太监传谕让宝玉及众姊妹搬入园中居住；宝玉住怡红院黛玉潇湘馆宝钗蘅芜苑迎探惜各居一处",
+        "timeline_ref": "TL024｜红楼十三年｜二月廿二｜元春命太监传谕让宝玉及众姊妹搬入园中居住；宝玉住怡红院黛玉潇湘馆宝钗蘅芜苑迎探惜各居一处",
+        "rule_score": 0.005906,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.019686,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL021",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "正月内",
+        "timeline_event_name": "宝玉午间来潇湘馆怕黛玉积食编耗子精偷香芋故事逗她",
+        "timeline_ref": "TL021｜红楼十三年｜正月内｜宝玉午间来潇湘馆怕黛玉积食编耗子精偷香芋故事逗她",
+        "rule_score": 0.005529,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.018431,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL006",
+        "timeline_year": "红楼七年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+        "timeline_ref": "TL006｜红楼七年｜冬季｜贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+        "rule_score": 0.004378,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.014593,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL037",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "五月初四",
+        "timeline_event_name": "宝玉向黛玉诉肺腑说出你放心三字；误将袭人当黛玉说睡里梦里也忘不了你",
+        "timeline_ref": "TL037｜红楼十三年｜五月初四｜宝玉向黛玉诉肺腑说出你放心三字；误将袭人当黛玉说睡里梦里也忘不了你",
+        "rule_score": 0.004108,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.013694,
+        "kb_bonus": 0.0
+      }
+    ],
+    "timeline_rule_top_score": 0.007719,
+    "timeline_rule_gap": 0.001813,
+    "timeline_id": "不确定",
+    "timeline_year": "不确定",
+    "timeline_season": "不确定",
+    "timeline_event_name": "不确定",
+    "timeline_ref": "不确定",
+    "timeline_status": "uncertain",
+    "timeline_llm_review": {
+      "decision": "unmatched",
+      "best_timeline_id": "",
+      "confidence": 0.15,
+      "reason": "视频描述第二十二回宝玉因戏曲与黛玉生隙及参禅情节，候选条目均为其他章节事件，无合理对应。"
+    }
+  },
+  {
+    "link_id": "SCL_00013",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.569976,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00532",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "黛玉因前事独自悲泣至深夜，众人习以为常不予理会，她直至二更后方才入睡。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第027回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "027",
+      "chapter_title": "第二十七回 滴翠亭杨妃戏彩蝶 埋香冢飞燕泣残红"
+    },
+    "video": {
+      "scene_id": "SCN_00194",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "贾宝玉披蓑戴笠冒雨探望林黛玉，二人围绕雨具互相打趣，黛玉试戴斗笠后表示不愿收下。；贾宝玉欲阅林黛玉诗稿，黛玉抢回烧掉，并告知病体好转以感谢其连日探视。；林黛玉因夜深欲歇催促贾宝玉离开，二人商定明日再会并交代饮食事宜。；林黛玉虑及雨夜路滑赠予贾宝玉玻璃绣球灯，贾宝玉感念其体贴后告辞离去。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng19_json\\4.json",
+      "member_count": 4,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "19_S04",
+      "episode_title": "琉璃世界白雪红梅",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng19_json\\4.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉"
+      ],
+      "locations": [
+        "潇湘馆"
+      ],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.306613,
+      "kb_score_video": 0.92
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.2,
+      "reason": "文本为二十七回黛玉悲泣，视频为四十五回雨夜探病赠灯，时空与关键动作均不一致。"
+    },
+    "timeline_rule_candidates": [
+      {
+        "timeline_id": "TL031",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "四月二十六",
+        "timeline_event_name": "黛玉因昨夜晴雯不开门疑宝玉见落花伤感于花冢哭吟《葬花吟》；宝玉山坡上听见恸倒",
+        "timeline_ref": "TL031｜红楼十三年｜四月二十六｜黛玉因昨夜晴雯不开门疑宝玉见落花伤感于花冢哭吟《葬花吟》；宝玉山坡上听见恸倒",
+        "rule_score": 0.006832,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.022775,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL016",
+        "timeline_year": "红楼十一年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "林如海病重贾琏送黛玉回扬州探视；林如海病故黛玉经此彻底成为孤女长住贾府",
+        "timeline_ref": "TL016｜红楼十一年｜冬季｜林如海病重贾琏送黛玉回扬州探视；林如海病故黛玉经此彻底成为孤女长住贾府",
+        "rule_score": 0.005896,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.019654,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL003",
+        "timeline_year": "红楼四年",
+        "timeline_season": "二月十二",
+        "timeline_event_name": "林如海与贾敏之女林黛玉降生；绛珠仙草托生林家以泪还灌溉之恩",
+        "timeline_ref": "TL003｜红楼四年｜二月十二｜林如海与贾敏之女林黛玉降生；绛珠仙草托生林家以泪还灌溉之恩",
+        "rule_score": 0.005622,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.018741,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL006",
+        "timeline_year": "红楼七年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+        "timeline_ref": "TL006｜红楼七年｜冬季｜贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+        "rule_score": 0.00541,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.018034,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL025",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "三月中浣",
+        "timeline_event_name": "宝玉沁芳闸桥桃花树下读《会真记》黛玉葬花经过；二人共读西厢宝玉笑说倾国倾城貌黛玉嗔怒",
+        "timeline_ref": "TL025｜红楼十三年｜三月中浣｜宝玉沁芳闸桥桃花树下读《会真记》黛玉葬花经过；二人共读西厢宝玉笑说倾国倾城貌黛玉嗔怒",
+        "rule_score": 0.004927,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.016423,
+        "kb_bonus": 0.0
+      }
+    ],
+    "timeline_rule_top_score": 0.006832,
+    "timeline_rule_gap": 0.000936,
+    "timeline_id": "不确定",
+    "timeline_year": "不确定",
+    "timeline_season": "不确定",
+    "timeline_event_name": "不确定",
+    "timeline_ref": "不确定",
+    "timeline_status": "uncertain",
+    "timeline_llm_review": {
+      "decision": "unmatched",
+      "best_timeline_id": "",
+      "confidence": 0.15,
+      "reason": "场景明确为第四十五回秋雨夕赠灯探视情节，候选时间线均指向其他节点，无法可靠匹配。"
+    }
+  },
+  {
+    "link_id": "SCL_00072",
+    "kb_event_id": "KBE006",
+    "event_name": "林黛玉进贾府",
+    "canonical_event_name": "林黛玉进贾府",
+    "alignment_score": 0.493864,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00461",
+      "scene_name": "林黛玉进贾府",
+      "scene_summary": "简述黛玉在荣府受宠、宝钗到来后的人心向背以及宝玉待姊妹一视同仁的性情。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第005回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "005",
+      "chapter_title": "第五回 游幻境指迷十二钗 饮仙醪曲演红楼梦"
+    },
+    "video": {
+      "scene_id": "SCN_00145",
+      "scene_name": "林黛玉进贾府",
+      "scene_summary": "贾母带头提议凑份子给王熙凤过生日，众人纷纷响应并商定各自出的银钱数目。；贾宝玉听闻众人商议后若有所思，独自走出房间穿过庭院回到怡红院。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng17_json\\7.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "17_S07",
+      "episode_title": "变生不测凤姐泼醋",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng17_json\\7.json"
+    },
+    "shared": {
+      "characters": [
+        "史太君",
+        "贾宝玉"
+      ],
+      "locations": [],
+      "timeline_id": "T006"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE006",
+      "event_name": "林黛玉进贾府",
+      "kb_score_text": 0.8,
+      "kb_score_video": 0.245326
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.1,
+      "reason": "文本为第五回背景综述，视频为第四十四回凑份子给凤姐过生日，与林黛玉进贾府事件完全无关。"
+    },
+    "timeline_rule_candidates": [
+      {
+        "timeline_id": "TL006",
+        "timeline_year": "红楼七年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+        "timeline_ref": "TL006｜红楼七年｜冬季｜贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+        "rule_score": 0.035968,
+        "name_similarity": 0.06326,
+        "summary_similarity": 0.025002,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL003",
+        "timeline_year": "红楼四年",
+        "timeline_season": "二月十二",
+        "timeline_event_name": "林如海与贾敏之女林黛玉降生；绛珠仙草托生林家以泪还灌溉之恩",
+        "timeline_ref": "TL003｜红楼四年｜二月十二｜林如海与贾敏之女林黛玉降生；绛珠仙草托生林家以泪还灌溉之恩",
+        "rule_score": 0.031113,
+        "name_similarity": 0.057626,
+        "summary_similarity": 0.017269,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL016",
+        "timeline_year": "红楼十一年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "林如海病重贾琏送黛玉回扬州探视；林如海病故黛玉经此彻底成为孤女长住贾府",
+        "timeline_ref": "TL016｜红楼十一年｜冬季｜林如海病重贾琏送黛玉回扬州探视；林如海病故黛玉经此彻底成为孤女长住贾府",
+        "rule_score": 0.023342,
+        "name_similarity": 0.040386,
+        "summary_similarity": 0.017226,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL062",
+        "timeline_year": "红楼十四年",
+        "timeline_season": "春季",
+        "timeline_event_name": "紫鹃谎称黛玉将回苏州宝玉急痛迷心疯癫惊动贾府",
+        "timeline_ref": "TL062｜红楼十四年｜春季｜紫鹃谎称黛玉将回苏州宝玉急痛迷心疯癫惊动贾府",
+        "rule_score": 0.016521,
+        "name_similarity": 0.030181,
+        "summary_similarity": 0.009799,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL067",
+        "timeline_year": "红楼十五年",
+        "timeline_season": "八月初三",
+        "timeline_event_name": "贾母八十大寿贾府大排筵宴内囊空虚之象已显",
+        "timeline_ref": "TL067｜红楼十五年｜八月初三｜贾母八十大寿贾府大排筵宴内囊空虚之象已显",
+        "rule_score": 0.012316,
+        "name_similarity": 0.020117,
+        "summary_similarity": 0.010877,
+        "kb_bonus": 0.0
+      }
+    ],
+    "timeline_rule_top_score": 0.035968,
+    "timeline_rule_gap": 0.004855,
+    "timeline_id": "不确定",
+    "timeline_year": "不确定",
+    "timeline_season": "不确定",
+    "timeline_event_name": "不确定",
+    "timeline_ref": "不确定",
+    "timeline_status": "uncertain",
+    "timeline_llm_review": {
+      "decision": "unmatched",
+      "best_timeline_id": "",
+      "confidence": 0.15,
+      "reason": "视频实为第四十三回贾府凑份子为凤姐庆生情节，与事件名称及候选时间线严重错位，无法匹配。"
+    }
+  },
+  {
+    "link_id": "SCL_00057",
+    "kb_event_id": "KBE026",
+    "event_name": "晴雯撕扇",
+    "canonical_event_name": "晴雯撕扇",
+    "alignment_score": 0.296866,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00543",
+      "scene_name": "晴雯撕扇",
+      "scene_summary": "袭人吐血后心灰意冷，宝玉心疼照料并亲自伺候。；天刚亮宝玉匆忙请王济仁问诊，记下药方回园为袭人调治。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第031回.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "031",
+      "chapter_title": "第三十一回 撕扇子作千金一笑 因麒麟伏白首双星"
+    },
+    "video": {
+      "scene_id": "SCN_00115",
+      "scene_name": "晴雯撕扇",
+      "scene_summary": "宝玉躺在床上，嘱咐晴雯去林姑娘处探望，并特意让她送去两块旧手帕。；晴雯来到黛玉房间送交手帕，黛玉疑惑为何送旧物，晴雯解释后离开。；黛玉收到手帕后领悟宝玉苦心，独自垂泪感伤，并回忆起与宝玉共读、嬉戏的过往点滴。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng15_json\\7.json",
+      "member_count": 3,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "15_S07",
+      "episode_title": "弄唇舌宝玉遭笞挞",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng15_json\\7.json"
+    },
+    "shared": {
+      "characters": [
+        "贾宝玉"
+      ],
+      "locations": [
+        "怡红院"
+      ],
+      "timeline_id": "T036"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE026",
+      "event_name": "晴雯撕扇",
+      "kb_score_text": 0.287147,
+      "kb_score_video": 0.279
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.1,
+      "reason": "文本述袭人受伤请医，视频述晴雯送帕予黛玉，核心情节与事件均不符。"
+    },
+    "timeline_rule_candidates": [
+      {
+        "timeline_id": "TL036",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "五月初四",
+        "timeline_event_name": "晴雯跌折扇子宝玉斥骂晚间为哄晴雯任其撕扇取乐",
+        "timeline_ref": "TL036｜红楼十三年｜五月初四｜晴雯跌折扇子宝玉斥骂晚间为哄晴雯任其撕扇取乐",
+        "rule_score": 0.04853,
+        "name_similarity": 0.07698,
+        "summary_similarity": 0.046298,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL070",
+        "timeline_year": "红楼十五年",
+        "timeline_season": "八月十六",
+        "timeline_event_name": "晴雯被诬狐狸精逐出病饿而亡宝玉作《芙蓉女儿诔》祭奠",
+        "timeline_ref": "TL070｜红楼十五年｜八月十六｜晴雯被诬狐狸精逐出病饿而亡宝玉作《芙蓉女儿诔》祭奠",
+        "rule_score": 0.017679,
+        "name_similarity": 0.020767,
+        "summary_similarity": 0.027779,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL060",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "宝玉赴宴烧坏贾母所赐雀金裘晴雯带病连夜织补",
+        "timeline_ref": "TL060｜红楼十三年｜冬季｜宝玉赴宴烧坏贾母所赐雀金裘晴雯带病连夜织补",
+        "rule_score": 0.015363,
+        "name_similarity": 0.022849,
+        "summary_similarity": 0.016938,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL069",
+        "timeline_year": "红楼十五年",
+        "timeline_season": "八月",
+        "timeline_event_name": "王夫人命凤姐带队夜抄大观园逐出司棋入画晴雯",
+        "timeline_ref": "TL069｜红楼十五年｜八月｜王夫人命凤姐带队夜抄大观园逐出司棋入画晴雯",
+        "rule_score": 0.013708,
+        "name_similarity": 0.023215,
+        "summary_similarity": 0.01087,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL031",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "四月二十六",
+        "timeline_event_name": "黛玉因昨夜晴雯不开门疑宝玉见落花伤感于花冢哭吟《葬花吟》；宝玉山坡上听见恸倒",
+        "timeline_ref": "TL031｜红楼十三年｜四月二十六｜黛玉因昨夜晴雯不开门疑宝玉见落花伤感于花冢哭吟《葬花吟》；宝玉山坡上听见恸倒",
+        "rule_score": 0.011875,
+        "name_similarity": 0.016647,
+        "summary_similarity": 0.014613,
+        "kb_bonus": 0.0
+      }
+    ],
+    "timeline_rule_top_score": 0.04853,
+    "timeline_rule_gap": 0.030851,
+    "timeline_id": "不确定",
+    "timeline_year": "不确定",
+    "timeline_season": "不确定",
+    "timeline_event_name": "不确定",
+    "timeline_ref": "不确定",
+    "timeline_status": "uncertain"
+  },
+  {
+    "link_id": "SCL_00024",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.291923,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00522",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "香菱寻到黛玉，二人同回潇湘馆闲坐吃茶下棋，随后香菱离去。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第024回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "024",
+      "chapter_title": "第二十四回 醉金刚轻财尚义侠 痴女儿遗帕惹相思"
+    },
+    "video": {
+      "scene_id": "SCN_00020",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "有人抚琴燃香，一女子在室内静坐。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\3.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "10_S03",
+      "episode_title": "听曲文宝玉悟禅机",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\3.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉"
+      ],
+      "locations": [],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.292589,
+      "kb_score_video": 0.372165
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.1,
+      "reason": "文本为香菱与黛玉对弈闲谈，视频仅女子独坐抚琴，均非风雨夕作词场景。"
+    },
+    "timeline_rule_candidates": [
+      {
+        "timeline_id": "TL058",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "香菱随宝钗住进大观园拜黛玉为师苦学作诗梦里得佳句",
+        "timeline_ref": "TL058｜红楼十三年｜冬季｜香菱随宝钗住进大观园拜黛玉为师苦学作诗梦里得佳句",
+        "rule_score": 0.007596,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.025319,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL072",
+        "timeline_year": "红楼十五年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "夏金桂进门虐香菱改名秋菱香菱屈受贪夫棒",
+        "timeline_ref": "TL072｜红楼十五年｜冬季｜夏金桂进门虐香菱改名秋菱香菱屈受贪夫棒",
+        "rule_score": 0.006345,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.021149,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL021",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "正月内",
+        "timeline_event_name": "宝玉午间来潇湘馆怕黛玉积食编耗子精偷香芋故事逗她",
+        "timeline_ref": "TL021｜红楼十三年｜正月内｜宝玉午间来潇湘馆怕黛玉积食编耗子精偷香芋故事逗她",
+        "rule_score": 0.004165,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.013882,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL024",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "二月廿二",
+        "timeline_event_name": "元春命太监传谕让宝玉及众姊妹搬入园中居住；宝玉住怡红院黛玉潇湘馆宝钗蘅芜苑迎探惜各居一处",
+        "timeline_ref": "TL024｜红楼十三年｜二月廿二｜元春命太监传谕让宝玉及众姊妹搬入园中居住；宝玉住怡红院黛玉潇湘馆宝钗蘅芜苑迎探惜各居一处",
+        "rule_score": 0.00315,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.010501,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL003",
+        "timeline_year": "红楼四年",
+        "timeline_season": "二月十二",
+        "timeline_event_name": "林如海与贾敏之女林黛玉降生；绛珠仙草托生林家以泪还灌溉之恩",
+        "timeline_ref": "TL003｜红楼四年｜二月十二｜林如海与贾敏之女林黛玉降生；绛珠仙草托生林家以泪还灌溉之恩",
+        "rule_score": 0.002847,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.009489,
+        "kb_bonus": 0.0
+      }
+    ],
+    "timeline_rule_top_score": 0.007596,
+    "timeline_rule_gap": 0.001251,
+    "timeline_id": "不确定",
+    "timeline_year": "不确定",
+    "timeline_season": "不确定",
+    "timeline_event_name": "不确定",
+    "timeline_ref": "不确定",
+    "timeline_status": "uncertain"
+  },
+  {
+    "link_id": "SCL_00026",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.289328,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00522",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "香菱寻到黛玉，二人同回潇湘馆闲坐吃茶下棋，随后香菱离去。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第024回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "024",
+      "chapter_title": "第二十四回 醉金刚轻财尚义侠 痴女儿遗帕惹相思"
+    },
+    "video": {
+      "scene_id": "SCN_00062",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "夜晚，林黛玉独自在水边伫立，神情哀伤。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng12_json\\14.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "12_S14",
+      "episode_title": "埋香冢飞燕泣残红",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng12_json\\14.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉"
+      ],
+      "locations": [],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.292589,
+      "kb_score_video": 0.364752
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.1,
+      "reason": "文本写香菱访黛玉下棋，视频为黛玉夜晚水边独伫，情节无交集且非目标事件。"
+    },
+    "timeline_rule_candidates": [
+      {
+        "timeline_id": "TL058",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "香菱随宝钗住进大观园拜黛玉为师苦学作诗梦里得佳句",
+        "timeline_ref": "TL058｜红楼十三年｜冬季｜香菱随宝钗住进大观园拜黛玉为师苦学作诗梦里得佳句",
+        "rule_score": 0.007887,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.026289,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL072",
+        "timeline_year": "红楼十五年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "夏金桂进门虐香菱改名秋菱香菱屈受贪夫棒",
+        "timeline_ref": "TL072｜红楼十五年｜冬季｜夏金桂进门虐香菱改名秋菱香菱屈受贪夫棒",
+        "rule_score": 0.006248,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.020826,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL021",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "正月内",
+        "timeline_event_name": "宝玉午间来潇湘馆怕黛玉积食编耗子精偷香芋故事逗她",
+        "timeline_ref": "TL021｜红楼十三年｜正月内｜宝玉午间来潇湘馆怕黛玉积食编耗子精偷香芋故事逗她",
+        "rule_score": 0.004496,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.014986,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL003",
+        "timeline_year": "红楼四年",
+        "timeline_season": "二月十二",
+        "timeline_event_name": "林如海与贾敏之女林黛玉降生；绛珠仙草托生林家以泪还灌溉之恩",
+        "timeline_ref": "TL003｜红楼四年｜二月十二｜林如海与贾敏之女林黛玉降生；绛珠仙草托生林家以泪还灌溉之恩",
+        "rule_score": 0.004294,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.014313,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL024",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "二月廿二",
+        "timeline_event_name": "元春命太监传谕让宝玉及众姊妹搬入园中居住；宝玉住怡红院黛玉潇湘馆宝钗蘅芜苑迎探惜各居一处",
+        "timeline_ref": "TL024｜红楼十三年｜二月廿二｜元春命太监传谕让宝玉及众姊妹搬入园中居住；宝玉住怡红院黛玉潇湘馆宝钗蘅芜苑迎探惜各居一处",
+        "rule_score": 0.003401,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.011336,
+        "kb_bonus": 0.0
+      }
+    ],
+    "timeline_rule_top_score": 0.007887,
+    "timeline_rule_gap": 0.001639,
+    "timeline_id": "不确定",
+    "timeline_year": "不确定",
+    "timeline_season": "不确定",
+    "timeline_event_name": "不确定",
+    "timeline_ref": "不确定",
+    "timeline_status": "uncertain"
+  },
+  {
+    "link_id": "SCL_00065",
+    "kb_event_id": "KBE026",
+    "event_name": "晴雯撕扇",
+    "canonical_event_name": "晴雯撕扇",
+    "alignment_score": 0.288698,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00542",
+      "scene_name": "晴雯撕扇",
+      "scene_summary": "宝玉冒雨赶回怡红院，因叫门不应烦躁之下误踢开门的袭人致其内伤吐血，深夜察觉后心生不安。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第030回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "030",
+      "chapter_title": "第三十回 宝钗借扇机带双敲 椿龄画蔷痴及局外"
+    },
+    "video": {
+      "scene_id": "SCN_00115",
+      "scene_name": "晴雯撕扇",
+      "scene_summary": "宝玉躺在床上，嘱咐晴雯去林姑娘处探望，并特意让她送去两块旧手帕。；晴雯来到黛玉房间送交手帕，黛玉疑惑为何送旧物，晴雯解释后离开。；黛玉收到手帕后领悟宝玉苦心，独自垂泪感伤，并回忆起与宝玉共读、嬉戏的过往点滴。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng15_json\\7.json",
+      "member_count": 3,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "15_S07",
+      "episode_title": "弄唇舌宝玉遭笞挞",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng15_json\\7.json"
+    },
+    "shared": {
+      "characters": [
+        "晴雯",
+        "贾宝玉"
+      ],
+      "locations": [
+        "怡红院"
+      ],
+      "timeline_id": "T036"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE026",
+      "event_name": "晴雯撕扇",
+      "kb_score_text": 0.259472,
+      "kb_score_video": 0.279
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.1,
+      "reason": "文本描述宝玉冒雨归园误踢袭人，视频描述遣晴雯送旧帕予黛玉，属不同回目叙事。"
+    },
+    "timeline_rule_candidates": [
+      {
+        "timeline_id": "TL036",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "五月初四",
+        "timeline_event_name": "晴雯跌折扇子宝玉斥骂晚间为哄晴雯任其撕扇取乐",
+        "timeline_ref": "TL036｜红楼十三年｜五月初四｜晴雯跌折扇子宝玉斥骂晚间为哄晴雯任其撕扇取乐",
+        "rule_score": 0.050735,
+        "name_similarity": 0.07698,
+        "summary_similarity": 0.053648,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL070",
+        "timeline_year": "红楼十五年",
+        "timeline_season": "八月十六",
+        "timeline_event_name": "晴雯被诬狐狸精逐出病饿而亡宝玉作《芙蓉女儿诔》祭奠",
+        "timeline_ref": "TL070｜红楼十五年｜八月十六｜晴雯被诬狐狸精逐出病饿而亡宝玉作《芙蓉女儿诔》祭奠",
+        "rule_score": 0.019193,
+        "name_similarity": 0.020767,
+        "summary_similarity": 0.032824,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL060",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "宝玉赴宴烧坏贾母所赐雀金裘晴雯带病连夜织补",
+        "timeline_ref": "TL060｜红楼十三年｜冬季｜宝玉赴宴烧坏贾母所赐雀金裘晴雯带病连夜织补",
+        "rule_score": 0.016477,
+        "name_similarity": 0.022849,
+        "summary_similarity": 0.020649,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL069",
+        "timeline_year": "红楼十五年",
+        "timeline_season": "八月",
+        "timeline_event_name": "王夫人命凤姐带队夜抄大观园逐出司棋入画晴雯",
+        "timeline_ref": "TL069｜红楼十五年｜八月｜王夫人命凤姐带队夜抄大观园逐出司棋入画晴雯",
+        "rule_score": 0.014268,
+        "name_similarity": 0.023215,
+        "summary_similarity": 0.012739,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL031",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "四月二十六",
+        "timeline_event_name": "黛玉因昨夜晴雯不开门疑宝玉见落花伤感于花冢哭吟《葬花吟》；宝玉山坡上听见恸倒",
+        "timeline_ref": "TL031｜红楼十三年｜四月二十六｜黛玉因昨夜晴雯不开门疑宝玉见落花伤感于花冢哭吟《葬花吟》；宝玉山坡上听见恸倒",
+        "rule_score": 0.012866,
+        "name_similarity": 0.016647,
+        "summary_similarity": 0.017917,
+        "kb_bonus": 0.0
+      }
+    ],
+    "timeline_rule_top_score": 0.050735,
+    "timeline_rule_gap": 0.031542,
+    "timeline_id": "不确定",
+    "timeline_year": "不确定",
+    "timeline_season": "不确定",
+    "timeline_event_name": "不确定",
+    "timeline_ref": "不确定",
+    "timeline_status": "uncertain"
+  },
+  {
+    "link_id": "SCL_00032",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.288567,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00498",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "贾琏护送黛玉及诸事停妥后返京，与宝玉悲喜重逢，黛玉分发礼物并拒收宝玉所赠香串。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第016回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "016",
+      "chapter_title": "第十六回 贾元春才选凤藻宫 秦鲸卿夭逝黄泉路"
+    },
+    "video": {
+      "scene_id": "SCN_00020",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "有人抚琴燃香，一女子在室内静坐。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\3.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "10_S03",
+      "episode_title": "听曲文宝玉悟禅机",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\3.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉"
+      ],
+      "locations": [],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.285131,
+      "kb_score_video": 0.372165
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.1,
+      "reason": "文本为贾琏护送黛玉返京分赠礼物，视频仅为女子室内静坐，情节完全无关。"
+    },
+    "timeline_rule_candidates": [
+      {
+        "timeline_id": "TL016",
+        "timeline_year": "红楼十一年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "林如海病重贾琏送黛玉回扬州探视；林如海病故黛玉经此彻底成为孤女长住贾府",
+        "timeline_ref": "TL016｜红楼十一年｜冬季｜林如海病重贾琏送黛玉回扬州探视；林如海病故黛玉经此彻底成为孤女长住贾府",
+        "rule_score": 0.005926,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.019755,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL006",
+        "timeline_year": "红楼七年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+        "timeline_ref": "TL006｜红楼七年｜冬季｜贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+        "rule_score": 0.003733,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.012442,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL003",
+        "timeline_year": "红楼四年",
+        "timeline_season": "二月十二",
+        "timeline_event_name": "林如海与贾敏之女林黛玉降生；绛珠仙草托生林家以泪还灌溉之恩",
+        "timeline_ref": "TL003｜红楼四年｜二月十二｜林如海与贾敏之女林黛玉降生；绛珠仙草托生林家以泪还灌溉之恩",
+        "rule_score": 0.003196,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.010653,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL024",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "二月廿二",
+        "timeline_event_name": "元春命太监传谕让宝玉及众姊妹搬入园中居住；宝玉住怡红院黛玉潇湘馆宝钗蘅芜苑迎探惜各居一处",
+        "timeline_ref": "TL024｜红楼十三年｜二月廿二｜元春命太监传谕让宝玉及众姊妹搬入园中居住；宝玉住怡红院黛玉潇湘馆宝钗蘅芜苑迎探惜各居一处",
+        "rule_score": 0.003035,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.010117,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL025",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "三月中浣",
+        "timeline_event_name": "宝玉沁芳闸桥桃花树下读《会真记》黛玉葬花经过；二人共读西厢宝玉笑说倾国倾城貌黛玉嗔怒",
+        "timeline_ref": "TL025｜红楼十三年｜三月中浣｜宝玉沁芳闸桥桃花树下读《会真记》黛玉葬花经过；二人共读西厢宝玉笑说倾国倾城貌黛玉嗔怒",
+        "rule_score": 0.002865,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.009551,
+        "kb_bonus": 0.0
+      }
+    ],
+    "timeline_rule_top_score": 0.005926,
+    "timeline_rule_gap": 0.002193,
+    "timeline_id": "不确定",
+    "timeline_year": "不确定",
+    "timeline_season": "不确定",
+    "timeline_event_name": "不确定",
+    "timeline_ref": "不确定",
+    "timeline_status": "uncertain"
+  },
+  {
+    "link_id": "SCL_00076",
+    "kb_event_id": "KBE006",
+    "event_name": "林黛玉进贾府",
+    "canonical_event_name": "林黛玉进贾府",
+    "alignment_score": 0.287633,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00470",
+      "scene_name": "林黛玉进贾府",
+      "scene_summary": "宝玉与凤姐回府向贾母提及邀秦钟伴读之事，贾母欣然同意。；众人应尤氏之邀前往看戏，晌午时贾母与王夫人先行回府歇息，凤姐留至晚间方散。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第008回.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "008",
+      "chapter_title": "第八回 比通灵金莺微露意 探宝钗黛玉半含酸"
+    },
+    "video": {
+      "scene_id": "SCN_00098",
+      "scene_name": "林黛玉进贾府",
+      "scene_summary": "王熙凤奉命查看贾宝玉与林黛玉，打趣两人昨日争吵今日和好，并带二人去见贾母以安老人家的心。；贾宝玉向薛宝钗解释因身体不适缺席其兄寿宴，随后借看戏怕热之事打趣宝钗体态丰腴似杨贵妃，宝钗闻言不悦并出言反讽。；林黛玉与贾宝玉借《负荆请罪》戏名暗指两人方才和好，薛宝钗借机反讽二人通今博古，王熙凤以吃生姜比喻言辞火辣，引得贾母与众人哄堂大笑。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng14_json\\2.json",
+      "member_count": 3,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "14_S02",
+      "episode_title": "含耻辱情烈死金钏",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng14_json\\2.json"
+    },
+    "shared": {
+      "characters": [
+        "史太君",
+        "林黛玉",
+        "王熙凤",
+        "贾宝玉"
+      ],
+      "locations": [],
+      "timeline_id": "T006"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE006",
+      "event_name": "林黛玉进贾府",
+      "kb_score_text": 0.291215,
+      "kb_score_video": 0.251472
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.1,
+      "reason": "文本述秦钟伴读及众人看戏，视频为宝黛和好及宝钗借戏反讽，非黛玉进府情节。"
+    },
+    "timeline_rule_candidates": [
+      {
+        "timeline_id": "TL006",
+        "timeline_year": "红楼七年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+        "timeline_ref": "TL006｜红楼七年｜冬季｜贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+        "rule_score": 0.039418,
+        "name_similarity": 0.06326,
+        "summary_similarity": 0.036502,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL003",
+        "timeline_year": "红楼四年",
+        "timeline_season": "二月十二",
+        "timeline_event_name": "林如海与贾敏之女林黛玉降生；绛珠仙草托生林家以泪还灌溉之恩",
+        "timeline_ref": "TL003｜红楼四年｜二月十二｜林如海与贾敏之女林黛玉降生；绛珠仙草托生林家以泪还灌溉之恩",
+        "rule_score": 0.032216,
+        "name_similarity": 0.057626,
+        "summary_similarity": 0.020948,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL016",
+        "timeline_year": "红楼十一年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "林如海病重贾琏送黛玉回扬州探视；林如海病故黛玉经此彻底成为孤女长住贾府",
+        "timeline_ref": "TL016｜红楼十一年｜冬季｜林如海病重贾琏送黛玉回扬州探视；林如海病故黛玉经此彻底成为孤女长住贾府",
+        "rule_score": 0.022967,
+        "name_similarity": 0.040386,
+        "summary_similarity": 0.015976,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL062",
+        "timeline_year": "红楼十四年",
+        "timeline_season": "春季",
+        "timeline_event_name": "紫鹃谎称黛玉将回苏州宝玉急痛迷心疯癫惊动贾府",
+        "timeline_ref": "TL062｜红楼十四年｜春季｜紫鹃谎称黛玉将回苏州宝玉急痛迷心疯癫惊动贾府",
+        "rule_score": 0.016239,
+        "name_similarity": 0.030181,
+        "summary_similarity": 0.008858,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL037",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "五月初四",
+        "timeline_event_name": "宝玉向黛玉诉肺腑说出你放心三字；误将袭人当黛玉说睡里梦里也忘不了你",
+        "timeline_ref": "TL037｜红楼十三年｜五月初四｜宝玉向黛玉诉肺腑说出你放心三字；误将袭人当黛玉说睡里梦里也忘不了你",
+        "rule_score": 0.012167,
+        "name_similarity": 0.017402,
+        "summary_similarity": 0.014453,
+        "kb_bonus": 0.0
+      }
+    ],
+    "timeline_rule_top_score": 0.039418,
+    "timeline_rule_gap": 0.007202,
+    "timeline_id": "不确定",
+    "timeline_year": "不确定",
+    "timeline_season": "不确定",
+    "timeline_event_name": "不确定",
+    "timeline_ref": "不确定",
+    "timeline_status": "uncertain"
+  },
+  {
+    "link_id": "SCL_00034",
+    "kb_event_id": "KBE035",
+    "event_name": "风雨夕闷制风雨词",
+    "canonical_event_name": "风雨夕闷制风雨词",
+    "alignment_score": 0.285972,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00498",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "贾琏护送黛玉及诸事停妥后返京，与宝玉悲喜重逢，黛玉分发礼物并拒收宝玉所赠香串。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第016回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "016",
+      "chapter_title": "第十六回 贾元春才选凤藻宫 秦鲸卿夭逝黄泉路"
+    },
+    "video": {
+      "scene_id": "SCN_00062",
+      "scene_name": "风雨夕闷制风雨词",
+      "scene_summary": "夜晚，林黛玉独自在水边伫立，神情哀伤。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng12_json\\14.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "12_S14",
+      "episode_title": "埋香冢飞燕泣残红",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng12_json\\14.json"
+    },
+    "shared": {
+      "characters": [
+        "林黛玉"
+      ],
+      "locations": [],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE035",
+      "event_name": "风雨夕闷制风雨词",
+      "kb_score_text": 0.285131,
+      "kb_score_video": 0.364752
+    },
+    "llm_review": {
+      "decision": "unmatched",
+      "confidence": 0.1,
+      "reason": "文本述黛玉返京分发礼物，视频为黛玉水边夜立哀伤，情节不一致且偏离目标事件。"
+    },
+    "timeline_rule_candidates": [
+      {
+        "timeline_id": "TL016",
+        "timeline_year": "红楼十一年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "林如海病重贾琏送黛玉回扬州探视；林如海病故黛玉经此彻底成为孤女长住贾府",
+        "timeline_ref": "TL016｜红楼十一年｜冬季｜林如海病重贾琏送黛玉回扬州探视；林如海病故黛玉经此彻底成为孤女长住贾府",
+        "rule_score": 0.006474,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.021581,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL003",
+        "timeline_year": "红楼四年",
+        "timeline_season": "二月十二",
+        "timeline_event_name": "林如海与贾敏之女林黛玉降生；绛珠仙草托生林家以泪还灌溉之恩",
+        "timeline_ref": "TL003｜红楼四年｜二月十二｜林如海与贾敏之女林黛玉降生；绛珠仙草托生林家以泪还灌溉之恩",
+        "rule_score": 0.004633,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.015443,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL006",
+        "timeline_year": "红楼七年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+        "timeline_ref": "TL006｜红楼七年｜冬季｜贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+        "rule_score": 0.004374,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.014579,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL037",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "五月初四",
+        "timeline_event_name": "宝玉向黛玉诉肺腑说出你放心三字；误将袭人当黛玉说睡里梦里也忘不了你",
+        "timeline_ref": "TL037｜红楼十三年｜五月初四｜宝玉向黛玉诉肺腑说出你放心三字；误将袭人当黛玉说睡里梦里也忘不了你",
+        "rule_score": 0.003462,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.011539,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL025",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "三月中浣",
+        "timeline_event_name": "宝玉沁芳闸桥桃花树下读《会真记》黛玉葬花经过；二人共读西厢宝玉笑说倾国倾城貌黛玉嗔怒",
+        "timeline_ref": "TL025｜红楼十三年｜三月中浣｜宝玉沁芳闸桥桃花树下读《会真记》黛玉葬花经过；二人共读西厢宝玉笑说倾国倾城貌黛玉嗔怒",
+        "rule_score": 0.003423,
+        "name_similarity": 0.0,
+        "summary_similarity": 0.011409,
+        "kb_bonus": 0.0
+      }
+    ],
+    "timeline_rule_top_score": 0.006474,
+    "timeline_rule_gap": 0.001841,
+    "timeline_id": "不确定",
+    "timeline_year": "不确定",
+    "timeline_season": "不确定",
+    "timeline_event_name": "不确定",
+    "timeline_ref": "不确定",
+    "timeline_status": "uncertain"
+  },
+  {
+    "link_id": "SCL_00074",
+    "kb_event_id": "KBE006",
+    "event_name": "林黛玉进贾府",
+    "canonical_event_name": "林黛玉进贾府",
+    "alignment_score": 0.284442,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00483",
+      "scene_name": "林黛玉进贾府",
+      "scene_summary": "林如海冬底病重遣使接女，贾母命贾琏护送黛玉登舟返回扬州。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第012回.json",
+      "member_count": 1,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "012",
+      "chapter_title": "第十二回 王熙凤毒设相思局 贾天祥正照风月鉴"
+    },
+    "video": {
+      "scene_id": "SCN_00098",
+      "scene_name": "林黛玉进贾府",
+      "scene_summary": "王熙凤奉命查看贾宝玉与林黛玉，打趣两人昨日争吵今日和好，并带二人去见贾母以安老人家的心。；贾宝玉向薛宝钗解释因身体不适缺席其兄寿宴，随后借看戏怕热之事打趣宝钗体态丰腴似杨贵妃，宝钗闻言不悦并出言反讽。；林黛玉与贾宝玉借《负荆请罪》戏名暗指两人方才和好，薛宝钗借机反讽二人通今博古，王熙凤以吃生姜比喻言辞火辣，引得贾母与众人哄堂大笑。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng14_json\\2.json",
+      "member_count": 3,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "14_S02",
+      "episode_title": "含耻辱情烈死金钏",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng14_json\\2.json"
+    },
+    "shared": {
+      "characters": [
+        "史太君",
+        "林黛玉",
+        "贾宝玉"
+      ],
+      "locations": [],
+      "timeline_id": "T006"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE006",
+      "event_name": "林黛玉进贾府",
+      "kb_score_text": 0.322219,
+      "kb_score_video": 0.251472
+    },
+    "timeline_rule_candidates": [
+      {
+        "timeline_id": "TL006",
+        "timeline_year": "红楼七年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+        "timeline_ref": "TL006｜红楼七年｜冬季｜贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+        "rule_score": 0.038882,
+        "name_similarity": 0.06326,
+        "summary_similarity": 0.034717,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL003",
+        "timeline_year": "红楼四年",
+        "timeline_season": "二月十二",
+        "timeline_event_name": "林如海与贾敏之女林黛玉降生；绛珠仙草托生林家以泪还灌溉之恩",
+        "timeline_ref": "TL003｜红楼四年｜二月十二｜林如海与贾敏之女林黛玉降生；绛珠仙草托生林家以泪还灌溉之恩",
+        "rule_score": 0.037733,
+        "name_similarity": 0.057626,
+        "summary_similarity": 0.039337,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL016",
+        "timeline_year": "红楼十一年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "林如海病重贾琏送黛玉回扬州探视；林如海病故黛玉经此彻底成为孤女长住贾府",
+        "timeline_ref": "TL016｜红楼十一年｜冬季｜林如海病重贾琏送黛玉回扬州探视；林如海病故黛玉经此彻底成为孤女长住贾府",
+        "rule_score": 0.035575,
+        "name_similarity": 0.040386,
+        "summary_similarity": 0.058005,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL062",
+        "timeline_year": "红楼十四年",
+        "timeline_season": "春季",
+        "timeline_event_name": "紫鹃谎称黛玉将回苏州宝玉急痛迷心疯癫惊动贾府",
+        "timeline_ref": "TL062｜红楼十四年｜春季｜紫鹃谎称黛玉将回苏州宝玉急痛迷心疯癫惊动贾府",
+        "rule_score": 0.016646,
+        "name_similarity": 0.030181,
+        "summary_similarity": 0.010216,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL037",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "五月初四",
+        "timeline_event_name": "宝玉向黛玉诉肺腑说出你放心三字；误将袭人当黛玉说睡里梦里也忘不了你",
+        "timeline_ref": "TL037｜红楼十三年｜五月初四｜宝玉向黛玉诉肺腑说出你放心三字；误将袭人当黛玉说睡里梦里也忘不了你",
+        "rule_score": 0.012475,
+        "name_similarity": 0.017402,
+        "summary_similarity": 0.015479,
+        "kb_bonus": 0.0
+      }
+    ],
+    "timeline_rule_top_score": 0.038882,
+    "timeline_rule_gap": 0.001149,
+    "timeline_id": "不确定",
+    "timeline_year": "不确定",
+    "timeline_season": "不确定",
+    "timeline_event_name": "不确定",
+    "timeline_ref": "不确定",
+    "timeline_status": "uncertain"
+  },
+  {
+    "link_id": "SCL_00002",
+    "kb_event_id": "KBE016",
+    "event_name": "听曲文宝玉悟禅机",
+    "canonical_event_name": "听曲文宝玉悟禅机",
+    "alignment_score": 0.281782,
+    "alignment_type": "kb_scene_link",
+    "relation": "shared_kb_event",
+    "text": {
+      "scene_id": "SCN_00545",
+      "scene_name": "听曲文宝玉悟禅机",
+      "scene_summary": "湘云至贾母处与众人叙旧，分发戒指时因金麒麟暗引黛玉不悦。；湘云与丫鬟翠缕游园论阴阳，拾得金麒麟后与寻来的宝玉相认。",
+      "source_path": "D:\\大三下\\礼物计划\\红楼梦文本\\hongloumeng_txt_json\\第031回.json",
+      "member_count": 2,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "chapter_id": "031",
+      "chapter_title": "第三十一回 撕扇子作千金一笑 因麒麟伏白首双星"
+    },
+    "video": {
+      "scene_id": "SCN_00004",
+      "scene_name": "听曲文宝玉悟禅机",
+      "scene_summary": "贾府众人在内室设宴入席，共同举杯庆祝薛宝钗的生日。；丫鬟递上戏单请贾母点戏，贾母坚持让寿星薛宝钗自行挑选，宝钗最终选定一出关于鲁智深的戏。；薛宝钗向贾宝玉剖析所选戏曲的词藻韵律并念唱《寄生草》曲文，贾宝玉听得入神大加赞赏，林黛玉在一旁出言调侃。",
+      "source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\12.json",
+      "member_count": 3,
+      "members": [],
+      "representative": {
+        "ueid": "",
+        "source_text": "",
+        "source_path": ""
+      },
+      "episode_id": "10_S12",
+      "episode_title": "听曲文宝玉悟禅机",
+      "video_source_path": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_json\\hongloumeng10_json\\12.json"
+    },
+    "shared": {
+      "characters": [
+        "史太君",
+        "林黛玉",
+        "薛宝钗",
+        "贾宝玉"
+      ],
+      "locations": [],
+      "timeline_id": "unknown"
+    },
+    "kb_event": {
+      "kb_event_id": "KBE016",
+      "event_name": "听曲文宝玉悟禅机",
+      "kb_score_text": 0.264278,
+      "kb_score_video": 0.293878
+    },
+    "timeline_rule_candidates": [
+      {
+        "timeline_id": "TL074",
+        "timeline_year": "红楼十七年",
+        "timeline_season": "秋季",
+        "timeline_event_name": "通灵宝玉丢失宝玉失魂疯癫",
+        "timeline_ref": "TL074｜红楼十七年｜秋季｜通灵宝玉丢失宝玉失魂疯癫",
+        "rule_score": 0.009095,
+        "name_similarity": 0.015725,
+        "summary_similarity": 0.00673,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL006",
+        "timeline_year": "红楼七年",
+        "timeline_season": "冬季",
+        "timeline_event_name": "贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+        "timeline_ref": "TL006｜红楼七年｜冬季｜贾敏病逝贾母接外孙女黛玉进京；黛玉入荣国府初见贾母凤姐宝玉；宝玉摔玉",
+        "rule_score": 0.00858,
+        "name_similarity": 0.008863,
+        "summary_similarity": 0.015306,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL040",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "五月中",
+        "timeline_event_name": "莺儿给宝玉打络子宝玉问宝钗好处莺儿说模样还在其次宝钗提议金线络玉",
+        "timeline_ref": "TL040｜红楼十三年｜五月中｜莺儿给宝玉打络子宝玉问宝钗好处莺儿说模样还在其次宝钗提议金线络玉",
+        "rule_score": 0.00827,
+        "name_similarity": 0.008704,
+        "summary_similarity": 0.014511,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL039",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "五月中",
+        "timeline_event_name": "宝玉挨打养伤想吃莲叶羹玉钏儿送来宝玉哄她亲尝",
+        "timeline_ref": "TL039｜红楼十三年｜五月中｜宝玉挨打养伤想吃莲叶羹玉钏儿送来宝玉哄她亲尝",
+        "rule_score": 0.006515,
+        "name_similarity": 0.010927,
+        "summary_similarity": 0.005328,
+        "kb_bonus": 0.0
+      },
+      {
+        "timeline_id": "TL024",
+        "timeline_year": "红楼十三年",
+        "timeline_season": "二月廿二",
+        "timeline_event_name": "元春命太监传谕让宝玉及众姊妹搬入园中居住；宝玉住怡红院黛玉潇湘馆宝钗蘅芜苑迎探惜各居一处",
+        "timeline_ref": "TL024｜红楼十三年｜二月廿二｜元春命太监传谕让宝玉及众姊妹搬入园中居住；宝玉住怡红院黛玉潇湘馆宝钗蘅芜苑迎探惜各居一处",
+        "rule_score": 0.006347,
+        "name_similarity": 0.007581,
+        "summary_similarity": 0.009786,
+        "kb_bonus": 0.0
+      }
+    ],
+    "timeline_rule_top_score": 0.009095,
+    "timeline_rule_gap": 0.000515,
+    "timeline_id": "不确定",
+    "timeline_year": "不确定",
+    "timeline_season": "不确定",
+    "timeline_event_name": "不确定",
+    "timeline_ref": "不确定",
+    "timeline_status": "uncertain"
+  }
+]

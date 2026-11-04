@@ -1,0 +1,36 @@
+{
+  "episode_id": "06",
+  "episode_title": "王熙凤协理宁国府",
+  "segment_id": "S19",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "仆人请贾宝玉下马同行",
+      "characters": [
+        "贾宝玉",
+        "仆人"
+      ],
+      "location": "送殡路上",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "送殡队伍行进途中，仆人上前请骑在马上的贾宝玉下马前往王熙凤处。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "马车内商议住宿安排",
+      "characters": [
+        "贾宝玉",
+        "王熙凤"
+      ],
+      "location": "马车内",
+      "time_hint": "after",
+      "explicit_time": "今晚",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉进入马车与王熙凤交谈，王熙凤告知已安排馒头庵房间供两人今晚住宿。"
+    }
+  ]
+}

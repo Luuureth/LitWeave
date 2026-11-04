@@ -1,0 +1,51 @@
+{
+  "episode_id": "17",
+  "episode_title": "变生不测凤姐泼醋",
+  "segment_id": "S14",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "截停逃跑丫鬟并下令刑讯",
+      "characters": [
+        "王熙凤",
+        "平儿"
+      ],
+      "location": "宅院巷道",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤与平儿在宅院巷道截住逃跑的丫鬟，凤姐下令取绳鞭刑讯逼供。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "威逼丫鬟招供私情与盯梢指令",
+      "characters": [
+        "王熙凤",
+        "平儿",
+        "贾琏",
+        "鲍二家的"
+      ],
+      "location": "宅院巷道",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "丫鬟在宅院巷道受威吓后，供出贾琏私赠财物给鲍二老婆并派其盯梢王熙凤的隐情。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "听闻真相后怒极握墙",
+      "characters": [
+        "王熙凤"
+      ],
+      "location": "宅院巷道",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤在宅院巷道得知丈夫私情与被监视的真相后，愤怒至极紧握墙壁。"
+    }
+  ]
+}

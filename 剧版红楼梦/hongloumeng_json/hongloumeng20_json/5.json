@@ -1,0 +1,52 @@
+{
+  "episode_id": "20",
+  "episode_title": "勇晴雯病补雀金裘",
+  "segment_id": "S05",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉探病劝慰晴雯",
+      "characters": [
+        "贾宝玉",
+        "晴雯",
+        "平儿"
+      ],
+      "location": "卧房",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉探视病中的晴雯，劝她顾念平儿的好意接受安排并安心养病。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉让晴雯嗅闻西洋宝烟",
+      "characters": [
+        "贾宝玉",
+        "晴雯"
+      ],
+      "location": "卧房",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉取出西洋宝烟“汪恰”给晴雯嗅闻，晴雯嗅后感到爽快。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宝玉提议取西洋药治头痛",
+      "characters": [
+        "贾宝玉",
+        "晴雯",
+        "王熙凤"
+      ],
+      "location": "卧房",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "晴雯诉说太阳穴疼痛，贾宝玉提议去王熙凤处取西洋膏药“依弗哪”为她治疗。"
+    }
+  ]
+}

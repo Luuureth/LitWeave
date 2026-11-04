@@ -1,0 +1,69 @@
+{
+  "episode_id": "23",
+  "episode_title": "慧紫鹃情辞试忙玉",
+  "segment_id": "S09",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "薛姨妈与宝钗来访黛玉房中并谈论姻缘天定",
+      "characters": [
+        "薛姨妈",
+        "薛宝钗",
+        "林黛玉"
+      ],
+      "location": "潇湘馆",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "薛姨妈和宝钗来到黛玉房中，薛姨妈感叹姻缘天定，提及月下老人牵红线。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "薛姨妈表示疼爱黛玉并提议认作干女儿",
+      "characters": [
+        "薛姨妈",
+        "薛宝钗",
+        "林黛玉"
+      ],
+      "location": "潇湘馆",
+      "time_hint": "sequential",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "薛姨妈安抚伤感的黛玉，表示心里更疼她，提议认黛玉做干女儿，黛玉表示愿意。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "薛姨妈戏言将黛玉许配给宝玉",
+      "characters": [
+        "薛姨妈",
+        "薛宝钗",
+        "林黛玉"
+      ],
+      "location": "潇湘馆",
+      "time_hint": "sequential",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "薛姨妈开玩笑提议将黛玉许配给宝玉，宝钗笑闹说薛姨妈疯了。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "紫鹃催促提亲遭薛姨妈笑骂",
+      "characters": [
+        "薛姨妈",
+        "薛宝钗",
+        "林黛玉",
+        "紫鹃"
+      ],
+      "location": "潇湘馆",
+      "time_hint": "sequential",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "紫鹃催促薛姨妈去提亲，薛姨妈笑骂她急着找小女婿。"
+    }
+  ]
+}

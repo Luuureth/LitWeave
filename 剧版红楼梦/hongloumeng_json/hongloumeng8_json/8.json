@@ -1,0 +1,34 @@
+{
+  "episode_id": "08",
+  "episode_title": "荣国府归省庆元宵",
+  "segment_id": "S08",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "观赏水上花灯",
+      "characters": [
+        "贾元春"
+      ],
+      "location": "水上河道",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾元春在宫女的陪同下乘船凝视观赏河道上的元宵花灯。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "乐班奏乐随行",
+      "characters": [
+        "贾元春"
+      ],
+      "location": "水上河道",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "随行乐工在船上奏乐，游船载着贾元春与宫女缓缓沿河道前行。"
+    }
+  ]
+}

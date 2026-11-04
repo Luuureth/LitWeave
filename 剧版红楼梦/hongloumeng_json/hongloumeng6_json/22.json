@@ -1,0 +1,22 @@
+{
+  "episode_id": "06",
+  "episode_title": "王熙凤协理宁国府",
+  "segment_id": "S22",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "吩咐下人修书拜会",
+      "characters": [
+        "王熙凤",
+        "云光"
+      ],
+      "location": "寺庙佛堂",
+      "time_hint": "background",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤在寺庙佛堂内确认事务已定，并吩咐随从前往城中找主文相公代二爷修书一封，拜会长安节度使云光老爷。"
+    }
+  ]
+}

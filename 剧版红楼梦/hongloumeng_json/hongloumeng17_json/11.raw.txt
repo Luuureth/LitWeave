@@ -1,0 +1,38 @@
+{
+  "episode_id": "17",
+  "episode_title": "变生不测凤姐泼醋",
+  "segment_id": "S11",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "商议座次并劝酒",
+      "characters": [
+        "老祖宗",
+        "凤姐",
+        "众女眷"
+      ],
+      "location": "荣国府宴客厅",
+      "time_hint": null,
+      "explicit_time": "今儿",
+      "relation_to_previous": "start",
+      "event_summary": "众人议论凤姐不惯坐首席且推辞不饮，决定让她代做东道主并劝其饮酒。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "轮流敬酒与逗趣",
+      "characters": [
+        "老祖宗",
+        "凤姐",
+        "众女眷"
+      ],
+      "location": "荣国府宴客厅",
+      "time_hint": "same_time",
+      "explicit_time": "今儿",
+      "relation_to_previous": "sequential",
+      "event_summary": "众人起哄将凤姐按在椅上轮流敬酒，凤姐顺从饮下长辈杯中酒后，众人继续以今日难得为由劝其多饮。"
+    }
+  ]
+}

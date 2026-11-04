@@ -1,0 +1,302 @@
+[
+  {
+    "ueid": "V_E10_S01_E01",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.0,
+    "grounding_reason": "候选节点均为建园、省亲、理家、抄检等具体情节，与输入事件描述的众女子日常游园嬉戏语义明显不符，无匹配项。"
+  },
+  {
+    "ueid": "V_E10_S10_E01",
+    "timeline_id": "T023",
+    "grounding_confidence": 0.95,
+    "grounding_reason": "事件描述平儿拿贾琏头发调笑称是把柄，与T023中平儿发现青丝替贾琏隐瞒的情节完全一致，对应原著第二十一回平儿软语救贾琏后的相关段落。"
+  },
+  {
+    "ueid": "V_E10_S10_E02",
+    "timeline_id": "T023",
+    "grounding_confidence": 0.95,
+    "grounding_reason": "事件核心为贾琏与平儿因藏匿头发（青丝）引发的争执与遮掩，与候选T023中平儿发现贾琏行李中青丝并替他瞒过凤姐的情节语义完全对应，属同一回目故事节点。"
+  },
+  {
+    "ueid": "V_E10_S10_E03",
+    "timeline_id": "T051",
+    "grounding_confidence": 0.85,
+    "grounding_reason": "输入事件描述贾琏抱怨凤姐善妒及凤姐扬言砸醋坛子的情节，属于第四十四回凤姐生日撞破私通后当场大闹（泼醋）的核心片段，与T051语义直接对应。"
+  },
+  {
+    "ueid": "V_E10_S11_E01",
+    "timeline_id": "T023",
+    "grounding_confidence": 0.65,
+    "grounding_reason": "事件核心为凤姐与平儿在院内的日常对话与告诫，未涉及生日宴泼醋、协理丧事或刘姥姥进园等情节，与候选T023（贾琏外宿私通、平儿掩瞒青丝引发的院内主仆互动）的语义背景与人物关系最为吻合。"
+  },
+  {
+    "ueid": "V_E10_S11_E02",
+    "timeline_id": "T023",
+    "grounding_confidence": 0.85,
+    "grounding_reason": "该事件对应《红楼梦》第二十一回平儿藏发救贾琏后的情节，贾琏回屋后夸赞平儿厉害，并由此与凤姐发生拌嘴，与T023的时间线背景及人物互动语义高度吻合。"
+  },
+  {
+    "ueid": "V_E10_S11_E03",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.0,
+    "grounding_reason": "候选节点均描述凤姐生日相关事件、刘姥姥一进荣国府或贾琏私通，无一与商议薛宝钗二十一岁生日的语义内容匹配。"
+  },
+  {
+    "ueid": "V_E10_S12_E01",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.0,
+    "grounding_reason": "输入事件核心为众人内室设宴庆祝薛宝钗生日，而所有候选节点语义分别为黛玉降生、宝玉急痛迷心、元春晋封、莺儿打络子及宝玉降生，均与该庆生宴事件完全不匹配。"
+  },
+  {
+    "ueid": "V_E10_S12_E02",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.0,
+    "grounding_reason": "输入事件描述的是薛宝钗十五岁寿辰贾母推让点戏并选定《鲁智深》戏码的情节，与提供的五个候选时间线节点语义均无对应，故判定为unknown。"
+  },
+  {
+    "ueid": "V_E10_S12_E03",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.0,
+    "grounding_reason": "候选时间线均不匹配。输入事件为《红楼梦》第二十二回宝钗念唱《寄生草》、宝玉听曲入迷悟禅、黛玉调侃的情节，而候选节点分别为黛玉进京、莺儿打络子、凤姐调包成婚、宝钗初进京及元春谕令众姊妹入园，语义完全无关。"
+  },
+  {
+    "ueid": "V_E10_S13_E01",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.0,
+    "grounding_reason": "候选事件均与输入语义“戏曲演员宴席献唱”不符。T035虽提及龄官但核心情节为“蔷薇架画蔷”，与登台献唱明显不一致，依约束8排除，故无匹配。"
+  },
+  {
+    "ueid": "V_E10_S13_E02",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.15,
+    "grounding_reason": "输入事件核心为众人于宴席赞赏打赏戏曲演员并询问姓名，候选T035虽含龄官但语义为画蔷淋雨，事件内容明显不符；其余候选完全无关，依据闭集规则选择unknown。"
+  },
+  {
+    "ueid": "V_E10_S13_E03",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.95,
+    "grounding_reason": "候选时间线节点均不涉及宝钗生日期间看戏及史湘云直言戏子似黛玉的情节，事件语义完全无法匹配。"
+  },
+  {
+    "ueid": "V_E10_S14_E01",
+    "timeline_id": "T069",
+    "grounding_confidence": 0.75,
+    "grounding_reason": "事件核心为晴雯被催促收拾衣物准备离开，与候选T069中抄检大观园后逐出晴雯的情节高度吻合，收拾衣物正是其被驱逐离园前的具体准备环节。"
+  },
+  {
+    "ueid": "V_E10_S14_E02",
+    "timeline_id": "T036",
+    "grounding_confidence": 0.6,
+    "grounding_reason": "候选集中仅T036明确记载了宝玉与晴雯在室内发生争执的情节（跌扇斥骂及后续哄解），人物关系与核心冲突语义高度吻合，虽摘要细节表述略有偏差，但为闭集内最直接匹配的选项。"
+  },
+  {
+    "ueid": "V_E10_S15_E01",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.95,
+    "grounding_reason": "候选节点均描述其他独立情节（如搬入大观园、耗子精故事、黛玉初进京、葬花吟、共读西厢），无一涵盖“因拿黛玉比戏子及给湘云使眼色引发激烈争吵”的语义核心，事件明显不匹配，故输出unknown。"
+  },
+  {
+    "ueid": "V_E10_S16_E01",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.0,
+    "grounding_reason": "输入事件为宝玉独自徘徊沉思的泛化状态描写，候选节点均为具体重大情节（省亲题咏、建园题额、抄检大观园、探春理家、拾绣春囊），人物地点虽有部分重合但事件语义核心完全不匹配，故无法锚定。"
+  },
+  {
+    "ueid": "V_E10_S16_E02",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.05,
+    "grounding_reason": "输入事件为贾宝玉的心理回想活动，侧重对往昔欢乐场景的追忆；候选节点均为具体情节（省亲、建园、抄检、理家等），语义核心与当前心理描写事件完全不匹配，故输出unknown。"
+  },
+  {
+    "ueid": "V_E10_S16_E03",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.0,
+    "grounding_reason": "输入事件为‘宝玉悟禅机’（第二十二回），候选节点均聚焦元妃省亲、建园题额、抄检大观园或探春理家，语义核心完全不匹配，故判定为unknown。"
+  },
+  {
+    "ueid": "V_E10_S17_E01",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.0,
+    "grounding_reason": "候选事件语义均与输入不符，输入核心为宝玉卧床与丫鬟议论宝钗还席之事且态度冷淡，候选分别为刘姥姥游园、宝玉生日夜宴、平儿理妆、众姊妹入园、宝钗绣肚兜等情节，无一匹配。"
+  },
+  {
+    "ueid": "V_E10_S17_E02",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.0,
+    "grounding_reason": "输入事件描述宝玉在怡红院书桌前书写后回床休息的日常细节，候选节点均为重大情节（如生日夜宴、平儿理妆、搬入园、刘姥姥醉卧、梦中喊话等），事件语义完全不匹配，故判定为unknown。"
+  },
+  {
+    "ueid": "V_E10_S17_E03",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.0,
+    "grounding_reason": "候选事件语义均围绕生日夜宴、平儿理妆、刘姥姥醉卧、搬入园中、宝钗探视绣肚兜等展开，无一涉及丫鬟进入怡红院查看宝玉文字并交谈的情节，核心语义不匹配。"
+  },
+  {
+    "ueid": "V_E10_S18_E01",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.1,
+    "grounding_reason": "候选时间线均与输入事件语义不符，事件核心为众人共读诗偈与议论悟禅，候选列表中无对应情节节点。"
+  },
+  {
+    "ueid": "V_E10_S18_E02",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.95,
+    "grounding_reason": "输入事件核心为黛玉与宝玉参禅续偈语，而所有候选时间线均描述其他无关情节（小红遗帕、刘姥姥醉卧、入住大观园、宝玉生日夜宴、平儿理妆等），语义完全不匹配，故选择unknown。"
+  },
+  {
+    "ueid": "V_E10_S18_E03",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.0,
+    "grounding_reason": "输入事件语义为《红楼梦》第二十二回宝玉悟禅机情节（宝钗举神秀与惠能偈语典故点化宝玉并催促作答），与候选列表中所有事件（共读西厢、搬入园中、绣肚兜、刘姥姥醉卧、怡红院夜宴）均无对应，故判定为unknown。"
+  },
+  {
+    "ueid": "V_E10_S19_E01",
+    "timeline_id": "T050",
+    "grounding_confidence": 0.85,
+    "grounding_reason": "该事件为九月初二宝玉出城祭金钏的前置情节，茗烟在沁芳桥等候并托丫鬟入内传信，与T050属同一回目叙事链条，核心人物与情节走向高度对应。"
+  },
+  {
+    "ueid": "V_E10_S19_E02",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.0,
+    "grounding_reason": "输入事件描述茗烟在院墙边偶遇王熙凤盘问并以带吃的为由搪塞，该具体情节与候选时间线中的凤姐生日祭金钏、黛玉听曲、刘姥姥一进、协理宁国府及宝玉降生等事件语义核心均无匹配，故输出unknown。"
+  },
+  {
+    "ueid": "V_E10_S19_E03",
+    "timeline_id": "T025",
+    "grounding_confidence": 0.95,
+    "grounding_reason": "事件核心为茗烟于沁芳桥将《西厢记》交给宝玉，与T025中宝玉在沁芳闸桥读《会真记》（即《西厢记》）的情节完全吻合，属同一回目的直接关联事件。"
+  },
+  {
+    "ueid": "V_E10_S19_E04",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.0,
+    "grounding_reason": "输入事件核心为宝玉与茗烟在长廊匆忙藏书/捡书，候选事件（祭金钏、丢玉、见秦钟、宝玉降生、吃莲叶羹）语义均不匹配，故选择unknown。"
+  },
+  {
+    "ueid": "V_E10_S19_E05",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.0,
+    "grounding_reason": "候选事件语义均与输入事件“宝玉带书跑回怡红院并迅速关门”完全不符，仅人物与地点重合不足以构成匹配，故判定为unknown。"
+  },
+  {
+    "ueid": "V_E10_S02_E01",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.0,
+    "grounding_reason": "输入事件核心语义为众姐妹与丫鬟穿行竹林回廊互相催促赶路，与候选列表中的结诗社、咏菊夺魁、刘姥姥宴饮、薛蟠经商、香菱学诗等事件内容均无直接语义对应，故判定为unknown。"
+  },
+  {
+    "ueid": "V_E10_S02_E02",
+    "timeline_id": "T024",
+    "grounding_confidence": 0.85,
+    "grounding_reason": "事件发生在潇湘馆（有凤来仪）外庭院，众姐妹围聚宝玉催促说话，与元春命众人搬入园中居住后在新居周边活动的情节高度吻合，且时间地点与人物行为逻辑一致。"
+  },
+  {
+    "ueid": "V_E10_S20_E01",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.9,
+    "grounding_reason": "输入事件核心为紫鹃在园中奔走打听宝玉下落，候选事件均不匹配。T062虽人物重合，但语义为紫鹃试玉致宝玉疯癫，与输入动作明显不符；其余候选事件语义无关，故判定为无合适候选。"
+  },
+  {
+    "ueid": "V_E10_S20_E02",
+    "timeline_id": "T025",
+    "grounding_confidence": 0.9,
+    "grounding_reason": "事件语义核心为宝玉独自在花树下看书、花瓣飘落书页，与T025中宝玉于桃花树下读《会真记》的经典情节高度吻合。"
+  },
+  {
+    "ueid": "V_E10_S21_E01",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.0,
+    "grounding_reason": "输入事件核心为宝黛共读西厢后收集落花并讨论葬花（埋土或随水）的情节，而所有候选节点分别对应元春省亲、建大观园、香菱学诗、刘姥姥游园及抄检大观园，语义均完全不匹配。"
+  },
+  {
+    "ueid": "V_E10_S21_E02",
+    "timeline_id": "T025",
+    "grounding_confidence": 0.96,
+    "grounding_reason": "输入事件语义核为“贾宝玉与林黛玉共读《西厢记》”，候选T025明确描述“读《会真记》（西厢记别称）”及“二人共读西厢”情节，人物、核心动作与地点背景完全吻合，为最直接且唯一的匹配项。"
+  },
+  {
+    "ueid": "V_E10_S21_E03",
+    "timeline_id": "T025",
+    "grounding_confidence": 0.95,
+    "grounding_reason": "输入事件核心为宝玉与黛玉共读并引用《西厢记》话语互相打趣、黛玉嗔怒欲告状，与候选T025中“二人共读西厢宝玉笑说倾国倾城貌黛玉嗔怒”的语义及情节完全吻合，关键动作与人物一致。"
+  },
+  {
+    "ueid": "V_E10_S21_E04",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.1,
+    "grounding_reason": "输入事件核心为紫鹃传话北静王召见宝玉致其离开，场景在大观园花丛；候选节点中仅T015涉及北静王，但情节为秦可卿出殡路祭初见宝玉，其余候选为省亲题咏、建园题对额、刘姥姥游园及香菱学诗，事件语义、具体情节与场景均无对应，依据闭集选择规则判定为unknown。"
+  },
+  {
+    "ueid": "V_E10_S03_E01",
+    "timeline_id": "T063",
+    "grounding_confidence": 0.92,
+    "grounding_reason": "候选T063对应‘寿怡红群芳开夜宴’情节，地点为怡红院，人物为群芳（众女子），活动核心为夜宴游玩与占花名签（赏花），与输入事件语义高度吻合。"
+  },
+  {
+    "ueid": "V_E10_S03_E02",
+    "timeline_id": "T048",
+    "grounding_confidence": 0.65,
+    "grounding_reason": "候选列表中仅T048包含“画大观园图”情节，与输入事件“众女子书画创作”的语义核心最为吻合，且地点均涉及怡红院，其余候选事件主题明显不符。"
+  },
+  {
+    "ueid": "V_E10_S03_E03",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.95,
+    "grounding_reason": "候选时间线均为特定情节节点（刘姥姥醉卧、宝玉生日夜宴、平儿理妆、众姊妹搬园、宝钗绣肚兜），与输入事件“众女子逗鸟、洗物、放风筝、荡秋千”的娱乐嬉戏语义完全不符，无匹配项。"
+  },
+  {
+    "ueid": "V_E10_S03_E04",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.0,
+    "grounding_reason": "输入事件描述为女子在花丛中闻花读书，候选列表中T011为宝玉秦钟读书，T031为黛玉葬花，T058为香菱学诗，均无此具体情节，语义核心不符。"
+  },
+  {
+    "ueid": "V_E10_S03_E05",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.1,
+    "grounding_reason": "候选时间线事件均与输入语义核“众女子在怡红院品评书画”不符，各候选核心情节（刘姥姥醉卧、生日夜宴占花名、平儿理妆、宝钗绣兜、奉命入园）均无品评书画内容，语义明显不匹配，故判定为无合适候选。"
+  },
+  {
+    "ueid": "V_E10_S03_E06",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.0,
+    "grounding_reason": "候选节点分别为降生、进京、父亡、共读西厢及诉肺腑，均无黛玉抚琴静坐情节，语义完全不匹配。"
+  },
+  {
+    "ueid": "V_E10_S03_E07",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.0,
+    "grounding_reason": "输入事件为两人在秋日树林中穿行奔跑的泛化动作描述，与候选列表中的甄士隐遇道人出家、宝玉降生、薛蟠外出经商、香菱学诗或柳湘莲痛打薛蟠等原著核心情节均无语义对应。"
+  },
+  {
+    "ueid": "V_E10_S04_E01",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.0,
+    "grounding_reason": "候选事件语义分别为海棠诗社、咏菊夺魁、刘姥姥宴饮取乐、薛家进京及修建大观园，均不涉及“庭院围坐下棋”的情节，核心语义完全不匹配，故选择unknown。"
+  },
+  {
+    "ueid": "V_E10_S04_E02",
+    "timeline_id": "unknown",
+    "grounding_confidence": 0.0,
+    "grounding_reason": "候选时间线均无薛宝钗与众女子争抢或赠送绣扇的情节。T030为宝钗扑蝶，T036为晴雯撕扇，核心人物与动作语义与输入事件完全不符，故无法锚定。"
+  },
+  {
+    "ueid": "V_E10_S05_E01",
+    "timeline_id": "T023",
+    "grounding_confidence": 0.95,
+    "grounding_reason": "输入事件核心为巧姐出痘疹，与T023“凤姐女儿大姐儿（巧姐）出天花”情节直接对应，属于该时间线节点下的具体召唤环节。"
+  },
+  {
+    "ueid": "V_E10_S05_E02",
+    "timeline_id": "T023",
+    "grounding_confidence": 0.95,
+    "grounding_reason": "事件核心为巧姐（大姐儿）患病后安排供奉与十二天忌口，与候选T023中“大姐儿出天花”情节完全对应，人物与事件语义高度一致。"
+  },
+  {
+    "ueid": "V_E10_S05_E03",
+    "timeline_id": "T023",
+    "grounding_confidence": 0.85,
+    "grounding_reason": "事件描述的外书房斋戒与搬行李情节，对应《红楼梦》第二十一回巧姐出天花期间贾琏移居外书房避痘斋戒的段落，与候选T023语义核心一致。"
+  }
+]

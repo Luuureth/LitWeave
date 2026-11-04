@@ -1,0 +1,54 @@
+```json
+{
+  "episode_id": "04",
+  "episode_title": "探宝钗黛玉半含酸",
+  "segment_id": "S01",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "商议去梨香院路线",
+      "characters": [
+        "二爷",
+        "小厮"
+      ],
+      "location": "贾府庭院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "二爷与小厮商议去梨香院看宝姐姐，并决定绕路避开老爷。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "路遇清客寒暄并讨论书法",
+      "characters": [
+        "二爷",
+        "詹先生",
+        "单先生"
+      ],
+      "location": "贾府走廊",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "二爷路遇詹先生等人，互相寒暄，詹先生称赞二爷书法并求字。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "询问老爷动向后同行",
+      "characters": [
+        "二爷",
+        "詹先生",
+        "单先生"
+      ],
+      "location": "贾府走廊",
+      "time_hint": "same_time",
+      "explicit_time": "歇中觉时",
+      "relation_to_previous": "sequential",
+      "event_summary": "二爷询问老爷动向，得知老爷在梦坡斋歇中觉，便与众人一同离开。"
+    }
+  ]
+}
+```

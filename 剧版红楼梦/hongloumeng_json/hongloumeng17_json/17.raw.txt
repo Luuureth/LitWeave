@@ -1,0 +1,52 @@
+{
+  "episode_id": "17",
+  "episode_title": "变生不测凤姐泼醋",
+  "segment_id": "S17",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾琏赔礼安抚王熙凤",
+      "characters": [
+        "贾琏",
+        "王熙凤",
+        "平儿"
+      ],
+      "location": "贾琏房内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾琏在房内跪地向王熙凤赔礼道歉，二人发生口角后贾琏好言安抚，最终王熙凤情绪平复。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "下人通报鲍二家的死讯及告状意图",
+      "characters": [
+        "王熙凤",
+        "贾琏",
+        "下人"
+      ],
+      "location": "贾琏房内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "下人入内通报鲍二家的自缢身亡且其娘家欲告官，王熙凤态度强硬，称已威吓利诱压服对方，并扬言反告对方讹诈。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "仆人汇报已打点衙门平息官司",
+      "characters": [
+        "贾琏",
+        "仆人"
+      ],
+      "location": "院外走廊",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾琏至院外遇见仆人，仆人告知已花费二百两银子打点衙门关系，诉讼已平息，贾琏听后嘱咐其让王熙凤放心。"
+    }
+  ]
+}

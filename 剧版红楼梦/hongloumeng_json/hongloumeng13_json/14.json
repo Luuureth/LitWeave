@@ -1,0 +1,68 @@
+{
+  "episode_id": "13",
+  "episode_title": "享福人福深还祷福",
+  "segment_id": "S14",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "雪雁与紫鹃对话",
+      "characters": [
+        "雪雁",
+        "紫鹃"
+      ],
+      "location": "潇湘馆",
+      "time_hint": "background",
+      "explicit_time": "昨儿",
+      "relation_to_previous": "start",
+      "event_summary": "雪雁告知紫鹃黛玉中暑不去看戏，紫鹃推测宝玉是因张道士提亲心里不自在才不去。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "紫鹃试探黛玉",
+      "characters": [
+        "紫鹃",
+        "林黛玉"
+      ],
+      "location": "潇湘馆",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "紫鹃进屋询问黛玉为何不去看戏，并用言语试探激怒黛玉，点破其因张道士提亲一事心烦拿自己撒气。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宝玉砸玉",
+      "characters": [
+        "贾宝玉",
+        "林黛玉",
+        "紫鹃",
+        "袭人",
+        "雪雁"
+      ],
+      "location": "潇湘馆",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉冲入房间要砸玉，众人惊慌阻拦，黛玉哭泣劝阻。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "袭人劝解",
+      "characters": [
+        "袭人",
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "潇湘馆",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "袭人拿玉穗子劝解宝玉不该和黛玉拌嘴，黛玉讽刺宝玉有人替穿穗子，宝玉赌气表示不戴。"
+    }
+  ]
+}

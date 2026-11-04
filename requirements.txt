@@ -1,0 +1,14 @@
+# Core offline pipelines
+pandas
+numpy
+scikit-learn
+tqdm
+
+# Optional denser semantic matching (feature2 / scene mapping)
+sentence-transformers
+
+# LLM-assisted normalization / grounding (DashScope / Qwen)
+dashscope
+
+# Knowledge-base crawling helpers
+requests

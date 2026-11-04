@@ -1,0 +1,63 @@
+{
+  "episode_id": "13",
+  "episode_title": "享福人福深还祷福",
+  "segment_id": "S06",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贵妇与侍从准备出巡",
+      "characters": [],
+      "location": "街道",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贵妇身着华服，侍从抬着轿子准备出巡。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "巡游队伍携带礼品经过",
+      "characters": [],
+      "location": "街道",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "侍从抬着装饰精美的礼品和羊经过街道，路人围观。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "队伍经过商铺与横幅",
+      "characters": [],
+      "location": "街道",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "巡游队伍经过挂有横幅的商铺，场面热闹。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "妇人与孩童围观出巡",
+      "characters": [],
+      "location": "街道",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "妇人与孩童在路边或窗边好奇地围观出巡队伍。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "侍从推车搬运物资",
+      "characters": [],
+      "location": "街道",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "侍从推着大车搬运物资，队伍继续前行。"
+    }
+  ]
+}

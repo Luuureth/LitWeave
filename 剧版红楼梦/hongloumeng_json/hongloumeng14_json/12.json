@@ -1,0 +1,35 @@
+{
+  "episode_id": "14",
+  "episode_title": "含耻辱情烈死金钏",
+  "segment_id": "S12",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "丫鬟们惊报并议论金钏投井死讯",
+      "characters": [
+        "薛宝钗"
+      ],
+      "location": "园中",
+      "time_hint": null,
+      "explicit_time": "前儿、昨儿、今儿早上",
+      "relation_to_previous": "start",
+      "event_summary": "园中丫鬟向宝钗等人惊报金钏投井死讯，并详述其前日被撵出、今早于东南角井中被捞起的过程。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "王夫人垂泪自责，宝钗入内劝慰并赠衣",
+      "characters": [
+        "王夫人",
+        "薛宝钗"
+      ],
+      "location": "荣国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝钗入内见王夫人垂泪自责，遂开导其不必过分牵挂，并主动拿出新衣供金钏作妆裹，随后告辞离开。"
+    }
+  ]
+}

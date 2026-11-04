@@ -1,0 +1,75 @@
+{
+  "episode_id": "04",
+  "episode_title": "探宝钗黛玉半含酸",
+  "segment_id": "S06",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "穿戴斗篷准备离开",
+      "characters": [
+        "贾宝玉",
+        "林黛玉",
+        "薛姨妈"
+      ],
+      "location": "薛姨妈院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "宝玉在薛姨妈处穿戴斗篷准备离开，黛玉帮忙整理，薛姨妈让等等。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "门外等候",
+      "characters": [
+        "鸳鸯"
+      ],
+      "location": "门外",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "夜晚丫鬟在门外等候宝玉，提到李奶奶。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "挂灯笼迎接",
+      "characters": [
+        "晴雯",
+        "贾宝玉"
+      ],
+      "location": "门外",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "晴雯等丫鬟挂灯笼，宝玉回来让丫鬟们回去。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "整理床铺",
+      "characters": [],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "丫鬟在宝玉房间整理床铺。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "对话暖手",
+      "characters": [
+        "贾宝玉",
+        "晴雯"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉和晴雯对话，晴雯抱怨等了一天，宝玉给她暖手。"
+    }
+  ]
+}

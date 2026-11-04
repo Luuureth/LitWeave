@@ -1,0 +1,79 @@
+{
+  "episode_id": "04",
+  "episode_title": "探宝钗黛玉半含酸",
+  "segment_id": "S15",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "瑞珠宝珠议论病情",
+      "characters": [
+        "瑞珠",
+        "宝珠"
+      ],
+      "location": "宁国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "瑞珠和宝珠在门外议论秦可卿近日心神不定。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "凤姐宝玉探病",
+      "characters": [
+        "王熙凤",
+        "贾宝玉",
+        "秦可卿"
+      ],
+      "location": "宁国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤和贾宝玉进入房间探视躺在床上的秦可卿。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "回忆宝玉午睡",
+      "characters": [
+        "贾宝玉",
+        "秦可卿"
+      ],
+      "location": "宁国府",
+      "time_hint": "flashback",
+      "explicit_time": null,
+      "relation_to_previous": "flashback",
+      "event_summary": "贾宝玉回忆之前在秦可卿房中午睡时与秦可卿的对话。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "可卿倾诉病情",
+      "characters": [
+        "秦可卿",
+        "王熙凤"
+      ],
+      "location": "宁国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "秦可卿向王熙凤倾诉病情，表示可能熬不过年，遗憾未能孝顺公婆。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "凤姐劝慰宝玉",
+      "characters": [
+        "贾宝玉",
+        "王熙凤"
+      ],
+      "location": "宁国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉看着秦可卿流泪，王熙凤劝慰他并让他去园子。"
+    }
+  ]
+}

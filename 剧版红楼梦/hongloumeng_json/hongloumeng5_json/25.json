@@ -1,0 +1,22 @@
+{
+  "episode_id": "05",
+  "episode_title": "王熙凤毒设相思局",
+  "segment_id": "S25",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王熙凤与平儿夜话后安歇",
+      "characters": [
+        "王熙凤",
+        "平儿"
+      ],
+      "location": "内室",
+      "time_hint": null,
+      "explicit_time": "三鼓",
+      "relation_to_previous": "start",
+      "event_summary": "深夜时分，平儿提醒王熙凤已是三鼓并劝其安睡，王熙凤询问贾琏与林黛玉的行船进度后二人就寝。"
+    }
+  ]
+}

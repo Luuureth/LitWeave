@@ -1,0 +1,51 @@
+{
+  "episode_id": "05",
+  "episode_title": "王熙凤毒设相思局",
+  "segment_id": "S08",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾瑞清晨返家敲门入院",
+      "characters": [
+        "贾瑞"
+      ],
+      "location": "荣国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾瑞于清晨时分回到贾代儒住处，敲门后进入院落。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾瑞入房被质问夜不归宿去向",
+      "characters": [
+        "贾瑞",
+        "代儒夫人",
+        "贾代儒"
+      ],
+      "location": "贾代儒房中",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾瑞进入内室，代儒夫人焦急质问其彻夜未归的去向，贾瑞辩称去了舅舅家。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾代儒斥责贾瑞违犯家规并欲施家法",
+      "characters": [
+        "贾代儒",
+        "贾瑞",
+        "代儒夫人"
+      ],
+      "location": "贾代儒房中",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾代儒怒斥贾瑞撒谎且未禀告便擅自出门，命其跪下伸手受罚，代儒夫人在旁求情。"
+    }
+  ]
+}

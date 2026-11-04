@@ -1,0 +1,52 @@
+{
+  "episode_id": "18",
+  "episode_title": "鸳鸯女誓绝鸳鸯偶",
+  "segment_id": "S19",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王熙凤入内为太太辩白",
+      "characters": [
+        "王熙凤",
+        "史太君",
+        "王夫人"
+      ],
+      "location": "贾母院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤进入房内向贾母解释纳妾之事与王夫人无关，贾母意识到自己错怪了人。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉下跪替母揽责",
+      "characters": [
+        "贾宝玉",
+        "史太君",
+        "王夫人"
+      ],
+      "location": "贾母院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉进屋见母亲受委屈，主动下跪揽过责任，贾母笑其狡辩并命他向母亲赔礼。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "凤姐与贾母说笑打趣",
+      "characters": [
+        "王熙凤",
+        "史太君"
+      ],
+      "location": "贾母院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤与贾母笑谈调理下人之事，借机调侃家族长辈与晚辈妻妾关系，众人气氛融洽。"
+    }
+  ]
+}

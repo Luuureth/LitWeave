@@ -1,0 +1,52 @@
+{
+  "episode_id": "17",
+  "episode_title": "变生不测凤姐泼醋",
+  "segment_id": "S05",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "卧榻梦呓",
+      "characters": ["贾宝玉"],
+      "location": "贾宝玉卧房",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉卧榻梦呓，提及金玉良缘与木石姻缘。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "交谈与传唤",
+      "characters": ["袭人", "史湘云", "丫鬟"],
+      "location": "贾宝玉卧房",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "袭人与史湘云交谈未进门的女子及长辈话语，随后丫鬟传唤袭人去见二奶奶，袭人随即离去。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "独行过桥",
+      "characters": ["史湘云"],
+      "location": "园中石桥",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "史湘云独自步行穿过园中石桥。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "洗漱与传话",
+      "characters": ["贾宝玉", "史湘云"],
+      "location": "贾宝玉卧房",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉起身洗漱，史湘云进入告知二奶奶找他。"
+    }
+  ]
+}

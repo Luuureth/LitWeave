@@ -1,0 +1,22 @@
+{
+  "episode_id": "11",
+  "episode_title": "为争宠姐弟遭魔魇",
+  "segment_id": "S13",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "赵姨娘向马道婆抱怨王熙凤专权，马道婆暗示暗中算计，二人初步商议对策",
+      "characters": [
+        "赵姨娘",
+        "马道婆"
+      ],
+      "location": "赵姨娘房内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "赵姨娘与马道婆在房内密谈，赵姨娘抱怨王熙凤掌权敛财，马道婆暗示暗中算计，二人初步达成密谋意向。"
+    }
+  ]
+}

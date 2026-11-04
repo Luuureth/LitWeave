@@ -1,0 +1,151 @@
+```json
+{
+  "episode_id": "01",
+  "episode_title": "林黛玉别父进京都",
+  "segment_id": "S06",
+  "event_count": 9,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "林黛玉乘轿抵达荣国府",
+      "characters": [
+        "林黛玉",
+        "周瑞家的",
+        "仆人"
+      ],
+      "location": "荣国府大门",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "林黛玉乘坐轿子抵达荣国府，周瑞家的等仆人上前迎接。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "林黛玉与贾母相见",
+      "characters": [
+        "林黛玉",
+        "贾母"
+      ],
+      "location": "贾母房中",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉进入内室与贾母相见，两人激动地拥抱哭泣。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "林黛玉拜见邢夫人、王夫人及众姐妹",
+      "characters": [
+        "林黛玉",
+        "贾母",
+        "邢夫人",
+        "王夫人",
+        "贾迎春",
+        "贾探春",
+        "贾惜春"
+      ],
+      "location": "贾母房中",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母向林黛玉介绍邢夫人、王夫人以及迎春、探春、惜春三位姐妹，众人互相行礼。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "王熙凤出场并招待林黛玉",
+      "characters": [
+        "林黛玉",
+        "贾母",
+        "王熙凤"
+      ],
+      "location": "贾母房中",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤笑着出场，热情地招待林黛玉，夸赞其容貌并提及黛玉母亲去世。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "众人谈论林黛玉的病情与用药",
+      "characters": [
+        "林黛玉",
+        "贾母",
+        "王夫人",
+        "王熙凤"
+      ],
+      "location": "贾母房中",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母和王夫人询问林黛玉的病情和用药情况，王熙凤提及宝玉去庙里还愿了。"
+    },
+    {
+      "event_id": "E06",
+      "narrative_order": 6,
+      "action": "贾政与门客谈论官职",
+      "characters": [
+        "贾政",
+        "门客"
+      ],
+      "location": "书房",
+      "time_hint": "parallel",
+      "explicit_time": null,
+      "relation_to_previous": "parallel",
+      "event_summary": "贾政在书房与门客谈论朝廷起复旧员及官职补缺之事。"
+    },
+    {
+      "event_id": "E07",
+      "narrative_order": 7,
+      "action": "王夫人私下叮嘱林黛玉",
+      "characters": [
+        "林黛玉",
+        "王夫人"
+      ],
+      "location": "贾母房中",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王夫人私下告诉林黛玉宝玉性格顽劣，让她不要理会宝玉。"
+    },
+    {
+      "event_id": "E08",
+      "narrative_order": 8,
+      "action": "贾府众人共进晚餐",
+      "characters": [
+        "林黛玉",
+        "贾母",
+        "王夫人",
+        "王熙凤",
+        "贾迎春",
+        "贾探春",
+        "贾惜春"
+      ],
+      "location": "贾母房中",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母带领众人吃晚饭，林黛玉仔细观察并模仿众人的用餐和漱口礼仪。"
+    },
+    {
+      "event_id": "E09",
+      "narrative_order": 9,
+      "action": "饭后闲谈及宝玉归来",
+      "characters": [
+        "林黛玉",
+        "贾母",
+        "丫鬟"
+      ],
+      "location": "贾母房中",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "饭后贾母询问林黛玉读什么书，此时丫鬟通报宝玉回来了。"
+    }
+  ]
+}
+```

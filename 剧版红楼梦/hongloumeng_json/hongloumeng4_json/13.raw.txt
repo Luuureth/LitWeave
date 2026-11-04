@@ -1,0 +1,36 @@
+{
+  "episode_id": "04",
+  "episode_title": "探宝钗黛玉半含酸",
+  "segment_id": "S13",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "询问寿诞安排并得知贾敬不归及戏班已备",
+      "characters": [
+        "贾琏",
+        "贾蔷",
+        "仆人"
+      ],
+      "location": "贾府正堂",
+      "time_hint": null,
+      "explicit_time": "今儿一早",
+      "relation_to_previous": "start",
+      "event_summary": "贾琏与贾蔷向仆人询问老太爷寿诞安排，得知贾敬不回家且已临时备好戏班。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "女眷们向寿星座行三叩首礼",
+      "characters": [
+        "女眷们"
+      ],
+      "location": "贾府正堂",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾府女眷们列队向悬挂寿字与龙纹的太师椅行三叩首寿礼。"
+    }
+  ]
+}

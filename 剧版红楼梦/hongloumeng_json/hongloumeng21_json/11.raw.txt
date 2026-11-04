@@ -1,0 +1,66 @@
+```json
+{
+  "episode_id": "21",
+  "episode_title": "荣国府元宵开夜宴.",
+  "segment_id": "S11",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王熙凤与平儿用餐并议论探春身世",
+      "characters": [
+        "王熙凤",
+        "平儿"
+      ],
+      "location": "王熙凤住处",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤与平儿对坐用餐，王熙凤感叹探春虽然不错但可惜是庶出，担心将来攀亲吃亏。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "王熙凤倾诉管家困境并盘算开支",
+      "characters": [
+        "王熙凤",
+        "平儿"
+      ],
+      "location": "王熙凤住处",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤感叹自己为了省钱得罪人，骑虎难下，并盘算宝玉、林黛玉及众姐妹的婚嫁开支。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "王熙凤嘱咐平儿应对探春",
+      "characters": [
+        "王熙凤",
+        "平儿"
+      ],
+      "location": "王熙凤住处",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "平儿告知探春驳回赵姨娘请求，王熙凤担心探春拿自己开刀，嘱咐平儿对探春要恭敬顺从。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "王熙凤评价众人并看重探春",
+      "characters": [
+        "王熙凤",
+        "平儿"
+      ],
+      "location": "王熙凤住处",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤评价李纨、迎春等人不中用，认为探春事事明白比自己厉害，希望探春理家以便自己抽身。"
+    }
+  ]
+}
+```

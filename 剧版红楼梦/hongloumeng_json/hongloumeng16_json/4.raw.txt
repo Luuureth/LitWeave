@@ -1,0 +1,41 @@
+{
+  "episode_id": "16",
+  "episode_title": "刘姥姥嬉游大观园",
+  "segment_id": "S04",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "赏景闻声并议论戏子演习",
+      "characters": ["众姑娘", "小戏子"],
+      "location": "大观园",
+      "time_hint": "background",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "众人在后廊赏景时听到乐声，得知是梨香院小戏子在演习吹打。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "提议戏子入园并商定宴饮听戏地点",
+      "characters": ["众姑娘"],
+      "location": "大观园",
+      "time_hint": "after",
+      "explicit_time": "一会儿",
+      "relation_to_previous": "sequential",
+      "event_summary": "众人提议让小戏子入园演习，并商定稍后在缀锦阁吃酒、于藕香榭水亭听戏。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾母与众人玩笑并移步听戏",
+      "characters": ["贾母", "众姑娘"],
+      "location": "大观园",
+      "time_hint": "after",
+      "explicit_time": "一会儿",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母与众人玩笑调侃后，众人动身前往赴宴听戏。"
+    }
+  ]
+}

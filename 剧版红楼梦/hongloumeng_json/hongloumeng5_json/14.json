@@ -1,0 +1,48 @@
+{
+  "episode_id": "05",
+  "episode_title": "王熙凤毒设相思局",
+  "segment_id": "S14",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "回忆老道叮嘱",
+      "characters": [
+        "贾瑞"
+      ],
+      "location": "卧室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾瑞卧床，回想老道关于风月宝鉴只能照背面保命的叮嘱。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "照镜见凤姐",
+      "characters": [
+        "贾瑞",
+        "王熙凤"
+      ],
+      "location": "卧室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾瑞起身拿起风月宝鉴照正面，镜中显现王熙凤招手幻影。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "镜变骷髅受惊",
+      "characters": [
+        "贾瑞"
+      ],
+      "location": "卧室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "镜中幻影突变为骷髅，贾瑞大惊失色。"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "episode_id": "10",
+  "episode_title": "听曲文宝玉悟禅机",
+  "segment_id": "S07",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾琏独坐等待，小厮汇报多姑娘不情愿",
+      "characters": [
+        "贾琏"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾琏在室内独坐桌前，小厮前来汇报多姑娘不乐意，贾琏示意小厮不要着急。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "多姑娘奉茶入内，贾琏借机调笑",
+      "characters": [
+        "贾琏",
+        "多姑娘"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "多姑娘掀帘进入室内为贾琏奉茶，贾琏趁机拉住其手腕进行调笑。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾与小厮再次交谈询问进展",
+      "characters": [
+        "贾琏"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾琏转头与小厮交谈，小厮询问事情进展如何，贾琏面露神色。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "贾琏与粉衣女子在床榻上亲昵",
+      "characters": [
+        "贾琏",
+        "多姑娘"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "红烛映照下，贾琏与多姑娘在床榻上宽衣解带，亲昵交欢。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "多姑娘整理衣冠独自离开",
+      "characters": [
+        "多姑娘"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "事毕后多姑娘起身整理衣衫，独自走出房间。"
+    }
+  ]
+}

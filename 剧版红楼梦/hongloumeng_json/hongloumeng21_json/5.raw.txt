@@ -1,0 +1,84 @@
+```json
+{
+  "episode_id": "21",
+  "episode_title": "荣国府元宵开夜宴.",
+  "segment_id": "S05",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "提议击鼓传梅",
+      "characters": [
+        "王熙凤",
+        "贾母"
+      ],
+      "location": "荣国府内室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤提议玩击鼓传梅的游戏，输者讲笑话，贾母表示赞同。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "击鼓传梅贾母中签",
+      "characters": [
+        "王熙凤",
+        "贾母",
+        "众女眷"
+      ],
+      "location": "荣国府内室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众人开始击鼓传梅，梅花最终传到了贾母手中。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾母讲笑话",
+      "characters": [
+        "贾母",
+        "王熙凤",
+        "众女眷"
+      ],
+      "location": "荣国府内室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母讲述十个媳妇去阎王庙烧香因内急误食猴尿的笑话，暗讽王熙凤嘴巧。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "击鼓传梅王熙凤中签",
+      "characters": [
+        "王熙凤",
+        "贾母",
+        "众女眷"
+      ],
+      "location": "荣国府内室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "游戏继续，梅花传到了王熙凤手中。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "王熙凤讲笑话",
+      "characters": [
+        "王熙凤",
+        "贾母",
+        "众女眷"
+      ],
+      "location": "荣国府内室",
+      "time_hint": null,
+      "explicit_time": "过正月半",
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤讲述聋子抬炮仗未响就散了的笑话，逗乐众人。"
+    }
+  ]
+}
+```

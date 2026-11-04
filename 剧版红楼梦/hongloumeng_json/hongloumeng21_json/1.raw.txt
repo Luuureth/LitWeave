@@ -1,0 +1,55 @@
+```json
+{
+  "episode_id": "21",
+  "episode_title": "荣国府元宵开夜宴.",
+  "segment_id": "S01",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾母在众人簇拥下入座",
+      "characters": [
+        "贾母",
+        "众人"
+      ],
+      "location": "荣国府",
+      "time_hint": "start",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾母在众人的簇拥和劝说下入座准备开宴。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "众人猜灯谜",
+      "characters": [
+        "宝玉",
+        "众女子",
+        "黛玉"
+      ],
+      "location": "荣国府",
+      "time_hint": "sequential",
+      "explicit_time": "今儿元宵佳节",
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉与众女子猜灯谜，宝玉猜中谜底为耍猴儿，解释谜底后众人笑闹。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾母询问袭人去向",
+      "characters": [
+        "贾母",
+        "凤姐",
+        "袭人",
+        "鸳鸯"
+      ],
+      "location": "荣国府",
+      "time_hint": "sequential",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母询问袭人为何没来，凤姐解释袭人因母丧守孝且已赏银，贾母表示理解并提及鸳鸯。"
+    }
+  ]
+}
+```

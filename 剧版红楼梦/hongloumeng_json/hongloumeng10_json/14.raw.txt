@@ -1,0 +1,36 @@
+{
+    "episode_id": "10",
+    "episode_title": "听曲文宝玉悟禅机",
+    "segment_id": "S14",
+    "event_count": 2,
+    "events": [
+        {
+            "event_id": "E01",
+            "narrative_order": 1,
+            "action": "丫鬟催促晴雯收拾衣物",
+            "characters": [
+                "丫鬟",
+                "晴雯"
+            ],
+            "location": "室内",
+            "time_hint": null,
+            "explicit_time": null,
+            "relation_to_previous": "start",
+            "event_summary": "绿衣丫鬟催促晴雯收拾衣物，晴雯表示临走再收拾。"
+        },
+        {
+            "event_id": "E02",
+            "narrative_order": 2,
+            "action": "宝玉劝解晴雯并引发争执",
+            "characters": [
+                "宝玉",
+                "晴雯"
+            ],
+            "location": "室内",
+            "time_hint": null,
+            "explicit_time": "明儿一早",
+            "relation_to_previous": "sequential",
+            "event_summary": "宝玉帮忙收拾并解释怕得罪黛玉，晴雯因不满与宝玉争执后离去。"
+        }
+    ]
+}

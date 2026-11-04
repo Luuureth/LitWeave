@@ -1,0 +1,50 @@
+{
+  "episode_id": "15",
+  "episode_title": "弄唇舌宝玉遭笞挞",
+  "segment_id": "S07",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉嘱托晴雯送手帕",
+      "characters": [
+        "贾宝玉",
+        "晴雯"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "宝玉躺在床上，嘱咐晴雯去林姑娘处探望，并特意让她送去两块旧手帕。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "晴雯送手帕给黛玉",
+      "characters": [
+        "晴雯",
+        "林黛玉"
+      ],
+      "location": "潇湘馆",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "晴雯来到黛玉房间送交手帕，黛玉疑惑为何送旧物，晴雯解释后离开。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "黛玉睹物思人题帕感伤",
+      "characters": [
+        "林黛玉",
+        "贾宝玉"
+      ],
+      "location": "潇湘馆",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "黛玉收到手帕后领悟宝玉苦心，独自垂泪感伤，并回忆起与宝玉共读、嬉戏的过往点滴。"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+```json
+{
+  "episode_id": "06",
+  "episode_title": "王熙凤协理宁国府",
+  "segment_id": "S16",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "北静王亲临路祭，贾府众人跪迎",
+      "characters": [
+        "北静王",
+        "贾赦",
+        "贾政",
+        "贾珍"
+      ],
+      "location": "路祭现场",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "北静王亲自来路祭，贾赦、贾政、贾珍等人在路边跪迎。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾珍致谢，北静王慰唁并吩咐长府官",
+      "characters": [
+        "贾珍",
+        "北静王",
+        "长府官"
+      ],
+      "location": "路祭现场",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾珍向北静王表达感激与惶恐，北静王以世交之谊慰唁，并吩咐长府官代奠。"
+    }
+  ]
+}
+```

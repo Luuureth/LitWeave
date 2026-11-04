@@ -1,0 +1,23 @@
+{
+  "episode_id": "05",
+  "episode_title": "王熙凤毒设相思局",
+  "segment_id": "S02",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王熙凤探视贾母并回禀秦可卿病情",
+      "characters": [
+        "史太君",
+        "王熙凤",
+        "秦可卿"
+      ],
+      "location": "贾母院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤至贾母卧房探视，向贾母转达秦可卿的问候并汇报其病情好转，同时提及张太医正在为其把脉。"
+    }
+  ]
+}

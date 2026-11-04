@@ -1,0 +1,73 @@
+{
+  "episode_id": "12",
+  "episode_title": "埋香冢飞燕泣残红",
+  "segment_id": "S02",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "坠儿转交赏钱",
+      "characters": [
+        "坠儿"
+      ],
+      "location": "回廊",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "坠儿告知红衣丫鬟给林姑娘送茶得了赏钱，并将钱交给她保管。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "坠儿劝红衣丫鬟回家",
+      "characters": [
+        "坠儿"
+      ],
+      "location": "回廊",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "坠儿见红衣丫鬟消瘦劝其回家住两天，红衣丫鬟拒绝。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "红衣丫鬟拒绝讨药并流露轻生念头",
+      "characters": [
+        "坠儿"
+      ],
+      "location": "回廊",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "红衣丫鬟拒绝坠儿帮忙向林姑娘讨药，并感叹不如早死干净。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "坠儿为红衣丫鬟鸣不平",
+      "characters": [
+        "坠儿"
+      ],
+      "location": "回廊",
+      "time_hint": "background",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "坠儿提及宝玉病愈赏人唯独漏了红衣丫鬟，表示心中替她不服。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "红衣丫鬟感叹世事无常",
+      "characters": [
+        "坠儿"
+      ],
+      "location": "回廊",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "红衣丫鬟引用俗语劝慰坠儿，认为筵席终散，人各有路，不必在意一时得失。"
+    }
+  ]
+}

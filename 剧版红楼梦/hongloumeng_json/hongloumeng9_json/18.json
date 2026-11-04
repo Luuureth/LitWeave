@@ -1,0 +1,67 @@
+{
+  "episode_id": "09",
+  "episode_title": "意绵绵静日玉生香",
+  "segment_id": "S18",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "湘云取笑黛玉咬舌并激将",
+      "characters": [
+        "史湘云",
+        "林黛玉",
+        "贾宝玉"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "史湘云取笑林黛玉咬舌说话，并激将她去挑宝姐姐的短处，黛玉表示不敢。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉开玩笑引发湘云追打",
+      "characters": [
+        "贾宝玉",
+        "史湘云"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉开玩笑说以后娶个咬舌的林姐夫，惹恼史湘云，湘云追打宝玉。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "黛玉湘云门外嬉闹",
+      "characters": [
+        "林黛玉",
+        "史湘云"
+      ],
+      "location": "门口",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉追出房门与史湘云嬉闹拉扯，湘云求饶。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "宝钗劝解众人",
+      "characters": [
+        "薛宝钗",
+        "史湘云",
+        "林黛玉",
+        "贾宝玉"
+      ],
+      "location": "门口",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "薛宝钗出来劝解，史湘云抱怨众人合伙戏弄她，贾宝玉在一旁打趣。"
+    }
+  ]
+}

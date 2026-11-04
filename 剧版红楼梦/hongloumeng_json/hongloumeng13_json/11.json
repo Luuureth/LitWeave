@@ -1,0 +1,79 @@
+{
+  "episode_id": "13",
+  "episode_title": "享福人福深还祷福",
+  "segment_id": "S11",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "张道士提亲",
+      "characters": [
+        "张道士",
+        "史太君",
+        "王熙凤",
+        "贾宝玉"
+      ],
+      "location": "贾府内室",
+      "time_hint": null,
+      "explicit_time": "前天",
+      "relation_to_previous": "start",
+      "event_summary": "张道士向贾母提及一位十五岁的小姐，建议给宝玉说亲。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾母婉拒提亲",
+      "characters": [
+        "史太君",
+        "张道士"
+      ],
+      "location": "贾府内室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母引用和尚的话婉拒早娶，并表示择偶只看模样和性情，不看重家世。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "黛玉绞弄穗子",
+      "characters": [
+        "林黛玉"
+      ],
+      "location": "贾府内室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉听闻婚事议论，低头生气地绞弄手中的红穗子。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "凤姐与张道士谈论寄名符",
+      "characters": [
+        "王熙凤",
+        "张道士"
+      ],
+      "location": "贾府内室",
+      "time_hint": "after",
+      "explicit_time": "前几天",
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤调侃张道士忘记换寄名符，张道士解释符已做好但在佛前镇着。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "宝黛对话张道士身份",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "贾府内室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉询问张道士身份，贾宝玉解释其为爷爷替身但贫嘴烂舌，黛玉表示不耐烦。"
+    }
+  ]
+}

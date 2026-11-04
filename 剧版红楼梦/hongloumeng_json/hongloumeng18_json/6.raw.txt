@@ -1,0 +1,84 @@
+```json
+{
+  "episode_id": "18",
+  "episode_title": "鸳鸯女誓绝鸳鸯偶",
+  "segment_id": "S06",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众人与李纨齐聚王熙凤处",
+      "characters": [
+        "王熙凤",
+        "李纨",
+        "众姑娘"
+      ],
+      "location": "王熙凤房中",
+      "time_hint": null,
+      "explicit_time": "今儿",
+      "relation_to_previous": "start",
+      "event_summary": "众姑娘与李纨来到王熙凤处，王熙凤调侃众人来得齐全像是下帖子请来的。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "李纨邀请王熙凤做监社御史",
+      "characters": [
+        "李纨",
+        "王熙凤"
+      ],
+      "location": "王熙凤房中",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "李纨邀请王熙凤做诗社监社御史，王熙凤识破众人是想让她出钱。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "李纨提及昨日王熙凤打平儿之事",
+      "characters": [
+        "李纨",
+        "王熙凤",
+        "平儿"
+      ],
+      "location": "王熙凤房中",
+      "time_hint": null,
+      "explicit_time": "昨儿",
+      "relation_to_previous": "sequential",
+      "event_summary": "李纨反驳王熙凤斤斤计较，并提及昨日王熙凤打平儿一事，替平儿抱不平。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "王熙凤向平儿赔礼道歉",
+      "characters": [
+        "王熙凤",
+        "平儿",
+        "李纨"
+      ],
+      "location": "王熙凤房中",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤意识到李纨是来替平儿出气，便向平儿赔礼道歉，称自己酒后无德，并让平儿去炸鹌鹑。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "王熙凤答应出资五十两银子",
+      "characters": [
+        "王熙凤",
+        "李纨",
+        "众姑娘"
+      ],
+      "location": "王熙凤房中",
+      "time_hint": null,
+      "explicit_time": "明日一早",
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤答应先放下五十两银子给众人做诗社东道，并说明日一早就到任，众姑娘欢喜离去。"
+    }
+  ]
+}
+```

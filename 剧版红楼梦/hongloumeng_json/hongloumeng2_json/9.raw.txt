@@ -1,0 +1,63 @@
+{
+  "episode_id": "02",
+  "episode_title": "宝黛钗初会荣庆堂",
+  "segment_id": "S09",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾政向王夫人通报薛家抵达消息",
+      "characters": ["贾政", "王夫人"],
+      "location": "贾府内室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾政阅读书信后告知王夫人，金陵薛姨妈全家已至宁荣街，即将抵达。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "薛家队伍经宁荣街行进至贾府",
+      "characters": ["薛蟠", "薛姨妈", "薛宝钗", "香菱"],
+      "location": "宁荣街",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "薛蟠骑马先行，薛姨妈、薛宝钗等人乘轿携行李经宁荣街前往贾府。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾府女眷列队等候迎接",
+      "characters": ["贾母", "王夫人", "赵姨娘", "众女眷"],
+      "location": "贾府庭院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾府女眷及丫鬟在庭院中整齐列队，等候薛家客人到来。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "薛姨妈与王夫人重逢寒暄",
+      "characters": ["薛姨妈", "王夫人", "薛宝钗"],
+      "location": "贾府庭院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "薛姨妈与王夫人相见，姐妹互道问候并携手步入府内。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "薛姨妈拜见贾母及宝钗请安",
+      "characters": ["薛姨妈", "贾母", "薛宝钗"],
+      "location": "贾府正堂",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "薛姨妈向贾母问安并互致问候，薛宝钗上前向贾母行礼请安。"
+    }
+  ]
+}

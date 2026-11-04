@@ -1,0 +1,51 @@
+{
+  "episode_id": "05",
+  "episode_title": "王熙凤毒设相思局",
+  "segment_id": "S04",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾瑞登门受茶",
+      "characters": [
+        "贾瑞",
+        "王熙凤",
+        "平儿"
+      ],
+      "location": "王熙凤房内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾瑞来到王熙凤住处，平儿引见后王熙凤命人奉茶接待。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "二人言语试探与调情",
+      "characters": [
+        "贾瑞",
+        "王熙凤"
+      ],
+      "location": "王熙凤房内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾瑞与王熙凤借闲聊互相试探，王熙凤假意逢迎夸赞，贾瑞趁机表达倾慕。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾瑞意图亲近与王熙凤暗设圈套",
+      "characters": [
+        "贾瑞",
+        "王熙凤"
+      ],
+      "location": "王熙凤房内",
+      "time_hint": null,
+      "explicit_time": "今儿晚上起了更",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾瑞欲动手亲近被王熙凤以白天不便为由推开，王熙凤顺势假意约定当晚起更后私会，贾瑞信以为真离去。"
+    }
+  ]
+}

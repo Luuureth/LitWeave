@@ -1,0 +1,97 @@
+{
+  "episode_id": "16",
+  "episode_title": "刘姥姥嬉游大观园",
+  "segment_id": "S09",
+  "event_count": 6,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾母带刘姥姥游栊翠庵",
+      "characters": [
+        "史太君",
+        "刘姥姥",
+        "妙玉"
+      ],
+      "location": "栊翠庵",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾母带刘姥姥等人来到栊翠庵，妙玉迎接，贾母进庵参观，刘姥姥因吃过酒肉被留在门外。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾母品饮老君眉",
+      "characters": [
+        "史太君",
+        "妙玉"
+      ],
+      "location": "栊翠庵",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "妙玉为贾母烹茶，贾母询问茶名与水源，品尝后评价茶味淡了些。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "妙玉邀黛玉宝钗吃茶",
+      "characters": [
+        "妙玉",
+        "林黛玉",
+        "薛宝钗",
+        "贾宝玉"
+      ],
+      "location": "栊翠庵",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "妙玉私下拉黛玉、宝钗去耳房喝体己茶，宝玉随后跟入。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "妙玉论茶道与水源",
+      "characters": [
+        "妙玉",
+        "林黛玉",
+        "薛宝钗",
+        "贾宝玉"
+      ],
+      "location": "栊翠庵",
+      "time_hint": "after",
+      "explicit_time": "五年前",
+      "relation_to_previous": "sequential",
+      "event_summary": "妙玉拿出珍贵茶具待客，宝玉因杯子小抱怨，妙玉解释所用之水为五年前收集的梅花雪水。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "宝玉为刘姥姥讨要茶杯",
+      "characters": [
+        "妙玉",
+        "贾宝玉"
+      ],
+      "location": "栊翠庵",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "妙玉嫌刘姥姥用过的成窑杯脏欲丢弃，宝玉建议送给刘姥姥，妙玉看在宝玉面子上同意。"
+    },
+    {
+      "event_id": "E06",
+      "narrative_order": 6,
+      "action": "宝玉嘱咐清洗坐处",
+      "characters": [
+        "贾宝玉",
+        "妙玉"
+      ],
+      "location": "栊翠庵",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众人告辞，宝玉嘱咐妙玉派人清洗刘姥姥坐过的地方，妙玉笑着答应。"
+    }
+  ]
+}

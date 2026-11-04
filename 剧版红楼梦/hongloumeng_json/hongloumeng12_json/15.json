@@ -1,0 +1,35 @@
+{
+  "episode_id": "12",
+  "episode_title": "埋香冢飞燕泣残红",
+  "segment_id": "S15",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "晴雯责备贾宝玉弄丢物品并乱送人情，随后离去",
+      "characters": [
+        "晴雯",
+        "贾宝玉"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "晴雯质问贾宝玉扇坠和汗巾子的去向，指责他乱拿自己的东西送人，随后贾宝玉躺下休息，晴雯生气离去。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "林黛玉对烛垂泪并提笔写诗",
+      "characters": [
+        "林黛玉"
+      ],
+      "location": "潇湘馆",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉在闺房中看着燃烧的蜡烛独自垂泪，随后提笔在纸上写下诗句。"
+    }
+  ]
+}

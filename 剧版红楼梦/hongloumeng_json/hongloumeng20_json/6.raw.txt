@@ -1,0 +1,43 @@
+```json
+{
+  "episode_id": "20",
+  "episode_title": "勇晴雯病补雀金裘",
+  "segment_id": "S06",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "香菱被叫去见外国美人",
+      "characters": ["香菱", "薛宝钗"],
+      "location": "房间",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "香菱正在写诗，被告知宝姐姐说园子里来了个会作诗的外国美人，便急忙赶去。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "众人调侃薛宝琴并让她念诗",
+      "characters": ["薛宝琴", "香菱", "薛宝钗"],
+      "location": "房间",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "薛宝琴被众人称为外国美人，大家起哄让她念诗助兴，薛宝琴随即念出诗句。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾宝玉赞赏薛宝琴的诗作",
+      "characters": ["贾宝玉", "薛宝琴"],
+      "location": "房间",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉听后大加赞赏，认为薛宝琴的诗作比自己这个中国人做的还要好。"
+    }
+  ]
+}
+```

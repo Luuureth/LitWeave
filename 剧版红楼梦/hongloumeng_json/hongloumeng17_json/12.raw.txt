@@ -1,0 +1,54 @@
+```json
+{
+  "episode_id": "17",
+  "episode_title": "变生不测凤姐泼醋",
+  "segment_id": "S12",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众人询问宝玉去向",
+      "characters": ["贾母", "王夫人", "丫头们"],
+      "location": "厅堂",
+      "time_hint": null,
+      "explicit_time": "今儿一早",
+      "relation_to_previous": "start",
+      "event_summary": "贾母与王夫人在厅堂内询问宝玉去向，得知宝玉一早外出祭奠故友"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉与茗烟骑马寻找香料",
+      "characters": ["宝玉", "茗烟"],
+      "location": "郊外小路",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉与茗烟骑马行进在郊外小路上，商议寻找香料和香炉进行祭奠"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "二人到达水仙庵",
+      "characters": ["宝玉", "茗烟"],
+      "location": "水仙庵",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉与茗烟到达水仙庵门口并骑马进入庵内"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "宝玉设香炉祭奠故人",
+      "characters": ["宝玉", "茗烟"],
+      "location": "水仙庵外",
+      "time_hint": "after",
+      "explicit_time": "今儿",
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉在水仙庵外墙边放置香炉进行祭奠，茗烟在旁协助并多言被宝玉制止后收拾香炉准备离开"
+    }
+  ]
+}
+```

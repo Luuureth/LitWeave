@@ -1,0 +1,71 @@
+```json
+{
+  "episode_id": "22",
+  "episode_title": "判冤决狱平儿行权",
+  "segment_id": "S07",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "五儿哭诉冤枉与玫瑰露流转回忆",
+      "characters": [
+        "五儿",
+        "平儿",
+        "袭人",
+        "芳官"
+      ],
+      "location": "下人房",
+      "time_hint": null,
+      "explicit_time": "天还早呢",
+      "relation_to_previous": "start",
+      "event_summary": "五儿因玫瑰露案被冤枉受委屈，平儿安慰她，并回忆了芳官赠露及五儿藏露的经过。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉向平儿透露真相并欲揽责",
+      "characters": [
+        "宝玉",
+        "平儿"
+      ],
+      "location": "宝玉房间",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉向平儿说明玫瑰露是自己让芳官送给五儿的，并表示愿意承担偷窃之名以保全他人。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "柳嫂子被撵出厨房",
+      "characters": [
+        "柳嫂子",
+        "秦显家的",
+        "管事婆子"
+      ],
+      "location": "厨房",
+      "time_hint": "after",
+      "explicit_time": "昨儿下黑",
+      "relation_to_previous": "sequential",
+      "event_summary": "因女儿五儿涉嫌偷窃，柳嫂子被撵出厨房，秦显家的接管了厨房钥匙。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "彩云认罪与宝玉最终揽责",
+      "characters": [
+        "宝玉",
+        "平儿",
+        "彩云",
+        "袭人"
+      ],
+      "location": "宝玉房间",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "彩云主动前来认罪称是受赵姨娘指使，平儿担心牵连探春，袭人建议由宝玉顶罪，宝玉最终答应。"
+    }
+  ]
+}
+```

@@ -1,0 +1,65 @@
+{
+  "episode_id": "12",
+  "episode_title": "埋香冢飞燕泣残红",
+  "segment_id": "S14",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "林黛玉在水边伫立伤感",
+      "characters": [
+        "林黛玉"
+      ],
+      "location": "花园水池边",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "夜晚，林黛玉独自在水边伫立，神情哀伤。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "薛宝钗探视贾宝玉并交谈",
+      "characters": [
+        "薛宝钗",
+        "贾宝玉"
+      ],
+      "location": "怡红院",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "薛宝钗来到贾宝玉房中，两人谈及宝玉拿了她家的东西以及宝钗推辞食物之事。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "晴雯拒绝为林黛玉开门",
+      "characters": [
+        "晴雯",
+        "林黛玉"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": "半夜三更",
+      "relation_to_previous": "sequential",
+      "event_summary": "晴雯在房外抱怨有人深夜打扰，随后拒绝为林黛玉开门，称宝玉吩咐不许放人进来。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "林黛玉听闻宝玉宝钗亲密后伤心离去",
+      "characters": [
+        "林黛玉",
+        "贾宝玉",
+        "薛宝钗",
+        "紫鹃"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉在门外听到贾宝玉与薛宝钗的亲密对话，又见两人送客出来，深受打击后由紫鹃搀扶伤心离去。"
+    }
+  ]
+}

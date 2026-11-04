@@ -1,0 +1,23 @@
+{
+  "episode_id": "08",
+  "episode_title": "荣国府归省庆元宵",
+  "segment_id": "S06",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "元春率仪仗步入正殿",
+      "characters": [
+        "元春",
+        "宫女",
+        "女官"
+      ],
+      "location": "省亲别墅",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "元春在宫女与女官簇拥下，神情庄重地步入省亲别墅正殿。"
+    }
+  ]
+}

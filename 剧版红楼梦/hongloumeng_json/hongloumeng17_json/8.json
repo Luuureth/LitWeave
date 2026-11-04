@@ -1,0 +1,35 @@
+{
+  "episode_id": "17",
+  "episode_title": "变生不测凤姐泼醋",
+  "segment_id": "S08",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "翻阅《牡丹亭》",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉在房中无聊躺卧后，拿起《牡丹亭》翻阅。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝钗劝学宝玉离去",
+      "characters": [
+        "贾宝玉",
+        "薛宝钗"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "薛宝钗进屋劝贾宝玉多在正经书上下功夫，贾宝玉不耐借口有事离开。"
+    }
+  ]
+}

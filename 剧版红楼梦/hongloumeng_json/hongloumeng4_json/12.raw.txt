@@ -1,0 +1,39 @@
+```json
+{
+  "episode_id": "04",
+  "episode_title": "探宝钗黛玉半含酸",
+  "segment_id": "S12",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾敬修炼及众人贺寿",
+      "characters": [
+        "贾敬",
+        "贾蓉",
+        "众人"
+      ],
+      "location": "铁槛寺",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾敬在铁槛寺修炼，正值寿辰，贾蓉率众人携礼前来贺寿。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾敬拒寿并问贾珍",
+      "characters": [
+        "贾敬",
+        "贾蓉"
+      ],
+      "location": "铁槛寺",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾敬拒绝回家过寿，吩咐贾蓉刊印《阴骘文》散人，并询问贾珍去向。"
+    }
+  ]
+}
+```

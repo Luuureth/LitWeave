@@ -1,0 +1,41 @@
+{
+  "episode_id": "09",
+  "episode_title": "意绵绵静日玉生香",
+  "segment_id": "S06",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉与袭人低声交谈并透露私藏好物",
+      "characters": ["贾宝玉", "袭人"],
+      "location": "袭人家",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉在袭人家中与其低声交谈，透露特意为她留了好东西，两人亲密耳语怕人听见。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "众丫鬟围观把玩宝玉拿出的物件",
+      "characters": ["贾宝玉", "袭人", "丫鬟们"],
+      "location": "袭人家",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉拿出物件让袭人及众丫鬟围观，众人把玩后赞叹好看好玩，场面热闹。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "袭人家属催促宝玉离去并打点下人",
+      "characters": ["袭人", "贾宝玉", "茗烟", "袭人家属"],
+      "location": "袭人家",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "袭人及家属担心惹事催促宝玉回去，并拿钱物打点茗烟等人叮嘱保密，随后送客。"
+    }
+  ]
+}

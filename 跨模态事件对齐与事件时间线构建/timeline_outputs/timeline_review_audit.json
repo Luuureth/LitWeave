@@ -1,0 +1,385 @@
+[
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00126",
+    "status": "ok",
+    "batch_index": 1,
+    "decision": "aligned",
+    "best_timeline_id": "TL007",
+    "confidence": 0.98,
+    "reason": "文本与视频完整覆盖第四回贾雨村补授应天府、门子献护官符、薛蟠抢英莲打死冯渊及雨村徇私枉法核心情节，与TL007高度一致。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00067",
+    "status": "ok",
+    "batch_index": 1,
+    "decision": "aligned",
+    "best_timeline_id": "TL030",
+    "confidence": 0.99,
+    "reason": "事件精准对应第二十七回芒种节宝钗扑蝶至滴翠亭、偷听小红坠儿私语并以金蝉脱壳之计假唤黛玉，完全契合TL030。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00092",
+    "status": "ok",
+    "batch_index": 1,
+    "decision": "aligned",
+    "best_timeline_id": "TL058",
+    "confidence": 0.95,
+    "reason": "展现第四十八回香菱入园拜黛玉为师、苦读诗集并痴迷吟诗至梦中得句的全过程，与TL058冬季学诗设定吻合。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00086",
+    "status": "ok",
+    "batch_index": 1,
+    "decision": "aligned",
+    "best_timeline_id": "TL060",
+    "confidence": 0.98,
+    "reason": "完整还原第五十二回宝玉雀金裘被烧坏、晴雯不顾病体彻夜以孔雀金线织补的核心情节，与TL060完全对应。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00085",
+    "status": "ok",
+    "batch_index": 1,
+    "decision": "aligned",
+    "best_timeline_id": "TL034",
+    "confidence": 0.92,
+    "reason": "聚焦第三十回宝玉午休挑逗金钏致王夫人盛怒撵出，此为金钏投井与后续宝玉挨打的直接起因，叙事核心归属TL034。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00003",
+    "status": "ok",
+    "batch_index": 1,
+    "decision": "aligned",
+    "best_timeline_id": "TL054",
+    "confidence": 0.88,
+    "reason": "文本与视频展现第四十五回宝钗探病赠燕窝、二人互剖心迹结金兰契及宝玉雨夜探视，学理上该回事件整体归入TL054。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00004",
+    "status": "ok",
+    "batch_index": 1,
+    "decision": "aligned",
+    "best_timeline_id": "TL054",
+    "confidence": 0.7,
+    "reason": "规范事件名与文本摘要明确指向第四十五回金兰契与风雨夕情节，虽视频摘要混杂第二十二回争吵片段，但依据核心命名与文本主线仍归入TL054。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00005",
+    "status": "ok",
+    "batch_index": 1,
+    "decision": "aligned",
+    "best_timeline_id": "TL054",
+    "confidence": 0.9,
+    "reason": "视频精准呈现第四十五回宝玉披蓑探黛玉、互赠绣球灯及黛玉病中作诗的典型场景，与TL054所述九月互剖金兰语事件高度一致。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00093",
+    "status": "ok",
+    "batch_index": 2,
+    "decision": "aligned",
+    "best_timeline_id": "TL058",
+    "confidence": 0.95,
+    "reason": "事件名与文本视频摘要均聚焦第四十八至四十九回香菱向黛玉学诗及呈递诗作，与TL058所述冬季苦学作诗完全对应。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00088",
+    "status": "ok",
+    "batch_index": 2,
+    "decision": "aligned",
+    "best_timeline_id": "TL060",
+    "confidence": 0.9,
+    "reason": "视频展现延医问药场景，为第五十二回晴雯病补雀金裘的直接前置铺垫，学理上统归入TL060冬季事件范畴。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00066",
+    "status": "ok",
+    "batch_index": 2,
+    "decision": "aligned",
+    "best_timeline_id": "TL036",
+    "confidence": 0.9,
+    "reason": "文本所述宝玉踢伤袭人为事件起因，视频呈现夜归互动，两者连贯构成第三十一回撕扇情节前奏，归属TL036。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00089",
+    "status": "ok",
+    "batch_index": 2,
+    "decision": "aligned",
+    "best_timeline_id": "TL060",
+    "confidence": 0.85,
+    "reason": "视频平儿掩埋虾须镯失窃与文本撵坠儿情节同属第五十二回并行叙事，与病补雀金裘为该章整体事件，应归TL060。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00087",
+    "status": "ok",
+    "batch_index": 2,
+    "decision": "aligned",
+    "best_timeline_id": "TL060",
+    "confidence": 0.98,
+    "reason": "视频直呈晴雯深夜带病熬夜缝补雀金裘的核心画面，与TL060所述情节高度一致，归属明确。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00051",
+    "status": "ok",
+    "batch_index": 2,
+    "decision": "aligned",
+    "best_timeline_id": "TL036",
+    "confidence": 0.97,
+    "reason": "文本交代袭人受伤起因，视频完整展现跌扇撕扇取乐高潮，前后连贯对应第三十一回撕扇作千金一笑，匹配TL036。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00027",
+    "status": "ok",
+    "batch_index": 2,
+    "decision": "unmatched",
+    "best_timeline_id": "",
+    "confidence": 0.3,
+    "reason": "事件名与视频指向第四十五回风雨词情节，文本却指向第十六回贾琏南返，候选时间线无对应秋季或第四十五回条目，无法可靠归属。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00028",
+    "status": "ok",
+    "batch_index": 2,
+    "decision": "unmatched",
+    "best_timeline_id": "",
+    "confidence": 0.25,
+    "reason": "事件名、文本与视频分别指向第四十五、十六与二十二回内容，跨模态信息存在严重章节冲突，候选时间线均无合理匹配项。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00029",
+    "status": "ok",
+    "batch_index": 3,
+    "decision": "unmatched",
+    "best_timeline_id": "",
+    "confidence": 0.15,
+    "reason": "场景为第四十五回秋雨夕宝玉探视赠玻璃灯情节，候选时间线均指向其他季节或章节事件，无对应条目。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00011",
+    "status": "ok",
+    "batch_index": 3,
+    "decision": "aligned",
+    "best_timeline_id": "TL054",
+    "confidence": 0.95,
+    "reason": "视频展现宝钗送燕窝及二人互剖心迹情节，属第四十五回风雨夕事件的前半部分核心，与TL054完全吻合。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00012",
+    "status": "ok",
+    "batch_index": 3,
+    "decision": "unmatched",
+    "best_timeline_id": "",
+    "confidence": 0.15,
+    "reason": "视频描述第二十二回宝玉因戏曲与黛玉生隙及参禅情节，候选条目均为其他章节事件，无合理对应。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00013",
+    "status": "ok",
+    "batch_index": 3,
+    "decision": "unmatched",
+    "best_timeline_id": "",
+    "confidence": 0.15,
+    "reason": "场景明确为第四十五回秋雨夕赠灯探视情节，候选时间线均指向其他节点，无法可靠匹配。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00054",
+    "status": "ok",
+    "batch_index": 3,
+    "decision": "aligned",
+    "best_timeline_id": "TL036",
+    "confidence": 0.95,
+    "reason": "视频展现的宝玉篦头与晴雯调侃是第三十一回撕扇事件的直接前奏与同回情节，明确归属该条目。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00036",
+    "status": "ok",
+    "batch_index": 3,
+    "decision": "aligned",
+    "best_timeline_id": "TL031",
+    "confidence": 0.9,
+    "reason": "所述闭门误会化解是触发第二十七回黛玉葬花泣残红的核心前因，情节脉络与TL031一致。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00072",
+    "status": "ok",
+    "batch_index": 3,
+    "decision": "unmatched",
+    "best_timeline_id": "",
+    "confidence": 0.15,
+    "reason": "视频实为第四十三回贾府凑份子为凤姐庆生情节，与事件名称及候选时间线严重错位，无法匹配。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00037",
+    "status": "ok",
+    "batch_index": 3,
+    "decision": "aligned",
+    "best_timeline_id": "TL031",
+    "confidence": 0.95,
+    "reason": "明确展现芒种节祭饯花神与黛玉收集落花场景，正是第二十七回埋香冢泣残红标准情节，对应TL031。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00129",
+    "status": "ok",
+    "batch_index": 4,
+    "decision": "aligned",
+    "best_timeline_id": "TL012",
+    "confidence": 0.95,
+    "reason": "规范事件名与文本、视频摘要均精准对应第十二回贾瑞中计受辱及凤姐敷衍配药情节，TL012为标准时间线条目。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00031",
+    "status": "ok",
+    "batch_index": 4,
+    "decision": "aligned",
+    "best_timeline_id": "TL016",
+    "confidence": 0.76,
+    "reason": "文本摘要明确描述贾琏护送黛玉返京及处理诸事，系林如海病故后的直接后续，虽事件名标注有异，但叙事核心与TL016完全吻合。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00073",
+    "status": "ok",
+    "batch_index": 4,
+    "decision": "aligned",
+    "best_timeline_id": "TL016",
+    "confidence": 0.72,
+    "reason": "文本摘要“护送黛玉登舟返回扬州”直指林如海病重探视情节，与TL016时间线高度一致；视频元宵宴为跨模态错位，依文本核心情节归属。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00055",
+    "status": "ok",
+    "batch_index": 4,
+    "decision": "aligned",
+    "best_timeline_id": "TL036",
+    "confidence": 0.92,
+    "reason": "事件名与TL036完全一致，文本所述袭人吐血请医为第三十一回撕扇事件的紧密前奏，在学理上同属该回目叙事单元。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00063",
+    "status": "ok",
+    "batch_index": 4,
+    "decision": "aligned",
+    "best_timeline_id": "TL036",
+    "confidence": 0.93,
+    "reason": "文本描述宝玉雨中误踢袭人致吐血，系第三十一回核心前情，与“晴雯撕扇”处于同一章回叙事脉络，TL036为最准确归属。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00016",
+    "status": "ok",
+    "batch_index": 4,
+    "decision": "aligned",
+    "best_timeline_id": "TL031",
+    "confidence": 0.8,
+    "reason": "文本标注章回及候选线索均指向第二十七回，TL031对应花冢悲吟与《葬花吟》情节，为该阶段最匹配时间线。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00018",
+    "status": "ok",
+    "batch_index": 4,
+    "decision": "aligned",
+    "best_timeline_id": "TL031",
+    "confidence": 0.85,
+    "reason": "视频片名直接标明“埋香冢飞燕泣残红”，结合黛玉水边哀伤画面，共同指向第二十七回葬花吟诗情节，TL031为最优解。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00038",
+    "status": "ok",
+    "batch_index": 4,
+    "decision": "aligned",
+    "best_timeline_id": "TL025",
+    "confidence": 0.88,
+    "reason": "规范事件名“黛玉葬花”在红学版本中首指第二十三回沁芳桥畔初次葬花，TL025明确收录该情节及共读西厢，归属最为确切。"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00057",
+    "status": "error",
+    "batch_index": 5,
+    "error": "LLM 调用失败: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/services/aigc/multimodal-generation/generation (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x0000023C6581DE20>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00024",
+    "status": "error",
+    "batch_index": 5,
+    "error": "LLM 调用失败: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/services/aigc/multimodal-generation/generation (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x0000023C6581DE20>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00026",
+    "status": "error",
+    "batch_index": 5,
+    "error": "LLM 调用失败: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/services/aigc/multimodal-generation/generation (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x0000023C6581DE20>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00065",
+    "status": "error",
+    "batch_index": 5,
+    "error": "LLM 调用失败: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/services/aigc/multimodal-generation/generation (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x0000023C6581DE20>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00032",
+    "status": "error",
+    "batch_index": 5,
+    "error": "LLM 调用失败: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/services/aigc/multimodal-generation/generation (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x0000023C6581DE20>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00076",
+    "status": "error",
+    "batch_index": 5,
+    "error": "LLM 调用失败: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/services/aigc/multimodal-generation/generation (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x0000023C6581DE20>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00034",
+    "status": "error",
+    "batch_index": 5,
+    "error": "LLM 调用失败: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/services/aigc/multimodal-generation/generation (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x0000023C6581DE20>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00074",
+    "status": "error",
+    "batch_index": 5,
+    "error": "LLM 调用失败: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/services/aigc/multimodal-generation/generation (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x0000023C6581DE20>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 11001] getaddrinfo failed)\"))"
+  },
+  {
+    "type": "timeline_review",
+    "link_id": "SCL_00002",
+    "status": "error",
+    "batch_index": 6,
+    "error": "LLM 调用失败: HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/services/aigc/multimodal-generation/generation (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x0000023C6581D640>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 11001] getaddrinfo failed)\"))"
+  }
+]

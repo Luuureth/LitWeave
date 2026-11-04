@@ -1,0 +1,52 @@
+{
+  "episode_id": "15",
+  "episode_title": "弄唇舌宝玉遭笞挞",
+  "segment_id": "S01",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾环被贾政拦住质问",
+      "characters": ["贾环", "贾政"],
+      "location": "贾府院子",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾环从院子里跑出来被贾政拦住，贾环解释是因为看到井里捞出淹死的丫头害怕所以跑了。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾环诬告宝玉",
+      "characters": ["贾环", "贾政", "宝玉", "金钏"],
+      "location": "贾府院子",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾环告诉贾政，听母亲说宝玉在太太屋里拉着金钏要强奸，母亲知道后打了金钏，金钏赌气跳井死了。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾政愤怒要惩罚宝玉",
+      "characters": ["贾政", "下人"],
+      "location": "贾政房间",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾政听了很生气，让下人去拿宝玉来，说要出家，让关上门不让报信。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "宝玉遇到老妇人",
+      "characters": ["宝玉", "老妇人"],
+      "location": "贾府院子",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉跑出来遇到一个老妇人，让老妇人快去叫人，说老爷要打他，老妇人听不清，宝玉解释是因为跳井的事。"
+    }
+  ]
+}

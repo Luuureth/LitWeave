@@ -1,0 +1,81 @@
+```json
+{
+  "episode_id": "16",
+  "episode_title": "刘姥姥嬉游大观园",
+  "segment_id": "S07",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宣布规则并拉住刘姥姥",
+      "characters": [
+        "鸳鸯",
+        "刘姥姥",
+        "王熙凤"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "鸳鸯宣布行骨牌酒令的规则，王熙凤等人拉住想回家的刘姥姥参与。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾母行酒令",
+      "characters": [
+        "贾母",
+        "众人"
+      ],
+      "location": "室内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母按规则行骨牌酒令，凑成“蓬头鬼”的名目，众人称赞。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "鸳鸯行酒令",
+      "characters": [
+        "鸳鸯"
+      ],
+      "location": "室内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "鸳鸯行骨牌酒令，用诗词解说牌面。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "刘姥姥行酒令",
+      "characters": [
+        "刘姥姥",
+        "众人"
+      ],
+      "location": "室内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "刘姥姥行骨牌酒令，用庄稼俗语解说牌面，引得众人大笑。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "刘姥姥被罚喝酒",
+      "characters": [
+        "刘姥姥",
+        "王熙凤",
+        "鸳鸯"
+      ],
+      "location": "室内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤等人劝罚刘姥姥喝酒，刘姥姥无奈饮下一大杯。"
+    }
+  ]
+}
+```

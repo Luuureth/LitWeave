@@ -1,0 +1,49 @@
+{
+  "episode_id": "12",
+  "episode_title": "埋香冢飞燕泣残红",
+  "segment_id": "S11",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "紫鹃与黛玉闺房对话",
+      "characters": [
+        "紫鹃",
+        "林黛玉"
+      ],
+      "location": "闺房",
+      "time_hint": "background",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "紫鹃向黛玉提及宝玉方才被老爷传唤后惊慌离去的情形。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宴席饮酒听曲",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "宴席",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众人在宴席上饮酒吃菜，一男子邀歌女弹奏新鲜曲儿助兴。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "歌女弹唱与众人互动",
+      "characters": [
+        "贾宝玉",
+        "蒋玉菡"
+      ],
+      "location": "宴席",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "歌女弹唱描写私订幽会的曲词，宾客喝彩劝酒，宝玉与蒋玉菡在席间聆听。"
+    }
+  ]
+}

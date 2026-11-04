@@ -1,0 +1,130 @@
+{
+  "episode_id": "12",
+  "episode_title": "埋香冢飞燕泣残红",
+  "segment_id": "S08",
+  "event_count": 8,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王熙凤与李纨进屋坐下，小红进屋奉茶",
+      "characters": [
+        "王熙凤",
+        "李纨",
+        "小红"
+      ],
+      "location": "屋内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤与李纨进屋坐下，小红进来给二人奉茶。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "小红向王熙凤回话，汇报平儿处理家务事宜",
+      "characters": [
+        "王熙凤",
+        "李纨",
+        "小红",
+        "平儿",
+        "旺儿"
+      ],
+      "location": "屋内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "小红向王熙凤回话，汇报平儿给张财家银子并打发旺儿的事宜。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "小红转述平儿关于五奶奶、舅奶奶及寻药的长段话语",
+      "characters": [
+        "王熙凤",
+        "李纨",
+        "小红",
+        "平儿"
+      ],
+      "location": "屋内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "小红口齿伶俐地转述平儿关于五奶奶、舅奶奶问好及寻找延年神验万全丹的长段话语。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "李纨与王熙凤称赞小红口齿伶俐",
+      "characters": [
+        "王熙凤",
+        "李纨",
+        "小红"
+      ],
+      "location": "屋内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "李纨和王熙凤称赞小红口齿伶俐、说话齐全，李纨表示听不懂其中的亲戚称呼。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "王熙凤玩笑要认小红作女儿，小红笑称奶奶认错了辈数",
+      "characters": [
+        "王熙凤",
+        "小红"
+      ],
+      "location": "屋内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤喜爱小红，开玩笑要认她作女儿，小红笑称奶奶认错了辈数，说自己的妈妈才是您的女儿。"
+    },
+    {
+      "event_id": "E06",
+      "narrative_order": 6,
+      "action": "李纨点出小红身份，王熙凤感叹其父母木讷却生出伶俐女儿",
+      "characters": [
+        "王熙凤",
+        "李纨",
+        "小红",
+        "林之孝"
+      ],
+      "location": "屋内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "李纨告知王熙凤小红是林之孝的女儿，王熙凤感叹其父母木讷却生出如此伶俐的丫头。"
+    },
+    {
+      "event_id": "E07",
+      "narrative_order": 7,
+      "action": "王熙凤问小红是否愿意跟随自己，小红表示愿意",
+      "characters": [
+        "王熙凤",
+        "小红"
+      ],
+      "location": "屋内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤问小红是否愿意跟自己，小红谦卑地表示愿意跟随奶奶学习见识。"
+    },
+    {
+      "event_id": "E08",
+      "narrative_order": 8,
+      "action": "丫鬟来请王熙凤，王熙凤离开并嘱咐明日将小红调来身边",
+      "characters": [
+        "王熙凤",
+        "李纨",
+        "小红"
+      ],
+      "location": "屋内",
+      "time_hint": "after",
+      "explicit_time": "明儿",
+      "relation_to_previous": "sequential",
+      "event_summary": "丫鬟来请王熙凤过去，王熙凤起身离开，并嘱咐小红先回去，说明日跟宝玉说换了她来。"
+    }
+  ]
+}

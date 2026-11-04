@@ -1,0 +1,52 @@
+{
+  "episode_id": "14",
+  "episode_title": "含耻辱情烈死金钏",
+  "segment_id": "S10",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "寻找并找回金麒麟",
+      "characters": [
+        "贾宝玉",
+        "史湘云"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉发现丢失金麒麟十分焦急，史湘云拿出金麒麟，贾宝玉表示此物比官印更重要。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "争论仕途经济",
+      "characters": [
+        "贾宝玉",
+        "史湘云",
+        "贾雨村"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "丫鬟通报贾雨村来访，史湘云劝贾宝玉会客谈论仕途经济，贾宝玉大怒并夸赞林黛玉。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "黛玉窗外听音",
+      "characters": [
+        "林黛玉",
+        "贾宝玉",
+        "薛宝钗"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉在窗外听到贾宝玉的话，深受感动，确认贾宝玉是自己的知己，并感慨何必有金玉之论。"
+    }
+  ]
+}

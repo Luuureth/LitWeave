@@ -1,0 +1,64 @@
+{
+  "episode_id": "05",
+  "episode_title": "王熙凤毒设相思局",
+  "segment_id": "S16",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾琏让平儿收拾行装并告知行程",
+      "characters": [
+        "贾琏",
+        "平儿"
+      ],
+      "location": "荣国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾琏让平儿帮忙收拾，并告知因林如海病重需送林黛玉回扬州。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "王熙凤奉茶并询问归期",
+      "characters": [
+        "王熙凤",
+        "贾琏"
+      ],
+      "location": "荣国府",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤给贾琏端茶，询问行程时长，贾琏表示视林如海病情而定。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾琏提及贾瑞病危并索要人参",
+      "characters": [
+        "贾琏",
+        "王熙凤"
+      ],
+      "location": "荣国府",
+      "time_hint": "same_time",
+      "explicit_time": "一清早",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾琏转述贾瑞病危需独参汤，让王熙凤称二两参送去。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "王熙凤推脱无人参并建议他去别处寻找",
+      "characters": [
+        "王熙凤",
+        "贾琏"
+      ],
+      "location": "荣国府",
+      "time_hint": "same_time",
+      "explicit_time": "前儿, 昨儿",
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤解释人参已用完或送人，建议贾琏去大太太或东府寻找，并言语讥讽。"
+    }
+  ]
+}

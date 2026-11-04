@@ -1,0 +1,34 @@
+{
+  "episode_id": "05",
+  "episode_title": "王熙凤毒设相思局",
+  "segment_id": "S13",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "仆人推车送病重贾瑞夜归入宅",
+      "characters": [
+        "贾瑞"
+      ],
+      "location": "街巷",
+      "time_hint": "background",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "仆人推车护送病重的贾瑞穿过昏暗街巷返回宅邸，随后挂衣入内。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "祖父母床前照顾谵语病榻的贾瑞并喂药",
+      "characters": [
+        "贾瑞"
+      ],
+      "location": "荣国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾瑞卧床大汗谵语表达求生意愿，祖父母床前擦拭安抚并喂服汤药，贾瑞饮药后昏睡，祖父母忧心离去。"
+    }
+  ]
+}

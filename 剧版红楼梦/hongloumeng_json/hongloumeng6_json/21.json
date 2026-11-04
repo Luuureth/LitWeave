@@ -1,0 +1,49 @@
+{
+  "episode_id": "06",
+  "episode_title": "王熙凤协理宁国府",
+  "segment_id": "S21",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众人礼佛与凤姐休息",
+      "characters": [
+        "王熙凤"
+      ],
+      "location": "馒头庵",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "众人在水月庵佛像前上香礼拜，随后王熙凤在房内更衣休息。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "净虚讲述婚约纠纷求助",
+      "characters": [
+        "净虚",
+        "王熙凤"
+      ],
+      "location": "馒头庵",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "净虚向王熙凤讲述张财主家女儿金哥被李衙内强求婚约、与守备家产生纠纷的经过，请求王熙凤找长安节度使云光帮忙退婚。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "凤姐揽事并索要三千两银子",
+      "characters": [
+        "王熙凤",
+        "净虚"
+      ],
+      "location": "馒头庵",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤表示不信阴司报应，答应利用关系帮忙退婚，但要求张家出三千两银子作为打点费用，净虚感激奉承。"
+    }
+  ]
+}

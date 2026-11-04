@@ -1,0 +1,22 @@
+{
+  "episode_id": "05",
+  "episode_title": "王熙凤毒设相思局",
+  "segment_id": "S06",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "议论并咒骂东府男子非分之想",
+      "characters": [
+        "王熙凤",
+        "平儿"
+      ],
+      "location": "王熙凤房中",
+      "time_hint": null,
+      "explicit_time": "那天",
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤提及在东府遇人起歹念，平儿听后愤然咒骂对方癞蛤蟆想吃天鹅肉并不得好死。"
+    }
+  ]
+}

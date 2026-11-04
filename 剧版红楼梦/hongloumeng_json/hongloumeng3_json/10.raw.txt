@@ -1,0 +1,54 @@
+```json
+{
+  "episode_id": "03",
+  "episode_title": "刘姥姥一进荣国府",
+  "segment_id": "S10",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "女眷打牌议论焦大",
+      "characters": [
+        "王熙凤",
+        "尤氏",
+        "秦可卿"
+      ],
+      "location": "宁国府内室",
+      "time_hint": "background",
+      "explicit_time": "今儿",
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤、尤氏等人打牌时，议论派焦大送秦钟一事，王熙凤嫌焦大醉酒无礼，建议将其打发到庄子上。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "焦大醉骂被堵嘴",
+      "characters": [
+        "焦大",
+        "贾蓉",
+        "仆人"
+      ],
+      "location": "宁国府门外",
+      "time_hint": "after",
+      "explicit_time": "黑更半夜",
+      "relation_to_previous": "sequential",
+      "event_summary": "焦大醉酒痛骂贾府忘恩负义并揭露丑事，贾蓉命人将其捆绑，仆人用土和马粪堵住焦大的嘴。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "凤姐斥责宝玉",
+      "characters": [
+        "王熙凤",
+        "贾宝玉"
+      ],
+      "location": "马车内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤与贾宝玉同车离开，宝玉询问焦大喊的“爬灰”之意，王熙凤厉声斥责不许乱问。"
+    }
+  ]
+}
+```

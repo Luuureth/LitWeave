@@ -1,0 +1,65 @@
+{
+  "episode_id": "14",
+  "episode_title": "含耻辱情烈死金钏",
+  "segment_id": "S09",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "丫鬟听闻史湘云到来并互相告知前往迎接",
+      "characters": [
+        "丫鬟"
+      ],
+      "location": "庭院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "丫鬟们听闻史湘云到来，互相告知并急切前往迎接。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "史湘云与翠缕谈论阴阳并拾得金麒麟",
+      "characters": [
+        "史湘云",
+        "翠缕"
+      ],
+      "location": "园中小径",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "史湘云与丫鬟翠缕在园中漫步谈论阴阳之说，随后拾得一只金麒麟并互相辨认。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾宝玉遇见史湘云并邀其同行",
+      "characters": [
+        "贾宝玉",
+        "史湘云",
+        "翠缕"
+      ],
+      "location": "园中小径",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉寻至园中遇见史湘云与翠缕，寒暄过后邀二人一同去见袭人。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "林黛玉暗中注视贾宝玉与史湘云同行离去",
+      "characters": [
+        "林黛玉",
+        "贾宝玉",
+        "史湘云"
+      ],
+      "location": "园中廊下",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉在廊下暗中注视贾宝玉与史湘云同行过桥离去，独自倚柱神情落寞。"
+    }
+  ]
+}

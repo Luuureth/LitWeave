@@ -1,0 +1,70 @@
+```json
+{
+  "episode_id": "15",
+  "episode_title": "弄唇舌宝玉遭笞挞",
+  "segment_id": "S10",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "南院走水引发惊慌，王熙凤报火已扑灭",
+      "characters": [
+        "贾母",
+        "王熙凤",
+        "众女眷"
+      ],
+      "location": "贾母房中",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "南院马棚走水引发众人惊慌，贾母受惊，随后王熙凤赶来报信称火已扑灭。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾母归咎抽柴禾惹火，刘姥姥改口讲故事",
+      "characters": [
+        "贾母",
+        "刘姥姥",
+        "宝玉"
+      ],
+      "location": "贾母房中",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母认为是刘姥姥讲“抽柴禾”的故事惹了火，禁止再讲，刘姥姥赶紧改口讲“烧香得孙”的故事。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "刘姥姥讲老奶奶拜佛得孙子的故事",
+      "characters": [
+        "刘姥姥",
+        "贾母"
+      ],
+      "location": "贾母房中",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "刘姥姥讲述村里老奶奶诚心拜佛感动菩萨得孙子的故事，贾母听罢深信神佛并感到高兴。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "宝玉论女孩与贾母做东留客",
+      "characters": [
+        "宝玉",
+        "刘姥姥",
+        "贾母",
+        "众女眷"
+      ],
+      "location": "贾母房中",
+      "time_hint": "after",
+      "explicit_time": "明天",
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉插话认为生女孩好被斥责，刘姥姥机智圆场，贾母心情大好决定做东办诗社并挽留刘姥姥。"
+    }
+  ]
+}
+```

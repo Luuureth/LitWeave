@@ -1,0 +1,66 @@
+{
+  "episode_id": "22",
+  "episode_title": "判冤决狱平儿行权",
+  "segment_id": "S02",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "春燕拒洗衣物并顶撞何婆子",
+      "characters": [
+        "春燕",
+        "何婆子"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "春燕在水边拒绝洗衣并抱怨待遇不公，遭到何婆子责骂。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "芳官被迫洗衣并遭何婆子打骂",
+      "characters": [
+        "芳官",
+        "何婆子"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "芳官被何婆子强行按着洗衣洗头，因抱怨偏心而遭打骂。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宝玉出面指责何婆子处事不公",
+      "characters": [
+        "贾宝玉",
+        "袭人"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉在廊下目睹争执，认为何婆子偏心贪财，嘱咐袭人多照管芳官。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "众丫鬟出面理论并斥责何婆子",
+      "characters": [
+        "何婆子",
+        "贾宝玉",
+        "麝月",
+        "袭人"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "袭人与麝月先后出面理论，指出何婆子克扣月钱还打人的过错，宝玉怒言要撵人，何婆子理屈低头。"
+    }
+  ]
+}

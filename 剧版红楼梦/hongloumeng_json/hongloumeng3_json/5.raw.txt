@@ -1,0 +1,83 @@
+```json
+{
+  "episode_id": "03",
+  "episode_title": "刘姥姥一进荣国府",
+  "segment_id": "S05",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "刘姥姥提及贾蓉",
+      "characters": [
+        "刘姥姥",
+        "板儿",
+        "王熙凤"
+      ],
+      "location": "王熙凤房内",
+      "time_hint": "background",
+      "explicit_time": "今儿",
+      "relation_to_previous": "start",
+      "event_summary": "刘姥姥向王熙凤提及东府的小蓉大爷来了。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾蓉借玻璃炕屏",
+      "characters": [
+        "贾蓉",
+        "王熙凤",
+        "刘姥姥",
+        "板儿"
+      ],
+      "location": "王熙凤房内",
+      "time_hint": "after",
+      "explicit_time": "明日",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾蓉进屋向王熙凤借玻璃炕屏以招待明日的重要客人。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "王熙凤吩咐平儿",
+      "characters": [
+        "王熙凤",
+        "平儿"
+      ],
+      "location": "王熙凤房内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤吩咐平儿拿钥匙并派人去抬玻璃炕屏。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "贾蓉道谢离去",
+      "characters": [
+        "贾蓉",
+        "王熙凤"
+      ],
+      "location": "王熙凤房内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾蓉向王熙凤道谢并表示会亲自带人去取，随后离开。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "王熙凤叫回贾蓉",
+      "characters": [
+        "王熙凤",
+        "贾蓉"
+      ],
+      "location": "王熙凤房内",
+      "time_hint": "after",
+      "explicit_time": "晚饭后",
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤叫回贾蓉，因房中有人且自己疲倦，让他晚饭后再来。"
+    }
+  ]
+}
+```

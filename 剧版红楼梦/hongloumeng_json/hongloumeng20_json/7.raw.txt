@@ -1,0 +1,66 @@
+{
+  "episode_id": "20",
+  "episode_title": "勇晴雯病补雀金裘",
+  "segment_id": "S07",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "交谈病情与袭人归期",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "游廊",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "宝玉与黛玉在游廊交谈，询问袭人归期并关切黛玉夜间咳嗽与睡眠情况。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "赐予雀金裘并叮嘱",
+      "characters": [
+        "贾母",
+        "贾宝玉"
+      ],
+      "location": "贾母房中",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母将俄罗斯国进贡的雀金裘赐给宝玉，并叮嘱其仔细穿着以免糟蹋。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "病中怒斥坠儿并命撵人",
+      "characters": [
+        "晴雯",
+        "坠儿",
+        "麝月"
+      ],
+      "location": "卧室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "晴雯病卧在床，因不满大夫用药及丫鬟怠慢，怒斥坠儿偷懒偷窃，并执意要将其撵出府去。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "劝解安抚并带人离开",
+      "characters": [
+        "麝月",
+        "晴雯",
+        "坠儿"
+      ],
+      "location": "卧室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "麝月劝慰刚出完汗的晴雯勿要动气，随后遵命带坠儿离开房间。"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "episode_id": "19",
+  "episode_title": "琉璃世界白雪红梅",
+  "segment_id": "S09",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "邢夫人说明带侄女邢岫烟进京原因并请求暂住",
+      "characters": [
+        "邢夫人",
+        "史太君",
+        "邢岫烟"
+      ],
+      "location": "贾府厅堂",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "邢夫人向贾母说明因家中艰难带侄女邢岫烟进京投奔，请求让岫烟在园中暂住，贾母同意。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "王熙凤提议岫烟与迎春同住",
+      "characters": [
+        "王熙凤",
+        "史太君",
+        "邢岫烟",
+        "贾迎春"
+      ],
+      "location": "贾府厅堂",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤提议让邢岫烟与迎春同住一处，贾母表示同意。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "史湘云来到贾府与姐妹们相见",
+      "characters": [
+        "史湘云",
+        "贾探春",
+        "贾惜春"
+      ],
+      "location": "贾府厅堂",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "史湘云来到贾府，与探春、惜春等姐妹相见。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "贾母决定留下史湘云",
+      "characters": [
+        "史太君",
+        "史湘云",
+        "史鼎"
+      ],
+      "location": "贾府厅堂",
+      "time_hint": "after",
+      "explicit_time": "不日",
+      "relation_to_previous": "sequential",
+      "event_summary": "因史鼎老爷将迁委外省大员不日带家眷上任，贾母舍不得史湘云，决定将她留下接来家中。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "史湘云表示想与宝钗同住",
+      "characters": [
+        "史湘云",
+        "史太君",
+        "薛宝钗"
+      ],
+      "location": "贾府厅堂",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "史湘云表示不想一个人住，想与宝姐姐住在一起，贾母同意。"
+    }
+  ]
+}

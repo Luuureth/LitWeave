@@ -1,0 +1,52 @@
+{
+  "episode_id": "14",
+  "episode_title": "含耻辱情烈死金钏",
+  "segment_id": "S07",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "林黛玉打趣薛宝钗哭泣",
+      "characters": ["林黛玉", "薛宝钗"],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": "大节下",
+      "relation_to_previous": "start",
+      "event_summary": "林黛玉见薛宝钗哭泣，以争粽子和夫妻拌嘴打趣，薛宝钗出言劝阻。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "林黛玉与贾宝玉互开玩笑表露心迹",
+      "characters": ["林黛玉", "贾宝玉", "薛宝钗"],
+      "location": "室内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉向贾宝玉表露心迹称对方死自己会哭死，贾宝玉回应若黛玉死自己便去做和尚，二人笑作一团。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "丫鬟传话薛蟠请酒与薛宝钗劝行",
+      "characters": ["丫鬟", "贾宝玉", "薛宝钗", "林黛玉"],
+      "location": "室内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "绿衣丫鬟传话薛蟠请贾宝玉赴宴吃酒，贾宝玉推病不去，薛宝钗劝其前往散心，贾宝玉遂随薛宝钗离开。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "林黛玉感叹薛宝钗真心与贾宝玉回望",
+      "characters": ["林黛玉", "丫鬟", "贾宝玉"],
+      "location": "室内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉与丫鬟留在房内，黛玉感叹宝姐姐真心，贾宝玉在门口回望后离去，黛玉与丫鬟相视。"
+    }
+  ]
+}

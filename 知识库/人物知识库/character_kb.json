@@ -1,0 +1,701 @@
+[
+  {
+    "canonical_name": "乌进孝",
+    "aliases": [
+      "乌庄头"
+    ],
+    "sources": [
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：乌家庄庄头即乌进孝"
+  },
+  {
+    "canonical_name": "何婆子",
+    "aliases": [
+      "春燕娘",
+      "春燕母亲"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：书中明写春燕生母为何婆子；春燕生母即芳官干娘何婆子"
+  },
+  {
+    "canonical_name": "净虚",
+    "aliases": [
+      "静虚"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：静净同音，指馒头庵老尼净虚"
+  },
+  {
+    "canonical_name": "北静王水溶",
+    "aliases": [
+      "北静王"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：北静王即水溶；对应标准人物全称"
+  },
+  {
+    "canonical_name": "单聘仁",
+    "aliases": [
+      "单先生"
+    ],
+    "sources": [
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：谐音对应单聘仁"
+  },
+  {
+    "canonical_name": "史太君",
+    "aliases": [
+      "老太太",
+      "老祖宗",
+      "贾母"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：书中特指贾母（史太君）；红楼语境中特指贾母（史太君）；贾母与史太君为同一人物；贾母即史太君，为标准称呼"
+  },
+  {
+    "canonical_name": "史湘云",
+    "aliases": [
+      "湘云"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：史湘云常见简称；标准名直接匹配"
+  },
+  {
+    "canonical_name": "吴新登媳妇",
+    "aliases": [
+      "吴新登的媳妇"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：完全对应标准名省略助词"
+  },
+  {
+    "canonical_name": "周瑞家的",
+    "aliases": [
+      "周大娘",
+      "周瑞媳妇",
+      "周瑞家"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：即周瑞之妻，标准名为周瑞家的；周瑞之妻的省略说法；通常指代周瑞媳妇，缺上下文"
+  },
+  {
+    "canonical_name": "四儿",
+    "aliases": [
+      "蕙香"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：书中四儿原名即为蕙香"
+  },
+  {
+    "canonical_name": "夏婆子",
+    "aliases": [
+      "夏妈",
+      "夏婆"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：夏妈即夏婆子的常见简称；夏婆即夏婆子的简称"
+  },
+  {
+    "canonical_name": "夏秉忠",
+    "aliases": [
+      "夏忠"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：漏字简称，对应太监夏秉忠"
+  },
+  {
+    "canonical_name": "多姑娘",
+    "aliases": [
+      "多姑娘儿"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：儿化音后缀，指同一人"
+  },
+  {
+    "canonical_name": "姣杏",
+    "aliases": [
+      "娇杏"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：娇杏为姣杏的异写，指同一人物"
+  },
+  {
+    "canonical_name": "宋嬷嬷",
+    "aliases": [
+      "宋妈妈"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：妈妈与嬷嬷同义，指贾府宋嬷嬷"
+  },
+  {
+    "canonical_name": "尤氏",
+    "aliases": [
+      "珍大奶奶"
+    ],
+    "sources": [
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：贾珍正妻尤氏的常见尊称"
+  },
+  {
+    "canonical_name": "山子野",
+    "aliases": [
+      "胡公(山子野)"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：括号内已直接给出对应标准名"
+  },
+  {
+    "canonical_name": "平儿",
+    "aliases": [
+      "平姐姐",
+      "平姑娘"
+    ],
+    "sources": [
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：平指平儿，姐姐为亲近称呼；贾府下人对平儿的常见称呼"
+  },
+  {
+    "canonical_name": "张友士",
+    "aliases": [
+      "张先生"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：书中常指为秦可卿看病之医生张友士"
+  },
+  {
+    "canonical_name": "张材家的",
+    "aliases": [
+      "张材家"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：漏字，指张材之妻"
+  },
+  {
+    "canonical_name": "智能儿",
+    "aliases": [
+      "智能"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：完全对应标准名省略儿化音"
+  },
+  {
+    "canonical_name": "李纨",
+    "aliases": [
+      "珠大嫂子"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：众人对贾珠之妻李纨的固定俗称"
+  },
+  {
+    "canonical_name": "来旺媳妇",
+    "aliases": [
+      "旺儿媳妇"
+    ],
+    "sources": [
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：即来旺媳妇简称"
+  },
+  {
+    "canonical_name": "林之孝家的",
+    "aliases": [
+      "林之孝媳妇",
+      "林之孝家",
+      "林之孝的妻子"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：同义替换，指林之孝之妻；漏字，指林之孝之妻；语义等同，指林之孝之妻"
+  },
+  {
+    "canonical_name": "林黛玉",
+    "aliases": [
+      "林妹妹",
+      "林姐姐",
+      "林姑娘",
+      "黛玉"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：对林黛玉常用称呼；林黛玉常见简称；林黛玉的常用简称；贾宝玉对林黛玉专属昵称；通常指林黛玉，但属较泛亲属称呼，把握中等"
+  },
+  {
+    "canonical_name": "柳家的",
+    "aliases": [
+      "柳嫂子",
+      "柳家嫂子"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：即柳家的，标准名对应；同义替换，指柳嫂子"
+  },
+  {
+    "canonical_name": "柳湘莲",
+    "aliases": [
+      "湘莲"
+    ],
+    "sources": [
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：柳湘莲的常用简称"
+  },
+  {
+    "canonical_name": "玉钏",
+    "aliases": [
+      "玉钏儿"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：标准名加儿化口语后缀"
+  },
+  {
+    "canonical_name": "王熙凤",
+    "aliases": [
+      "二奶奶",
+      "凤姐",
+      "凤姐儿",
+      "熙凤",
+      "风姐儿"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：书中通常特指王熙凤；凤姐为王熙凤惯称；王熙凤口语化称呼；王熙凤的常用简称；王熙凤的常见别称；王熙凤的常见口语化称呼"
+  },
+  {
+    "canonical_name": "王狗儿",
+    "aliases": [
+      "狗儿"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：王狗儿的昵称"
+  },
+  {
+    "canonical_name": "璜大奶奶",
+    "aliases": [
+      "胡氏"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：书中指贾璜之妻，即璜大奶奶"
+  },
+  {
+    "canonical_name": "甄宝玉",
+    "aliases": [
+      "另一宝玉"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：文中语境所指即为甄宝玉"
+  },
+  {
+    "canonical_name": "癞头和尚",
+    "aliases": [
+      "癞和尚"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：书中对癞头和尚的常见俗称"
+  },
+  {
+    "canonical_name": "秦可卿",
+    "aliases": [
+      "可卿",
+      "秦氏"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：秦可卿的常用简称；秦氏为秦可卿本姓指代及常见称呼；秦氏即秦可卿"
+  },
+  {
+    "canonical_name": "紫鹃",
+    "aliases": [
+      "鹦哥"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：鹦哥为紫鹃原名，后赐给黛玉时改名"
+  },
+  {
+    "canonical_name": "绮霰",
+    "aliases": [
+      "绮霞"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：疑为绮霰的版本异写"
+  },
+  {
+    "canonical_name": "花自芳",
+    "aliases": [
+      "袭人哥哥"
+    ],
+    "sources": [
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：袭人亲哥书中明确为花自芳"
+  },
+  {
+    "canonical_name": "茗烟",
+    "aliases": [
+      "焙茗"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：焙茗为茗烟后改之名"
+  },
+  {
+    "canonical_name": "蒋玉菡",
+    "aliases": [
+      "琪官",
+      "蒋玉函"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：函为菡之同音异字误写；琪官为蒋玉菡艺名；蒋玉菡的艺名/别称"
+  },
+  {
+    "canonical_name": "薛姨妈",
+    "aliases": [
+      "薛王氏"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：薛姨妈本姓王，薛王氏为其本姓称谓"
+  },
+  {
+    "canonical_name": "薛宝琴",
+    "aliases": [
+      "宝琴"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：薛宝琴常见简称"
+  },
+  {
+    "canonical_name": "薛宝钗",
+    "aliases": [
+      "宝姑娘",
+      "宝钗"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：对薛宝钗常用称呼；薛宝钗常见简称；薛宝钗的常用简称"
+  },
+  {
+    "canonical_name": "蝉姐",
+    "aliases": [
+      "小蝉"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：书中柳五儿房中丫鬟小蝉即蝉姐"
+  },
+  {
+    "canonical_name": "袭人",
+    "aliases": [
+      "花袭人"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：袭人冠本姓后全称"
+  },
+  {
+    "canonical_name": "詹光",
+    "aliases": [
+      "詹先生"
+    ],
+    "sources": [
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：贾府清客詹光常被尊称先生"
+  },
+  {
+    "canonical_name": "贾代儒",
+    "aliases": [
+      "代儒"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：贾代儒常见简称；贾府族塾掌教即为贾代儒"
+  },
+  {
+    "canonical_name": "贾元春",
+    "aliases": [
+      "元妃",
+      "元春",
+      "贵妃",
+      "贾妃"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：元妃即贾元春封号；贾元春入宫封妃后的特定称谓；贾元春常见简称；贾元春的常用简称；贾府贵妃特指贾元春"
+  },
+  {
+    "canonical_name": "贾兰",
+    "aliases": [
+      "贾蓝"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：明显为贾兰的笔误或异写"
+  },
+  {
+    "canonical_name": "贾宝玉",
+    "aliases": [
+      "宝二爷",
+      "宝玉"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：特指贾宝玉；贾宝玉常见简称；贾宝玉的常用简称"
+  },
+  {
+    "canonical_name": "贾巧姐",
+    "aliases": [
+      "大姐儿",
+      "巧姐",
+      "巧姐儿"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：巧姐儿为贾巧姐常用小名；标准名直接匹配；贾巧姐幼年乳名"
+  },
+  {
+    "canonical_name": "贾惜春",
+    "aliases": [
+      "惜春"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：标准名直接匹配；贾惜春常见简称"
+  },
+  {
+    "canonical_name": "贾探春",
+    "aliases": [
+      "三姑娘",
+      "探春"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：贾府排行第三的姑娘为探春；贾探春常见简称；贾探春的常用简称"
+  },
+  {
+    "canonical_name": "贾珍",
+    "aliases": [
+      "珍大爷"
+    ],
+    "sources": [
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：贾珍在族中排行及管家身份的惯称"
+  },
+  {
+    "canonical_name": "贾瑞",
+    "aliases": [
+      "瑞儿"
+    ],
+    "sources": [
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：长辈对贾瑞的常用昵称"
+  },
+  {
+    "canonical_name": "贾芸",
+    "aliases": [
+      "芸儿"
+    ],
+    "sources": [
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：书中对贾芸的常见昵称"
+  },
+  {
+    "canonical_name": "贾芹",
+    "aliases": [
+      "芹儿"
+    ],
+    "sources": [
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：书中对贾芹的常见昵称"
+  },
+  {
+    "canonical_name": "贾迎春",
+    "aliases": [
+      "迎春"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：标准名直接匹配；贾迎春常见简称"
+  },
+  {
+    "canonical_name": "赖升",
+    "aliases": [
+      "来升"
+    ],
+    "sources": [
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：来升为赖升常见文本异写，指宁国府管家"
+  },
+  {
+    "canonical_name": "赵姨娘",
+    "aliases": [
+      "赵姨奶奶"
+    ],
+    "sources": [
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：赵姨娘的常见别称/敬称"
+  },
+  {
+    "canonical_name": "跛足道人",
+    "aliases": [
+      "跛道人",
+      "跛道士"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：书中对跛足道人的常见别称；明确对应书中僧道之跛足道人"
+  },
+  {
+    "canonical_name": "邢岫烟",
+    "aliases": [
+      "邢大姑娘"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：书中通常以此称呼邢岫烟，但需结合语境"
+  },
+  {
+    "canonical_name": "金钏",
+    "aliases": [
+      "金钏儿"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：与标准名高度一致，含口语化后缀；完全对应标准名省略儿化音"
+  },
+  {
+    "canonical_name": "香菱",
+    "aliases": [
+      "英莲"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：甄英莲后被收养改名香菱；英莲即甄英莲，后改名香菱"
+  },
+  {
+    "canonical_name": "鲍二家的",
+    "aliases": [
+      "鲍二老婆"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：书中对鲍二之妻的标准称呼；鲍二之妻在书中称鲍二家的"
+  },
+  {
+    "canonical_name": "龄官",
+    "aliases": [
+      "画蔷女孩"
+    ],
+    "sources": [
+      "txt"
+    ],
+    "notes": "由 mention_normalization_llm 聚合；映射理由摘要：书中“画蔷”情节专属指代龄官"
+  }
+]

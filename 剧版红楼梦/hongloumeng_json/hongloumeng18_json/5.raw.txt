@@ -1,0 +1,19 @@
+{
+  "episode_id": "18",
+  "episode_title": "鸳鸯女誓绝鸳鸯偶",
+  "segment_id": "S05",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "平儿转述纳妾事宜并建议王熙凤避开",
+      "characters": ["平儿", "王熙凤"],
+      "location": "王熙凤房内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "平儿向王熙凤转述大老爷欲纳鸳鸯为妾并请大太太说媒之事，认为不妥且劝其暂避以免被卷入商议而尴尬。"
+    }
+  ]
+}

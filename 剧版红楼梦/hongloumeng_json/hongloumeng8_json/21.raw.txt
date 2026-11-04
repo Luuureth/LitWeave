@@ -1,0 +1,58 @@
+```json
+{
+  "episode_id": "08",
+  "episode_title": "荣国府归省庆元宵",
+  "segment_id": "S21",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "戏曲开场",
+      "characters": [
+        "报信人",
+        "戏曲演员"
+      ],
+      "location": "荣国府戏台",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "报信人通知宴席已罢戏已开，随后烟花绽放，戏曲演员登台表演。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "众人观戏",
+      "characters": [
+        "贾母",
+        "王夫人",
+        "薛姨妈",
+        "王熙凤",
+        "宝玉",
+        "黛玉",
+        "贾政",
+        "戏曲演员"
+      ],
+      "location": "荣国府戏台",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母、贾政及众亲友在席间观看戏曲表演，期间穿插戏曲演员的唱段特写。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "赏赐银钱",
+      "characters": [
+        "婆子",
+        "下人"
+      ],
+      "location": "荣国府戏台",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "婆子奉娘娘之命赏赐银钱，下人致谢。"
+    }
+  ]
+}
+```

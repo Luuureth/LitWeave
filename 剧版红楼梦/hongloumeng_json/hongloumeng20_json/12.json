@@ -1,0 +1,65 @@
+{
+  "episode_id": "20",
+  "episode_title": "勇晴雯病补雀金裘",
+  "segment_id": "S12",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "庄头进贡年物并解释灾年歉收",
+      "characters": [
+        "贾珍",
+        "乌进孝"
+      ],
+      "location": "宁国府",
+      "time_hint": "background",
+      "explicit_time": "三月至八月, 九月",
+      "relation_to_previous": "start",
+      "event_summary": "庄头乌进孝率人运送年物至宁国府，贾珍清点后抱怨贡品与银两减半，乌进孝详细解释因春夏连雨及秋降冰雹导致严重歉收。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾珍安排分送贡品并议论荣府财务危机",
+      "characters": [
+        "贾珍",
+        "贾蓉",
+        "乌进孝"
+      ],
+      "location": "宁国府",
+      "time_hint": "same_time",
+      "explicit_time": "除夕",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾珍吩咐贾蓉将部分贡品送往荣国府，主仆三人谈及荣府近年耗资巨大、入不敷出，贾蓉透露凤姐与鸳鸯可能偷当贾母财物，贾珍则认为荣府尚未至绝境。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾芹领年物遭贾珍严词斥责",
+      "characters": [
+        "贾珍",
+        "贾芹"
+      ],
+      "location": "宁国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾芹听闻发放年物前来领取，贾珍当面斥责其贪婪，并揭穿其在家庙管理期间聚众赌博、包养外室的劣迹，贾芹羞愧无言。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "乌进孝私献土产获贾珍赞许",
+      "characters": [
+        "贾珍",
+        "乌进孝"
+      ],
+      "location": "宁国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "乌进孝将庄户人家私赠的小动物与玩物献给贾珍，贾珍欣然笑纳，夸赞庄户人老实，并借机感慨贾府外表体面内里艰难的状况。"
+    }
+  ]
+}

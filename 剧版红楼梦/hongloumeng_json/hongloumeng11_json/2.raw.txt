@@ -1,0 +1,30 @@
+{
+  "episode_id": "11",
+  "episode_title": "为争宠姐弟遭魔魇",
+  "segment_id": "S02",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "骑马出门相遇请安",
+      "characters": ["贾宝玉", "贾芸"],
+      "location": "贾府门前",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉骑白马出门准备去北静王府，贾芸骑马赶来并向其请安问候。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "相认寒暄打趣相约",
+      "characters": ["贾宝玉", "贾芸", "贾芸之母"],
+      "location": "贾府门前",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉认出贾芸身份，两人寒暄问候贾芸母亲后围绕年龄辈分互相打趣，贾宝玉邀请贾芸日后闲暇时进园游玩。"
+    }
+  ]
+}

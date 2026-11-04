@@ -1,0 +1,35 @@
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S13",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众人查看图纸讨论园林规划",
+      "characters": [
+        "贾政",
+        "山子野"
+      ],
+      "location": "贾府室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾政与众清客在室内查看大观园图纸，讨论引水、移石等工程细节，并赞叹山子野的设计精妙。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "众人至大观园正门确认竣工并入园",
+      "characters": [
+        "贾政"
+      ],
+      "location": "大观园",
+      "time_hint": "after",
+      "explicit_time": "娘娘省亲之前",
+      "relation_to_previous": "sequential",
+      "event_summary": "众人来至大观园正门，惊叹工程神速竣工，确认能在娘娘省亲前完成，随后步入园内。"
+    }
+  ]
+}

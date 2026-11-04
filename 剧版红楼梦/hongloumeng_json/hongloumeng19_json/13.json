@@ -1,0 +1,50 @@
+{
+  "episode_id": "19",
+  "episode_title": "琉璃世界白雪红梅",
+  "segment_id": "S13",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "对弈交谈",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "潇湘馆",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "宝玉与黛玉在房中对弈，黛玉谈及自己曾错怪宝钗，后因宝钗送燕窝粥而看出其真心。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "关切劝慰",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "潇湘馆",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉指出黛玉消瘦且眼泪变少，黛玉坦言近日心酸却少泪，宝玉劝其保重并告知明日芦雪庵起诗社。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宝玉离去黛玉就寝",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "潇湘馆",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉告辞离开，黛玉独自拉上床帐准备休息。"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "episode_id": "20",
+  "episode_title": "勇晴雯病补雀金裘",
+  "segment_id": "S04",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉在窗外偷听平儿与屋内丫头交谈",
+      "characters": [
+        "贾宝玉",
+        "平儿"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "宝玉在怡红院窗外偷听平儿与屋内丫头的对话。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "平儿说明隐瞒镯子失窃的说辞并叮嘱保密",
+      "characters": [
+        "平儿",
+        "王熙凤",
+        "贾宝玉",
+        "史太君",
+        "袭人"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": "那天，今儿个",
+      "relation_to_previous": "sequential",
+      "event_summary": "平儿向屋内丫头交代隐瞒虾须镯失窃的应对说辞，并叮嘱切勿走漏风声。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "平儿叮嘱防备坠儿并严防晴雯知晓，宝玉听后离去",
+      "characters": [
+        "平儿",
+        "晴雯",
+        "坠儿",
+        "贾宝玉"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "平儿叮嘱丫头日后防备坠儿并严密封锁消息以防晴雯发作，宝玉听完全程后默默离开。"
+    }
+  ]
+}

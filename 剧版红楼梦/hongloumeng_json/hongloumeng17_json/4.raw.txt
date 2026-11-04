@@ -1,0 +1,38 @@
+```json
+{
+  "episode_id": "17",
+  "episode_title": "变生不测凤姐泼醋",
+  "segment_id": "S04",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "黛玉与湘云欲探宝玉，黛玉窗前窥视",
+      "characters": [
+        "林黛玉",
+        "史湘云"
+      ],
+      "location": "庭院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "林黛玉与史湘云走出屋子打算查看宝玉动向，林黛玉行至窗前向内窥探并掩面。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "湘云提议寻找袭人，二人结伴离开",
+      "characters": [
+        "林黛玉",
+        "史湘云"
+      ],
+      "location": "庭院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "史湘云告知林黛玉袭人可能去洗衣，二人决定去找袭人并手拉手离开。"
+    }
+  ]
+}
+```

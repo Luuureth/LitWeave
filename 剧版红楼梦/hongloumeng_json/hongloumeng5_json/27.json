@@ -1,0 +1,36 @@
+{
+  "episode_id": "05",
+  "episode_title": "王熙凤毒设相思局",
+  "segment_id": "S27",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "仆人深夜通报死讯",
+      "characters": [
+        "王熙凤",
+        "秦可卿"
+      ],
+      "location": "荣国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "仆人深夜持灯奔走，向王熙凤紧急通报东府蓉大奶奶秦可卿突然病逝的消息。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾母劝阻王熙凤夜行",
+      "characters": [
+        "史太君",
+        "王熙凤"
+      ],
+      "location": "贾母院",
+      "time_hint": null,
+      "explicit_time": "夜里",
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤执意前往宁国府，贾母以夜间风大和灵堂不净为由劝阻，最终妥协并下令备车派人护送。"
+    }
+  ]
+}

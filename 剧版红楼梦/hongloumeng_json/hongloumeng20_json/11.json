@@ -1,0 +1,76 @@
+{
+  "episode_id": "20",
+  "episode_title": "勇晴雯病补雀金裘",
+  "segment_id": "S11",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众人入祠",
+      "characters": [],
+      "location": "宁国府",
+      "time_hint": "start",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾府众人抬轿举旗进入贾氏宗祠。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "展示并焚化赏单",
+      "characters": [
+        "贾珍",
+        "贾蓉"
+      ],
+      "location": "宗祠内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾珍向贾蓉展示皇恩赏赐的春祭银两单子，两人焚化单子谢恩。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "询问年租与召见庄头",
+      "characters": [
+        "贾珍",
+        "贾蓉"
+      ],
+      "location": "宗祠内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾珍询问黑山村年租，贾蓉宣读乌庄头请安信，贾珍命人带乌庄头进来。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "乌庄头进见寒暄",
+      "characters": [
+        "贾珍",
+        "贾蓉",
+        "乌进孝"
+      ],
+      "location": "宗祠内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "乌进孝进见贾珍并跪拜，双方寒暄，乌进孝解释自己亲自前来的原因。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "查验贡品",
+      "characters": [
+        "贾珍",
+        "贾蓉"
+      ],
+      "location": "宗祠外",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾珍命贾蓉念账单并查验乌庄头带来的活物贡品。"
+    }
+  ]
+}

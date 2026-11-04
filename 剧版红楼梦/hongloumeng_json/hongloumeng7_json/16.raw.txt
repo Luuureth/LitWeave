@@ -1,0 +1,53 @@
+```json
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S16",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众清客提议亭名",
+      "characters": [
+        "众清客",
+        "贾政"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "众清客引用欧阳修文章提议将亭子命名为“翼然”，后又有人提议“泻玉”。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉题名沁芳",
+      "characters": [
+        "贾宝玉",
+        "贾政"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉认为“泻玉”不如“沁芳”新雅，贾政称赞其才情不凡。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宝玉题写对联",
+      "characters": [
+        "贾宝玉",
+        "贾政",
+        "众清客"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉应贾政之命作七言对联“绕堤柳借三篙翠，隔岸花分一脉香”，获得众人称赞。"
+    }
+  ]
+}
+```

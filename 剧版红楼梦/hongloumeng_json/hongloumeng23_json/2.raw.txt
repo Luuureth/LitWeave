@@ -1,0 +1,68 @@
+```json
+{
+  "episode_id": "23",
+  "episode_title": "慧紫鹃情辞试忙玉",
+  "segment_id": "S02",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "紫鹃雪雁探视病危宝玉",
+      "characters": [
+        "紫鹃",
+        "雪雁",
+        "宝玉"
+      ],
+      "location": "宝玉房",
+      "time_hint": "start",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "紫鹃和雪雁在宝玉房中发现宝玉病危（眼直、手脚冷），紫鹃惊慌认为宝玉不中用了。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "黛玉询问紫鹃",
+      "characters": [
+        "黛玉",
+        "紫鹃"
+      ],
+      "location": "黛玉房",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "黛玉询问紫鹃刚才与宝玉的谈话内容，紫鹃生气表示不管了。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "雪雁告知宝玉病危",
+      "characters": [
+        "黛玉",
+        "雪雁"
+      ],
+      "location": "黛玉房",
+      "time_hint": "sequential",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "雪雁向黛玉描述宝玉病危的惨状，黛玉震惊并表示自责。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "紫鹃解释并催促补救",
+      "characters": [
+        "紫鹃",
+        "黛玉",
+        "雪雁"
+      ],
+      "location": "黛玉房",
+      "time_hint": "sequential",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "紫鹃向黛玉解释刚才只是说了玩笑话导致宝玉当真，并催促雪雁赶紧去解释以挽救宝玉，黛玉听后痛苦。"
+    }
+  ]
+}
+```

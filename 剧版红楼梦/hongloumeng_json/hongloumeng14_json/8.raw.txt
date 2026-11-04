@@ -1,0 +1,55 @@
+```json
+{
+  "episode_id": "14",
+  "episode_title": "含耻辱情烈死金钏",
+  "segment_id": "S08",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉与晴雯交谈",
+      "characters": [
+        "贾宝玉",
+        "晴雯"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "宝玉唤醒晴雯，两人谈论跌扇子的事，宝玉提议吃果子。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "晴雯撕扇子",
+      "characters": [
+        "贾宝玉",
+        "晴雯",
+        "麝月"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "晴雯撕扇子取乐，宝玉纵容并让麝月拿扇子来，麝月劝阻无效。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "袭人到来",
+      "characters": [
+        "贾宝玉",
+        "晴雯",
+        "麝月",
+        "袭人"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "袭人来到庭院，看到众人撕扇子，与众人交谈。"
+    }
+  ]
+}
+```

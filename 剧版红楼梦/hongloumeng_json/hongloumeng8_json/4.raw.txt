@@ -1,0 +1,80 @@
+```json
+{
+    "episode_id": "08",
+    "episode_title": "荣国府归省庆元宵",
+    "segment_id": "S04",
+    "event_count": 5,
+    "events": [
+        {
+            "event_id": "E01",
+            "narrative_order": 1,
+            "action": "荣国府张灯结彩，众人肃立等候",
+            "characters": [
+                "官员",
+                "宫女",
+                "守卫"
+            ],
+            "location": "荣国府",
+            "time_hint": null,
+            "explicit_time": null,
+            "relation_to_previous": "start",
+            "event_summary": "荣国府内张灯结彩，官员、宫女和守卫肃立等候。"
+        },
+        {
+            "event_id": "E02",
+            "narrative_order": 2,
+            "action": "贾母等女眷盛装伫立",
+            "characters": [
+                "贾母",
+                "众女眷"
+            ],
+            "location": "荣国府",
+            "time_hint": "same_time",
+            "explicit_time": null,
+            "relation_to_previous": "parallel",
+            "event_summary": "贾母等女眷身着盛装，神情激动地伫立等候。"
+        },
+        {
+            "event_id": "E03",
+            "narrative_order": 3,
+            "action": "众男眷朝服候驾",
+            "characters": [
+                "众男眷"
+            ],
+            "location": "荣国府",
+            "time_hint": "same_time",
+            "explicit_time": null,
+            "relation_to_previous": "parallel",
+            "event_summary": "贾府男眷身着朝服，焦急等待。"
+        },
+        {
+            "event_id": "E04",
+            "narrative_order": 4,
+            "action": "仪仗队快步入府",
+            "characters": [
+                "太监",
+                "仪仗队"
+            ],
+            "location": "荣国府",
+            "time_hint": "after",
+            "explicit_time": null,
+            "relation_to_previous": "sequential",
+            "event_summary": "太监与仪仗队快步进入荣国府。"
+        },
+        {
+            "event_id": "E05",
+            "narrative_order": 5,
+            "action": "众人注视仪仗，贾母拭泪",
+            "characters": [
+                "贾母",
+                "众女眷"
+            ],
+            "location": "荣国府",
+            "time_hint": "after",
+            "explicit_time": null,
+            "relation_to_previous": "sequential",
+            "event_summary": "贾府众人注视仪仗入府，贾母激动拭泪。"
+        }
+    ]
+}
+```

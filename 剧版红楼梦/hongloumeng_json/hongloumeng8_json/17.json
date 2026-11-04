@@ -1,0 +1,21 @@
+{
+  "episode_id": "08",
+  "episode_title": "荣国府归省庆元宵",
+  "segment_id": "S17",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "呈递并审阅诗文稿件",
+      "characters": [
+        "贾元春"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "管事女眷将贾府众人所作诗文稿件呈递至元春案前，元春进行审阅，众女眷在旁伏案书写候评。"
+    }
+  ]
+}

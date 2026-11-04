@@ -1,0 +1,33 @@
+{
+  "episode_id": "18",
+  "episode_title": "鸳鸯女誓绝鸳鸯偶",
+  "segment_id": "S17",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "园中相遇交谈并约定城外相会",
+      "characters": [
+        "贾宝玉",
+        "柳湘莲"
+      ],
+      "location": "园中竹林旁",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "宝玉与湘莲在园中竹林旁相遇，互证真心后约定当晚在北门外桥头相会。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "众人商议派人出北门寻找",
+      "characters": [],
+      "location": "园中亭台",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "园中亭台处的宴饮众人得知二人已出北门，随即派小厮前去寻找。"
+    }
+  ]
+}

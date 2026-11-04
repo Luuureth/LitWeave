@@ -1,0 +1,48 @@
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S27",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "官兵清道并催促人群让路",
+      "characters": [
+        "官兵",
+        "搬运人员"
+      ],
+      "location": "街道",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "官兵在街道上清道，催促搬运物品的人员和路人迅速让开。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "骑兵队伍沿街驰过",
+      "characters": [
+        "骑兵"
+      ],
+      "location": "街道",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "一队骑兵骑马快速通过已清空的街道。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "侍从铺设帷帐并洒水扫街",
+      "characters": [
+        "侍从"
+      ],
+      "location": "街道",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "身穿黄褐色制服的侍从在街道两侧铺设蓝色帷帐，并洒水清扫路面以压制尘土。"
+    }
+  ]
+}

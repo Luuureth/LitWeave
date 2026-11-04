@@ -1,0 +1,52 @@
+```json
+{
+  "episode_id": "09",
+  "episode_title": "意绵绵静日玉生香",
+  "segment_id": "S12",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾琏与多姑娘在回廊相遇",
+      "characters": [
+        "贾琏",
+        "多姑娘"
+      ],
+      "location": "回廊",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾琏在回廊上行走时与多姑娘相遇，两人互相注视。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾琏向随从打听多姑娘身份",
+      "characters": [
+        "贾琏",
+        "随从",
+        "多姑娘"
+      ],
+      "location": "回廊",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾琏向随从询问多姑娘身份，得知她是厨子多浑虫的老婆。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "多姑娘沿水边回廊离开",
+      "characters": [
+        "多姑娘"
+      ],
+      "location": "回廊",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "多姑娘沿着水边的回廊行走并逐渐离开。"
+    }
+  ]
+}
+```

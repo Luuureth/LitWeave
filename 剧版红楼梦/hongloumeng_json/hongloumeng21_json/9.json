@@ -1,0 +1,54 @@
+{
+  "episode_id": "21",
+  "episode_title": "荣国府元宵开夜宴.",
+  "segment_id": "S09",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "赵姨娘大闹探春房间",
+      "characters": [
+        "赵姨娘",
+        "贾探春",
+        "李纨"
+      ],
+      "location": "秋爽斋",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "赵姨娘因兄弟抚恤金少于袭人母亲而大闹，指责探春不认亲，探春坚持旧例二十两并反驳赵国基身份，李纨在旁劝解。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "平儿传话探春拒绝",
+      "characters": [
+        "平儿",
+        "贾探春",
+        "李纨",
+        "赵姨娘"
+      ],
+      "location": "秋爽斋",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "平儿传凤姐口信称可添银子，探春为立威和避嫌拒绝，坚持按旧例发放二十两。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宝钗到来商议公费",
+      "characters": [
+        "薛宝钗",
+        "贾探春",
+        "李纨"
+      ],
+      "location": "秋爽斋",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝钗到来缓解气氛，探春借机结束争吵，转而与宝钗、李纨商议家学公费事宜。"
+    }
+  ]
+}

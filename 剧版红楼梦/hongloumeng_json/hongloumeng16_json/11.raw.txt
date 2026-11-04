@@ -1,0 +1,65 @@
+```json
+{
+  "episode_id": "16",
+  "episode_title": "刘姥姥嬉游大观园",
+  "segment_id": "S11",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "刘姥姥醒来说话",
+      "characters": ["刘姥姥", "王熙凤", "巧姐儿"],
+      "location": "王熙凤卧室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "刘姥姥醒来后向王熙凤道别，并感谢贾府众人的款待。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "王熙凤诉说病情",
+      "characters": ["王熙凤", "刘姥姥"],
+      "location": "王熙凤卧室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤告诉刘姥姥贾母和女儿巧姐儿都病了，怀疑是中了邪。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "查阅祟书",
+      "characters": ["王熙凤", "刘姥姥", "彩明"],
+      "location": "王熙凤卧室",
+      "time_hint": "after",
+      "explicit_time": "八月十五",
+      "relation_to_previous": "sequential",
+      "event_summary": "彩明查阅玉匣记，指出巧姐儿在东南方遇花神，需用五色纸钱化解。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "刘姥姥起名",
+      "characters": ["刘姥姥", "王熙凤"],
+      "location": "王熙凤卧室",
+      "time_hint": "after",
+      "explicit_time": "七月初七",
+      "relation_to_previous": "sequential",
+      "event_summary": "刘姥姥得知巧姐儿生于七月初七，为其取名巧姐以毒攻毒，祈求长命百岁。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "赠送礼物并送别",
+      "characters": ["王熙凤", "刘姥姥", "彩明"],
+      "location": "王熙凤卧室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "彩明汇报送祟事宜已办妥，王熙凤坚持让刘姥姥带礼物回家，刘姥姥告辞。"
+    }
+  ]
+}
+```

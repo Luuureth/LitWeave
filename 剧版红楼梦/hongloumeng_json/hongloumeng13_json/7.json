@@ -1,0 +1,49 @@
+{
+  "episode_id": "13",
+  "episode_title": "享福人福深还祷福",
+  "segment_id": "S07",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾母一行人乘轿抵达清虚观，贾珍迎接并搀扶贾母下轿进院",
+      "characters": [
+        "史太君",
+        "贾珍"
+      ],
+      "location": "清虚观",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾母一行人抵达清虚观，贾珍迎接并搀扶贾母下轿进院。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾母进入殿堂看见小道士剪烛花，小道士因害怕众人阵势而躲藏",
+      "characters": [
+        "史太君"
+      ],
+      "location": "清虚观",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母进入殿堂看见小道士剪烛花，小道士因害怕众人阵势而躲藏。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾母唤来受惊的小道士进行安抚，询问年纪并赏钱，嘱咐贾珍带他离开",
+      "characters": [
+        "史太君",
+        "贾珍"
+      ],
+      "location": "清虚观",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母唤来受惊的小道士进行安抚，询问年纪并赏钱，嘱咐贾珍带他离开以免再受惊。"
+    }
+  ]
+}

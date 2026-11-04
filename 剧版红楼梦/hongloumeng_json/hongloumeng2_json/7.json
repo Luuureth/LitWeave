@@ -1,0 +1,49 @@
+{
+  "episode_id": "02",
+  "episode_title": "宝黛钗初会荣庆堂",
+  "segment_id": "S07",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "听唱《好了歌》并领悟",
+      "characters": [
+        "甄士隐",
+        "跛足道人"
+      ],
+      "location": "荒郊",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "甄士隐在荒郊听跛道人唱《好了歌》，领悟“好”与“了”的真谛，决心随其出家。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "携手远走沙丘",
+      "characters": [
+        "甄士隐",
+        "跛足道人"
+      ],
+      "location": "沙丘",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "甄士隐与跛道人携手走过沙丘，彻底远离尘世。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "听闻出家消息",
+      "characters": [
+        "贾雨村"
+      ],
+      "location": "室内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾雨村在夜间听闻甄士隐随跛道人出家离去的确切消息。"
+    }
+  ]
+}

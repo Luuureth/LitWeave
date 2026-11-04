@@ -1,0 +1,34 @@
+{
+  "episode_id": "05",
+  "episode_title": "王熙凤毒设相思局",
+  "segment_id": "S07",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "倚墙咳嗽",
+      "characters": [
+        "贾瑞"
+      ],
+      "location": "墙角",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾瑞深夜倚靠砖墙剧烈咳嗽，神情痛苦虚弱。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "卧床休息",
+      "characters": [
+        "王熙凤"
+      ],
+      "location": "卧室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤在卧室内卧床休息。"
+    }
+  ]
+}

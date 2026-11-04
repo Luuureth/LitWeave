@@ -1,0 +1,92 @@
+{
+  "episode_id": "06",
+  "episode_title": "王熙凤协理宁国府",
+  "segment_id": "S01",
+  "event_count": 6,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众人聚集议论惋惜",
+      "characters": [
+        "众亲友",
+        "黄衣男子"
+      ],
+      "location": "宁国府厅堂",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "众亲友聚集在宁国府厅堂，对秦氏的突然离世表示意外与惋惜。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾珍拄杖入场悲痛哭诉",
+      "characters": [
+        "贾珍",
+        "扶侍者"
+      ],
+      "location": "宁国府厅堂",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾珍拄杖在搀扶下入场，悲痛哭诉儿媳贤能却突然离世，感叹长房无人。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "众人劝慰并商议丧事",
+      "characters": [
+        "贾珍",
+        "劝慰男子"
+      ],
+      "location": "宁国府厅堂",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "旁人上前劝慰贾珍节哀并提议商议丧事料理，贾珍表示愿倾尽所有办理。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "仆人通报秦钟到来及贾珍吩咐接待",
+      "characters": [
+        "贾珍",
+        "通报仆人",
+        "众亲友"
+      ],
+      "location": "宁国府厅堂",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "仆人通报秦相公已至灵前，贾珍吩咐几名亲友前去陪同接待。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "贾敬在道观静修闻讯",
+      "characters": [
+        "贾敬",
+        "传话者"
+      ],
+      "location": "道观静室",
+      "time_hint": "parallel",
+      "explicit_time": null,
+      "relation_to_previous": "parallel",
+      "event_summary": "画面转至道观静室，贾敬正在焚香静修，听闻消息后淡然表示知晓并让传话者退下。"
+    },
+    {
+      "event_id": "E06",
+      "narrative_order": 6,
+      "action": "宝玉灵前哀伤掩面",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "宁国府灵堂",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉在灵堂前悲伤不已，掩面痛哭。"
+    }
+  ]
+}

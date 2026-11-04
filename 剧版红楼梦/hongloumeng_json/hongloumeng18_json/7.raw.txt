@@ -1,0 +1,37 @@
+```json
+{
+  "episode_id": "18",
+  "episode_title": "鸳鸯女誓绝鸳鸯偶",
+  "segment_id": "S07",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "邢夫人劝诱鸳鸯做姨娘",
+      "characters": [
+        "邢夫人",
+        "鸳鸯"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "邢夫人告知鸳鸯贾赦欲纳其为妾，并极力劝诱其跟随自己去见贾母，鸳鸯沉默不语。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "鸳鸯园中独行伤怀",
+      "characters": [
+        "鸳鸯"
+      ],
+      "location": "花园",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "鸳鸯独自在园中徘徊，看着残荷败叶，神情凄楚凝重。"
+    }
+  ]
+}
+```

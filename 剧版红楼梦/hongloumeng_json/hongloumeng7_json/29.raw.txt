@@ -1,0 +1,30 @@
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S29",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "通报等候延迟",
+      "characters": ["下人", "众夫人", "老太太"],
+      "location": "府邸门外",
+      "time_hint": null,
+      "explicit_time": "两个时辰",
+      "relation_to_previous": "start",
+      "event_summary": "下人向门外的众夫人和老太太通报需继续等待两个时辰，众人随后被劝入内歇息。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "厅内等候与催促准备",
+      "characters": ["众老爷", "仆人"],
+      "location": "府邸大厅",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众老爷在厅内焦急等候客人到来，派人打听消息后得知时辰将至，众人随即起身准备迎接。"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "episode_id": "05",
+  "episode_title": "王熙凤毒设相思局",
+  "segment_id": "S22",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "索要发簪遭拒",
+      "characters": ["贾珍", "秦氏"],
+      "location": "秦氏房中",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾珍在房内欲取秦氏发簪作信物，秦氏因怕被旁人认出而坚决推拒。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "侍女偷听逃离",
+      "characters": ["侍女"],
+      "location": "回廊",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "侍女在窗外听闻二人对话，担忧发簪惹祸暴露秘密，惊慌转身逃离。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾珍追出喝止",
+      "characters": ["贾珍"],
+      "location": "院落",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾珍察觉窗外有人偷听，追出房门厉声喝问并命其站住。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "侍女躲藏贾珍搜寻",
+      "characters": ["贾珍", "侍女"],
+      "location": "院墙边",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "侍女慌忙躲至墙角假山后屏息隐蔽，贾珍在院中四处张望搜寻未果。"
+    }
+  ]
+}

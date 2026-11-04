@@ -1,0 +1,4871 @@
+{
+  "meta": {
+    "description": "二轮地点归一：闭集为 v2 草案标准地点；items 含 round2_strategy",
+    "round": 2,
+    "candidate_count": 112,
+    "enrichment_threshold": 35,
+    "source_table": "D:\\大三下\\礼物计划\\知识库\\红楼梦地点表.csv",
+    "source_round1": "D:\\大三下\\礼物计划\\知识库\\location_pipeline_out\\llm_location_normalization_input.json"
+  },
+  "candidate_canonical_locations": [
+    "宁府",
+    "林府",
+    "荣府",
+    "贾府",
+    "赖府",
+    "凤姐院",
+    "大观园",
+    "天香楼",
+    "宁国府",
+    "宁府街",
+    "宁荣街",
+    "宗祠内",
+    "怡红院",
+    "晓翠堂",
+    "智通寺",
+    "暖香坞",
+    "柳叶渚",
+    "栊翠庵",
+    "梨香院",
+    "水仙庵",
+    "水月庵",
+    "沁芳亭",
+    "海棠院",
+    "清虚观",
+    "滴翠亭",
+    "潇湘馆",
+    "秋爽斋",
+    "稻香村",
+    "缀锦楼",
+    "缀锦阁",
+    "芦雪广",
+    "芦雪庭",
+    "芦雪庵",
+    "荣国府",
+    "荣庆堂",
+    "荣禧堂",
+    "葫芦庙",
+    "藕香榭",
+    "蘅芜苑",
+    "蘅芜院",
+    "蜂腰桥",
+    "袭人家",
+    "贾母房",
+    "贾母院",
+    "贾赦院",
+    "逗蜂轩",
+    "酒席间",
+    "铁槛寺",
+    "院墙边",
+    "馒头庵",
+    "马车内",
+    "黛玉房",
+    "冯紫英府",
+    "凤姐居所",
+    "凤姐院中",
+    "凤姐院内",
+    "大官家庙",
+    "太虚幻境",
+    "宁荣二府",
+    "宅院巷道",
+    "宝玉卧室",
+    "宝玉卧房",
+    "宝玉房间",
+    "宴席厅堂",
+    "寺庙佛堂",
+    "府内庭院",
+    "怡红院外",
+    "戏班后台",
+    "探春房外",
+    "探春房间",
+    "沁芳闸桥",
+    "甄家书房",
+    "甄家花园",
+    "省亲别墅",
+    "花园石桥",
+    "花自芳家",
+    "荣宁二府",
+    "荣府戏台",
+    "荣府暖阁",
+    "荣府穿堂",
+    "薛姨妈院",
+    "薛蟠书房",
+    "议事厅儿",
+    "贾政书房",
+    "贾母内院",
+    "贾母堂屋",
+    "贾母房间",
+    "贾母正房",
+    "贾母院外",
+    "贾氏家塾",
+    "赵姨娘院",
+    "郊外石桥",
+    "黛玉房间",
+    "卜世仁店铺",
+    "怡红院庭院",
+    "林黛玉房间",
+    "林黛玉闺房",
+    "王熙凤卧室",
+    "王熙凤房间",
+    "甄士隐书房",
+    "秦可卿房间",
+    "绮散斋书房",
+    "贾宝玉卧房",
+    "贾宝玉房间",
+    "赖大家书房",
+    "赖大家花园",
+    "宁国府会芳园",
+    "省亲别墅正殿",
+    "荒郊至水仙庵",
+    "有凤来仪外庭院",
+    "水仙庵后园井台",
+    "姑苏城阊门外仁清巷"
+  ],
+  "standard_table_rows": [
+    {
+      "standard_location": "荣国府",
+      "parent_location": "",
+      "location_type": "府邸",
+      "note": "贾府主宅，核心居住与礼仪场所",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "宁国府",
+      "parent_location": "",
+      "location_type": "府邸",
+      "note": "贾府长房，秦可卿丧礼主场",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "大观园",
+      "parent_location": "",
+      "location_type": "园林",
+      "note": "元妃省亲别院，众钗聚居地",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "怡红院",
+      "parent_location": "大观园",
+      "location_type": "院落",
+      "note": "贾宝玉住所",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "潇湘馆",
+      "parent_location": "大观园",
+      "location_type": "院落",
+      "note": "林黛玉住所",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "蘅芜院",
+      "parent_location": "大观园",
+      "location_type": "院落",
+      "note": "薛宝钗住所",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "稻香村",
+      "parent_location": "大观园",
+      "location_type": "院落",
+      "note": "李纨、贾兰住所",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "秋爽斋",
+      "parent_location": "大观园",
+      "location_type": "院落",
+      "note": "贾探春住所",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "暖香坞",
+      "parent_location": "大观园",
+      "location_type": "院落",
+      "note": "贾惜春住所",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "缀锦楼",
+      "parent_location": "大观园",
+      "location_type": "院落",
+      "note": "贾迎春住所",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "栊翠庵",
+      "parent_location": "大观园",
+      "location_type": "庵堂",
+      "note": "妙玉修行居住之所",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "梨香院",
+      "parent_location": "荣国府",
+      "location_type": "院落",
+      "note": "薛家暂住、戏班驻地",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "贾母正房",
+      "parent_location": "荣国府",
+      "location_type": "院落",
+      "note": "贾母起居正房",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "荣禧堂",
+      "parent_location": "荣国府",
+      "location_type": "厅堂",
+      "note": "荣国府正厅礼仪场所",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "铁槛寺",
+      "parent_location": "",
+      "location_type": "寺庙",
+      "note": "贾府家庙、停灵场所",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "馒头庵",
+      "parent_location": "",
+      "location_type": "寺庙",
+      "note": "即水月庵，王熙凤弄权之地",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "太虚幻境",
+      "parent_location": "",
+      "location_type": "神话场景",
+      "note": "宝玉梦游、判词所在地",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "藕香榭",
+      "parent_location": "大观园",
+      "location_type": "亭榭",
+      "note": "大观园宴饮、赏荷之所",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "芦雪广",
+      "parent_location": "大观园",
+      "location_type": "庭轩",
+      "note": "众钗赏雪联诗之所",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "沁芳闸桥",
+      "parent_location": "大观园",
+      "location_type": "景观",
+      "note": "大观园核心水景桥",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "贾赦院",
+      "parent_location": "荣国府",
+      "location_type": "院落",
+      "note": "贾赦、邢夫人住所",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "贾政书房",
+      "parent_location": "荣国府",
+      "location_type": "书房",
+      "note": "贾政办公、训子之处",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "薛姨妈院",
+      "parent_location": "荣国府",
+      "location_type": "院落",
+      "note": "薛姨妈、薛宝钗住所",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "赵姨娘院",
+      "parent_location": "荣国府",
+      "location_type": "院落",
+      "note": "赵姨娘、贾环住所",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "宁国府会芳园",
+      "parent_location": "宁国府",
+      "location_type": "园林",
+      "note": "宁府旧园，后并入大观园",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "清虚观",
+      "parent_location": "",
+      "location_type": "道观",
+      "note": "张道士道观，打醮场所",
+      "source_of_addition": "existing",
+      "confidence": "high",
+      "review_needed": false
+    },
+    {
+      "standard_location": "沁芳亭",
+      "parent_location": "",
+      "location_type": "景观",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=5 file=5；后缀「亭」+14（亭类后缀） → 总分 53.6，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "冯紫英府",
+      "parent_location": "",
+      "location_type": "府邸",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1；后缀「府」+18（府邸类后缀） → 总分 53.3，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "甄士隐书房",
+      "parent_location": "",
+      "location_type": "书房",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=4 file=1；后缀「书房」+16（书房复合） → 总分 52.2，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "薛蟠书房",
+      "parent_location": "",
+      "location_type": "书房",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1；后缀「书房」+16（书房复合） → 总分 51.3，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "水月庵",
+      "parent_location": "",
+      "location_type": "寺庙",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=4 file=2；后缀「庵」+14（庵类后缀） → 总分 51.2，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "芦雪庵",
+      "parent_location": "",
+      "location_type": "寺庙",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=5 file=1；后缀「庵」+14（庵类后缀） → 总分 50.9，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "宁荣二府",
+      "parent_location": "",
+      "location_type": "府邸",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「府」+18（府邸类后缀） → 总分 50.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "荣宁二府",
+      "parent_location": "",
+      "location_type": "府邸",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「府」+18（府邸类后缀） → 总分 50.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "宁荣街",
+      "parent_location": "",
+      "location_type": "街巷",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=10 file=4；后缀「街」+8（街巷） → 总分 49.6，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "天香楼",
+      "parent_location": "",
+      "location_type": "楼阁",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=2 file=2；后缀「楼」+14（楼类后缀） → 总分 49.1，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "荣庆堂",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=7 file=2；后缀「堂」+10（堂类后缀） → 总分 49.1，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "荣府暖阁",
+      "parent_location": "",
+      "location_type": "楼阁",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=5 file=1；后缀「阁」+12（阁类后缀） → 总分 48.9，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "宴席厅堂",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=8 file=1；后缀「堂」+10（堂类后缀） → 总分 48.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "绮散斋书房",
+      "parent_location": "",
+      "location_type": "书房",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「书房」+16（书房复合） → 总分 48.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "赖大家书房",
+      "parent_location": "",
+      "location_type": "书房",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「书房」+16（书房复合） → 总分 48.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "甄家书房",
+      "parent_location": "",
+      "location_type": "书房",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「书房」+16（书房复合） → 总分 48.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "贾母内院",
+      "parent_location": "",
+      "location_type": "院落",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=4 file=1；后缀「院」+12（院落类后缀） → 总分 48.2，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "府内庭院",
+      "parent_location": "",
+      "location_type": "院落",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1；后缀「院」+12（院落类后缀） → 总分 47.3，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "凤姐院",
+      "parent_location": "",
+      "location_type": "院落",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=2 file=2；后缀「院」+12（院落类后缀） → 总分 47.1，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "葫芦庙",
+      "parent_location": "",
+      "location_type": "寺庙",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=2 file=2；后缀「庙」+12（庙类后缀） → 总分 47.1，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "赖大家花园",
+      "parent_location": "",
+      "location_type": "园林",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「园」+14（园林类后缀） → 总分 46.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "甄家花园",
+      "parent_location": "",
+      "location_type": "园林",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「园」+14（园林类后缀） → 总分 46.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "水仙庵",
+      "parent_location": "",
+      "location_type": "寺庙",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「庵」+14（庵类后缀） → 总分 46.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "滴翠亭",
+      "parent_location": "",
+      "location_type": "景观",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「亭」+14（亭类后缀） → 总分 46.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "荒郊至水仙庵",
+      "parent_location": "",
+      "location_type": "寺庙",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「庵」+14（庵类后缀） → 总分 46.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "智通寺",
+      "parent_location": "",
+      "location_type": "寺庙",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「寺」+14（寺类后缀） → 总分 46.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "荣府",
+      "parent_location": "",
+      "location_type": "府邸",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=11 file=8；后缀「府」+18（府邸类后缀）；名称过短（-15） → 总分 46.4，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "缀锦阁",
+      "parent_location": "",
+      "location_type": "楼阁",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=2 file=1；后缀「阁」+12（阁类后缀） → 总分 46.1，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "宝玉房间",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=20 file=7 → 总分 45.4，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "大官家庙",
+      "parent_location": "",
+      "location_type": "寺庙",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「庙」+12（庙类后缀） → 总分 44.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "水仙庵后园井台",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「台」+12（台类后缀） → 总分 44.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "海棠院",
+      "parent_location": "",
+      "location_type": "院落",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「院」+12（院落类后缀） → 总分 44.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "蜂腰桥",
+      "parent_location": "",
+      "location_type": "景观",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「桥」+12（桥类后缀） → 总分 44.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "贾母院",
+      "parent_location": "",
+      "location_type": "院落",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「院」+12（院落类后缀） → 总分 44.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "怡红院庭院",
+      "parent_location": "",
+      "location_type": "院落",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「院」+12（院落类后缀） → 总分 44.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "戏班后台",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「台」+12（台类后缀） → 总分 44.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "有凤来仪外庭院",
+      "parent_location": "",
+      "location_type": "院落",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「院」+12（院落类后缀） → 总分 44.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "花园石桥",
+      "parent_location": "",
+      "location_type": "景观",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「桥」+12（桥类后缀） → 总分 44.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "郊外石桥",
+      "parent_location": "",
+      "location_type": "景观",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「桥」+12（桥类后缀） → 总分 44.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "荣府戏台",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「台」+12（台类后缀） → 总分 44.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "逗蜂轩",
+      "parent_location": "",
+      "location_type": "院落",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「轩」+10（轩类后缀） → 总分 42.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "寺庙佛堂",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「堂」+10（堂类后缀） → 总分 42.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "荣府穿堂",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「堂」+10（堂类后缀） → 总分 42.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "晓翠堂",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「堂」+10（堂类后缀） → 总分 42.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "王熙凤房间",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=10 file=3 → 总分 41.1，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "贾宝玉房间",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=9 file=3 → 总分 40.7，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "姑苏城阊门外仁清巷",
+      "parent_location": "",
+      "location_type": "街巷",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「巷」+8（街巷） → 总分 40.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "宁府街",
+      "parent_location": "",
+      "location_type": "街巷",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「街」+8（街巷） → 总分 40.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "贾府",
+      "parent_location": "",
+      "location_type": "府邸",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=3；后缀「府」+18（府邸类后缀）；名称过短（-15） → 总分 40.0，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "宝玉卧房",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=7 file=2 → 总分 39.1，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "王熙凤卧室",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=7 file=2 → 总分 39.1，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "省亲别墅",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=5 file=3 → 总分 38.6，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "宁府",
+      "parent_location": "",
+      "location_type": "府邸",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1；后缀「府」+18（府邸类后缀）；名称过短（-15） → 总分 38.3，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "议事厅儿",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=6 file=1 → 总分 37.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "省亲别墅正殿",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=4 file=2 → 总分 37.2，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "秦可卿房间",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=4 file=2 → 总分 37.2，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "黛玉房间",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=4 file=2 → 总分 37.2，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "凤姐院中",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=3 → 总分 37.0，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "蘅芜苑",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=2 → 总分 36.3，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "贾母房间",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=2 → 总分 36.3，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "贾氏家塾",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=4 file=1 → 总分 36.2，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "贾母房",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=4 file=1 → 总分 36.2，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "林府",
+      "parent_location": "",
+      "location_type": "府邸",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「府」+18（府邸类后缀）；名称过短（-15） → 总分 35.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "赖府",
+      "parent_location": "",
+      "location_type": "府邸",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=1 file=1；后缀「府」+18（府邸类后缀）；名称过短（-15） → 总分 35.5，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "宗祠内",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "黛玉房",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "酒席间",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "贾宝玉卧房",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "袭人家",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "花自芳家",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "林黛玉房间",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "探春房间",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "凤姐居所",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "宅院巷道",
+      "parent_location": "",
+      "location_type": "街巷",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "卜世仁店铺",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "贾母堂屋",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "芦雪庭",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "柳叶渚",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "探春房外",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "宝玉卧室",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=3 file=1 → 总分 35.3，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "凤姐院内",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=2 file=2 → 总分 35.1，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "怡红院外",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=2 file=2 → 总分 35.1，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "贾母院外",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=2 file=2 → 总分 35.1，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "林黛玉闺房",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=2 file=2 → 总分 35.1，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "院墙边",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=2 file=2 → 总分 35.1，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    },
+    {
+      "standard_location": "马车内",
+      "parent_location": "",
+      "location_type": "其他",
+      "note": "【二轮草案】由规则打分候选；规则类型为 alias（+28）；频次 occ=2 file=2 → 总分 35.1，阈值 35",
+      "source_of_addition": "candidate_from_llm_input",
+      "confidence": "medium",
+      "review_needed": true
+    }
+  ],
+  "items": [
+    {
+      "original_location": "宝玉房中",
+      "source": "txt",
+      "occurrence_count": 15,
+      "file_count": 6,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "贾母房中",
+      "source": "txt",
+      "occurrence_count": 15,
+      "file_count": 10,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "宝玉房内",
+      "source": "txt",
+      "occurrence_count": 12,
+      "file_count": 3,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "荣府",
+      "source": "txt",
+      "occurrence_count": 11,
+      "file_count": 8,
+      "location_type": "alias",
+      "rule_note": "常见别称，倾向映射至「荣国府」（须由模型在闭表内确认）",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "黛玉房中",
+      "source": "txt",
+      "occurrence_count": 10,
+      "file_count": 6,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "王夫人上房",
+      "source": "txt",
+      "occurrence_count": 8,
+      "file_count": 5,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "贾母处",
+      "source": "txt",
+      "occurrence_count": 8,
+      "file_count": 5,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "家塾",
+      "source": "txt",
+      "occurrence_count": 7,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "王夫人房中",
+      "source": "txt",
+      "occurrence_count": 7,
+      "file_count": 5,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "薛姨妈处",
+      "source": "txt",
+      "occurrence_count": 7,
+      "file_count": 3,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "王夫人处",
+      "source": "txt",
+      "occurrence_count": 6,
+      "file_count": 6,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "议事厅儿",
+      "source": "txt",
+      "occurrence_count": 6,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "凤姐房中",
+      "source": "txt",
+      "occurrence_count": 5,
+      "file_count": 4,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "沁芳亭",
+      "source": "txt",
+      "occurrence_count": 5,
+      "file_count": 5,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "荣府暖阁",
+      "source": "txt",
+      "occurrence_count": 5,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "凤姐内室",
+      "source": "txt",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "凤姐房内",
+      "source": "txt",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "探春处",
+      "source": "txt",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "村肆",
+      "source": "txt",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "甄士隐书房",
+      "source": "txt",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "荣国府宝玉房内",
+      "source": "txt",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "贾母内院",
+      "source": "txt",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾氏家塾",
+      "source": "txt",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "冯紫英府",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "凤姐居所",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "凤姐院中",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 3,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "凤姐院中东屋",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "园中小径",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "宁府",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "常见别称，倾向映射至「宁国府」（须由模型在闭表内确认）",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宝玉卧室",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "探春房中",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "探春房外",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "柳叶渚",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "芦雪庭",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "薛家",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "薛蟠书房",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "蘅芜苑",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "常见别称，倾向映射至「蘅芜院」（须由模型在闭表内确认）",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "袭人家",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾府",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 3,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾母堂屋",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾瑞房中",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "凤姐处",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "凤姐院",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "凤姐院内",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "园中枫树下",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "大荒山无稽崖青埂峰下",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "太虚幻境仙宫",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宁府上房",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宝玉住处",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "应天府密室",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "应天府衙",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "怡红院内",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "怡红院外",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "沁芳闸桥边",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "王夫人屋里",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "秦家内室",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "秦氏卧房",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "穿廊",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "缀锦阁",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾母上房",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "贾母屋内",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "贾母房内",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "贾母院外",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "赵姨娘住处",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "金荣家",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "黛玉房内",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "上夜房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "上房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "书房外",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "二门前",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "五儿家中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "代儒家中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "修竹清舍",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "农庄村头",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "农庄茅屋",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "冯府廊下",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "凤姐住处",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "凤姐房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "出殡路上北静王轿前",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "出殡路上路祭棚前",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "北门外桥边",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "北门外苇塘",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "卜世仁家",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "后门厨房外",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "周瑞家",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "周瑞家中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "园中亭子",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "园中道路",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "园内各处及正殿",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "园内水路",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "园外二门前",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "园径",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "园角门",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "城外乡村",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "多浑虫家",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "大如州街前",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "大官家庙",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "天香楼",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "太虚幻境薄命司",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "姑苏城街头",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "姑苏城阊门外仁清巷",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宁府园中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宁府大厅外",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宁府街",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宁府里间",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宁荣二府",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宝玉住所",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宝玉房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "封家",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "封家门外",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "小红房中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "山坡",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "平儿房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "廊檐下",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "往怡红院途中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "怡红院内室",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "怡红院墙角花阴下",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "怡红院窗外",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "怡红院门外",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "晓翠堂",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "智通寺",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "林府",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "林府馆中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "柳堤",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "柳家哥哥家",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "梦中幻境",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "水仙庵后园井台",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "沁芳亭后桃花树下",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "沁芳桥堤",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "沁芳溪畔",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "海棠院",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "滴翠亭",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "潇湘馆外桃花树下",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "狗儿家中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "王夫人住处",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "王夫人房内",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "王夫人正房后抱厦",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "玲珑院落",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "甄家书房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "甄家旧宅",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "甄家门前街市",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "登舟处",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "省亲正殿",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "石榴树下",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "碧纱厨内",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "禅堂与回城途中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "秦家",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "绮散斋书房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "维扬",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "花冢",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "花厅廊上",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "荒郊至水仙庵",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "荣宁二府",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "荣府二门口",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "荣府台阶下",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "荣府大门",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "荣府大门外及东院",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "荣府大门外及园内",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "荣府夹道空屋",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "荣府戏台",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "荣府正内室及耳房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "荣府穿堂",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "荣府银库",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "荣府院外",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "荣府院落",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "薛家花阴下",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "薛蟠卧房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "蜂腰桥",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "行宫正殿",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "街道",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "街道上",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "衙内",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "袭人屋内",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "贾母后院正房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾母处下房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾母房外",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾母正室",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾母正室外帘及内室",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "贾母里间",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "贾母院",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾母院中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾母院散处",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "贾琏卧室",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾琏处",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "贾琏房中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "贾琏院中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾琏院外",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾瑞家中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾芸家",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾赦院内",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "赖大家书房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "赖大家花园",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "赖家大门前",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "赵姨娘房内",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "进京途中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "送殡途中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "逗蜂轩",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "邢夫人房内",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "金文翔家",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "金陵",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "金陵薛家",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "长安县路上",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "鸳鸯卧房门前",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "黛玉住处",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "室内",
+      "source": "video",
+      "occurrence_count": 53,
+      "file_count": 24,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "贾母房中",
+      "source": "video",
+      "occurrence_count": 41,
+      "file_count": 13,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "王熙凤房内",
+      "source": "video",
+      "occurrence_count": 28,
+      "file_count": 9,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "庭院",
+      "source": "video",
+      "occurrence_count": 26,
+      "file_count": 15,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "宝玉房间",
+      "source": "video",
+      "occurrence_count": 20,
+      "file_count": 7,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "卧室",
+      "source": "video",
+      "occurrence_count": 17,
+      "file_count": 8,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "花园",
+      "source": "video",
+      "occurrence_count": 16,
+      "file_count": 11,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "闺房",
+      "source": "video",
+      "occurrence_count": 15,
+      "file_count": 7,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "街道",
+      "source": "video",
+      "occurrence_count": 14,
+      "file_count": 5,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宝玉房内",
+      "source": "video",
+      "occurrence_count": 11,
+      "file_count": 4,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "贾琏房内",
+      "source": "video",
+      "occurrence_count": 11,
+      "file_count": 4,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "宁荣街",
+      "source": "video",
+      "occurrence_count": 10,
+      "file_count": 4,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "屋内",
+      "source": "video",
+      "occurrence_count": 10,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "房间",
+      "source": "video",
+      "occurrence_count": 10,
+      "file_count": 4,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "王熙凤房间",
+      "source": "video",
+      "occurrence_count": 10,
+      "file_count": 3,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾宝玉房间",
+      "source": "video",
+      "occurrence_count": 9,
+      "file_count": 3,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宴席厅堂",
+      "source": "video",
+      "occurrence_count": 8,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "王夫人房中",
+      "source": "video",
+      "occurrence_count": 8,
+      "file_count": 4,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "王夫人房内",
+      "source": "video",
+      "occurrence_count": 8,
+      "file_count": 3,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "薛姨妈处",
+      "source": "video",
+      "occurrence_count": 8,
+      "file_count": 2,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "公堂",
+      "source": "video",
+      "occurrence_count": 7,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "内室",
+      "source": "video",
+      "occurrence_count": 7,
+      "file_count": 5,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宝玉卧房",
+      "source": "video",
+      "occurrence_count": 7,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "王熙凤卧室",
+      "source": "video",
+      "occurrence_count": 7,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "王熙凤房中",
+      "source": "video",
+      "occurrence_count": 7,
+      "file_count": 3,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "船上",
+      "source": "video",
+      "occurrence_count": 7,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "荣庆堂",
+      "source": "video",
+      "occurrence_count": 7,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "正殿",
+      "source": "video",
+      "occurrence_count": 6,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾宝玉房内",
+      "source": "video",
+      "occurrence_count": 6,
+      "file_count": 3,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "贾母房内",
+      "source": "video",
+      "occurrence_count": 6,
+      "file_count": 3,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "王熙凤住处",
+      "source": "video",
+      "occurrence_count": 5,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "省亲别墅",
+      "source": "video",
+      "occurrence_count": 5,
+      "file_count": 3,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "芦雪庵",
+      "source": "video",
+      "occurrence_count": 5,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "衙门内室",
+      "source": "video",
+      "occurrence_count": 5,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "亭子",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "卧房",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "厅堂",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 4,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "园中亭台",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "巷子",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "水月庵",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "省亲别墅正殿",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "石桥",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "秦可卿房内",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "秦可卿房间",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾宝玉房中",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "贾政房中",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "贾母房",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "走廊",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "黛玉房内",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "黛玉房间",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "内殿",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "卜世仁店铺",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "周瑞家屋内",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "宅院巷道",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宗祠内",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "室内书房",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "府内庭院",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "怡红院内室",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "探春房间",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "林黛玉房间",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "水边",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "潇湘馆内室",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "花自芳家",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "袭人家",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾宝玉卧房",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾母房间",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "酒席间",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "院落门前",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "香菱房中",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "黛玉房",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "黛玉房中",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "五儿房间",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "厅堂内",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "园中小径",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "园中荷塘边",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "园林",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "大荒山无迹崖青埂峰",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "天香楼",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宅院门口",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宝玉房中",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "宝玉房外",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宴会场所",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宴席",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "府邸廊下",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "房间内",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "暗室",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "月榭",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "林黛玉闺房",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "水上河道",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "沁芳亭后桃树下",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "游廊",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "省亲别墅内室",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "花园小径",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "葫芦庙",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "薛宝钗房间",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "袭人娘家",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾代儒房中",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾宝玉房门外",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾赦内室",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "赵姨娘房",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "赵姨娘房内",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "赵姨娘房间",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "路祭现场",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "送殡路上",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "郊外树林",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "门口",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "院墙边",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "院子",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "院落",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "马车内",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "黛玉居室",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "龄官房间",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "下人房",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "书房外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "内堂",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "周瑞家院子",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "园中假山旁",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "园中廊下",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "园中廊桥",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "园中水亭",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "园中石桥",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "园中竹林旁",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "园子",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "园林长廊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "城外道路",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "墙角",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "夜晚户外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宅邸大门外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宗祠",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宗祠外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宝二爷卧房",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宝玉居室",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "宝玉房",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "室外走廊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "寺庙佛堂",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "小厨房",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "山坡",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "山间小路",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "府内",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "府邸大厅",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "府邸门外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "府门外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "庭院竹林",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "怡红院庭院",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "戏班后台",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "户外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "房内",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "有凤来仪外庭院",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "林如海家中",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "林间",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "树林",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "楼阁走廊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "正厅",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "水仙庵",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "水仙庵外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "沁芳桥旁",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "沙丘",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "潇湘馆院子",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "火场",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "灯笼作坊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "熙凤房内",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "王熙凤卧房",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "王熙凤房外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "甄家花园",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "甄家门外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "甄家院落",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "省亲别墅正厅",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "秦可卿房外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "秦氏房中",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "窗外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "竹林",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "竹林回廊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "红尘世间",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "花丛",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "花园水池边",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "花园石桥",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "花园长廊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "荒郊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "葫芦庙门口",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "街上",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "街巷",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "街市",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾代儒住处外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾宝玉卧室",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾宝玉房外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾宝玉房间外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾政房间",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾母住处",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "keep_as_alias"
+    },
+    {
+      "original_location": "贾母卧房",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾氏宗祠",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾琏卧房",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾瑞卧房",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾赦房中",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "贾赦房内",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "贾赦院中",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "贾赦院外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "赖府",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "道观静室",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "邢夫人房间",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "郊外小路",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "郊外石桥",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "野外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "野外雪路",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "长廊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "院外走廊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "院落走廊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "院落门口",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "院落门外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "鸳鸯房中",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一",
+      "round2_strategy": "generic_or_unknown"
+    },
+    {
+      "original_location": "鸳鸯房间",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    },
+    {
+      "original_location": "黛玉闺房",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理",
+      "round2_strategy": "map_to_canonical"
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+```json
+{
+  "episode_id": "19",
+  "episode_title": "琉璃世界白雪红梅",
+  "segment_id": "S05",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "董妈妈夜间来到潇湘馆门口",
+      "characters": [
+        "董妈妈",
+        "潇湘馆婆子"
+      ],
+      "location": "潇湘馆",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "董妈妈夜间提灯笼来到潇湘馆门口，向婆子说明是给林姑娘送东西。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "董妈妈进屋送礼，林黛玉打赏",
+      "characters": [
+        "董妈妈",
+        "林黛玉",
+        "紫鹃"
+      ],
+      "location": "潇湘馆",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "董妈妈进入潇湘馆内室，将宝姑娘送来的燕窝和洋糖交给林黛玉，林黛玉吩咐紫鹃打赏董妈妈。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "林黛玉卧床盘算燕窝之事",
+      "characters": [
+        "林黛玉"
+      ],
+      "location": "潇湘馆",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉独自躺在床上，盘算着燕窝的来源和用法。"
+    }
+  ]
+}
+```

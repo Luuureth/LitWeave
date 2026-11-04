@@ -1,0 +1,30 @@
+{
+  "episode_id": "19",
+  "episode_title": "琉璃世界白雪红梅",
+  "segment_id": "S02",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "探讨病情与提出食疗建议",
+      "characters": ["薛宝钗", "林黛玉"],
+      "location": "潇湘馆",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "薛宝钗建议请太医为林黛玉诊治，林黛玉认为病难治愈，薛宝钗转而建议每日食用燕窝冰糖粥以滋阴补气。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "倾诉身世与互相安慰",
+      "characters": ["薛宝钗", "林黛玉"],
+      "location": "潇湘馆",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉感激薛宝钗往日劝诫并坦承自己身世孤苦，薛宝钗温柔安抚并拥抱林黛玉。"
+    }
+  ]
+}

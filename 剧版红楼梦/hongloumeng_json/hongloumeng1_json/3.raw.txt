@@ -1,0 +1,67 @@
+```json
+{
+  "episode_id": "01",
+  "episode_title": "林黛玉别父进京都",
+  "segment_id": "S03",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾雨村吟诗，甄士隐邀饮",
+      "characters": [
+        "贾雨村",
+        "甄士隐"
+      ],
+      "location": "甄家院落",
+      "time_hint": null,
+      "explicit_time": "中秋",
+      "relation_to_previous": "start",
+      "event_summary": "中秋夜，贾雨村在月下吟诗，甄士隐听到后出来相见，并邀请他饮酒。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "月榭对饮吟诗",
+      "characters": [
+        "贾雨村",
+        "甄士隐"
+      ],
+      "location": "月榭",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "两人在月榭对饮吃蟹，贾雨村吟诗展露抱负，甄士隐大加赞赏其才志。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "甄士隐赠银赠衣",
+      "characters": [
+        "贾雨村",
+        "甄士隐",
+        "丫鬟"
+      ],
+      "location": "月榭",
+      "time_hint": "same_time",
+      "explicit_time": "本月十九日",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾雨村坦言无路费进京，甄士隐让丫鬟取来五十两纹银和冬衣资助其赶考。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "贾雨村辞行上路",
+      "characters": [
+        "贾雨村",
+        "书童"
+      ],
+      "location": "甄家门外",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "次日清晨，贾雨村挑行李准备离开，告诉书童来不及面辞甄士隐，随即撑伞上路。"
+    }
+  ]
+}
+```

@@ -1,0 +1,53 @@
+```json
+{
+  "episode_id": "03",
+  "episode_title": "刘姥姥一进荣国府",
+  "segment_id": "S07",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "周瑞家的问候金钏并前往宝钗房间",
+      "characters": [
+        "周瑞家的",
+        "金钏",
+        "丫鬟"
+      ],
+      "location": "荣国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "周瑞家的在庭院问候金钏和一名丫鬟后，穿过走廊进入薛宝钗的房间。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "薛宝钗讲述冷香丸的配方",
+      "characters": [
+        "周瑞家的",
+        "薛宝钗"
+      ],
+      "location": "薛宝钗房间",
+      "time_hint": null,
+      "explicit_time": "两三天",
+      "relation_to_previous": "sequential",
+      "event_summary": "薛宝钗向周瑞家的解释自己的病根，并详细讲述了癞头和尚开出的需要四季花蕊和节气水的药方。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "薛宝钗展示冷香丸并说明药效",
+      "characters": [
+        "周瑞家的",
+        "薛宝钗"
+      ],
+      "location": "薛宝钗房间",
+      "time_hint": null,
+      "explicit_time": "十年",
+      "relation_to_previous": "sequential",
+      "event_summary": "薛宝钗拿出药丸盒子，告知此药名为“冷香丸”，并向周瑞家的说明发病时服用的效果。"
+    }
+  ]
+}
+```

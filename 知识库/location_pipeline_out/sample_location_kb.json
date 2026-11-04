@@ -1,0 +1,43 @@
+[
+  {
+    "canonical_location": "怡红院",
+    "aliases": [
+      "宝玉房中",
+      "宝玉房内",
+      "宝玉住处",
+      "宝玉卧室"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "parent_location": "大观园",
+    "location_type_note": "院落级标准节点；人物卧房类描述归并到此"
+  },
+  {
+    "canonical_location": "潇湘馆",
+    "aliases": [
+      "黛玉房中",
+      "黛玉闺房",
+      "林黛玉房间"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "parent_location": "大观园",
+    "location_type_note": "林黛玉住所；其房间/闺房等子空间表述归并到此"
+  },
+  {
+    "canonical_location": "荣国府",
+    "aliases": [
+      "荣府"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "parent_location": "",
+    "location_type_note": "府邸级节点"
+  }
+]

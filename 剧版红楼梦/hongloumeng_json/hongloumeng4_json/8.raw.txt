@@ -1,0 +1,61 @@
+{
+  "episode_id": "04",
+  "episode_title": "探宝钗黛玉半含酸",
+  "segment_id": "S08",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "解释摔碎茶盘缘由",
+      "characters": [
+        "丫鬟"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "一名丫鬟向奉命前来询问的同伴解释，自己因雪地路滑不慎摔碎了茶盘。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "向宝玉赌气直言",
+      "characters": [
+        "丫鬟",
+        "宝玉"
+      ],
+      "location": "室内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "一名丫鬟向宝玉表达不满，称若宝玉要撵人，不如将她们一齐撵走以便换更好的伺候。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "众人离去并掩门",
+      "characters": [
+        "丫鬟"
+      ],
+      "location": "室内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "丫鬟们陆续离开房间，其中一人收拾桌面后掩上门帘。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "卧床擦拭手部",
+      "characters": [
+        "人物"
+      ],
+      "location": "室内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "内室中一人卧床休息，另一人持布巾仔细擦拭其手部。"
+    }
+  ]
+}

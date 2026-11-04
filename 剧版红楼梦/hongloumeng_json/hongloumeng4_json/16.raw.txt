@@ -1,0 +1,67 @@
+```json
+{
+  "episode_id": "04",
+  "episode_title": "探宝钗黛玉半含酸",
+  "segment_id": "S16",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "平儿寻访凤姐",
+      "characters": [
+        "平儿",
+        "贾宝玉"
+      ],
+      "location": "室外走廊",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "平儿在走廊遇到贾宝玉，询问王熙凤去向，得知其在屋内后一同前往。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "凤姐劝慰病重的秦可卿",
+      "characters": [
+        "王熙凤",
+        "秦可卿",
+        "平儿"
+      ],
+      "location": "秦可卿房间",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤在床边喂秦可卿进食，劝慰她安心治病，不要悲观。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "凤姐辞别秦可卿",
+      "characters": [
+        "王熙凤",
+        "秦可卿"
+      ],
+      "location": "秦可卿房间",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤因事欲离开，秦可卿流露不舍与担忧，王熙凤安抚后起身告辞。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "凤姐花园遇贾瑞",
+      "characters": [
+        "王熙凤",
+        "贾瑞"
+      ],
+      "location": "花园",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤伤心离开房间，在花园假山旁遇到贾瑞请安。"
+    }
+  ]
+}
+```

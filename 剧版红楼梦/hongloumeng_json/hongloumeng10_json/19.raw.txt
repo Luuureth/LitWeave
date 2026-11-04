@@ -1,0 +1,77 @@
+{
+  "episode_id": "10",
+  "episode_title": "听曲文宝玉悟禅机",
+  "segment_id": "S19",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "丫鬟传达茗烟口信",
+      "characters": [
+        "丫鬟",
+        "宝玉"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "丫鬟传达茗烟口信，称有要紧话请二爷去沁芳桥找他。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "茗烟遇二奶奶盘问",
+      "characters": [
+        "茗烟",
+        "二奶奶"
+      ],
+      "location": "院墙边",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "茗烟携物路过院墙边时偶遇二奶奶，以带吃的为由搪塞盘问后离开。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "茗烟送书给宝玉",
+      "characters": [
+        "茗烟",
+        "宝玉"
+      ],
+      "location": "沁芳桥旁",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "茗烟赶到沁芳桥将《西厢记》等书交给在此等候的宝玉。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "宝玉茗烟匆忙藏书",
+      "characters": [
+        "宝玉",
+        "茗烟"
+      ],
+      "location": "长廊",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉与茗烟在长廊匆忙捡拾掉落的书籍，担心被人发觉后迅速跑开。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "宝玉跑回怡红院",
+      "characters": [
+        "宝玉"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉带着书跑回怡红院并迅速关上大门。"
+    }
+  ]
+}

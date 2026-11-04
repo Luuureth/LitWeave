@@ -1,0 +1,8 @@
+{
+  "episode_id": "22",
+  "episode_title": "判冤决狱平儿行权",
+  "segment_id": "S08",
+  "video_file": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_segments\\hongloumeng22_segments\\8.mp4",
+  "model": "qwen3.6-plus",
+  "error": "HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/uploads?action=getPolicy&model=qwen3.6-plus (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002C925514F50>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 11001] getaddrinfo failed)\"))"
+}

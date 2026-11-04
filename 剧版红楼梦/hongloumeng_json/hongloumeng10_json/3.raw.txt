@@ -1,0 +1,101 @@
+```json
+{
+  "episode_id": "10",
+  "episode_title": "听曲文宝玉悟禅机",
+  "segment_id": "S03",
+  "event_count": 7,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "游玩赏花",
+      "characters": [
+        "众女子"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "众女子在怡红院花园内游玩并观赏花卉。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "书画创作",
+      "characters": [
+        "众女子"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众女子围坐桌案前进行书画创作。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "娱乐嬉戏",
+      "characters": [
+        "众女子"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众女子在园中逗鸟、洗物、放风筝及荡秋千。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "闻花读书",
+      "characters": [
+        "一女子"
+      ],
+      "location": "花丛",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "一女子在花丛中手持书卷并闻花香。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "品评书画",
+      "characters": [
+        "众女子"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众女子围看书画作品并谈笑品评。"
+    },
+    {
+      "event_id": "E06",
+      "narrative_order": 6,
+      "action": "抚琴静坐",
+      "characters": [
+        "女子"
+      ],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "有人抚琴燃香，一女子在室内静坐。"
+    },
+    {
+      "event_id": "E07",
+      "narrative_order": 7,
+      "action": "林中穿行",
+      "characters": [
+        "两人"
+      ],
+      "location": "树林",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "两人在秋日树林中穿行奔跑。"
+    }
+  ]
+}
+```

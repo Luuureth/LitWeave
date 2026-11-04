@@ -1,0 +1,55 @@
+{
+  "episode_id": "10",
+  "episode_title": "听曲文宝玉悟禅机",
+  "segment_id": "S12",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众人入席举杯庆生",
+      "characters": [
+        "贾母",
+        "薛宝钗",
+        "贾宝玉",
+        "林黛玉",
+        "众姐妹"
+      ],
+      "location": "贾府内室",
+      "time_hint": null,
+      "explicit_time": "今儿",
+      "relation_to_previous": "start",
+      "event_summary": "贾府众人在内室设宴入席，共同举杯庆祝薛宝钗的生日。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾母推让宝钗点戏",
+      "characters": [
+        "贾母",
+        "薛宝钗",
+        "丫鬟"
+      ],
+      "location": "贾府内室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "丫鬟递上戏单请贾母点戏，贾母坚持让寿星薛宝钗自行挑选，宝钗最终选定一出关于鲁智深的戏。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宝钗解说曲文宝玉入迷",
+      "characters": [
+        "薛宝钗",
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "贾府内室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "薛宝钗向贾宝玉剖析所选戏曲的词藻韵律并念唱《寄生草》曲文，贾宝玉听得入神大加赞赏，林黛玉在一旁出言调侃。"
+    }
+  ]
+}

@@ -1,0 +1,186 @@
+{
+  "scope": {
+    "candidate_generation_input_links": 54,
+    "historical_final_output_events": 53,
+    "manual_confirmed_events": 14,
+    "fixed_top_k": 5,
+    "re_rank_eligible_events": 5,
+    "grid_step": 0.05,
+    "grid_configurations": 231
+  },
+  "historical_status_counts": {
+    "llm_aligned": 26,
+    "rule_matched": 13,
+    "manual_confirmed": 14
+  },
+  "config_from_timeline_run_config": {
+    "top_k_candidates": 5,
+    "min_rule_score": 0.2,
+    "alpha_name": 0.45,
+    "beta_summary": 0.3,
+    "gamma_kb": 0.25,
+    "uncertain_threshold": 0.35
+  },
+  "candidate_recall_against_manual_confirmed": {
+    "Recall@1": {
+      "count": 5,
+      "n": 14,
+      "value": 0.35714285714285715
+    },
+    "Recall@3": {
+      "count": 5,
+      "n": 14,
+      "value": 0.35714285714285715
+    },
+    "Recall@5": {
+      "count": 5,
+      "n": 14,
+      "value": 0.35714285714285715
+    }
+  },
+  "fixed_candidate_pool_note": "所有权重组合都在当前工程配置生成的 Top-5 候选集合内重新排序；因此该实验是固定候选池上的参数敏感性分析，不是随权重变化的候选召回实验。",
+  "candidate_pool_recompute_consistency": {
+    "manual_events_with_identical_top5_ids": 14,
+    "manual_events": 14
+  },
+  "selected_configurations": {
+    "historical_engineering_configuration": {
+      "alpha": 0.45,
+      "beta": 0.3,
+      "gamma": 0.25,
+      "n": 5,
+      "top1": 1.0,
+      "mrr": 1.0,
+      "top3": 1.0,
+      "top1_count": 5,
+      "top3_count": 5
+    },
+    "top1_best_representative": {
+      "alpha": 0.45,
+      "beta": 0.3,
+      "gamma": 0.25,
+      "n": 5,
+      "top1": 1.0,
+      "mrr": 1.0,
+      "top3": 1.0,
+      "top1_count": 5,
+      "top3_count": 5
+    },
+    "top1_best_tie_count": 111,
+    "mrr_best_representative": {
+      "alpha": 0.45,
+      "beta": 0.3,
+      "gamma": 0.25,
+      "n": 5,
+      "top1": 1.0,
+      "mrr": 1.0,
+      "top3": 1.0,
+      "top1_count": 5,
+      "top3_count": 5
+    },
+    "mrr_best_tie_count": 111,
+    "name_emphasis_representative": {
+      "alpha": 0.5,
+      "beta": 0.25,
+      "gamma": 0.25,
+      "n": 5,
+      "top1": 1.0,
+      "mrr": 1.0,
+      "top3": 1.0,
+      "top1_count": 5,
+      "top3_count": 5
+    },
+    "name_emphasis_tie_count": 64,
+    "summary_emphasis_representative": {
+      "alpha": 0.45,
+      "beta": 0.5,
+      "gamma": 0.05,
+      "n": 5,
+      "top1": 0.8,
+      "mrr": 0.9,
+      "top3": 1.0,
+      "top1_count": 4,
+      "top3_count": 5
+    },
+    "summary_emphasis_tie_count": 1,
+    "coverage_emphasis_representative": {
+      "alpha": 0.3,
+      "beta": 0.2,
+      "gamma": 0.5,
+      "n": 5,
+      "top1": 1.0,
+      "mrr": 1.0,
+      "top3": 1.0,
+      "top1_count": 5,
+      "top3_count": 5
+    },
+    "coverage_emphasis_tie_count": 30
+  },
+  "representative_cases_found": [
+    {
+      "case_type": "摘要权重提高：正确变错误",
+      "link_id": "SCL_00074",
+      "event_name": "林黛玉进贾府",
+      "gold_timeline_id": "TL006",
+      "baseline_rank": 1,
+      "comparison_rank": 2,
+      "comparison_weights": [
+        0.35,
+        0.35,
+        0.3
+      ]
+    }
+  ],
+  "missing_requested_case_types": [
+    "摘要权重提高：错误变正确",
+    "名称权重提高：错误变正确"
+  ],
+  "supplementary_previous_report_cases": [
+    {
+      "link_id": "SCL_00088",
+      "event_name": "勇晴雯病补孔雀裘",
+      "reference_status": "llm_aligned",
+      "reference_timeline_id": "TL060",
+      "baseline_rank": 2,
+      "comparison_rank": 1,
+      "comparison_weights": [
+        0.4,
+        0.35,
+        0.25
+      ]
+    },
+    {
+      "link_id": "SCL_00073",
+      "event_name": "林如海病重黛玉返扬州",
+      "reference_status": "llm_aligned",
+      "reference_timeline_id": "TL016",
+      "baseline_rank": 2,
+      "comparison_rank": 1,
+      "comparison_weights": [
+        0.3,
+        0.45,
+        0.25
+      ]
+    },
+    {
+      "link_id": "SCL_00074",
+      "event_name": "林黛玉进贾府",
+      "reference_status": "manual_confirmed",
+      "reference_timeline_id": "TL006",
+      "baseline_rank": 1,
+      "comparison_rank": 2,
+      "comparison_weights": [
+        0.35,
+        0.35,
+        0.3
+      ]
+    }
+  ],
+  "input_hashes_sha256": {
+    "跨模态事件对齐与事件时间线构建\\run_timeline_grounding.py": "240661f0ef96e395faec4cf238193aebec0739475c956c65440180f1793020e8",
+    "跨模态事件对齐与事件时间线构建\\kb_outputs_scene_first\\cross_modal_scene_links.json": "247ea1a52688453b69dc74fb6de8fa40b3aacb8eca76ccaacc98319ca0ab8124",
+    "知识库\\红楼梦时间线.csv": "2e481ad5b9cce03fec71bcfbe629988c5bcb9f7b32ab3261d0164d41d611ee65",
+    "跨模态事件对齐与事件时间线构建\\timeline_outputs\\matched_events_with_timeline.json": "ad14cbf69e857047ac210a9475bfe2a460b4034b919c15d87b8462fa3eb4bd72",
+    "跨模态事件对齐与事件时间线构建\\timeline_outputs\\timeline_run_config.json": "7af384bda607a1fc3ce2e86232bacea686724521d704d402045d4204393240c9"
+  }
+}

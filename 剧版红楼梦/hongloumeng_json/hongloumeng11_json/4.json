@@ -1,0 +1,64 @@
+{
+  "episode_id": "11",
+  "episode_title": "为争宠姐弟遭魔魇",
+  "segment_id": "S04",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾芸在巷口撞见正欲动手的倪二，两人互相认出",
+      "characters": [
+        "贾芸",
+        "倪二"
+      ],
+      "location": "巷子",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾芸在巷口撞见正欲动手的倪二，两人互相认出，倪二道歉。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "倪二向贾芸抱怨去舅舅家借钱被赶出的遭遇，贾芸出言安慰",
+      "characters": [
+        "贾芸",
+        "倪二"
+      ],
+      "location": "巷子",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "倪二向贾芸抱怨去舅舅家借钱被赶出的遭遇，贾芸出言安慰。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾芸提出借钱给倪二，倪二推辞，贾芸欲走，倪二拉住贾芸表示既然是朋友就不写契约，贾芸答应",
+      "characters": [
+        "贾芸",
+        "倪二"
+      ],
+      "location": "巷子",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾芸提出借钱给倪二，倪二推辞，贾芸欲走，倪二拉住贾芸表示既然是朋友就不写契约，贾芸答应。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "倪二向贾芸表达义气并邀请日后相聚，贾芸告别离开",
+      "characters": [
+        "贾芸",
+        "倪二"
+      ],
+      "location": "巷子",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "倪二向贾芸表达义气并邀请日后相聚，贾芸告别离开。"
+    }
+  ]
+}

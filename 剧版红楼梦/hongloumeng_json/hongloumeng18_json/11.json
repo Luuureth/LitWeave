@@ -1,0 +1,35 @@
+{
+  "episode_id": "18",
+  "episode_title": "鸳鸯女誓绝鸳鸯偶",
+  "segment_id": "S11",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "鸳鸯表明拒婚决心",
+      "characters": [
+        "鸳鸯",
+        "贾宝玉"
+      ],
+      "location": "园中荷塘边",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "众人在荷塘边谈论婚事与身份，鸳鸯表明宁死不从的决心，宝玉出言安慰。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "突降大雨众人避雨，宝玉被劝归",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "园中荷塘边",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "天色突变下起大雨，众人匆忙跑回避雨，宝玉独自滞留观水禽后被同伴撑伞劝回。"
+    }
+  ]
+}

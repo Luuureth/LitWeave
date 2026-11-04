@@ -1,0 +1,30 @@
+{
+  "episode_id": "08",
+  "episode_title": "荣国府归省庆元宵",
+  "segment_id": "S11",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "官员与内侍列队行进至香案前肃立",
+      "characters": [],
+      "location": "荣国府",
+      "time_hint": "background",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "众官员与内侍身着朝服列队行进至大殿香案前肃立，准备迎驾仪式。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "彩嫔等妃嫔盛装列队行进受礼",
+      "characters": [],
+      "location": "荣国府",
+      "time_hint": "background",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "彩嫔等后宫妃嫔与宫女头戴凤冠盛装列队行进，现场行免礼仪式。"
+    }
+  ]
+}

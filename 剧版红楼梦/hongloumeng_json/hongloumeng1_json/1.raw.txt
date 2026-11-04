@@ -1,0 +1,48 @@
+{
+  "episode_id": "01",
+  "episode_title": "林黛玉别父进京都",
+  "segment_id": "S01",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "旁白交代神话背景与神仙游历",
+      "characters": [
+        "两位神仙"
+      ],
+      "location": "大荒山无迹崖青埂峰",
+      "time_hint": "background",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "旁白引出刻于石头上的故事背景，描述两位神仙在缥缈仙山间遨游论道。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "携女娲弃石入红尘",
+      "characters": [
+        "两位神仙"
+      ],
+      "location": "大荒山无迹崖青埂峰",
+      "time_hint": "after",
+      "explicit_time": "一日",
+      "relation_to_previous": "sequential",
+      "event_summary": "两位神仙途经青埂峰，将女娲补天未用的顽石携入红尘，历尽人间悲欢。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "化身僧道步入人间",
+      "characters": [
+        "癞头和尚",
+        "跛足道人"
+      ],
+      "location": "红尘世间",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "两位神仙化身为癞头和尚与跛足道人，疯癫谈笑着穿过牌坊走入人间，故事由此开始。"
+    }
+  ]
+}

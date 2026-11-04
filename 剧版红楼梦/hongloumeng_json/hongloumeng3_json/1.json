@@ -1,0 +1,63 @@
+{
+  "episode_id": "03",
+  "episode_title": "刘姥姥一进荣国府",
+  "segment_id": "S01",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "赶路休息",
+      "characters": [
+        "刘姥姥",
+        "板儿"
+      ],
+      "location": "山间小路",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "刘姥姥带着板儿在山间赶路，途中停下休息吃东西。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "大门问路",
+      "characters": [
+        "刘姥姥",
+        "板儿"
+      ],
+      "location": "荣国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "刘姥姥带板儿来到荣国府大门，向看门大爷打听周瑞大爷，被指引去后街寻找。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "后街确认身份",
+      "characters": [
+        "刘姥姥",
+        "板儿"
+      ],
+      "location": "荣国府后街",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "刘姥姥在后街向路人打听周大娘，确认是“太太陪房周瑞家的”后，路人答应带路。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "进院通报",
+      "characters": [
+        "周瑞家的"
+      ],
+      "location": "府内庭院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "红衣小女孩跑进院子呼叫周大娘，告知有客来访。"
+    }
+  ]
+}

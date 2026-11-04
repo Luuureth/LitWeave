@@ -1,0 +1,32 @@
+```json
+{
+  "episode_id": "21",
+  "episode_title": "荣国府元宵开夜宴.",
+  "segment_id": "S10",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "叫人吃饭",
+      "characters": ["丫鬟", "姑娘", "奶奶"],
+      "location": "室内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "丫鬟叫姑娘和奶奶吃饭。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "议论平姑娘地位及赵姨奶奶闹事",
+      "characters": ["平姑娘", "二奶奶", "赵姨奶奶", "众丫鬟"],
+      "location": "庭院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众丫鬟在庭院中议论平姑娘虽为姑娘家但地位特殊，连太太和二奶奶都要让她几分，并提及赵姨奶奶闹事后众人推卸责任给她。"
+    }
+  ]
+}
+```

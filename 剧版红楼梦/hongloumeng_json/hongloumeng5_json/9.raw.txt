@@ -1,0 +1,52 @@
+```json
+{
+  "episode_id": "05",
+  "episode_title": "王熙凤毒设相思局",
+  "segment_id": "S09",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "梳妆",
+      "characters": [
+        "王熙凤",
+        "平儿"
+      ],
+      "location": "闺房",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "平儿协助王熙凤在闺房内梳妆打扮。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "罚读",
+      "characters": [
+        "贾瑞",
+        "代儒"
+      ],
+      "location": "庭院",
+      "time_hint": null,
+      "explicit_time": "十天",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾瑞在庭院中跪地背书受罚，代儒在一旁严厉监督并责令其补足十天功课。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "嘲笑",
+      "characters": [
+        "王熙凤",
+        "平儿"
+      ],
+      "location": "闺房",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤与平儿在闺房内谈及贾瑞受冻之事，二人以此取乐大笑。"
+    }
+  ]
+}
+```

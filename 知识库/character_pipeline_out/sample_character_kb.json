@@ -1,0 +1,26 @@
+[
+  {
+    "canonical_name": "贾宝玉",
+    "aliases": [
+      "宝玉",
+      "宝二爷"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "notes": "示例"
+  },
+  {
+    "canonical_name": "林黛玉",
+    "aliases": [
+      "黛玉",
+      "林妹妹"
+    ],
+    "sources": [
+      "txt",
+      "video"
+    ],
+    "notes": "示例"
+  }
+]

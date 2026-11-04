@@ -1,0 +1,84 @@
+```json
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S17",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾政率众入园过桥",
+      "characters": [
+        "贾政",
+        "贾宝玉",
+        "清客"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾政带领贾宝玉及清客们进入大观园，走过白色的桥梁与夹道小径。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "众人游赏亭台水榭",
+      "characters": [
+        "贾政",
+        "贾宝玉",
+        "清客"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众人走过曲折的石桥，在亭台楼阁间穿行游览。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "临水观赏鱼鸟花卉",
+      "characters": [
+        "贾政",
+        "贾宝玉",
+        "清客"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众人观看池中游鱼、水上荷花及岸边建筑与窗景。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "贾政花前考问宝玉",
+      "characters": [
+        "贾政",
+        "贾宝玉"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾政与宝玉在花树前驻足交谈，贾政似乎在考问宝玉对额。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "众人穿行花林",
+      "characters": [
+        "贾政",
+        "贾宝玉",
+        "清客"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众人穿过盛开的花林，继续向园深处前行。"
+    }
+  ]
+}
+```

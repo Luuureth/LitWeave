@@ -1,0 +1,96 @@
+{
+  "episode_id": "17",
+  "episode_title": "变生不测凤姐泼醋",
+  "segment_id": "S02",
+  "event_count": 6,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "传话通知众人去稻香村商议",
+      "characters": [
+        "林黛玉",
+        "薛宝钗"
+      ],
+      "location": "稻香村",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "一名丫鬟传话通知林黛玉等人去稻香村商议要紧事，众人随即前往。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "李纨提及惜春请假",
+      "characters": [
+        "李纨",
+        "林黛玉"
+      ],
+      "location": "稻香村",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众人到达稻香村，李纨在门口提及贾惜春要告一年的假，并招呼众人进院。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "众人调侃刘姥姥为母蝗虫",
+      "characters": [
+        "林黛玉",
+        "薛宝钗",
+        "李纨"
+      ],
+      "location": "稻香村",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉戏称刘姥姥是“母蝗虫”，薛宝钗称赞其言辞精妙，引得众人大笑。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "黛玉分析画图耗时",
+      "characters": [
+        "林黛玉",
+        "李纨"
+      ],
+      "location": "稻香村",
+      "time_hint": "after",
+      "explicit_time": "一年",
+      "relation_to_previous": "sequential",
+      "event_summary": "李纨询问给惜春多少假期，林黛玉分析画园子图工序繁琐，至少需要两年时间。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "众人讨论画作内容并取名",
+      "characters": [
+        "林黛玉",
+        "贾惜春",
+        "李纨"
+      ],
+      "location": "稻香村",
+      "time_hint": "after",
+      "explicit_time": "两年",
+      "relation_to_previous": "sequential",
+      "event_summary": "众人讨论画作内容，林黛玉提议画上“母蝗虫”并给画作取名为“携蝗大嚼图”。"
+    },
+    {
+      "event_id": "E06",
+      "narrative_order": 6,
+      "action": "李纨嗔怪黛玉带头胡闹",
+      "characters": [
+        "李纨",
+        "林黛玉",
+        "薛宝钗",
+        "史湘云"
+      ],
+      "location": "稻香村",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众人因取名笑闹成一团，李纨嗔怪林黛玉带头胡闹，林黛玉反击调侃李纨。"
+    }
+  ]
+}

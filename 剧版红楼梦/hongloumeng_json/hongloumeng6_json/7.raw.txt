@@ -1,0 +1,36 @@
+{
+  "episode_id": "06",
+  "episode_title": "王熙凤协理宁国府",
+  "segment_id": "S07",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "指挥布置丧礼外务",
+      "characters": [
+        "贾珍",
+        "下人"
+      ],
+      "location": "宁国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾珍在宁国府庭院指挥下人悬挂挽联与布置灵堂外务，神情忧虑。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "倾诉内务困境并接受献计",
+      "characters": [
+        "贾珍",
+        "贾宝玉"
+      ],
+      "location": "宁国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾珍向宝玉抱怨府内因主母生病而混乱失序，宝玉附耳献计，贾珍听后大喜并催促其立刻去办。"
+    }
+  ]
+}

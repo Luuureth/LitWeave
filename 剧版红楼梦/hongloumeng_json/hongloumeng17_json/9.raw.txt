@@ -1,0 +1,68 @@
+```json
+{
+  "episode_id": "17",
+  "episode_title": "变生不测凤姐泼醋",
+  "segment_id": "S09",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉探病龄官",
+      "characters": [
+        "贾宝玉",
+        "龄官",
+        "小戏子"
+      ],
+      "location": "龄官房间",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "宝玉进屋找龄官唱戏被拒，想起龄官画蔷的情景，随后离开房间。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾蔷买鸟遇宝玉",
+      "characters": [
+        "贾宝玉",
+        "贾蔷",
+        "小戏子"
+      ],
+      "location": "贾府院子",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉在院中遇到买鸟回来的贾蔷，两人交谈后贾蔷进屋。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾蔷逗鸟惹龄官哭",
+      "characters": [
+        "贾蔷",
+        "龄官",
+        "贾宝玉"
+      ],
+      "location": "龄官房间",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾蔷进屋拿雀儿逗龄官，龄官哭诉身世，贾蔷放鸟，宝玉在门外目睹。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "宝玉池边独坐",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "贾府池塘边",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉独自坐在池塘边看鸳鸯，感叹人生情缘各有分定。"
+    }
+  ]
+}
+```

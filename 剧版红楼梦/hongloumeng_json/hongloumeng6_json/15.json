@@ -1,0 +1,63 @@
+{
+  "episode_id": "06",
+  "episode_title": "王熙凤协理宁国府",
+  "segment_id": "S15",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "展示宁荣街牌坊与灵堂布置",
+      "characters": [],
+      "location": "宁荣街",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "镜头展示宁荣街牌坊、灵堂匾额及祭坛布置，交代葬礼背景。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "送葬队伍展示仪仗纸扎与僧侣诵经",
+      "characters": [],
+      "location": "宁荣街",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "庞大的送葬队伍行进，展示各式旗帜、纸扎神兽、金山银山及僧侣诵经做法。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "撒纸钱与家属哭泣",
+      "characters": [],
+      "location": "宁荣街",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "送葬队伍中撒下纸钱，女性家属悲痛哭泣，被人搀扶。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "杠夫抬棺与陪葬箱笼行进",
+      "characters": [],
+      "location": "宁荣街",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "杠夫抬着装饰华丽的棺椁及蓝色陪葬箱笼在街道上稳步前行。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "骑马送葬队伍行进",
+      "characters": [],
+      "location": "宁荣街",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "身着孝服的骑马送葬众人跟随队伍行进。"
+    }
+  ]
+}

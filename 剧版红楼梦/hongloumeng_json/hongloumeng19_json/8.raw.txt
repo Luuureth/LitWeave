@@ -1,0 +1,52 @@
+{
+  "episode_id": "19",
+  "episode_title": "琉璃世界白雪红梅",
+  "segment_id": "S08",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "引荐认亲与寒暄",
+      "characters": ["薛宝钗", "薛宝琴", "薛蝌", "贾迎春", "林黛玉"],
+      "location": "贾府内室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "薛宝钗向众人介绍妹妹薛宝琴和兄弟薛蝌，众姐妹互相见礼寒暄。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "撒娇留客",
+      "characters": ["贾宝玉", "贾母"],
+      "location": "贾府内室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉入内凑热闹，向贾母撒娇请求留下薛蝌。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "认干亲与留宿",
+      "characters": ["薛宝琴", "王夫人", "贾母"],
+      "location": "贾府内室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众人夸赞薛宝琴，王夫人提议认作干女儿，贾母应允并邀请薛宝琴同住。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "调侃相貌与寻人",
+      "characters": ["贾宝玉", "薛宝钗", "薛蝌", "邢岫烟"],
+      "location": "贾府内室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉打趣薛蝌与薛宝钗相貌相似，随后询问邢岫烟下落并前往寻找。"
+    }
+  ]
+}

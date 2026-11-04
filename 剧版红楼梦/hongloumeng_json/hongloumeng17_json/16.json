@@ -1,0 +1,53 @@
+{
+  "episode_id": "17",
+  "episode_title": "变生不测凤姐泼醋",
+  "segment_id": "S16",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾母与王熙凤议论平儿受委屈并安排安抚",
+      "characters": [
+        "史太君",
+        "王熙凤",
+        "琥珀"
+      ],
+      "location": "贾母院",
+      "time_hint": null,
+      "explicit_time": "今儿",
+      "relation_to_previous": "start",
+      "event_summary": "贾母向王熙凤指出平儿受委屈实为凤姐拿其出气，命琥珀去安抚平儿，并定于今日让凤姐明日赔礼。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾母斥责贾琏醉酒闹事与殴打妻子",
+      "characters": [
+        "史太君",
+        "贾琏"
+      ],
+      "location": "贾母院",
+      "time_hint": "after",
+      "explicit_time": "昨儿",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾琏前来领罪，贾母斥责其昨日饮酒失态惊扰长辈，并指责其不珍惜妻妾反而动手打人。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾母调解贾琏王熙凤矛盾并叫平儿说和",
+      "characters": [
+        "史太君",
+        "贾琏",
+        "王熙凤",
+        "平儿"
+      ],
+      "location": "贾母院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母令贾琏向王熙凤赔罪，又唤来平儿当面安抚，宣布代双方赔礼并警告不许再提此事，最终平息风波。"
+    }
+  ]
+}

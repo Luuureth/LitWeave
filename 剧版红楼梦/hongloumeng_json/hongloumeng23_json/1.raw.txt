@@ -1,0 +1,43 @@
+```json
+{
+  "episode_id": "23",
+  "episode_title": "慧紫鹃情辞试忙玉",
+  "segment_id": "S01",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉探望紫鹃并听闻黛玉躲避自己",
+      "characters": ["宝玉", "紫鹃"],
+      "location": "潇湘馆",
+      "time_hint": null,
+      "explicit_time": "昨日夜里",
+      "relation_to_previous": "start",
+      "event_summary": "宝玉到潇湘馆探望，紫鹃告知黛玉咳嗽好转，并提醒宝玉注意分寸，提及黛玉近来躲避宝玉，宝玉听后黯然离开。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉独自伤心紫鹃前来安慰",
+      "characters": ["宝玉", "紫鹃"],
+      "location": "沁芳亭后桃树下",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉独自坐在沁芳亭后桃树下哭泣，紫鹃找到他，宝玉质问为何来找他，紫鹃解释是为大家好，宝玉感叹姐妹们即将离散而伤心。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "紫鹃试探宝玉提及黛玉将回苏州",
+      "characters": ["宝玉", "紫鹃", "丫鬟"],
+      "location": "沁芳亭后桃树下",
+      "time_hint": "same_time",
+      "explicit_time": "明年春天",
+      "relation_to_previous": "sequential",
+      "event_summary": "紫鹃继续与宝玉对话，提及燕窝之事并透露是自己告诉老太太的，随后试探说黛玉明年要回苏州出嫁，宝玉听后神情恍惚，另一丫鬟来叫紫鹃，紫鹃让她拉宝玉回去。"
+    }
+  ]
+}
+```

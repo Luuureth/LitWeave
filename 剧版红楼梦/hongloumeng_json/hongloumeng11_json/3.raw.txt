@@ -1,0 +1,43 @@
+```json
+{
+  "episode_id": "11",
+  "episode_title": "为争宠姐弟遭魔魇",
+  "segment_id": "S03",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾芸到舅舅店铺请求赊账",
+      "characters": ["贾芸", "卜世仁"],
+      "location": "卜世仁店铺",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾芸来到舅舅卜世仁的店铺，请求赊一些冰片和麝香，承诺八月里按银两送过来。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "卜世仁拒绝贾芸并责备其不成器",
+      "characters": ["贾芸", "卜世仁"],
+      "location": "卜世仁店铺",
+      "time_hint": "same_time",
+      "explicit_time": "八月里",
+      "relation_to_previous": "sequential",
+      "event_summary": "卜世仁以店里没货为由拒绝贾芸，并责备贾芸不成器，建议他去大房找个差事管管。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "舅母挽留贾芸吃饭，贾芸安排借钱后离开",
+      "characters": ["贾芸", "卜世仁", "舅母", "银姐"],
+      "location": "卜世仁店铺",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "舅母出面挽留贾芸吃饭，贾芸拒绝后安排银姐去对门王奶奶家借二三十个钱，随后离开。"
+    }
+  ]
+}
+```

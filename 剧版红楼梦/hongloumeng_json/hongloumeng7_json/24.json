@@ -1,0 +1,36 @@
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S24",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "黛玉误会宝玉并剪物",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "房间",
+      "time_hint": "start",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "黛玉误会宝玉将她送的荷包给了下人，生气地进入里屋剪断穗子。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉解释误会并哄劝黛玉",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "房间",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉拿出珍藏的荷包证明未送人，并不断道歉哄劝，最终两人和好。"
+    }
+  ]
+}

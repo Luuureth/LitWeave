@@ -1,0 +1,32 @@
+{
+  "episode_id": "08",
+  "episode_title": "荣国府归省庆元宵",
+  "segment_id": "S18",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众姐妹商议代作并抄录诗稿",
+      "characters": [],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "众姐妹在室内商议诗作进度，并互相代为抄录和创作诗稿。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾母观看并夸赞众姐妹才学",
+      "characters": [
+        "史太君"
+      ],
+      "location": "大观园",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母在一旁观看众姐妹作诗，并夸赞她们才学均有长进。"
+    }
+  ]
+}

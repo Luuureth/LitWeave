@@ -1,0 +1,30 @@
+{
+  "episode_id": "10",
+  "episode_title": "听曲文宝玉悟禅机",
+  "segment_id": "S02",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众人穿行竹林回廊互相催促赶路",
+      "characters": ["众姐妹", "丫鬟"],
+      "location": "竹林回廊",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "众姐妹与丫鬟穿行竹林回廊，互相催促快步赶路。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "众人抵达庭院围聚宝玉催促说话",
+      "characters": ["众姐妹", "丫鬟", "宝玉"],
+      "location": "有凤来仪外庭院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众人抵达挂有“有凤来仪”匾额的庭院，围住宝玉催促其说话并安排其坐下。"
+    }
+  ]
+}

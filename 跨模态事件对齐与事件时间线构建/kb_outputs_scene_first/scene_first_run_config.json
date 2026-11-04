@@ -1,0 +1,43 @@
+{
+  "kb_mapping_config": {
+    "top_k_kb": 5,
+    "min_kb_score": 0.2,
+    "prefer_anchor_events": true,
+    "alpha_name": 0.42,
+    "beta_detail": 0.23,
+    "gamma_char": 0.23,
+    "delta_loc": 0.12,
+    "scene_max_gap": 2,
+    "scene_min_char_jaccard": 0.15,
+    "scene_min_loc_jaccard": 0.1,
+    "scene_merge_semantic_threshold": 0.42,
+    "top_k_scene_kb": 5,
+    "min_scene_kb_score": 0.24,
+    "top_k_links_per_kb": 8,
+    "min_cross_modal_score": 0.28
+  },
+  "llm_review_config": {
+    "enabled": true,
+    "provider": "dashscope",
+    "model_name": "qwen3.6-plus",
+    "api_key_env": "DASHSCOPE_API_KEY",
+    "api_key_literal": "",
+    "timeout": 120,
+    "max_retries": 3,
+    "review_scene_kb_mapping": true,
+    "review_cross_modal_links": true,
+    "max_scene_items": 150,
+    "max_link_items": 120,
+    "scene_score_low": 0.24,
+    "scene_score_high": 0.72,
+    "scene_gap_threshold": 0.12,
+    "link_score_low": 0.28,
+    "link_score_high": 0.78,
+    "scene_batch_size": 8,
+    "link_batch_size": 8,
+    "scene_pause_between_batches_sec": 0.0,
+    "link_pause_between_batches_sec": 0.0,
+    "accept_if_aligned_conf_ge": 0.7,
+    "verbose": true
+  }
+}

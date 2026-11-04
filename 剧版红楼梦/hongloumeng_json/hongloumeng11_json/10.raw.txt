@@ -1,0 +1,39 @@
+```json
+{
+  "episode_id": "11",
+  "episode_title": "为争宠姐弟遭魔魇",
+  "segment_id": "S10",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾环练字，彩云倒茶被嫌挡光",
+      "characters": [
+        "贾环",
+        "赵姨娘",
+        "彩云"
+      ],
+      "location": "赵姨娘房",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "赵姨娘指导贾环练字，彩云进屋倒茶时被贾环嫌弃挡住灯光。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾环指责彩云偏向宝玉，彩云辩解",
+      "characters": [
+        "贾环",
+        "彩云"
+      ],
+      "location": "赵姨娘房",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾环指责彩云与宝玉交好而冷落自己，彩云反驳贾环不识好人心。"
+    }
+  ]
+}
+```

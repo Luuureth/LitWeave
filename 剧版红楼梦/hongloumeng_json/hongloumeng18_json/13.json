@@ -1,0 +1,35 @@
+{
+  "episode_id": "18",
+  "episode_title": "鸳鸯女誓绝鸳鸯偶",
+  "segment_id": "S13",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "金文翔劝说鸳鸯做贾赦姨娘，鸳鸯假意应允并要求先回禀贾母",
+      "characters": [
+        "鸳鸯",
+        "金文翔"
+      ],
+      "location": "贾母院",
+      "time_hint": null,
+      "explicit_time": "昨儿晚上",
+      "relation_to_previous": "start",
+      "event_summary": "金文翔以贾母准许为由劝说鸳鸯做贾赦姨娘，鸳鸯假意应承并要求先去回禀贾母，金文翔信以为真前去报喜。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "丫鬟禀报鸳鸯未归，贾母焦急动怒",
+      "characters": [
+        "史太君"
+      ],
+      "location": "贾母院",
+      "time_hint": "after",
+      "explicit_time": "今儿一早",
+      "relation_to_previous": "sequential",
+      "event_summary": "丫鬟向贾母禀报鸳鸯一早被哥哥接回家至今未归，贾母闻讯焦急动怒。"
+    }
+  ]
+}

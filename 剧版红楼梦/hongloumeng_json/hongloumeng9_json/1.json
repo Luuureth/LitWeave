@@ -1,0 +1,44 @@
+{
+  "episode_id": "09",
+  "episode_title": "意绵绵静日玉生香",
+  "segment_id": "S01",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众人就座观看戏班表演",
+      "characters": [],
+      "location": "府内庭院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "众人在庭院戏台前就座，观看戏班演员登台进行传统戏曲表演。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宾客宴席用餐交谈并敬酒",
+      "characters": [
+        "贾宝玉",
+        "贾珍"
+      ],
+      "location": "府内庭院",
+      "time_hint": null,
+      "explicit_time": "今儿个",
+      "relation_to_previous": "sequential",
+      "event_summary": "宝二爷与贾珍等宾客在看台用餐交谈，提及为大小姐省亲操劳，众人互相敬酒慰劳。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "演员表演杂技获观众喝彩",
+      "characters": [],
+      "location": "府内庭院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "戏班演员在台上表演翻腾杂技，台下观众观看并出声喝彩称赞功夫好。"
+    }
+  ]
+}

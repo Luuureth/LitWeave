@@ -1,0 +1,79 @@
+{
+  "episode_id": "23",
+  "episode_title": "慧紫鹃情辞试忙玉",
+  "segment_id": "S04",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "雪雁告知紫鹃贾母安排",
+      "characters": [
+        "雪雁",
+        "紫鹃"
+      ],
+      "location": "潇湘馆",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "雪雁告知紫鹃贾母将其留在宝玉身边，自己来服侍黛玉。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "大夫诊病与贾母威逼",
+      "characters": [
+        "史太君"
+      ],
+      "location": "怡红院",
+      "time_hint": "sequential",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "大夫诊断宝玉病情，贾母威逼大夫治好宝玉否则拆太医院。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宝玉惊醒挽留紫鹃",
+      "characters": [
+        "史太君",
+        "贾宝玉",
+        "紫鹃"
+      ],
+      "location": "怡红院",
+      "time_hint": "sequential",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母欲走，宝玉惊醒误以为黛玉要回苏州，拉住紫鹃不让走。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "黛玉嘱咐雪雁传话",
+      "characters": [
+        "林黛玉",
+        "雪雁"
+      ],
+      "location": "潇湘馆",
+      "time_hint": "sequential",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "黛玉嘱咐雪雁传话让紫鹃留下照顾宝玉。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "宝玉夜惊与紫鹃安抚",
+      "characters": [
+        "贾宝玉",
+        "袭人",
+        "紫鹃"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉夜间惊醒误认袭人，紫鹃赶来解释并拿出金饰安抚宝玉入睡。"
+    }
+  ]
+}

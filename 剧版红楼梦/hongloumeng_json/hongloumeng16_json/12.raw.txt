@@ -1,0 +1,55 @@
+```json
+{
+  "episode_id": "16",
+  "episode_title": "刘姥姥嬉游大观园",
+  "segment_id": "S12",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "接收赠银",
+      "characters": [
+        "刘姥姥"
+      ],
+      "location": "贾府门口",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "刘姥姥在车旁接收贾母赠送的银两，并得知可用于做买卖或置地。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "赠送礼物",
+      "characters": [
+        "刘姥姥",
+        "王熙凤",
+        "平儿",
+        "板儿"
+      ],
+      "location": "贾府门口",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤与平儿向刘姥姥赠送衣物、面果子及药品，刘姥姥感激道谢。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "上车告别",
+      "characters": [
+        "刘姥姥",
+        "王熙凤",
+        "平儿",
+        "板儿"
+      ],
+      "location": "贾府门口",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "刘姥姥与板儿登上马车离开，王熙凤与平儿挥手送别。"
+    }
+  ]
+}
+```

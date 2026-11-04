@@ -1,0 +1,2956 @@
+{
+  "results": [
+    {
+      "mention": "宝玉房中",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "宝玉居所即怡红院，房中归至上层标准院落"
+    },
+    {
+      "mention": "贾母房中",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "贾母住所统称贾母院，房中归至该院落"
+    },
+    {
+      "mention": "宝玉房内",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "同宝玉房中，明确指向怡红院"
+    },
+    {
+      "mention": "荣府",
+      "canonical_location": "荣国府",
+      "confidence": "high",
+      "reason": "“荣府”为“荣国府”通用简称"
+    },
+    {
+      "mention": "黛玉房中",
+      "canonical_location": "潇湘馆",
+      "confidence": "high",
+      "reason": "黛玉住所即潇湘馆，房中归至上层院落"
+    },
+    {
+      "mention": "贾母正房",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "正房为院落核心建筑，归至贾母院"
+    },
+    {
+      "mention": "王夫人上房",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "王夫人住所位于荣国府正院，表中无细分项，归至荣国府"
+    },
+    {
+      "mention": "贾母处",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "“处”泛指人物居所，对应贾母院"
+    },
+    {
+      "mention": "家塾",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "家族学堂功能通称，无法锚定至具体标准节点"
+    },
+    {
+      "mention": "王夫人房中",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "王夫人居荣国府，表中无独立节点，归至荣国府"
+    },
+    {
+      "mention": "薛姨妈处",
+      "canonical_location": "薛姨妈院",
+      "confidence": "high",
+      "reason": "直接对应薛姨妈标准院落"
+    },
+    {
+      "mention": "王夫人处",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "同王夫人房中，归至荣国府"
+    },
+    {
+      "mention": "议事厅儿",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "府中议事功能厅堂通称，无法唯一锚定具体院落"
+    },
+    {
+      "mention": "凤姐房中",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "凤姐居于荣国府内宅，表中无其专属院落，归至荣国府"
+    },
+    {
+      "mention": "宁国府抱厦",
+      "canonical_location": "宁国府",
+      "confidence": "high",
+      "reason": "府园局部建筑无更细标准项，归至父级宁国府"
+    },
+    {
+      "mention": "荣府暖阁",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "荣国府室内局部空间，归至荣国府"
+    },
+    {
+      "mention": "凤姐内室",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "凤姐在荣国府内宅的居室，归至荣国府"
+    },
+    {
+      "mention": "凤姐房内",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "同上，归至荣国府"
+    },
+    {
+      "mention": "探春处",
+      "canonical_location": "秋爽斋",
+      "confidence": "high",
+      "reason": "探春住所在大观园为秋爽斋"
+    },
+    {
+      "mention": "村肆",
+      "canonical_location": "unknown",
+      "confidence": "high",
+      "reason": "表外乡村场所，无法映射至标准闭集"
+    },
+    {
+      "mention": "荣国府宝玉房内",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "明确指出宝玉居所，对应大观园怡红院"
+    },
+    {
+      "mention": "贾母内院",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "内院属院落内部空间，归至贾母院"
+    },
+    {
+      "mention": "贾氏家塾",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "同家塾，家族学堂通称，归为generic"
+    },
+    {
+      "mention": "冯紫英府",
+      "canonical_location": "unknown",
+      "confidence": "high",
+      "reason": "冯家宅邸不在标准闭集中，无法映射"
+    },
+    {
+      "mention": "凤姐居所",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "指王熙凤在京中住所，位于荣国府，归至荣国府"
+    },
+    {
+      "mention": "凤姐院中",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "凤姐在荣国府的院落区域，归至荣国府"
+    },
+    {
+      "mention": "凤姐院中东屋",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "院落局部空间，归至荣国府"
+    },
+    {
+      "mention": "园中小径",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "“园中”路径为方位泛称，无法唯一锚定具体景点"
+    },
+    {
+      "mention": "宁府",
+      "canonical_location": "宁国府",
+      "confidence": "high",
+      "reason": "“宁府”为“宁国府”通用简称"
+    },
+    {
+      "mention": "宝玉卧室",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "规则示例明确说明映射至怡红院"
+    },
+    {
+      "mention": "探春房中",
+      "canonical_location": "秋爽斋",
+      "confidence": "high",
+      "reason": "探春住所即秋爽斋，房中归至上层院落"
+    },
+    {
+      "mention": "探春房外",
+      "canonical_location": "秋爽斋",
+      "confidence": "high",
+      "reason": "探春居所周边，归至秋爽斋"
+    },
+    {
+      "mention": "柳叶渚",
+      "canonical_location": "unknown",
+      "confidence": "high",
+      "reason": "大观园表外具体景观名，无对应标准节点"
+    },
+    {
+      "mention": "芦雪庭",
+      "canonical_location": "芦雪广",
+      "confidence": "high",
+      "reason": "“庭”为“广”的常见异写/误记，实指同一联诗场景"
+    },
+    {
+      "mention": "薛家",
+      "canonical_location": "薛姨妈院",
+      "confidence": "medium",
+      "reason": "语境多指进京后薛氏住处，对应薛姨妈院"
+    },
+    {
+      "mention": "薛蟠书房",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "书房为功能室通称，且无独立标准节点，归为generic"
+    },
+    {
+      "mention": "蘅芜苑",
+      "canonical_location": "蘅芜院",
+      "confidence": "high",
+      "reason": "“苑”与“院”常混用，指同一处宝钗居所"
+    },
+    {
+      "mention": "袭人家",
+      "canonical_location": "unknown",
+      "confidence": "high",
+      "reason": "袭人娘家不在标准闭集中，归为unknown"
+    },
+    {
+      "mention": "贾府",
+      "canonical_location": "荣国府",
+      "confidence": "low",
+      "reason": "“贾府”常为两府统称，具体语境多代指荣国府主宅，存在歧义"
+    },
+    {
+      "mention": "贾母堂屋",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "堂屋为院落核心建筑，归至贾母院"
+    },
+    {
+      "mention": "贾瑞房中",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "贾瑞为旁支子弟，其具体居所不在标准地点闭集内"
+    },
+    {
+      "mention": "凤姐处",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "王熙凤日常起居与理事处所均位于荣国府内院，无独立标准院名"
+    },
+    {
+      "mention": "凤姐院",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "指王熙凤在荣国府的居所范围，无专属标准节点"
+    },
+    {
+      "mention": "凤姐院内",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "同上，属荣国府内部院落泛称"
+    },
+    {
+      "mention": "园中枫树下",
+      "canonical_location": "generic",
+      "confidence": "medium",
+      "reason": "含“园中”方位通称，属微观点位描述，按规则归为泛称"
+    },
+    {
+      "mention": "大荒山无稽崖青埂峰下",
+      "canonical_location": "unknown",
+      "confidence": "high",
+      "reason": "神话起源地名，闭集中无对应项且非实体叙事锚点"
+    },
+    {
+      "mention": "太虚幻境仙宫",
+      "canonical_location": "太虚幻境",
+      "confidence": "high",
+      "reason": "明确指代太虚幻境核心场景"
+    },
+    {
+      "mention": "宁府上房",
+      "canonical_location": "宁国府",
+      "confidence": "high",
+      "reason": "宁府上房即宁国府主体建筑区域"
+    },
+    {
+      "mention": "宝玉住处",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "贾宝玉在大观园的固定标准居所"
+    },
+    {
+      "mention": "应天府密室",
+      "canonical_location": "应天府衙",
+      "confidence": "high",
+      "reason": "应天府衙内部空间，明确归属该节点"
+    },
+    {
+      "mention": "怡红院内",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "直接对应标准节点"
+    },
+    {
+      "mention": "怡红院外",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "紧邻怡红院的附属区域，聚合至该院落"
+    },
+    {
+      "mention": "沁芳闸桥边",
+      "canonical_location": "沁芳亭",
+      "confidence": "high",
+      "reason": "闭集注记明确沁芳亭统摄沁芳桥亭一带"
+    },
+    {
+      "mention": "王夫人屋里",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "王夫人正房位于荣国府内院，无独立标准院落名"
+    },
+    {
+      "mention": "秦家内室",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "秦业家宅不在闭集内，具体位置不明"
+    },
+    {
+      "mention": "秦氏卧房",
+      "canonical_location": "宁国府",
+      "confidence": "high",
+      "reason": "秦可卿为宁府长孙媳，其卧房明确位于宁国府内"
+    },
+    {
+      "mention": "穿廊",
+      "canonical_location": "generic",
+      "confidence": "medium",
+      "reason": "府邸建筑连接部件通称，无法唯一锚定"
+    },
+    {
+      "mention": "缀锦阁",
+      "canonical_location": "缀锦楼",
+      "confidence": "medium",
+      "reason": "缀锦阁与缀锦楼在文本中常混用或相邻，指迎春居所区域"
+    },
+    {
+      "mention": "贾母上房",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "直接对应贾母居所标准节点"
+    },
+    {
+      "mention": "贾母屋内",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "贾母院内部卧室描述，归入上一级标准节点"
+    },
+    {
+      "mention": "贾母房内",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "同上，属贾母院内部空间"
+    },
+    {
+      "mention": "贾母院外",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "紧邻贾母院的附属区域，聚合至该院落"
+    },
+    {
+      "mention": "赵姨娘住处",
+      "canonical_location": "赵姨娘院",
+      "confidence": "high",
+      "reason": "明确对应闭集标准节点"
+    },
+    {
+      "mention": "金荣家",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "旁支或外姓家宅，闭集中无对应项"
+    },
+    {
+      "mention": "馒头庵净室",
+      "canonical_location": "馒头庵",
+      "confidence": "high",
+      "reason": "馒头庵内部修行空间，归属明确"
+    },
+    {
+      "mention": "黛玉房内",
+      "canonical_location": "潇湘馆",
+      "confidence": "high",
+      "reason": "林黛玉标准居所的内部房间"
+    },
+    {
+      "mention": "上夜房",
+      "canonical_location": "generic",
+      "confidence": "medium",
+      "reason": "仆役值班室通称，无法唯一锚定"
+    },
+    {
+      "mention": "上房",
+      "canonical_location": "generic",
+      "confidence": "medium",
+      "reason": "府邸主屋通称，缺乏专属地点限定"
+    },
+    {
+      "mention": "书房外",
+      "canonical_location": "generic",
+      "confidence": "medium",
+      "reason": "书房为功能室通称，无具体人物或院落限定"
+    },
+    {
+      "mention": "二门前",
+      "canonical_location": "generic",
+      "confidence": "medium",
+      "reason": "深宅大院建筑界限通称，非独立叙事节点"
+    },
+    {
+      "mention": "五儿家中",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "丫鬟家宅非标准地点，位置随剧情变动且无对应节点"
+    },
+    {
+      "mention": "代儒家中",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "贾代儒家宅不在闭集内"
+    },
+    {
+      "mention": "修竹清舍",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "第十七回题对额时的泛化描述，未定型为闭集标准名"
+    },
+    {
+      "mention": "农庄村头",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "方位与野外场景通称，无法锚定"
+    },
+    {
+      "mention": "农庄茅屋",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "野外建筑泛称，无法唯一对应"
+    },
+    {
+      "mention": "冯府廊下",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "冯紫英府邸不在闭集内"
+    },
+    {
+      "mention": "凤姐住处",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "同凤姐处，归于荣国府范围"
+    },
+    {
+      "mention": "凤姐房",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "王熙凤居室泛称，无独立标准节点"
+    },
+    {
+      "mention": "出殡路上北静王轿前",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "路上为典型通行泛称，不进入点击库"
+    },
+    {
+      "mention": "出殡路上路祭棚前",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "属送葬途中的临时泛称场景，无法锚定"
+    },
+    {
+      "mention": "北门外桥边",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "方位泛称，无标准地点对应"
+    },
+    {
+      "mention": "北门外苇塘",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "自然景物/方位泛称"
+    },
+    {
+      "mention": "卜世仁家",
+      "canonical_location": "unknown",
+      "confidence": "high",
+      "reason": "配角私宅，不在标准闭集内"
+    },
+    {
+      "mention": "后门厨房外",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "功能区域通称"
+    },
+    {
+      "mention": "周瑞家",
+      "canonical_location": "unknown",
+      "confidence": "high",
+      "reason": "仆人住处，非标准叙事锚点"
+    },
+    {
+      "mention": "周瑞家中",
+      "canonical_location": "unknown",
+      "confidence": "high",
+      "reason": "仆人室内，无法锚定标准节点"
+    },
+    {
+      "mention": "园中亭子",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "园中泛指，无法唯一对应具体亭名"
+    },
+    {
+      "mention": "园中道路",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "通道/功能泛称"
+    },
+    {
+      "mention": "园内各处及正殿",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "集合泛称，无法唯一归一"
+    },
+    {
+      "mention": "园内水路",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "园内动线/功能泛称"
+    },
+    {
+      "mention": "园外二门前",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "边界出入口泛称"
+    },
+    {
+      "mention": "园径",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "通道泛称"
+    },
+    {
+      "mention": "园角门",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "建筑构件/出入口泛称"
+    },
+    {
+      "mention": "城外乡村",
+      "canonical_location": "unknown",
+      "confidence": "medium",
+      "reason": "泛指城外村落，无标准闭集对应"
+    },
+    {
+      "mention": "多浑虫家",
+      "canonical_location": "unknown",
+      "confidence": "high",
+      "reason": "边缘角色住处，非标准地点"
+    },
+    {
+      "mention": "大如州街前",
+      "canonical_location": "unknown",
+      "confidence": "medium",
+      "reason": "虚构/泛指街道，无闭集对应"
+    },
+    {
+      "mention": "大官家庙",
+      "canonical_location": "unknown",
+      "confidence": "medium",
+      "reason": "泛指家庙，未明确对应闭集寺庙"
+    },
+    {
+      "mention": "大观园山坡",
+      "canonical_location": "大观园",
+      "confidence": "high",
+      "reason": "园内局部地貌，归上级大观园"
+    },
+    {
+      "mention": "大观园正门",
+      "canonical_location": "大观园",
+      "confidence": "high",
+      "reason": "园门附属，归大观园"
+    },
+    {
+      "mention": "大观园水景区",
+      "canonical_location": "大观园",
+      "confidence": "medium",
+      "reason": "闭集无细分水景节点，归大观园"
+    },
+    {
+      "mention": "大观园石壁旁",
+      "canonical_location": "大观园",
+      "confidence": "high",
+      "reason": "园内局部，归大观园"
+    },
+    {
+      "mention": "大观园蔷薇架下",
+      "canonical_location": "大观园",
+      "confidence": "high",
+      "reason": "明确位于园内，归大观园"
+    },
+    {
+      "mention": "太虚幻境薄命司",
+      "canonical_location": "太虚幻境",
+      "confidence": "high",
+      "reason": "薄命司属太虚幻境辖司，归太虚幻境"
+    },
+    {
+      "mention": "姑苏城街头",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "城市街道方位泛称"
+    },
+    {
+      "mention": "宁国府上房",
+      "canonical_location": "宁国府",
+      "confidence": "high",
+      "reason": "府内主屋局部，归宁国府"
+    },
+    {
+      "mention": "宁国府与荣国府",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "双府并称泛指，无法归一单一节点"
+    },
+    {
+      "mention": "宁国府会芳园登仙阁灵前",
+      "canonical_location": "宁国府会芳园",
+      "confidence": "high",
+      "reason": "登仙阁明确位于会芳园内"
+    },
+    {
+      "mention": "宁国府宗祠",
+      "canonical_location": "宁国府",
+      "confidence": "medium",
+      "reason": "府内附属建筑，闭集无独立项，归宁国府"
+    },
+    {
+      "mention": "宁国府小书房",
+      "canonical_location": "宁国府",
+      "confidence": "high",
+      "reason": "府内室内局部，归宁国府"
+    },
+    {
+      "mention": "宁国府秦氏卧房",
+      "canonical_location": "宁国府",
+      "confidence": "high",
+      "reason": "人物卧房局部，归上级宁国府"
+    },
+    {
+      "mention": "宁府园中",
+      "canonical_location": "宁国府会芳园",
+      "confidence": "medium",
+      "reason": "宁府园林叙事多指会芳园"
+    },
+    {
+      "mention": "宁府大厅外",
+      "canonical_location": "宁国府",
+      "confidence": "high",
+      "reason": "府内建筑外部区域，归宁国府"
+    },
+    {
+      "mention": "宁府街",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "府外街道方位泛称"
+    },
+    {
+      "mention": "宁府里间",
+      "canonical_location": "宁国府",
+      "confidence": "high",
+      "reason": "室内局部，归宁国府"
+    },
+    {
+      "mention": "宁荣二府",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "双府统称，无法单一锚定"
+    },
+    {
+      "mention": "宝玉住所",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "明确指代宝玉居所怡红院"
+    },
+    {
+      "mention": "宝玉房",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "宝玉卧室即怡红院核心空间"
+    },
+    {
+      "mention": "封家",
+      "canonical_location": "unknown",
+      "confidence": "high",
+      "reason": "配角私宅，非标准闭集项"
+    },
+    {
+      "mention": "封家门外",
+      "canonical_location": "unknown",
+      "confidence": "high",
+      "reason": "配角宅邸外部，无标准对应"
+    },
+    {
+      "mention": "小红房中",
+      "canonical_location": "怡红院",
+      "confidence": "medium",
+      "reason": "小红为怡红院丫鬟，其居室归怡红院"
+    },
+    {
+      "mention": "山坡",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "自然地形泛称，非标准地点"
+    },
+    {
+      "mention": "平儿房",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "平儿随侍凤姐，居所位于荣国府院内"
+    },
+    {
+      "mention": "廊檐下",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "建筑局部方位通称"
+    },
+    {
+      "mention": "往怡红院途中",
+      "canonical_location": "怡红院",
+      "confidence": "medium",
+      "reason": "明确以怡红院为导航目的地"
+    },
+    {
+      "mention": "怡红院内室",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "怡红院内部空间，归入上一级节点"
+    },
+    {
+      "mention": "怡红院墙角花阴下",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "怡红院紧邻局部景观"
+    },
+    {
+      "mention": "怡红院窗外",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "怡红院建筑外部紧邻区域"
+    },
+    {
+      "mention": "怡红院门外",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "院落门户外区域，归属该院落"
+    },
+    {
+      "mention": "晓翠堂",
+      "canonical_location": "秋爽斋",
+      "confidence": "high",
+      "reason": "晓翠堂为秋爽斋内建筑"
+    },
+    {
+      "mention": "林府馆中",
+      "canonical_location": "林府",
+      "confidence": "high",
+      "reason": "明确指代林如海府邸内部"
+    },
+    {
+      "mention": "柳堤",
+      "canonical_location": "大观园",
+      "confidence": "low",
+      "reason": "园内水系堤岸泛称，归入大观园"
+    },
+    {
+      "mention": "柳家哥哥家",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "仆役亲属私宅，无标准地点对应"
+    },
+    {
+      "mention": "梦中幻境",
+      "canonical_location": "太虚幻境",
+      "confidence": "medium",
+      "reason": "红楼梦语境中梦境多指太虚幻境"
+    },
+    {
+      "mention": "梨香院墙角外",
+      "canonical_location": "梨香院",
+      "confidence": "high",
+      "reason": "梨香院外部紧邻区域"
+    },
+    {
+      "mention": "水仙庵后园井台",
+      "canonical_location": "水仙庵",
+      "confidence": "high",
+      "reason": "水仙庵后院局部设施"
+    },
+    {
+      "mention": "沁芳亭后桃花树下",
+      "canonical_location": "沁芳亭",
+      "confidence": "high",
+      "reason": "沁芳亭周边景观，归入该节点"
+    },
+    {
+      "mention": "沁芳桥堤",
+      "canonical_location": "沁芳亭",
+      "confidence": "high",
+      "reason": "标准表注沁芳亭统摄沁芳桥一带"
+    },
+    {
+      "mention": "沁芳溪畔",
+      "canonical_location": "沁芳亭",
+      "confidence": "high",
+      "reason": "沁芳水系区域，归入沁芳亭节点"
+    },
+    {
+      "mention": "海棠院",
+      "canonical_location": "怡红院",
+      "confidence": "medium",
+      "reason": "怡红院植有西府海棠，常被代称"
+    },
+    {
+      "mention": "清虚观内",
+      "canonical_location": "清虚观",
+      "confidence": "high",
+      "reason": "清虚观内部空间"
+    },
+    {
+      "mention": "清虚观大殿前",
+      "canonical_location": "清虚观",
+      "confidence": "high",
+      "reason": "清虚观建筑局部"
+    },
+    {
+      "mention": "清虚观楼上",
+      "canonical_location": "清虚观",
+      "confidence": "high",
+      "reason": "清虚观建筑局部"
+    },
+    {
+      "mention": "清虚观正殿",
+      "canonical_location": "清虚观",
+      "confidence": "high",
+      "reason": "清虚观核心建筑"
+    },
+    {
+      "mention": "清虚观门口",
+      "canonical_location": "清虚观",
+      "confidence": "high",
+      "reason": "清虚观门户区域"
+    },
+    {
+      "mention": "潇湘馆外桃花树下",
+      "canonical_location": "潇湘馆",
+      "confidence": "high",
+      "reason": "潇湘馆外部紧邻景观"
+    },
+    {
+      "mention": "狗儿家中",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "城外庄户人家，不在标准闭集内"
+    },
+    {
+      "mention": "王夫人住处",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "王夫人院落属荣国府内部，无独立标准节点"
+    },
+    {
+      "mention": "王夫人房内",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "同上，归入上一级荣国府"
+    },
+    {
+      "mention": "王夫人正房后抱厦",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "荣国府王夫人院落建筑局部"
+    },
+    {
+      "mention": "玲珑院落",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "游览时形容词泛称，无法唯一锚定"
+    },
+    {
+      "mention": "甄家书房",
+      "canonical_location": "甄士隐书房",
+      "confidence": "high",
+      "reason": "第一回甄家即甄士隐家宅，书房对应标准节点"
+    },
+    {
+      "mention": "甄家旧宅",
+      "canonical_location": "姑苏城阊门外仁清巷",
+      "confidence": "medium",
+      "reason": "指代甄士隐故居所在巷宅"
+    },
+    {
+      "mention": "甄家门前街市",
+      "canonical_location": "姑苏城阊门外仁清巷",
+      "confidence": "medium",
+      "reason": "甄士隐居所周边街市区域"
+    },
+    {
+      "mention": "登舟处",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "交通功能区域通称"
+    },
+    {
+      "mention": "省亲正殿",
+      "canonical_location": "大观园",
+      "confidence": "high",
+      "reason": "省亲别墅正殿属大观园核心建筑群"
+    },
+    {
+      "mention": "石榴树下",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "植物景观泛称，无法锚定特定院落"
+    },
+    {
+      "mention": "碧纱厨内",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "第三回黛玉入府居贾母正房碧纱橱"
+    },
+    {
+      "mention": "禅堂与回城途中",
+      "canonical_location": "水仙庵",
+      "confidence": "low",
+      "reason": "第四十三回金钏祭奠背景多指水仙庵"
+    },
+    {
+      "mention": "秦家",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "秦业家宅，不在标准地点闭集内"
+    },
+    {
+      "mention": "绮散斋书房",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "非红楼梦原著标准建筑名，可能为笔误"
+    },
+    {
+      "mention": "维扬",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "扬州古称，不在标准闭集内，无法直接映射"
+    },
+    {
+      "mention": "花冢",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "园内具体景观遗迹，闭集无对应项，暂不强行归一"
+    },
+    {
+      "mention": "花厅廊上",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "建筑局部通称，无法唯一锚定具体院落"
+    },
+    {
+      "mention": "荒郊至水仙庵",
+      "canonical_location": "水仙庵",
+      "confidence": "high",
+      "reason": "表述中明确包含标准地点“水仙庵”"
+    },
+    {
+      "mention": "荣国府内外",
+      "canonical_location": "荣国府",
+      "confidence": "high",
+      "reason": "明确指涉荣国府整体范围"
+    },
+    {
+      "mention": "荣国府后门",
+      "canonical_location": "荣国府",
+      "confidence": "high",
+      "reason": "府邸出入口局部，按层级归至上一级荣国府"
+    },
+    {
+      "mention": "荣国府大花厅",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "府内厅堂泛称，闭集无唯一对应细分项，归至荣国府"
+    },
+    {
+      "mention": "荣国府梨香院",
+      "canonical_location": "梨香院",
+      "confidence": "high",
+      "reason": "精确匹配标准地点"
+    },
+    {
+      "mention": "荣国府正堂",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "正堂为泛称，可能指荣禧堂或贾母正房，高歧义归府"
+    },
+    {
+      "mention": "荣国府花厅",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "府内通用厅堂称谓，归至荣国府"
+    },
+    {
+      "mention": "荣宁二府",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛指荣宁两府，无法唯一归一至单一标准节点"
+    },
+    {
+      "mention": "荣府二门口",
+      "canonical_location": "荣国府",
+      "confidence": "high",
+      "reason": "府门局部，归至荣国府"
+    },
+    {
+      "mention": "荣府台阶下",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "府邸外围过渡空间，归至荣国府"
+    },
+    {
+      "mention": "荣府大门",
+      "canonical_location": "荣国府",
+      "confidence": "high",
+      "reason": "明确指荣国府主出入口"
+    },
+    {
+      "mention": "荣府大门外及东院",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "范围含府门外与内院，整体隶属荣国府范畴"
+    },
+    {
+      "mention": "荣府大门外及园内",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "跨越荣府大门与大观园两个独立空间，无法唯一归一"
+    },
+    {
+      "mention": "荣府夹道空屋",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "府内附属建筑空间，归至荣国府"
+    },
+    {
+      "mention": "荣府戏台",
+      "canonical_location": "荣国府",
+      "confidence": "low",
+      "reason": "梨香院与大观园均可能有戏台布置，存在场景歧义，归府"
+    },
+    {
+      "mention": "荣府正内室及耳房",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "核心内室泛称，结合上下文多指贾母或正房区域，归至荣国府"
+    },
+    {
+      "mention": "荣府穿堂",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "府内通道空间，归至荣国府"
+    },
+    {
+      "mention": "荣府银库",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "府内功能性库房，归至荣国府"
+    },
+    {
+      "mention": "荣府院外",
+      "canonical_location": "荣国府",
+      "confidence": "high",
+      "reason": "明确指荣国府院落外围"
+    },
+    {
+      "mention": "荣府院落",
+      "canonical_location": "荣国府",
+      "confidence": "high",
+      "reason": "明确指荣国府院落"
+    },
+    {
+      "mention": "薛家花阴下",
+      "canonical_location": "薛姨妈院",
+      "confidence": "medium",
+      "reason": "薛家在京借居处为薛姨妈院，花阴属其院落环境"
+    },
+    {
+      "mention": "薛蟠卧房",
+      "canonical_location": "薛姨妈院",
+      "confidence": "medium",
+      "reason": "薛蟠随母居此，卧室按规则归至上一级院落"
+    },
+    {
+      "mention": "蜂腰桥",
+      "canonical_location": "大观园",
+      "confidence": "medium",
+      "reason": "大观园内具体桥梁景观，归至大观园"
+    },
+    {
+      "mention": "行宫正殿",
+      "canonical_location": "大观园",
+      "confidence": "medium",
+      "reason": "第十八回省亲场景，大观园临时称省亲别墅/行宫"
+    },
+    {
+      "mention": "街道",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "城市道路泛称，非标准叙事锚点"
+    },
+    {
+      "mention": "街道上",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "同上，泛称方位"
+    },
+    {
+      "mention": "衙内",
+      "canonical_location": "应天府衙",
+      "confidence": "high",
+      "reason": "第二回贾雨村任职背景，特指应天府衙署内部"
+    },
+    {
+      "mention": "袭人屋内",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "袭人为宝玉首席丫鬟，其居所位于怡红院内"
+    },
+    {
+      "mention": "贾府大堂",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "文本中“贾府”多代指荣国府，大堂为泛称"
+    },
+    {
+      "mention": "贾府李氏房",
+      "canonical_location": "稻香村",
+      "confidence": "high",
+      "reason": "李氏即李纨，其专属院落为标准地点稻香村"
+    },
+    {
+      "mention": "贾府正厅",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "泛称荣府正厅，无唯一对应标准厅堂名"
+    },
+    {
+      "mention": "贾府角门",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "府门局部通道，归至荣国府"
+    },
+    {
+      "mention": "贾母后院正房",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "明确指向贾母居所核心区域"
+    },
+    {
+      "mention": "贾母处下房",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "贾母院落内附属房间，归至贾母院"
+    },
+    {
+      "mention": "贾母房外",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "贾母居所外部空间，归至贾母院"
+    },
+    {
+      "mention": "贾母正室",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "贾母主居所，直接对应标准节点"
+    },
+    {
+      "mention": "贾母正室外帘及内室",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "贾母居所内外过渡与内室，整体归一为贾母院"
+    },
+    {
+      "mention": "贾母里间",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "贾母内室，归属贾母标准居所院落"
+    },
+    {
+      "mention": "贾母院中",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "明确匹配标准地点名称"
+    },
+    {
+      "mention": "贾母院散处",
+      "canonical_location": "贾母院",
+      "confidence": "medium",
+      "reason": "指代贾母院内不同区域，整体归一至贾母院"
+    },
+    {
+      "mention": "贾琏卧室",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "闭集无贾琏专属院落，其居室位于荣国府内院，归上级节点"
+    },
+    {
+      "mention": "贾琏处",
+      "canonical_location": "荣国府",
+      "confidence": "low",
+      "reason": "处所表述较模糊，依人物设定归入荣国府"
+    },
+    {
+      "mention": "贾琏房中",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "贾琏夫妇居所隶属荣国府，归上一级"
+    },
+    {
+      "mention": "贾琏院中",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "同上，贾琏院落属荣国府范围"
+    },
+    {
+      "mention": "贾琏院外",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "以贾琏院落为参照，仍属荣国府空间范畴"
+    },
+    {
+      "mention": "贾瑞家中",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "旁支族人市井居所，闭集无对应项且难以锚定"
+    },
+    {
+      "mention": "贾芸家",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "贾芸母子居所位于城外或市井，闭集无对应"
+    },
+    {
+      "mention": "贾赦院内",
+      "canonical_location": "贾赦院",
+      "confidence": "high",
+      "reason": "明确匹配标准地点"
+    },
+    {
+      "mention": "赖大家书房",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "管家私宅附属建筑，闭集无对应"
+    },
+    {
+      "mention": "赖大家花园",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "同上，非贾府园林标准节点"
+    },
+    {
+      "mention": "赖家大门前",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "同上，无法映射至标准地点"
+    },
+    {
+      "mention": "赵姨娘房内",
+      "canonical_location": "赵姨娘院",
+      "confidence": "high",
+      "reason": "赵姨娘卧室归入其标准院落"
+    },
+    {
+      "mention": "进京途中",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "移动路径/途中状态，泛称非固定地点"
+    },
+    {
+      "mention": "送殡途中",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "同上，无法唯一锚定"
+    },
+    {
+      "mention": "逗蜂轩",
+      "canonical_location": "宁国府",
+      "confidence": "medium",
+      "reason": "宁府内楼阁建筑，闭集无细分项，归入宁国府"
+    },
+    {
+      "mention": "邢夫人房内",
+      "canonical_location": "贾赦院",
+      "confidence": "high",
+      "reason": "邢夫人系贾赦正妻，居所隶属贾赦院"
+    },
+    {
+      "mention": "金文翔家",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "仆役住所，闭集无对应项"
+    },
+    {
+      "mention": "金陵",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "大范围城市地名，非具体叙事锚点"
+    },
+    {
+      "mention": "铁槛寺途中农庄",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "寺庙外途中临时场所，泛称无法锚定"
+    },
+    {
+      "mention": "长安县路上",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "泛指道路空间，非标准地点"
+    },
+    {
+      "mention": "馒头庵卧房",
+      "canonical_location": "馒头庵",
+      "confidence": "high",
+      "reason": "庵内局部房间，归入馒头庵标准节点"
+    },
+    {
+      "mention": "馒头庵后房",
+      "canonical_location": "馒头庵",
+      "confidence": "high",
+      "reason": "同上，隶属馒头庵"
+    },
+    {
+      "mention": "馒头庵殿上",
+      "canonical_location": "馒头庵",
+      "confidence": "high",
+      "reason": "同上，隶属馒头庵"
+    },
+    {
+      "mention": "鸳鸯卧房门前",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "鸳鸯为贾母首席丫鬟，其住处隶属贾母院"
+    },
+    {
+      "mention": "黛玉住处",
+      "canonical_location": "潇湘馆",
+      "confidence": "high",
+      "reason": "明确指代黛玉标准居所"
+    },
+    {
+      "mention": "室内",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "泛称内部空间，无法唯一锚定具体院落"
+    },
+    {
+      "mention": "贾母房中",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "明确归属贾母居所"
+    },
+    {
+      "mention": "贾府内室",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "宁荣两府皆可称贾府，泛称内室歧义高无法唯一锚定"
+    },
+    {
+      "mention": "王熙凤房内",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "凤姐与贾琏同住荣国府内院，归上级节点"
+    },
+    {
+      "mention": "庭院",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "泛指院落空间，可能指大观园或各府院落，歧义高"
+    },
+    {
+      "mention": "宝玉房间",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "明确指代宝玉标准居所"
+    },
+    {
+      "mention": "荣国府内室",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "以荣国府为前缀的局部空间，归入标准节点荣国府"
+    },
+    {
+      "mention": "卧室",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "功能室通称，无法锚定具体地点"
+    },
+    {
+      "mention": "花园",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "泛指园林，可能指大观园、会芳园或其他府邸花园，歧义高"
+    },
+    {
+      "mention": "闺房",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "功能室通称，非具体地点锚点"
+    },
+    {
+      "mention": "街道",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "公共道路通称，非标准叙事地点"
+    },
+    {
+      "mention": "宝玉房内",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "明确指代宝玉标准居所"
+    },
+    {
+      "mention": "贾琏房内",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "贾琏居室属荣国府内部空间，无独立标准节点，归至荣国府"
+    },
+    {
+      "mention": "宁荣街",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "府邸外部街道泛称，非具体叙事锚点"
+    },
+    {
+      "mention": "屋内",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "通用室内泛称，无法唯一锚定"
+    },
+    {
+      "mention": "房间",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "通用房间泛称，无法唯一锚定"
+    },
+    {
+      "mention": "王熙凤房间",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "王熙凤居所位于荣国府内院，归至上一级标准地点"
+    },
+    {
+      "mention": "贾宝玉房间",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "宝玉居所标准节点为怡红院"
+    },
+    {
+      "mention": "宁国府院落",
+      "canonical_location": "宁国府",
+      "confidence": "high",
+      "reason": "明确前缀为宁国府，直接归一"
+    },
+    {
+      "mention": "宴席厅堂",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "功能场所通称，无法唯一锚定"
+    },
+    {
+      "mention": "王夫人房中",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "王夫人正房位于荣国府内院，归至荣国府"
+    },
+    {
+      "mention": "王夫人房内",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "同上"
+    },
+    {
+      "mention": "薛姨妈处",
+      "canonical_location": "薛姨妈院",
+      "confidence": "high",
+      "reason": "直接对应标准地点薛姨妈院"
+    },
+    {
+      "mention": "贾府庭院",
+      "canonical_location": "generic",
+      "confidence": "medium",
+      "reason": "贾府泛称庭院，未特指宁或荣，歧义较高"
+    },
+    {
+      "mention": "公堂",
+      "canonical_location": "generic",
+      "confidence": "medium",
+      "reason": "官署功能泛称，未特指应天府衙"
+    },
+    {
+      "mention": "内室",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "通用室内泛称，无法唯一锚定"
+    },
+    {
+      "mention": "宝玉卧房",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "宝玉卧室即怡红院内室"
+    },
+    {
+      "mention": "王熙凤卧室",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "熙凤卧室属荣国府内部空间，归至荣国府"
+    },
+    {
+      "mention": "王熙凤房中",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "熙凤居室属荣国府，无独立节点，归至荣国府"
+    },
+    {
+      "mention": "船上",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "交通/临时场所泛称，无法唯一锚定"
+    },
+    {
+      "mention": "宁国府厅堂",
+      "canonical_location": "宁国府",
+      "confidence": "high",
+      "reason": "明确前缀为宁国府，直接归一"
+    },
+    {
+      "mention": "正殿",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "建筑构件泛称，无法唯一锚定"
+    },
+    {
+      "mention": "贾宝玉房内",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "宝玉居室标准节点为怡红院"
+    },
+    {
+      "mention": "贾府室内",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "贾府内部空间泛称，无法唯一锚定"
+    },
+    {
+      "mention": "贾母房内",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "对应标准地点贾母院"
+    },
+    {
+      "mention": "宁国府灵堂",
+      "canonical_location": "宁国府",
+      "confidence": "high",
+      "reason": "明确前缀为宁国府，直接归一"
+    },
+    {
+      "mention": "王熙凤住处",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "熙凤居所位于荣国府，归至上一级标准地点"
+    },
+    {
+      "mention": "省亲别墅",
+      "canonical_location": "大观园",
+      "confidence": "high",
+      "reason": "省亲别墅为大观园初名/别称"
+    },
+    {
+      "mention": "芦雪庵",
+      "canonical_location": "芦雪广",
+      "confidence": "high",
+      "reason": "庵为广之通假或异称，标准节点为芦雪广"
+    },
+    {
+      "mention": "荣国府宴客厅",
+      "canonical_location": "荣国府",
+      "confidence": "high",
+      "reason": "明确前缀为荣国府，直接归一"
+    },
+    {
+      "mention": "衙门内室",
+      "canonical_location": "generic",
+      "confidence": "medium",
+      "reason": "官署内部空间泛称，高歧义下归为generic"
+    },
+    {
+      "mention": "贾府厅堂",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "贾府建筑通称，无法唯一锚定"
+    },
+    {
+      "mention": "亭子",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "景观建筑通称，无法唯一锚定"
+    },
+    {
+      "mention": "卧房",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "房间通称，无法唯一锚定"
+    },
+    {
+      "mention": "厅堂",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "建筑通称，无法唯一锚定"
+    },
+    {
+      "mention": "园中亭台",
+      "canonical_location": "generic",
+      "confidence": "medium",
+      "reason": "泛指园中景观，未明确具体节点，按高歧义处理"
+    },
+    {
+      "mention": "大观园庭院",
+      "canonical_location": "大观园",
+      "confidence": "high",
+      "reason": "明确前缀为大观园，直接归一"
+    },
+    {
+      "mention": "巷子",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "街巷泛称，无法唯一锚定"
+    },
+    {
+      "mention": "水月庵",
+      "canonical_location": "馒头庵",
+      "confidence": "high",
+      "reason": "表注明确水月庵即馒头庵"
+    },
+    {
+      "mention": "省亲别墅正殿",
+      "canonical_location": "大观园",
+      "confidence": "medium",
+      "reason": "省亲别墅即大观园，正殿属其内部空间，归至大观园"
+    },
+    {
+      "mention": "石桥",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "园林构件泛称，无法唯一锚定"
+    },
+    {
+      "mention": "秦可卿房内",
+      "canonical_location": "宁国府",
+      "confidence": "high",
+      "reason": "可卿居室位于宁国府内，归至宁国府"
+    },
+    {
+      "mention": "秦可卿房间",
+      "canonical_location": "宁国府",
+      "confidence": "medium",
+      "reason": "秦可卿住所隶属宁国府，无更细标准项，归入上级"
+    },
+    {
+      "mention": "荣国府正堂",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "带前缀的厅堂局部空间，归入上级府邸"
+    },
+    {
+      "mention": "贾宝玉房中",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "宝玉卧室专属对应怡红院"
+    },
+    {
+      "mention": "贾府门前",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "贾府为统称，门前为方位泛称，无法唯一锚定"
+    },
+    {
+      "mention": "贾府门口",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "府门方位泛称，非标准地点"
+    },
+    {
+      "mention": "贾府院子",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "院落泛称，无具体对应标准院落"
+    },
+    {
+      "mention": "贾政房中",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "贾政居室属荣国府内部空间，归入上级"
+    },
+    {
+      "mention": "贾母房",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "贾母居所标准名称即贾母院"
+    },
+    {
+      "mention": "走廊",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "建筑通道泛称"
+    },
+    {
+      "mention": "黛玉房内",
+      "canonical_location": "潇湘馆",
+      "confidence": "high",
+      "reason": "黛玉居室专属对应潇湘馆"
+    },
+    {
+      "mention": "黛玉房间",
+      "canonical_location": "潇湘馆",
+      "confidence": "high",
+      "reason": "同上"
+    },
+    {
+      "mention": "内殿",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛指内部殿堂，非红楼特定标准点"
+    },
+    {
+      "mention": "卜世仁店铺",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "市井商铺，不在标准地点闭集内"
+    },
+    {
+      "mention": "周瑞家屋内",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "仆从居所泛称"
+    },
+    {
+      "mention": "大观园厅堂",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "园内建筑功能泛称，非特指标准节点"
+    },
+    {
+      "mention": "宁国府大厅",
+      "canonical_location": "宁国府",
+      "confidence": "medium",
+      "reason": "宁府正厅泛称，归入上级"
+    },
+    {
+      "mention": "宅院巷道",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛指街巷通道"
+    },
+    {
+      "mention": "宗祠内",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "贾府宗祠不在标准地点闭集内"
+    },
+    {
+      "mention": "室内书房",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "功能室通称"
+    },
+    {
+      "mention": "府内庭院",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "府邸院落泛称"
+    },
+    {
+      "mention": "怡红院内室",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "明确归属怡红院内部"
+    },
+    {
+      "mention": "探春房间",
+      "canonical_location": "秋爽斋",
+      "confidence": "high",
+      "reason": "探春居所专属对应秋爽斋"
+    },
+    {
+      "mention": "林黛玉房间",
+      "canonical_location": "潇湘馆",
+      "confidence": "high",
+      "reason": "同黛玉房内"
+    },
+    {
+      "mention": "水边",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "水域边缘泛称"
+    },
+    {
+      "mention": "潇湘馆内室",
+      "canonical_location": "潇湘馆",
+      "confidence": "high",
+      "reason": "明确归属"
+    },
+    {
+      "mention": "花自芳家",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "袭人娘家，不在闭集内"
+    },
+    {
+      "mention": "荣国府厢房",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "荣府附属建筑泛称，归入上级"
+    },
+    {
+      "mention": "荣国府戏台",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "荣府内演出场所泛称，归上级"
+    },
+    {
+      "mention": "荣国府贾母房",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "明确归属贾母院"
+    },
+    {
+      "mention": "荣国府院落",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "荣府庭院泛称，归入上级"
+    },
+    {
+      "mention": "袭人家",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "袭人私宅，不在闭集内"
+    },
+    {
+      "mention": "贾宝玉卧房",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "宝玉卧室即怡红院"
+    },
+    {
+      "mention": "贾府宴席处",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "场景功能描述，非固定地点"
+    },
+    {
+      "mention": "贾府正堂",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "正堂为厅堂泛称，荣国府为对应上级"
+    },
+    {
+      "mention": "贾府过道",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "通道泛称"
+    },
+    {
+      "mention": "贾母房间",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "同贾母房"
+    },
+    {
+      "mention": "酒席间",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "场景状态描述"
+    },
+    {
+      "mention": "院落门前",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "方位泛称"
+    },
+    {
+      "mention": "香菱房中",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "香菱随主居住，归属有歧义，不勉强映射"
+    },
+    {
+      "mention": "黛玉房",
+      "canonical_location": "潇湘馆",
+      "confidence": "high",
+      "reason": "明确归属"
+    },
+    {
+      "mention": "黛玉房中",
+      "canonical_location": "潇湘馆",
+      "confidence": "high",
+      "reason": "林黛玉住所为潇湘馆，房中归入上一级节点"
+    },
+    {
+      "mention": "五儿房间",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "五儿原居后厨附近后入怡红院当差，具体房间归属不明确，闭集无对应"
+    },
+    {
+      "mention": "厅堂内",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛称功能室，无法唯一锚定到标准地点"
+    },
+    {
+      "mention": "园中小径",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛称方位/路径，无法唯一锚定"
+    },
+    {
+      "mention": "园中荷塘边",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛称景观方位，无法唯一锚定"
+    },
+    {
+      "mention": "园林",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛称类型词，非特指大观园"
+    },
+    {
+      "mention": "大荒山无迹崖青埂峰",
+      "canonical_location": "unknown",
+      "confidence": "high",
+      "reason": "神话起源地，不在标准闭集内"
+    },
+    {
+      "mention": "大观园假山处",
+      "canonical_location": "大观园",
+      "confidence": "high",
+      "reason": "大观园局部景观，按层级归入大观园"
+    },
+    {
+      "mention": "大观园农庄景致",
+      "canonical_location": "稻香村",
+      "confidence": "medium",
+      "reason": "农庄景致特指李纨所居稻香村（杏帘在望）"
+    },
+    {
+      "mention": "大观园正门",
+      "canonical_location": "大观园",
+      "confidence": "high",
+      "reason": "大观园出入口，按层级归入大观园"
+    },
+    {
+      "mention": "大观园门口",
+      "canonical_location": "大观园",
+      "confidence": "high",
+      "reason": "大观园边界方位，按层级归入大观园"
+    },
+    {
+      "mention": "宅院门口",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛称建筑边界，无法唯一锚定"
+    },
+    {
+      "mention": "宝玉房中",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "宝玉住所即怡红院，房内归入上一级节点"
+    },
+    {
+      "mention": "宝玉房外",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "宝玉院落外部区域，按层级归入怡红院"
+    },
+    {
+      "mention": "宴会场所",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛称功能场所，无法唯一锚定"
+    },
+    {
+      "mention": "宴席",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛称活动场景，非具体地理节点"
+    },
+    {
+      "mention": "府邸廊下",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛称建筑构件/方位，无法唯一锚定"
+    },
+    {
+      "mention": "房间内",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛称室内空间，无法唯一锚定"
+    },
+    {
+      "mention": "暗室",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛称功能房间，无法唯一锚定"
+    },
+    {
+      "mention": "月榭",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "非标准称谓，可能为误植或泛指，高歧义不勉强映射"
+    },
+    {
+      "mention": "林黛玉闺房",
+      "canonical_location": "潇湘馆",
+      "confidence": "high",
+      "reason": "黛玉闺房即潇湘馆内室，按层级归入"
+    },
+    {
+      "mention": "水上河道",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛称自然景观，无法唯一锚定"
+    },
+    {
+      "mention": "沁芳亭后桃树下",
+      "canonical_location": "沁芳亭",
+      "confidence": "high",
+      "reason": "明确包含标准节点沁芳亭，局部归入该节点"
+    },
+    {
+      "mention": "清虚观正殿",
+      "canonical_location": "清虚观",
+      "confidence": "high",
+      "reason": "清虚观局部建筑，按层级归入清虚观"
+    },
+    {
+      "mention": "游廊",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛称建筑连接构件，无法唯一锚定"
+    },
+    {
+      "mention": "省亲别墅内室",
+      "canonical_location": "大观园",
+      "confidence": "medium",
+      "reason": "省亲别墅即大观园别称，内室泛指园内空间"
+    },
+    {
+      "mention": "花园小径",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛称路径，无法唯一锚定"
+    },
+    {
+      "mention": "荣国府内",
+      "canonical_location": "荣国府",
+      "confidence": "high",
+      "reason": "明确指向荣国府整体范围"
+    },
+    {
+      "mention": "荣国府大门",
+      "canonical_location": "荣国府",
+      "confidence": "high",
+      "reason": "荣国府出入口，按层级归入荣国府"
+    },
+    {
+      "mention": "荣国府正殿",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "原著无正殿称法，疑为正堂泛称，归一级府邸更稳妥"
+    },
+    {
+      "mention": "荣国府院内",
+      "canonical_location": "荣国府",
+      "confidence": "high",
+      "reason": "明确指向荣国府院落范围"
+    },
+    {
+      "mention": "薛宝钗房间",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "宝钗前期住梨香院/薛姨妈院，后期住蘅芜院，语境无法唯一锚定"
+    },
+    {
+      "mention": "袭人娘家",
+      "canonical_location": "unknown",
+      "confidence": "high",
+      "reason": "贾府外独立宅邸，不在标准闭集内"
+    },
+    {
+      "mention": "贾代儒房中",
+      "canonical_location": "unknown",
+      "confidence": "high",
+      "reason": "学堂私宅场景，不在标准闭集内"
+    },
+    {
+      "mention": "贾宝玉房门外",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "宝玉院落门外区域，按层级归入怡红院"
+    },
+    {
+      "mention": "贾府巷道",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "贾府为宁荣二府合称，巷道泛指无特指"
+    },
+    {
+      "mention": "贾府正堂前",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "贾府核心正堂多指荣禧堂前，归一级府邸"
+    },
+    {
+      "mention": "贾府走廊",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛称建筑通道，无法唯一锚定"
+    },
+    {
+      "mention": "贾府院落",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛称院落集合，无法唯一锚定到单一标准节点"
+    },
+    {
+      "mention": "贾赦内室",
+      "canonical_location": "贾赦院",
+      "confidence": "high",
+      "reason": "贾赦居所内室，按层级归入上一级标准地点贾赦院"
+    },
+    {
+      "mention": "赵姨娘房",
+      "canonical_location": "赵姨娘院",
+      "confidence": "high",
+      "reason": "赵姨娘住所室内表述，统一归入其院落标准节点"
+    },
+    {
+      "mention": "赵姨娘房内",
+      "canonical_location": "赵姨娘院",
+      "confidence": "high",
+      "reason": "同上，人物居室归一为所属院落"
+    },
+    {
+      "mention": "赵姨娘房间",
+      "canonical_location": "赵姨娘院",
+      "confidence": "high",
+      "reason": "同上"
+    },
+    {
+      "mention": "路祭现场",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "临时性仪式场所，非固定建筑节点"
+    },
+    {
+      "mention": "送殡路上",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "道路与行进空间泛称，无法锚定具体坐标"
+    },
+    {
+      "mention": "郊外树林",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "野外自然环境泛称，无标准对应"
+    },
+    {
+      "mention": "门口",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "纯方位词，未指明具体府邸或院落"
+    },
+    {
+      "mention": "院墙边",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "建筑边界局部描述，无法映射标准地点"
+    },
+    {
+      "mention": "院子",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "院落通称，缺乏特指信息"
+    },
+    {
+      "mention": "院落",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "同上"
+    },
+    {
+      "mention": "马车内",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "交通工具内部空间，非固定地点"
+    },
+    {
+      "mention": "黛玉居室",
+      "canonical_location": "潇湘馆",
+      "confidence": "high",
+      "reason": "林黛玉居所室内表述，归入其院落标准节点"
+    },
+    {
+      "mention": "龄官房间",
+      "canonical_location": "梨香院",
+      "confidence": "medium",
+      "reason": "龄官为贾府十二官，戏班驻地与居室归入梨香院"
+    },
+    {
+      "mention": "下人房",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "仆人住处通称，无法唯一对应标准地点"
+    },
+    {
+      "mention": "书房外",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "未指明归属何人，属方位与功能通称"
+    },
+    {
+      "mention": "内堂",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "传统宅邸内部厅堂泛称，无具体指向"
+    },
+    {
+      "mention": "周瑞家院子",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "陪房私宅院落，不在标准地点闭集内"
+    },
+    {
+      "mention": "园中假山旁",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "园中局部景观，未特指大观园具体节点"
+    },
+    {
+      "mention": "园中廊下",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "园林建筑局部泛称，无法精确锚定"
+    },
+    {
+      "mention": "园中廊桥",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "同上"
+    },
+    {
+      "mention": "园中水亭",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "泛指水边亭榭，无法对应藕香榭或滴翠亭等标准项"
+    },
+    {
+      "mention": "园中石桥",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "园中交通构件泛称，无特指"
+    },
+    {
+      "mention": "园中竹林旁",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "植被局部描述，缺乏明确院落指向"
+    },
+    {
+      "mention": "园子",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "园林空间通称，未明确特指大观园"
+    },
+    {
+      "mention": "园林长廊",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "建筑构件泛称，非独立节点"
+    },
+    {
+      "mention": "城外道路",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "开放交通空间泛称"
+    },
+    {
+      "mention": "墙角",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "极小局部方位，无地点属性"
+    },
+    {
+      "mention": "夜晚户外",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "时间与环境组合泛称"
+    },
+    {
+      "mention": "宁国府内堂",
+      "canonical_location": "宁国府",
+      "confidence": "high",
+      "reason": "明确前缀，宁府局部内部空间归入主体"
+    },
+    {
+      "mention": "宁国府内室",
+      "canonical_location": "宁国府",
+      "confidence": "high",
+      "reason": "同上"
+    },
+    {
+      "mention": "宁国府卧房",
+      "canonical_location": "宁国府",
+      "confidence": "high",
+      "reason": "同上"
+    },
+    {
+      "mention": "宁国府大门",
+      "canonical_location": "宁国府",
+      "confidence": "high",
+      "reason": "府邸出入口局部，无更细项时归入主体"
+    },
+    {
+      "mention": "宁国府门外",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "府邸外部边界方位词，非内部实体空间"
+    },
+    {
+      "mention": "宅邸大门外",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "泛称某府门外，无特指"
+    },
+    {
+      "mention": "宗祠",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "祠堂类建筑闭集未收录，作功能通称处理"
+    },
+    {
+      "mention": "宗祠外",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "祠堂边界泛称"
+    },
+    {
+      "mention": "宝二爷卧房",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "贾宝玉卧室室内表述，归入其院落标准节点"
+    },
+    {
+      "mention": "宝玉居室",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "同上"
+    },
+    {
+      "mention": "宝玉房",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "同上"
+    },
+    {
+      "mention": "室外走廊",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "建筑通道泛称，无具体位置指向"
+    },
+    {
+      "mention": "寺庙佛堂",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛称宗教场所，未指明具体寺庙或庵堂"
+    },
+    {
+      "mention": "小厨房",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "功能室通称，书中多处设小厨房，无法唯一锚定"
+    },
+    {
+      "mention": "山坡",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "自然地形泛称，非标准叙事地点"
+    },
+    {
+      "mention": "山间小路",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "方位路径通称，无具体锚点"
+    },
+    {
+      "mention": "府内",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "方位泛称，未区分宁国府或荣国府"
+    },
+    {
+      "mention": "府邸大厅",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "厅堂功能通称，无法对应荣禧堂或荣庆堂"
+    },
+    {
+      "mention": "府邸门外",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "方位泛称，无具体归属"
+    },
+    {
+      "mention": "府门外",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "同上，方位泛称"
+    },
+    {
+      "mention": "庭院竹林",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "景观泛称，未特指潇湘馆或其他标准院落"
+    },
+    {
+      "mention": "怡红院庭院",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "明确归属怡红院范围，属该院落组成部分"
+    },
+    {
+      "mention": "戏班后台",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "功能空间通称，虽常关联梨香院但表述泛化"
+    },
+    {
+      "mention": "户外",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛称方位，无具体地点指向"
+    },
+    {
+      "mention": "房内",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "室内空间通称，无法确定具体院落"
+    },
+    {
+      "mention": "有凤来仪外庭院",
+      "canonical_location": "潇湘馆",
+      "confidence": "high",
+      "reason": "有凤来仪为潇湘馆初拟匾额，庭院明确属该标准节点"
+    },
+    {
+      "mention": "林如海家中",
+      "canonical_location": "林府",
+      "confidence": "high",
+      "reason": "直接对应闭集中的林府"
+    },
+    {
+      "mention": "林间",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "自然环境泛称"
+    },
+    {
+      "mention": "树林",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "同上"
+    },
+    {
+      "mention": "楼阁走廊",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "建筑局部泛称，无法锚定"
+    },
+    {
+      "mention": "正厅",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "厅堂通称，缺乏府邸前缀无法唯一对应"
+    },
+    {
+      "mention": "水仙庵外",
+      "canonical_location": "水仙庵",
+      "confidence": "high",
+      "reason": "明确隶属该标准节点附属方位"
+    },
+    {
+      "mention": "沁芳桥旁",
+      "canonical_location": "沁芳亭",
+      "confidence": "high",
+      "reason": "规则已注明沁芳亭统摄沁芳桥亭一带，属同一叙事空间"
+    },
+    {
+      "mention": "沙丘",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "地形泛称，非标准地点"
+    },
+    {
+      "mention": "潇湘馆院子",
+      "canonical_location": "潇湘馆",
+      "confidence": "high",
+      "reason": "明确归属标准节点潇湘馆"
+    },
+    {
+      "mention": "火场",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "事件场景泛称，非固定地点"
+    },
+    {
+      "mention": "灯笼作坊",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "手工业场所通称，闭集无对应项"
+    },
+    {
+      "mention": "熙凤房内",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "王熙凤居荣府内院，无独立院落标准名，依规归至上一级荣国府"
+    },
+    {
+      "mention": "王熙凤卧房",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "同上，卧房隶属荣国府内院居住区"
+    },
+    {
+      "mention": "王熙凤房外",
+      "canonical_location": "荣国府",
+      "confidence": "medium",
+      "reason": "同上，方位位于荣国府范围内"
+    },
+    {
+      "mention": "甄家花园",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "书中甄家虚实交错且分处金陵姑苏，花园非标准节点，难唯一锚定"
+    },
+    {
+      "mention": "甄家门外",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "同上，缺乏具体府邸指向，映射不可靠"
+    },
+    {
+      "mention": "甄家院落",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "同上，指代模糊无法可靠映射"
+    },
+    {
+      "mention": "省亲别墅正厅",
+      "canonical_location": "大观园",
+      "confidence": "high",
+      "reason": "省亲别墅即大观园别称，正厅属园内核心礼仪场景"
+    },
+    {
+      "mention": "秦可卿房外",
+      "canonical_location": "宁国府",
+      "confidence": "high",
+      "reason": "秦可卿为宁府长孙媳，居所明确隶属宁国府"
+    },
+    {
+      "mention": "秦氏房中",
+      "canonical_location": "宁国府",
+      "confidence": "high",
+      "reason": "同上，室内空间归至所属府邸"
+    },
+    {
+      "mention": "窗外",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "绝对方位通称，无具体地点"
+    },
+    {
+      "mention": "竹林",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "景观植物泛称，未特指潇湘馆"
+    },
+    {
+      "mention": "竹林回廊",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "建筑与景观组合泛称，无法唯一锚定"
+    },
+    {
+      "mention": "红尘世间",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "抽象空间概念，非实体叙事地点"
+    },
+    {
+      "mention": "花丛",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "自然景观泛称"
+    },
+    {
+      "mention": "花园水池边",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "景观方位通称，未指明具体园子或标准节点"
+    },
+    {
+      "mention": "花园石桥",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "泛指园林桥梁，无法对应标准节点"
+    },
+    {
+      "mention": "花园长廊",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "泛称廊道，无具体归属"
+    },
+    {
+      "mention": "荒郊",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "泛指野外区域，非具体宅园场景"
+    },
+    {
+      "mention": "荣国府后街",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "府邸外部街道方位泛称"
+    },
+    {
+      "mention": "荣国府后院",
+      "canonical_location": "generic",
+      "confidence": "medium",
+      "reason": "荣府内部泛称区域，未特指标准院落"
+    },
+    {
+      "mention": "荣国府回廊",
+      "canonical_location": "generic",
+      "confidence": "medium",
+      "reason": "府内通行廊道通称"
+    },
+    {
+      "mention": "荣国府大门外",
+      "canonical_location": "generic",
+      "confidence": "medium",
+      "reason": "府门外部过渡区域"
+    },
+    {
+      "mention": "荣国府府门外",
+      "canonical_location": "generic",
+      "confidence": "medium",
+      "reason": "府门外部过渡区域泛称"
+    },
+    {
+      "mention": "荣国府庭院",
+      "canonical_location": "generic",
+      "confidence": "medium",
+      "reason": "府内院落通称，无法精确定位"
+    },
+    {
+      "mention": "荣国府正门",
+      "canonical_location": "generic",
+      "confidence": "medium",
+      "reason": "建筑部件通称，非独立叙事锚点"
+    },
+    {
+      "mention": "荣国府花园",
+      "canonical_location": "generic",
+      "confidence": "medium",
+      "reason": "府内园林泛称，未特指大观园或会芳园"
+    },
+    {
+      "mention": "荣国府走廊",
+      "canonical_location": "generic",
+      "confidence": "medium",
+      "reason": "通行空间通称"
+    },
+    {
+      "mention": "荣国府院子",
+      "canonical_location": "generic",
+      "confidence": "medium",
+      "reason": "院落泛称"
+    },
+    {
+      "mention": "葫芦庙门口",
+      "canonical_location": "葫芦庙",
+      "confidence": "medium",
+      "reason": "紧邻标准地点入口，叙事关联强，归一至葫芦庙"
+    },
+    {
+      "mention": "街上",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "泛称街道，无具体方位"
+    },
+    {
+      "mention": "街巷",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "泛称街巷"
+    },
+    {
+      "mention": "街市",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "泛称市井区域"
+    },
+    {
+      "mention": "贾代儒住处外",
+      "canonical_location": "荣国府",
+      "confidence": "low",
+      "reason": "代儒家塾/寓所依附荣府范围，归入荣国府"
+    },
+    {
+      "mention": "贾宝玉卧室",
+      "canonical_location": "怡红院",
+      "confidence": "high",
+      "reason": "宝玉内室，依据层级规则归入怡红院"
+    },
+    {
+      "mention": "贾宝玉房外",
+      "canonical_location": "怡红院",
+      "confidence": "medium",
+      "reason": "怡红院内部空间外围，归属该院落"
+    },
+    {
+      "mention": "贾宝玉房间外",
+      "canonical_location": "怡红院",
+      "confidence": "medium",
+      "reason": "同宝玉房外，归属怡红院"
+    },
+    {
+      "mention": "贾府卧房",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "泛指贾府卧房，无法确定具体院落"
+    },
+    {
+      "mention": "贾府回廊",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "廊道通称"
+    },
+    {
+      "mention": "贾府廊下",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "廊下空间泛称"
+    },
+    {
+      "mention": "贾府池塘边",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "府内水景泛称"
+    },
+    {
+      "mention": "贾府游廊",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "廊道通称"
+    },
+    {
+      "mention": "贾府院内",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "院落泛称"
+    },
+    {
+      "mention": "贾政房间",
+      "canonical_location": "荣国府",
+      "confidence": "low",
+      "reason": "贾政起居办公位于荣府内，归入荣国府"
+    },
+    {
+      "mention": "贾母住处",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "明确指代贾母居所，直接对应标准地点"
+    },
+    {
+      "mention": "贾母卧房",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "贾母内室，层级归一入贾母院"
+    },
+    {
+      "mention": "贾氏宗祠",
+      "canonical_location": "宁国府",
+      "confidence": "low",
+      "reason": "宗祠在原著中常隶属宁府管辖与叙事范围，归入宁国府"
+    },
+    {
+      "mention": "贾琏卧房",
+      "canonical_location": "荣国府",
+      "confidence": "low",
+      "reason": "贾琏夫妇居所位于荣国府范围内"
+    },
+    {
+      "mention": "贾瑞卧房",
+      "canonical_location": "荣国府",
+      "confidence": "low",
+      "reason": "贾瑞依附荣府居住，归入荣国府"
+    },
+    {
+      "mention": "贾赦房中",
+      "canonical_location": "贾赦院",
+      "confidence": "high",
+      "reason": "贾赦内室，依据规则归入贾赦院"
+    },
+    {
+      "mention": "贾赦房内",
+      "canonical_location": "贾赦院",
+      "confidence": "high",
+      "reason": "同上，归一入贾赦院"
+    },
+    {
+      "mention": "贾赦院中",
+      "canonical_location": "贾赦院",
+      "confidence": "high",
+      "reason": "明确指向贾赦院内部"
+    },
+    {
+      "mention": "贾赦院外",
+      "canonical_location": "贾赦院",
+      "confidence": "medium",
+      "reason": "紧邻贾赦院的过渡区域，叙事关联该节点"
+    },
+    {
+      "mention": "赖府",
+      "canonical_location": "unknown",
+      "confidence": "low",
+      "reason": "赖大家宅，不在标准闭集中"
+    },
+    {
+      "mention": "道观静室",
+      "canonical_location": "generic",
+      "confidence": "low",
+      "reason": "宗教场所内室通称，无法特指清虚观"
+    },
+    {
+      "mention": "邢夫人房间",
+      "canonical_location": "贾赦院",
+      "confidence": "high",
+      "reason": "邢夫人为贾赦正妻，居所明确位于贾赦院"
+    },
+    {
+      "mention": "郊外小路",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛称郊外道路，无具体标准地点指向"
+    },
+    {
+      "mention": "郊外石桥",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛指野外桥梁，无法锚定具体标准地点"
+    },
+    {
+      "mention": "野外",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛称室外环境，非具体命名地点"
+    },
+    {
+      "mention": "野外雪路",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "描述性通称，无法对应具体院落或建筑"
+    },
+    {
+      "mention": "长廊",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "建筑部件通称，缺乏上下文无法唯一归属"
+    },
+    {
+      "mention": "院外走廊",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "泛称院落外部通道，无明确指向"
+    },
+    {
+      "mention": "院落走廊",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "建筑内部通道泛称，无法唯一映射"
+    },
+    {
+      "mention": "院落门口",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "位置通称，非独立标准地点"
+    },
+    {
+      "mention": "院落门外",
+      "canonical_location": "generic",
+      "confidence": "high",
+      "reason": "方位与边界泛称，非具体地点节点"
+    },
+    {
+      "mention": "鸳鸯房中",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "鸳鸯为贾母首席大丫鬟，其起居处所隶属贾母院落范围"
+    },
+    {
+      "mention": "鸳鸯房间",
+      "canonical_location": "贾母院",
+      "confidence": "high",
+      "reason": "同上，依据层级包含原则归一至贾母院"
+    },
+    {
+      "mention": "黛玉闺房",
+      "canonical_location": "潇湘馆",
+      "confidence": "high",
+      "reason": "明确指向林黛玉居所，按任务示例规则直接归一至潇湘馆"
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "episode_id": "20",
+  "episode_title": "勇晴雯病补雀金裘",
+  "segment_id": "S02",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王熙凤准袭人回家探母并安排守夜",
+      "characters": [
+        "王熙凤",
+        "袭人",
+        "麝月"
+      ],
+      "location": "贾府内室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤告知袭人其母病重准其回家，并叮嘱麝月等人好生在宝玉房中照看守夜。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉夜醒唤人，晴雯出声抱怨",
+      "characters": [
+        "贾宝玉",
+        "袭人",
+        "晴雯"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "夜间宝玉醒来呼唤袭人，晴雯在旁抱怨其沉睡，宝玉起身并嘱咐袭人披上棉袄保暖。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "麝月端茶进屋，宝玉外出赏月",
+      "characters": [
+        "贾宝玉",
+        "麝月",
+        "晴雯",
+        "袭人"
+      ],
+      "location": "怡红院",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "麝月备好茶水，宝玉欲外出走动，晴雯等人以屋外有鬼打趣，宝玉独自走出房间。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "宝玉受冻返回，晴雯嗔怪并众人同榻取暖",
+      "characters": [
+        "贾宝玉",
+        "晴雯",
+        "袭人",
+        "麝月"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉在院中受冻跑回屋内，晴雯嗔怪其冒失，众人随后挤在榻上盖被取暖闲聊。"
+    }
+  ]
+}

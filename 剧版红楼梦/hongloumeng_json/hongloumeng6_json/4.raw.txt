@@ -1,0 +1,22 @@
+{
+  "episode_id": "06",
+  "episode_title": "王熙凤协理宁国府",
+  "segment_id": "S04",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝珠陈情愿为义女摔丧驾灵，大爷准其升格并命其守灵",
+      "characters": [
+        "宝珠",
+        "大爷"
+      ],
+      "location": "厅堂",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "宝珠向大爷陈情愿作蓉大奶奶义女并摔丧驾灵，大爷应允并传令今后不再以丫头待她，命其以小姐身份去守灵。"
+    }
+  ]
+}

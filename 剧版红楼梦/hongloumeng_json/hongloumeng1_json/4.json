@@ -1,0 +1,49 @@
+{
+  "episode_id": "01",
+  "episode_title": "林黛玉别父进京都",
+  "segment_id": "S04",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾雨村在野外行走",
+      "characters": [
+        "贾雨村"
+      ],
+      "location": "野外",
+      "time_hint": "background",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "旁白介绍贾雨村因贪污被革职后在林如海家当教师，女学生是黛玉。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾雨村与朋友交谈",
+      "characters": [
+        "贾雨村"
+      ],
+      "location": "林间",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "朋友告诉贾雨村朝廷准备恢复被革职官员的原职，贾雨村表示苦于没有门路。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾雨村与林如海交谈",
+      "characters": [
+        "贾雨村",
+        "林如海",
+        "贾政"
+      ],
+      "location": "林府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林如海告知贾雨村黛玉将入京，并写推荐信让贾雨村找贾政帮忙，建议两人同行。"
+    }
+  ]
+}

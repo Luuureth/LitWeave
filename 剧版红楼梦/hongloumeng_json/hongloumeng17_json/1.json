@@ -1,0 +1,64 @@
+{
+  "episode_id": "17",
+  "episode_title": "变生不测凤姐泼醋",
+  "segment_id": "S01",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "薛宝钗质问林黛玉",
+      "characters": [
+        "薛宝钗",
+        "林黛玉"
+      ],
+      "location": "闺房",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "薛宝钗质问林黛玉在行酒令时说了什么不当的话，林黛玉起初假装不知。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "林黛玉认错求情",
+      "characters": [
+        "薛宝钗",
+        "林黛玉"
+      ],
+      "location": "闺房",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉意识到失言，向薛宝钗撒娇认错，承认是随口说的，并请求她不要告诉别人。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "薛宝钗讲述儿时经历",
+      "characters": [
+        "薛宝钗",
+        "林黛玉"
+      ],
+      "location": "闺房",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "薛宝钗向林黛玉讲述自己小时候和兄弟姐妹偷看《西厢》等杂书被大人打骂的经历，表明自己也曾淘气。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "薛宝钗劝导林黛玉",
+      "characters": [
+        "薛宝钗",
+        "林黛玉"
+      ],
+      "location": "闺房",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "薛宝钗劝导林黛玉女子应以针黹为本，若识字应看正经书，切忌看杂书移了性情，林黛玉默默听从。"
+    }
+  ]
+}

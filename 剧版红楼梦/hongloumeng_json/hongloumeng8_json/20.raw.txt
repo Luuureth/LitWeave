@@ -1,0 +1,25 @@
+{
+  "episode_id": "08",
+  "episode_title": "荣国府归省庆元宵",
+  "segment_id": "S20",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宣读并讨论元春赐名匾额对联及题诗评价",
+      "characters": [
+        "贾政",
+        "众人",
+        "元春",
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾政与众人夜间在大观园宣读元春娘娘赐予各处馆阁的匾额对联名称，并讨论娘娘对宝玉与林黛玉题诗的评价。"
+    }
+  ]
+}

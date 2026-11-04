@@ -1,0 +1,41 @@
+{
+  "episode_id": "02",
+  "episode_title": "宝黛钗初会荣庆堂",
+  "segment_id": "S02",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "林黛玉夜间独自垂泪",
+      "characters": ["林黛玉"],
+      "location": "黛玉居室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "林黛玉因日间风波在房中独自伤心落泪。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "袭人整理床铺并安放饰物",
+      "characters": ["袭人", "贾宝玉"],
+      "location": "宝玉居室",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "parallel",
+      "event_summary": "袭人在贾宝玉房中整理床铺，将金色饰物包好安放于其枕边后离去。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "袭人探望黛玉并谈及摔玉之事",
+      "characters": ["林黛玉", "袭人", "紫鹃"],
+      "location": "黛玉居室",
+      "time_hint": "after",
+      "explicit_time": "夜深",
+      "relation_to_previous": "sequential",
+      "event_summary": "袭人前来探望林黛玉，与紫鹃一同安抚黛玉情绪，二人谈及摔玉风波及通灵宝玉来历。"
+    }
+  ]
+}

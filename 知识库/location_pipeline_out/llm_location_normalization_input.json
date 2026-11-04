@@ -1,0 +1,4705 @@
+{
+  "meta": {
+    "description": "层级归一：人物居所内间/局部空间 → 归入标准院落或府园节点；泛称 → generic",
+    "candidate_count": 37,
+    "types_sent": [
+      "alias",
+      "descriptive",
+      "subspace"
+    ],
+    "note": "标准表含 parent_location：模型应优先映射到「可独立叙事锚点」的 standard_location；闭集仅允许表内名或 unknown/generic。"
+  },
+  "candidate_canonical_locations": [
+    "荣国府",
+    "宁国府",
+    "大观园",
+    "怡红院",
+    "潇湘馆",
+    "蘅芜院",
+    "稻香村",
+    "秋爽斋",
+    "暖香坞",
+    "缀锦楼",
+    "栊翠庵",
+    "藕香榭",
+    "芦雪广",
+    "沁芳亭",
+    "滴翠亭",
+    "梨香院",
+    "贾母院",
+    "荣禧堂",
+    "荣庆堂",
+    "贾赦院",
+    "贾政书房",
+    "薛姨妈院",
+    "赵姨娘院",
+    "宁国府会芳园",
+    "天香楼",
+    "铁槛寺",
+    "馒头庵",
+    "清虚观",
+    "太虚幻境",
+    "葫芦庙",
+    "水仙庵",
+    "智通寺",
+    "姑苏城阊门外仁清巷",
+    "甄士隐书房",
+    "应天府衙",
+    "金陵薛家",
+    "林府"
+  ],
+  "standard_table_rows": [
+    {
+      "standard_location": "荣国府",
+      "parent_location": "",
+      "location_type": "府邸",
+      "note": "贾府主宅，核心礼仪与居住空间"
+    },
+    {
+      "standard_location": "宁国府",
+      "parent_location": "",
+      "location_type": "府邸",
+      "note": "贾府长房府邸，宁府主场景"
+    },
+    {
+      "standard_location": "大观园",
+      "parent_location": "",
+      "location_type": "园林",
+      "note": "元妃省亲别院，小说核心园林空间"
+    },
+    {
+      "standard_location": "怡红院",
+      "parent_location": "大观园",
+      "location_type": "院落",
+      "note": "贾宝玉住所，宝玉线核心场景"
+    },
+    {
+      "standard_location": "潇湘馆",
+      "parent_location": "大观园",
+      "location_type": "院落",
+      "note": "林黛玉住所，黛玉线核心场景"
+    },
+    {
+      "standard_location": "蘅芜院",
+      "parent_location": "大观园",
+      "location_type": "院落",
+      "note": "薛宝钗住所"
+    },
+    {
+      "standard_location": "稻香村",
+      "parent_location": "大观园",
+      "location_type": "院落",
+      "note": "李纨、贾兰住所"
+    },
+    {
+      "standard_location": "秋爽斋",
+      "parent_location": "大观园",
+      "location_type": "院落",
+      "note": "贾探春住所"
+    },
+    {
+      "standard_location": "暖香坞",
+      "parent_location": "大观园",
+      "location_type": "院落",
+      "note": "贾惜春住所"
+    },
+    {
+      "standard_location": "缀锦楼",
+      "parent_location": "大观园",
+      "location_type": "院落",
+      "note": "贾迎春住所"
+    },
+    {
+      "standard_location": "栊翠庵",
+      "parent_location": "大观园",
+      "location_type": "庵堂",
+      "note": "妙玉修行居住之所"
+    },
+    {
+      "standard_location": "藕香榭",
+      "parent_location": "大观园",
+      "location_type": "亭榭",
+      "note": "大观园宴饮、赏荷与雅集场景"
+    },
+    {
+      "standard_location": "芦雪广",
+      "parent_location": "大观园",
+      "location_type": "庭轩",
+      "note": "赏雪联诗代表性场景"
+    },
+    {
+      "standard_location": "沁芳亭",
+      "parent_location": "大观园",
+      "location_type": "景观",
+      "note": "大观园水景核心节点，统摄沁芳桥亭一带"
+    },
+    {
+      "standard_location": "滴翠亭",
+      "parent_location": "大观园",
+      "location_type": "景观",
+      "note": "大观园内代表性亭景"
+    },
+    {
+      "standard_location": "梨香院",
+      "parent_location": "荣国府",
+      "location_type": "院落",
+      "note": "薛家暂居之所，亦为戏班活动场景"
+    },
+    {
+      "standard_location": "贾母院",
+      "parent_location": "荣国府",
+      "location_type": "院落",
+      "note": "贾母居所总称，合并正房、内院、堂屋等碎片表达"
+    },
+    {
+      "standard_location": "荣禧堂",
+      "parent_location": "荣国府",
+      "location_type": "厅堂",
+      "note": "荣国府正厅礼仪场所"
+    },
+    {
+      "standard_location": "荣庆堂",
+      "parent_location": "荣国府",
+      "location_type": "厅堂",
+      "note": "荣国府重要会客与礼仪场景"
+    },
+    {
+      "standard_location": "贾赦院",
+      "parent_location": "荣国府",
+      "location_type": "院落",
+      "note": "贾赦、邢夫人住所"
+    },
+    {
+      "standard_location": "贾政书房",
+      "parent_location": "荣国府",
+      "location_type": "书房",
+      "note": "贾政办公、训子之处"
+    },
+    {
+      "standard_location": "薛姨妈院",
+      "parent_location": "荣国府",
+      "location_type": "院落",
+      "note": "薛姨妈、薛宝钗住所"
+    },
+    {
+      "standard_location": "赵姨娘院",
+      "parent_location": "荣国府",
+      "location_type": "院落",
+      "note": "赵姨娘、贾环住所"
+    },
+    {
+      "standard_location": "宁国府会芳园",
+      "parent_location": "宁国府",
+      "location_type": "园林",
+      "note": "宁府园林空间，后与大观园叙事相关"
+    },
+    {
+      "standard_location": "天香楼",
+      "parent_location": "宁国府",
+      "location_type": "楼阁",
+      "note": "宁国府代表性楼阁场景"
+    },
+    {
+      "standard_location": "铁槛寺",
+      "parent_location": "",
+      "location_type": "寺庙",
+      "note": "贾府家庙与停灵相关场景"
+    },
+    {
+      "standard_location": "馒头庵",
+      "parent_location": "",
+      "location_type": "寺庙",
+      "note": "即水月庵，王熙凤弄权之地"
+    },
+    {
+      "standard_location": "清虚观",
+      "parent_location": "",
+      "location_type": "道观",
+      "note": "张道士道观，打醮场景"
+    },
+    {
+      "standard_location": "太虚幻境",
+      "parent_location": "",
+      "location_type": "神话场景",
+      "note": "宝玉梦游与判词场景"
+    },
+    {
+      "standard_location": "葫芦庙",
+      "parent_location": "",
+      "location_type": "寺庙",
+      "note": "甄士隐、贾雨村早期叙事场景"
+    },
+    {
+      "standard_location": "水仙庵",
+      "parent_location": "",
+      "location_type": "寺庙",
+      "note": "城外庵堂场景"
+    },
+    {
+      "standard_location": "智通寺",
+      "parent_location": "",
+      "location_type": "寺庙",
+      "note": "贾雨村相关早期叙事场景"
+    },
+    {
+      "standard_location": "姑苏城阊门外仁清巷",
+      "parent_location": "",
+      "location_type": "街巷",
+      "note": "甄士隐故居所在巷子"
+    },
+    {
+      "standard_location": "甄士隐书房",
+      "parent_location": "姑苏城阊门外仁清巷",
+      "location_type": "书房",
+      "note": "甄士隐相关室内场景"
+    },
+    {
+      "standard_location": "应天府衙",
+      "parent_location": "",
+      "location_type": "衙署",
+      "note": "贾雨村审案的核心场景"
+    },
+    {
+      "standard_location": "金陵薛家",
+      "parent_location": "",
+      "location_type": "宅邸",
+      "note": "薛蟠、薛宝钗一家在金陵的家宅场景"
+    },
+    {
+      "standard_location": "林府",
+      "parent_location": "",
+      "location_type": "府邸",
+      "note": "林如海家宅场景"
+    }
+  ],
+  "items": [
+    {
+      "original_location": "宝玉房中",
+      "source": "txt",
+      "occurrence_count": 15,
+      "file_count": 6,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第019回.json|红楼梦文本/hongloumeng_txt_json/第020回.json|红楼梦文本/hongloumeng_txt_json/第021回.json|红楼梦文本/hongloumeng_txt_json/第022回.json|红楼梦文本/hongloumeng_txt_json/第024回.json|红楼梦文本/hongloumeng_txt_json/第039回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "贾母房中",
+      "source": "txt",
+      "occurrence_count": 15,
+      "file_count": 10,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第008回.json|红楼梦文本/hongloumeng_txt_json/第022回.json|红楼梦文本/hongloumeng_txt_json/第028回.json|红楼梦文本/hongloumeng_txt_json/第030回.json|红楼梦文本/hongloumeng_txt_json/第031回.json|红楼梦文本/hongloumeng_txt_json/第039回.json|红楼梦文本/hongloumeng_txt_json/第042回.json|红楼梦文本/hongloumeng_txt_json/第043回.json|红楼梦文本/hongloumeng_txt_json/第050回.json|红楼梦文本/hongloumeng_txt_json/第052回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "宝玉房内",
+      "source": "txt",
+      "occurrence_count": 12,
+      "file_count": 3,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第025回.json|红楼梦文本/hongloumeng_txt_json/第034回.json|红楼梦文本/hongloumeng_txt_json/第052回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "荣府",
+      "source": "txt",
+      "occurrence_count": 11,
+      "file_count": 8,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第011回.json|红楼梦文本/hongloumeng_txt_json/第012回.json|红楼梦文本/hongloumeng_txt_json/第013回.json|红楼梦文本/hongloumeng_txt_json/第029回.json|红楼梦文本/hongloumeng_txt_json/第037回.json|红楼梦文本/hongloumeng_txt_json/第044回.json|红楼梦文本/hongloumeng_txt_json/第054回.json|红楼梦文本/hongloumeng_txt_json/第059回.json",
+      "location_type": "alias",
+      "rule_note": "常见别称，倾向映射至「荣国府」（须由模型在闭表内确认）"
+    },
+    {
+      "original_location": "黛玉房中",
+      "source": "txt",
+      "occurrence_count": 10,
+      "file_count": 6,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第017回.json|红楼梦文本/hongloumeng_txt_json/第019回.json|红楼梦文本/hongloumeng_txt_json/第020回.json|红楼梦文本/hongloumeng_txt_json/第021回.json|红楼梦文本/hongloumeng_txt_json/第022回.json|红楼梦文本/hongloumeng_txt_json/第030回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "贾母正房",
+      "source": "txt",
+      "occurrence_count": 9,
+      "file_count": 2,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第003回.json|红楼梦文本/hongloumeng_txt_json/第047回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "王夫人上房",
+      "source": "txt",
+      "occurrence_count": 8,
+      "file_count": 5,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第017回.json|红楼梦文本/hongloumeng_txt_json/第025回.json|红楼梦文本/hongloumeng_txt_json/第034回.json|红楼梦文本/hongloumeng_txt_json/第035回.json|红楼梦文本/hongloumeng_txt_json/第049回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "贾母处",
+      "source": "txt",
+      "occurrence_count": 8,
+      "file_count": 5,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第020回.json|红楼梦文本/hongloumeng_txt_json/第042回.json|红楼梦文本/hongloumeng_txt_json/第044回.json|红楼梦文本/hongloumeng_txt_json/第049回.json|红楼梦文本/hongloumeng_txt_json/第056回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "家塾",
+      "source": "txt",
+      "occurrence_count": 7,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第009回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "王夫人房中",
+      "source": "txt",
+      "occurrence_count": 7,
+      "file_count": 5,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第023回.json|红楼梦文本/hongloumeng_txt_json/第028回.json|红楼梦文本/hongloumeng_txt_json/第030回.json|红楼梦文本/hongloumeng_txt_json/第031回.json|红楼梦文本/hongloumeng_txt_json/第032回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "薛姨妈处",
+      "source": "txt",
+      "occurrence_count": 7,
+      "file_count": 3,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第008回.json|红楼梦文本/hongloumeng_txt_json/第020回.json|红楼梦文本/hongloumeng_txt_json/第034回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "王夫人处",
+      "source": "txt",
+      "occurrence_count": 6,
+      "file_count": 6,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第003回.json|红楼梦文本/hongloumeng_txt_json/第007回.json|红楼梦文本/hongloumeng_txt_json/第013回.json|红楼梦文本/hongloumeng_txt_json/第033回.json|红楼梦文本/hongloumeng_txt_json/第034回.json|红楼梦文本/hongloumeng_txt_json/第036回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "议事厅儿",
+      "source": "txt",
+      "occurrence_count": 6,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第055回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "凤姐房中",
+      "source": "txt",
+      "occurrence_count": 5,
+      "file_count": 4,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第012回.json|红楼梦文本/hongloumeng_txt_json/第013回.json|红楼梦文本/hongloumeng_txt_json/第043回.json|红楼梦文本/hongloumeng_txt_json/第055回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "宁国府抱厦",
+      "source": "txt",
+      "occurrence_count": 5,
+      "file_count": 2,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第013回.json|红楼梦文本/hongloumeng_txt_json/第014回.json",
+      "location_type": "subspace",
+      "rule_note": "以「宁国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "荣府暖阁",
+      "source": "txt",
+      "occurrence_count": 5,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第054回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "凤姐内室",
+      "source": "txt",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第006回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "凤姐房内",
+      "source": "txt",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第016回.json|红楼梦文本/hongloumeng_txt_json/第044回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "探春处",
+      "source": "txt",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第056回.json|红楼梦文本/hongloumeng_txt_json/第060回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "村肆",
+      "source": "txt",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第002回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "荣国府宝玉房内",
+      "source": "txt",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第019回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "贾母内院",
+      "source": "txt",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第022回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾氏家塾",
+      "source": "txt",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第009回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "冯紫英府",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第028回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "凤姐居所",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第045回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "凤姐院中",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 3,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第021回.json|红楼梦文本/hongloumeng_txt_json/第028回.json|红楼梦文本/hongloumeng_txt_json/第039回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "凤姐院中东屋",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第006回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "园中小径",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 2,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第032回.json|红楼梦文本/hongloumeng_txt_json/第061回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宁府",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第011回.json",
+      "location_type": "alias",
+      "rule_note": "常见别称，倾向映射至「宁国府」（须由模型在闭表内确认）"
+    },
+    {
+      "original_location": "宝玉卧室",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第008回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "探春房中",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第055回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "探春房外",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第055回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "柳叶渚",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第059回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "芦雪庭",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第050回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "薛家",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 2,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第035回.json|红楼梦文本/hongloumeng_txt_json/第048回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "薛蟠书房",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第026回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "蘅芜苑",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 2,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第040回.json|红楼梦文本/hongloumeng_txt_json/第048回.json",
+      "location_type": "alias",
+      "rule_note": "常见别称，倾向映射至「蘅芜院」（须由模型在闭表内确认）"
+    },
+    {
+      "original_location": "袭人家",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第019回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾府",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 3,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第018回.json|红楼梦文本/hongloumeng_txt_json/第025回.json|红楼梦文本/hongloumeng_txt_json/第057回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾母堂屋",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第022回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾瑞房中",
+      "source": "txt",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第012回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "凤姐处",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第042回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "凤姐院",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第007回.json|红楼梦文本/hongloumeng_txt_json/第061回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "凤姐院内",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第044回.json|红楼梦文本/hongloumeng_txt_json/第051回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "园中枫树下",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第046回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "大荒山无稽崖青埂峰下",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第001回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "太虚幻境仙宫",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第005回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宁府上房",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第007回.json|红楼梦文本/hongloumeng_txt_json/第011回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宝玉住处",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第006回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "应天府密室",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第004回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "怡红院内",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第032回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "怡红院外",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第026回.json|红楼梦文本/hongloumeng_txt_json/第032回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "沁芳闸桥边",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第023回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "王夫人屋里",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第036回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "秦家内室",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第016回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "秦氏卧房",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第011回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "穿廊",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第044回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "缀锦阁",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第040回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾母上房",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第022回.json|红楼梦文本/hongloumeng_txt_json/第051回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "贾母屋内",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第033回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "贾母房内",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第025回.json|红楼梦文本/hongloumeng_txt_json/第046回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "贾母院外",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第028回.json|红楼梦文本/hongloumeng_txt_json/第046回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "赵姨娘住处",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第060回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "金荣家",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第010回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "馒头庵净室",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第015回.json",
+      "location_type": "subspace",
+      "rule_note": "以「馒头庵」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "黛玉房内",
+      "source": "txt",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第049回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "上夜房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第061回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "上房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第040回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "书房外",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第033回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "二门前",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第036回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "五儿家中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第060回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "代儒家中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第012回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "修竹清舍",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第017回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "农庄村头",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第015回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "农庄茅屋",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第015回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "冯府廊下",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第028回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "凤姐住处",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第036回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "凤姐房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第061回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "出殡路上北静王轿前",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第014回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "出殡路上路祭棚前",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第014回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "北门外桥边",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第047回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "北门外苇塘",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第047回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "卜世仁家",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第024回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "后门厨房外",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第060回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "周瑞家",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第006回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "周瑞家中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第006回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "园中亭子",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第039回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "园中道路",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第035回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "园内各处及正殿",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第018回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "园内水路",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第018回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "园外二门前",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第026回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "园径",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第054回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "园角门",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第060回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "城外乡村",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第006回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "多浑虫家",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第021回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "大如州街前",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第001回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "大官家庙",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第058回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "大观园山坡",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第027回.json",
+      "location_type": "subspace",
+      "rule_note": "以「大观园」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "大观园正门",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第017回.json",
+      "location_type": "subspace",
+      "rule_note": "以「大观园」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "大观园水景区",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第017回.json",
+      "location_type": "subspace",
+      "rule_note": "以「大观园」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "大观园石壁旁",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第057回.json",
+      "location_type": "subspace",
+      "rule_note": "以「大观园」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "大观园蔷薇架下",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第030回.json",
+      "location_type": "subspace",
+      "rule_note": "以「大观园」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "太虚幻境薄命司",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第005回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "姑苏城街头",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第001回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宁国府上房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第013回.json",
+      "location_type": "subspace",
+      "rule_note": "以「宁国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "宁国府与荣国府",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第043回.json",
+      "location_type": "subspace",
+      "rule_note": "以「宁国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "宁国府会芳园登仙阁灵前",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第014回.json",
+      "location_type": "subspace",
+      "rule_note": "以「宁国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "宁国府宗祠",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第053回.json",
+      "location_type": "subspace",
+      "rule_note": "以「宁国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "宁国府小书房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第019回.json",
+      "location_type": "subspace",
+      "rule_note": "以「宁国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "宁国府秦氏卧房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第005回.json",
+      "location_type": "subspace",
+      "rule_note": "以「宁国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "宁府园中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第011回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宁府大厅外",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第007回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宁府街",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第019回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宁府里间",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第007回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宁荣二府",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第016回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宝玉住所",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第034回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宝玉房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第007回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "封家",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第002回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "封家门外",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第001回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "小红房中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第024回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "山坡",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第028回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "平儿房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第061回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "廊檐下",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第036回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "往怡红院途中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第028回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "怡红院内室",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第051回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "怡红院墙角花阴下",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第026回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "怡红院窗外",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第036回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "怡红院门外",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第026回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "晓翠堂",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第040回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "林府馆中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第003回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "柳堤",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第059回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "柳家哥哥家",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第060回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "梦中幻境",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第056回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "梨香院墙角外",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第023回.json",
+      "location_type": "subspace",
+      "rule_note": "以「梨香院」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "水仙庵后园井台",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第043回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "沁芳亭后桃花树下",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第057回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "沁芳桥堤",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第058回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "沁芳溪畔",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第026回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "海棠院",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第017回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "清虚观内",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第029回.json",
+      "location_type": "subspace",
+      "rule_note": "以「清虚观」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "清虚观大殿前",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第029回.json",
+      "location_type": "subspace",
+      "rule_note": "以「清虚观」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "清虚观楼上",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第029回.json",
+      "location_type": "subspace",
+      "rule_note": "以「清虚观」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "清虚观正殿",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第029回.json",
+      "location_type": "subspace",
+      "rule_note": "以「清虚观」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "清虚观门口",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第029回.json",
+      "location_type": "subspace",
+      "rule_note": "以「清虚观」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "潇湘馆外桃花树下",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第057回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "狗儿家中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第006回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "王夫人住处",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第003回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "王夫人房内",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第025回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "王夫人正房后抱厦",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第007回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "玲珑院落",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第017回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "甄家书房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第001回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "甄家旧宅",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第001回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "甄家门前街市",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第001回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "登舟处",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第003回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "省亲正殿",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第017回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "石榴树下",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第027回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "碧纱厨内",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第003回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "禅堂与回城途中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第043回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "秦家",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第008回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "绮散斋书房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第024回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "维扬",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第002回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "花冢",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第027回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "花厅廊上",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第054回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "荒郊至水仙庵",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第043回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "荣国府内外",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第018回.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "荣国府后门",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第006回.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "荣国府大花厅",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第053回.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "荣国府梨香院",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第004回.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "荣国府正堂",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第053回.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "荣国府花厅",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第043回.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "荣宁二府",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第058回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "荣府二门口",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第039回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "荣府台阶下",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第012回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "荣府大门",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第024回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "荣府大门外及东院",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第018回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "荣府大门外及园内",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第018回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "荣府夹道空屋",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第012回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "荣府戏台",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第054回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "荣府正内室及耳房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第003回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "荣府穿堂",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第012回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "荣府银库",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第024回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "荣府院外",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第024回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "荣府院落",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第054回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "薛家花阴下",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第034回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "薛蟠卧房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第047回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "蜂腰桥",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第026回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "行宫正殿",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第018回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "街道",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第024回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "街道上",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第029回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "衙内",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第002回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "袭人屋内",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第039回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "贾府大堂",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第016回.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "贾府李氏房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第004回.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "贾府正厅",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第016回.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "贾府角门",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第052回.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "贾母后院正房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第003回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾母处下房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第042回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾母房外",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第028回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾母正室",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第018回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾母正室外帘及内室",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第018回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "贾母里间",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第022回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "贾母院中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第003回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾母院散处",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第039回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "贾琏卧室",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第021回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾琏处",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第022回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "贾琏房中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第024回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "贾琏院中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第021回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾琏院外",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第024回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾瑞家中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第012回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾芸家",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第024回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾赦院内",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第047回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "赖大家书房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第047回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "赖大家花园",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第047回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "赖家大门前",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第047回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "赵姨娘房内",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第025回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "进京途中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第004回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "送殡途中",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第015回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "逗蜂轩",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第013回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "邢夫人房内",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第046回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "金文翔家",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第046回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "金陵",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第004回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "铁槛寺途中农庄",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第015回.json",
+      "location_type": "subspace",
+      "rule_note": "以「铁槛寺」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "长安县路上",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第015回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "馒头庵卧房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第015回.json",
+      "location_type": "subspace",
+      "rule_note": "以「馒头庵」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "馒头庵后房",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第015回.json",
+      "location_type": "subspace",
+      "rule_note": "以「馒头庵」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "馒头庵殿上",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第015回.json",
+      "location_type": "subspace",
+      "rule_note": "以「馒头庵」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "鸳鸯卧房门前",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第046回.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "黛玉住处",
+      "source": "txt",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "红楼梦文本/hongloumeng_txt_json/第016回.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "室内",
+      "source": "video",
+      "occurrence_count": 53,
+      "file_count": 24,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng10_json/14.json|剧版红楼梦/hongloumeng_json/hongloumeng10_json/19.json|剧版红楼梦/hongloumeng_json/hongloumeng10_json/3.json|剧版红楼梦/hongloumeng_json/hongloumeng10_json/7.json|剧版红楼梦/hongloumeng_json/hongloumeng11_json/15.json|剧版红楼梦/hongloumeng_json/hongloumeng14_json/7.json|剧版红楼梦/hongloumeng_json/hongloumeng16_json/7.json|剧版红楼梦/hongloumeng_json/hongloumeng18_json/18.json|剧版红楼梦/hongloumeng_json/hongloumeng18_json/7.json|剧版红楼梦/hongloumeng_json/hongloumeng19_json/12.json|剧版红楼梦/hongloumeng_json/hongloumeng19_json/16.json|剧版红楼梦/hongloumeng_json/hongloumeng19_json/17.json|剧版红楼梦/hongloumeng_json/hongloumeng21_json/10.json|剧版红楼梦/hongloumeng_json/hongloumeng21_json/12.json|剧版红楼梦/hongloumeng_json/hongloumeng22_json/3.json|剧版红楼梦/hongloumeng_json/hongloumeng22_json/4.json|剧版红楼梦/hongloumeng_json/hongloumeng2_json/7.json|剧版红楼梦/hongloumeng_json/hongloumeng4_json/11.json|剧版红楼梦/hongloumeng_json/hongloumeng4_json/8.json|剧版红楼梦/hongloumeng_json/hongloumeng6_json/14.json|剧版红楼梦/hongloumeng_json/hongloumeng9_json/14.json|剧版红楼梦/hongloumeng_json/hongloumeng9_json/18.json|剧版红楼梦/hongloumeng_json/hongloumeng9_json/7.json|剧版红楼梦/hongloumeng_json/hongloumeng9_json/8.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾母房中",
+      "source": "video",
+      "occurrence_count": 41,
+      "file_count": 13,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng13_json/10.json|剧版红楼梦/hongloumeng_json/hongloumeng13_json/5.json|剧版红楼梦/hongloumeng_json/hongloumeng14_json/2.json|剧版红楼梦/hongloumeng_json/hongloumeng15_json/10.json|剧版红楼梦/hongloumeng_json/hongloumeng15_json/9.json|剧版红楼梦/hongloumeng_json/hongloumeng17_json/7.json|剧版红楼梦/hongloumeng_json/hongloumeng18_json/19.json|剧版红楼梦/hongloumeng_json/hongloumeng1_json/6.json|剧版红楼梦/hongloumeng_json/hongloumeng20_json/1.json|剧版红楼梦/hongloumeng_json/hongloumeng20_json/7.json|剧版红楼梦/hongloumeng_json/hongloumeng23_json/7.json|剧版红楼梦/hongloumeng_json/hongloumeng5_json/15.json|剧版红楼梦/hongloumeng_json/hongloumeng7_json/21.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "贾府内室",
+      "source": "video",
+      "occurrence_count": 32,
+      "file_count": 10,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng10_json/12.json|剧版红楼梦/hongloumeng_json/hongloumeng13_json/11.json|剧版红楼梦/hongloumeng_json/hongloumeng15_json/8.json|剧版红楼梦/hongloumeng_json/hongloumeng19_json/8.json|剧版红楼梦/hongloumeng_json/hongloumeng20_json/2.json|剧版红楼梦/hongloumeng_json/hongloumeng2_json/9.json|剧版红楼梦/hongloumeng_json/hongloumeng6_json/8.json|剧版红楼梦/hongloumeng_json/hongloumeng7_json/10.json|剧版红楼梦/hongloumeng_json/hongloumeng7_json/11.json|剧版红楼梦/hongloumeng_json/hongloumeng9_json/16.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "王熙凤房内",
+      "source": "video",
+      "occurrence_count": 28,
+      "file_count": 9,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng11_json/16.json|剧版红楼梦/hongloumeng_json/hongloumeng18_json/5.json|剧版红楼梦/hongloumeng_json/hongloumeng3_json/5.json|剧版红楼梦/hongloumeng_json/hongloumeng5_json/10.json|剧版红楼梦/hongloumeng_json/hongloumeng5_json/19.json|剧版红楼梦/hongloumeng_json/hongloumeng5_json/4.json|剧版红楼梦/hongloumeng_json/hongloumeng7_json/12.json|剧版红楼梦/hongloumeng_json/hongloumeng7_json/8.json|剧版红楼梦/hongloumeng_json/hongloumeng7_json/9.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "庭院",
+      "source": "video",
+      "occurrence_count": 26,
+      "file_count": 15,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng10_json/4.json|剧版红楼梦/hongloumeng_json/hongloumeng10_json/5.json|剧版红楼梦/hongloumeng_json/hongloumeng11_json/5.json|剧版红楼梦/hongloumeng_json/hongloumeng11_json/8.json|剧版红楼梦/hongloumeng_json/hongloumeng12_json/1.json|剧版红楼梦/hongloumeng_json/hongloumeng14_json/9.json|剧版红楼梦/hongloumeng_json/hongloumeng17_json/15.json|剧版红楼梦/hongloumeng_json/hongloumeng17_json/4.json|剧版红楼梦/hongloumeng_json/hongloumeng17_json/7.json|剧版红楼梦/hongloumeng_json/hongloumeng19_json/7.json|剧版红楼梦/hongloumeng_json/hongloumeng20_json/8.json|剧版红楼梦/hongloumeng_json/hongloumeng21_json/10.json|剧版红楼梦/hongloumeng_json/hongloumeng23_json/5.json|剧版红楼梦/hongloumeng_json/hongloumeng5_json/9.json|剧版红楼梦/hongloumeng_json/hongloumeng9_json/3.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宝玉房间",
+      "source": "video",
+      "occurrence_count": 20,
+      "file_count": 7,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng13_json/2.json|剧版红楼梦/hongloumeng_json/hongloumeng15_json/7.json|剧版红楼梦/hongloumeng_json/hongloumeng17_json/8.json|剧版红楼梦/hongloumeng_json/hongloumeng20_json/9.json|剧版红楼梦/hongloumeng_json/hongloumeng22_json/7.json|剧版红楼梦/hongloumeng_json/hongloumeng23_json/4.json|剧版红楼梦/hongloumeng_json/hongloumeng4_json/6.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "荣国府内室",
+      "source": "video",
+      "occurrence_count": 18,
+      "file_count": 5,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng21_json/5.json|剧版红楼梦/hongloumeng_json/hongloumeng21_json/8.json|剧版红楼梦/hongloumeng_json/hongloumeng2_json/3.json|剧版红楼梦/hongloumeng_json/hongloumeng3_json/6.json|剧版红楼梦/hongloumeng_json/hongloumeng7_json/28.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "卧室",
+      "source": "video",
+      "occurrence_count": 17,
+      "file_count": 8,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng10_json/8.json|剧版红楼梦/hongloumeng_json/hongloumeng10_json/9.json|剧版红楼梦/hongloumeng_json/hongloumeng14_json/5.json|剧版红楼梦/hongloumeng_json/hongloumeng15_json/5.json|剧版红楼梦/hongloumeng_json/hongloumeng20_json/7.json|剧版红楼梦/hongloumeng_json/hongloumeng5_json/14.json|剧版红楼梦/hongloumeng_json/hongloumeng5_json/7.json|剧版红楼梦/hongloumeng_json/hongloumeng9_json/13.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "花园",
+      "source": "video",
+      "occurrence_count": 16,
+      "file_count": 11,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng12_json/17.json|剧版红楼梦/hongloumeng_json/hongloumeng12_json/5.json|剧版红楼梦/hongloumeng_json/hongloumeng13_json/1.json|剧版红楼梦/hongloumeng_json/hongloumeng13_json/2.json|剧版红楼梦/hongloumeng_json/hongloumeng13_json/3.json|剧版红楼梦/hongloumeng_json/hongloumeng14_json/5.json|剧版红楼梦/hongloumeng_json/hongloumeng18_json/7.json|剧版红楼梦/hongloumeng_json/hongloumeng22_json/1.json|剧版红楼梦/hongloumeng_json/hongloumeng4_json/14.json|剧版红楼梦/hongloumeng_json/hongloumeng4_json/16.json|剧版红楼梦/hongloumeng_json/hongloumeng5_json/21.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "闺房",
+      "source": "video",
+      "occurrence_count": 15,
+      "file_count": 7,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng10_json/18.json|剧版红楼梦/hongloumeng_json/hongloumeng11_json/19.json|剧版红楼梦/hongloumeng_json/hongloumeng12_json/11.json|剧版红楼梦/hongloumeng_json/hongloumeng13_json/15.json|剧版红楼梦/hongloumeng_json/hongloumeng17_json/1.json|剧版红楼梦/hongloumeng_json/hongloumeng5_json/24.json|剧版红楼梦/hongloumeng_json/hongloumeng5_json/9.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "街道",
+      "source": "video",
+      "occurrence_count": 14,
+      "file_count": 5,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng13_json/6.json|剧版红楼梦/hongloumeng_json/hongloumeng2_json/3.json|剧版红楼梦/hongloumeng_json/hongloumeng6_json/17.json|剧版红楼梦/hongloumeng_json/hongloumeng7_json/2.json|剧版红楼梦/hongloumeng_json/hongloumeng7_json/27.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宝玉房内",
+      "source": "video",
+      "occurrence_count": 11,
+      "file_count": 4,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng11_json/17.json|剧版红楼梦/hongloumeng_json/hongloumeng17_json/6.json|剧版红楼梦/hongloumeng_json/hongloumeng20_json/3.json|剧版红楼梦/hongloumeng_json/hongloumeng23_json/3.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "贾琏房内",
+      "source": "video",
+      "occurrence_count": 11,
+      "file_count": 4,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng10_json/10.json|剧版红楼梦/hongloumeng_json/hongloumeng17_json/17.json|剧版红楼梦/hongloumeng_json/hongloumeng5_json/16.json|剧版红楼梦/hongloumeng_json/hongloumeng7_json/7.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "宁荣街",
+      "source": "video",
+      "occurrence_count": 10,
+      "file_count": 4,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng2_json/9.json|剧版红楼梦/hongloumeng_json/hongloumeng6_json/15.json|剧版红楼梦/hongloumeng_json/hongloumeng8_json/1.json|剧版红楼梦/hongloumeng_json/hongloumeng8_json/5.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "屋内",
+      "source": "video",
+      "occurrence_count": 10,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng12_json/8.json|剧版红楼梦/hongloumeng_json/hongloumeng13_json/4.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "房间",
+      "source": "video",
+      "occurrence_count": 10,
+      "file_count": 4,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng10_json/5.json|剧版红楼梦/hongloumeng_json/hongloumeng17_json/3.json|剧版红楼梦/hongloumeng_json/hongloumeng20_json/6.json|剧版红楼梦/hongloumeng_json/hongloumeng7_json/24.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "王熙凤房间",
+      "source": "video",
+      "occurrence_count": 10,
+      "file_count": 3,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng10_json/11.json|剧版红楼梦/hongloumeng_json/hongloumeng3_json/4.json|剧版红楼梦/hongloumeng_json/hongloumeng5_json/3.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾宝玉房间",
+      "source": "video",
+      "occurrence_count": 9,
+      "file_count": 3,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng11_json/18.json|剧版红楼梦/hongloumeng_json/hongloumeng23_json/11.json|剧版红楼梦/hongloumeng_json/hongloumeng7_json/5.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宁国府院落",
+      "source": "video",
+      "occurrence_count": 8,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng20_json/12.json|剧版红楼梦/hongloumeng_json/hongloumeng6_json/6.json",
+      "location_type": "subspace",
+      "rule_note": "以「宁国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "宴席厅堂",
+      "source": "video",
+      "occurrence_count": 8,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng16_json/6.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "王夫人房中",
+      "source": "video",
+      "occurrence_count": 8,
+      "file_count": 4,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng14_json/3.json|剧版红楼梦/hongloumeng_json/hongloumeng14_json/4.json|剧版红楼梦/hongloumeng_json/hongloumeng18_json/10.json|剧版红楼梦/hongloumeng_json/hongloumeng3_json/8.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "王夫人房内",
+      "source": "video",
+      "occurrence_count": 8,
+      "file_count": 3,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng14_json/12.json|剧版红楼梦/hongloumeng_json/hongloumeng15_json/6.json|剧版红楼梦/hongloumeng_json/hongloumeng7_json/25.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "薛姨妈处",
+      "source": "video",
+      "occurrence_count": 8,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng4_json/5.json|剧版红楼梦/hongloumeng_json/hongloumeng4_json/6.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "贾府庭院",
+      "source": "video",
+      "occurrence_count": 8,
+      "file_count": 5,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng15_json/3.json|剧版红楼梦/hongloumeng_json/hongloumeng18_json/15.json|剧版红楼梦/hongloumeng_json/hongloumeng2_json/9.json|剧版红楼梦/hongloumeng_json/hongloumeng4_json/1.json|剧版红楼梦/hongloumeng_json/hongloumeng5_json/15.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "公堂",
+      "source": "video",
+      "occurrence_count": 7,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng2_json/4.json|剧版红楼梦/hongloumeng_json/hongloumeng2_json/8.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "内室",
+      "source": "video",
+      "occurrence_count": 7,
+      "file_count": 5,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng18_json/4.json|剧版红楼梦/hongloumeng_json/hongloumeng20_json/10.json|剧版红楼梦/hongloumeng_json/hongloumeng20_json/8.json|剧版红楼梦/hongloumeng_json/hongloumeng5_json/25.json|剧版红楼梦/hongloumeng_json/hongloumeng7_json/4.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宝玉卧房",
+      "source": "video",
+      "occurrence_count": 7,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng15_json/4.json|剧版红楼梦/hongloumeng_json/hongloumeng20_json/2.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "王熙凤卧室",
+      "source": "video",
+      "occurrence_count": 7,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng16_json/11.json|剧版红楼梦/hongloumeng_json/hongloumeng5_json/26.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "王熙凤房中",
+      "source": "video",
+      "occurrence_count": 7,
+      "file_count": 3,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng18_json/6.json|剧版红楼梦/hongloumeng_json/hongloumeng5_json/20.json|剧版红楼梦/hongloumeng_json/hongloumeng5_json/6.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "船上",
+      "source": "video",
+      "occurrence_count": 7,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng16_json/5.json|剧版红楼梦/hongloumeng_json/hongloumeng1_json/5.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宁国府厅堂",
+      "source": "video",
+      "occurrence_count": 6,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng6_json/1.json|剧版红楼梦/hongloumeng_json/hongloumeng6_json/3.json",
+      "location_type": "subspace",
+      "rule_note": "以「宁国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "正殿",
+      "source": "video",
+      "occurrence_count": 6,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng8_json/13.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾宝玉房内",
+      "source": "video",
+      "occurrence_count": 6,
+      "file_count": 3,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng12_json/14.json|剧版红楼梦/hongloumeng_json/hongloumeng14_json/10.json|剧版红楼梦/hongloumeng_json/hongloumeng9_json/9.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "贾府室内",
+      "source": "video",
+      "occurrence_count": 6,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng11_json/14.json|剧版红楼梦/hongloumeng_json/hongloumeng7_json/13.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "贾母房内",
+      "source": "video",
+      "occurrence_count": 6,
+      "file_count": 3,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng17_json/16.json|剧版红楼梦/hongloumeng_json/hongloumeng18_json/14.json|剧版红楼梦/hongloumeng_json/hongloumeng7_json/15.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "宁国府灵堂",
+      "source": "video",
+      "occurrence_count": 5,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng6_json/1.json|剧版红楼梦/hongloumeng_json/hongloumeng6_json/10.json",
+      "location_type": "subspace",
+      "rule_note": "以「宁国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "王熙凤住处",
+      "source": "video",
+      "occurrence_count": 5,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng21_json/11.json|剧版红楼梦/hongloumeng_json/hongloumeng5_json/27.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "省亲别墅",
+      "source": "video",
+      "occurrence_count": 5,
+      "file_count": 3,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng8_json/16.json|剧版红楼梦/hongloumeng_json/hongloumeng8_json/6.json|剧版红楼梦/hongloumeng_json/hongloumeng8_json/7.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "芦雪庵",
+      "source": "video",
+      "occurrence_count": 5,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng19_json/15.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "荣国府宴客厅",
+      "source": "video",
+      "occurrence_count": 5,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng17_json/11.json|剧版红楼梦/hongloumeng_json/hongloumeng21_json/6.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "衙门内室",
+      "source": "video",
+      "occurrence_count": 5,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng2_json/5.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾府厅堂",
+      "source": "video",
+      "occurrence_count": 5,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng19_json/9.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "亭子",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng12_json/6.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "卧房",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng20_json/5.json|剧版红楼梦/hongloumeng_json/hongloumeng23_json/6.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "厅堂",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 4,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng17_json/12.json|剧版红楼梦/hongloumeng_json/hongloumeng6_json/4.json|剧版红楼梦/hongloumeng_json/hongloumeng7_json/26.json|剧版红楼梦/hongloumeng_json/hongloumeng9_json/2.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "园中亭台",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng18_json/17.json|剧版红楼梦/hongloumeng_json/hongloumeng18_json/9.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "大观园庭院",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng22_json/2.json",
+      "location_type": "subspace",
+      "rule_note": "以「大观园」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "巷子",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng11_json/4.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "水月庵",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng6_json/20.json|剧版红楼梦/hongloumeng_json/hongloumeng6_json/21.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "省亲别墅正殿",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng8_json/10.json|剧版红楼梦/hongloumeng_json/hongloumeng8_json/19.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "石桥",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng14_json/11.json|剧版红楼梦/hongloumeng_json/hongloumeng22_json/1.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "秦可卿房内",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng4_json/15.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "秦可卿房间",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng4_json/16.json|剧版红楼梦/hongloumeng_json/hongloumeng5_json/18.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "荣国府正堂",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng8_json/12.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "贾宝玉房中",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng3_json/8.json|剧版红楼梦/hongloumeng_json/hongloumeng4_json/7.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "贾府门前",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng11_json/2.json|剧版红楼梦/hongloumeng_json/hongloumeng18_json/3.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "贾府门口",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng16_json/12.json|剧版红楼梦/hongloumeng_json/hongloumeng9_json/16.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "贾府院子",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng15_json/1.json|剧版红楼梦/hongloumeng_json/hongloumeng17_json/9.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "贾政房中",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng9_json/19.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "贾母房",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng17_json/15.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "走廊",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng9_json/19.json|剧版红楼梦/hongloumeng_json/hongloumeng9_json/8.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "黛玉房内",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng19_json/4.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "黛玉房间",
+      "source": "video",
+      "occurrence_count": 4,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng15_json/7.json|剧版红楼梦/hongloumeng_json/hongloumeng23_json/4.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "内殿",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng8_json/14.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "卜世仁店铺",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng11_json/3.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "周瑞家屋内",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng3_json/2.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "大观园厅堂",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng16_json/8.json",
+      "location_type": "subspace",
+      "rule_note": "以「大观园」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "宁国府大厅",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng6_json/9.json",
+      "location_type": "subspace",
+      "rule_note": "以「宁国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "宅院巷道",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng17_json/14.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宗祠内",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng20_json/11.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "室内书房",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng19_json/11.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "府内庭院",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng9_json/1.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "怡红院内室",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng14_json/6.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "探春房间",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng21_json/9.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "林黛玉房间",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng9_json/11.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "水边",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng11_json/9.json|剧版红楼梦/hongloumeng_json/hongloumeng22_json/3.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "潇湘馆内室",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng13_json/14.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "花自芳家",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng9_json/4.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "荣国府厢房",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng3_json/3.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "荣国府戏台",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng8_json/21.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "荣国府贾母房",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng17_json/13.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "荣国府院落",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng3_json/8.json|剧版红楼梦/hongloumeng_json/hongloumeng4_json/9.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "袭人家",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng9_json/6.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾宝玉卧房",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng17_json/5.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾府宴席处",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng10_json/13.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "贾府正堂",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng2_json/9.json|剧版红楼梦/hongloumeng_json/hongloumeng4_json/13.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "贾府过道",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng5_json/12.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "贾母房间",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng18_json/13.json|剧版红楼梦/hongloumeng_json/hongloumeng18_json/18.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "酒席间",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng12_json/12.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "院落门前",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng11_json/6.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "香菱房中",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng9_json/5.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "黛玉房",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng23_json/2.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "黛玉房中",
+      "source": "video",
+      "occurrence_count": 3,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng19_json/13.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "五儿房间",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng22_json/6.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "厅堂内",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng11_json/15.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "园中小径",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng14_json/9.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "园中荷塘边",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng18_json/11.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "园林",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng12_json/3.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "大荒山无迹崖青埂峰",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng1_json/1.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "大观园假山处",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng11_json/9.json|剧版红楼梦/hongloumeng_json/hongloumeng7_json/14.json",
+      "location_type": "subspace",
+      "rule_note": "以「大观园」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "大观园农庄景致",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng7_json/20.json",
+      "location_type": "subspace",
+      "rule_note": "以「大观园」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "大观园正门",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng7_json/13.json|剧版红楼梦/hongloumeng_json/hongloumeng7_json/14.json",
+      "location_type": "subspace",
+      "rule_note": "以「大观园」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "大观园门口",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng7_json/23.json",
+      "location_type": "subspace",
+      "rule_note": "以「大观园」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "宅院门口",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng11_json/1.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宝玉房中",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng10_json/18.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "宝玉房外",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng11_json/17.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宴会场所",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng12_json/13.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宴席",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng12_json/11.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "府邸廊下",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng14_json/13.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "房间内",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng19_json/3.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "暗室",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng5_json/11.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "月榭",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng1_json/3.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "林黛玉闺房",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng10_json/15.json|剧版红楼梦/hongloumeng_json/hongloumeng12_json/15.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "水上河道",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng8_json/8.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "沁芳亭后桃树下",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng23_json/1.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "清虚观正殿",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng13_json/7.json",
+      "location_type": "subspace",
+      "rule_note": "以「清虚观」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "游廊",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng20_json/7.json|剧版红楼梦/hongloumeng_json/hongloumeng9_json/17.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "省亲别墅内室",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng8_json/18.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "花园小径",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng5_json/1.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "荣国府内",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng8_json/15.json|剧版红楼梦/hongloumeng_json/hongloumeng8_json/3.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "荣国府大门",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng1_json/6.json|剧版红楼梦/hongloumeng_json/hongloumeng3_json/1.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "荣国府正殿",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng8_json/11.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "荣国府院内",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng3_json/9.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "薛宝钗房间",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng3_json/7.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "袭人娘家",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng9_json/10.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾代儒房中",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng5_json/8.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾宝玉房门外",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng12_json/14.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾府巷道",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng12_json/10.json|剧版红楼梦/hongloumeng_json/hongloumeng5_json/11.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "贾府正堂前",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng7_json/2.json|剧版红楼梦/hongloumeng_json/hongloumeng7_json/3.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "贾府走廊",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng4_json/1.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "贾府院落",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng5_json/17.json|剧版红楼梦/hongloumeng_json/hongloumeng7_json/5.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "贾赦内室",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng18_json/12.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "赵姨娘房",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng11_json/10.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "赵姨娘房内",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng11_json/13.json|剧版红楼梦/hongloumeng_json/hongloumeng11_json/16.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "赵姨娘房间",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng9_json/8.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "路祭现场",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng6_json/16.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "送殡路上",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng6_json/18.json|剧版红楼梦/hongloumeng_json/hongloumeng6_json/19.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "郊外树林",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng19_json/1.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "门口",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng9_json/18.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "院墙边",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng10_json/19.json|剧版红楼梦/hongloumeng_json/hongloumeng5_json/22.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "院子",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng22_json/4.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "院落",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng5_json/22.json|剧版红楼梦/hongloumeng_json/hongloumeng9_json/2.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "马车内",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 2,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng3_json/10.json|剧版红楼梦/hongloumeng_json/hongloumeng6_json/19.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "黛玉居室",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng2_json/2.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "龄官房间",
+      "source": "video",
+      "occurrence_count": 2,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng17_json/9.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "下人房",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng22_json/7.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "书房外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng4_json/10.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "内堂",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng20_json/13.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "周瑞家院子",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng3_json/2.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "园中假山旁",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng19_json/6.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "园中廊下",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng14_json/9.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "园中廊桥",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng13_json/4.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "园中水亭",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng19_json/6.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "园中石桥",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng17_json/5.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "园中竹林旁",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng18_json/17.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "园子",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng21_json/12.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "园林长廊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng10_json/6.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "城外道路",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng17_json/10.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "墙角",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng5_json/7.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "夜晚户外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng10_json/6.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宁国府内堂",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng6_json/5.json",
+      "location_type": "subspace",
+      "rule_note": "以「宁国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "宁国府内室",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng3_json/10.json",
+      "location_type": "subspace",
+      "rule_note": "以「宁国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "宁国府卧房",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng6_json/12.json",
+      "location_type": "subspace",
+      "rule_note": "以「宁国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "宁国府大门",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng6_json/5.json",
+      "location_type": "subspace",
+      "rule_note": "以「宁国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "宁国府门外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng3_json/10.json",
+      "location_type": "subspace",
+      "rule_note": "以「宁国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "宅邸大门外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng18_json/2.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宗祠",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng20_json/13.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宗祠外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng20_json/11.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宝二爷卧房",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng7_json/6.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宝玉居室",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng2_json/2.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "宝玉房",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng23_json/2.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "室外走廊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng4_json/16.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "寺庙佛堂",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng6_json/22.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "小厨房",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng22_json/6.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "山坡",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng19_json/17.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "山间小路",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng3_json/1.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "府内",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng18_json/2.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "府邸大厅",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng7_json/29.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "府邸门外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng7_json/29.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "府门外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng13_json/8.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "庭院竹林",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng14_json/11.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "怡红院庭院",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng14_json/6.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "戏班后台",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng18_json/15.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "户外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng12_json/12.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "房内",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng12_json/16.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "有凤来仪外庭院",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng10_json/2.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "林如海家中",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng1_json/4.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "林间",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng1_json/4.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "树林",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng10_json/3.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "楼阁走廊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng5_json/24.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "正厅",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng8_json/15.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "水仙庵外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng17_json/12.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "沁芳桥旁",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng10_json/19.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "沙丘",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng2_json/7.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "潇湘馆院子",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng13_json/14.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "火场",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng2_json/6.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "灯笼作坊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng7_json/26.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "熙凤房内",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng11_json/17.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "王熙凤卧房",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng21_json/7.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "王熙凤房外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng11_json/16.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "甄家花园",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng1_json/2.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "甄家门外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng1_json/3.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "甄家院落",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng1_json/3.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "省亲别墅正厅",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng8_json/17.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "秦可卿房外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng4_json/15.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "秦氏房中",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng5_json/22.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "窗外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng11_json/17.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "竹林",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng17_json/10.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "竹林回廊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng10_json/2.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "红尘世间",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng1_json/1.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "花丛",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng10_json/3.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "花园水池边",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng12_json/14.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "花园石桥",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng18_json/1.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "花园长廊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng18_json/14.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "荒郊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng2_json/7.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "荣国府后街",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng3_json/1.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "荣国府后院",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng3_json/1.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "荣国府回廊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng21_json/7.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "荣国府大门外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng3_json/6.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "荣国府府门外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng8_json/2.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "荣国府庭院",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng11_json/7.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "荣国府正门",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng8_json/3.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "荣国府花园",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng3_json/8.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "荣国府走廊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng3_json/3.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "荣国府院子",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng17_json/13.json",
+      "location_type": "subspace",
+      "rule_note": "以「荣国府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "葫芦庙门口",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng1_json/2.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "街上",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng1_json/2.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "街巷",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng5_json/13.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "街市",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng2_json/6.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾代儒住处外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng5_json/8.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾宝玉卧室",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng12_json/15.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾宝玉房外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng14_json/10.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾宝玉房间外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng11_json/18.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾府卧房",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng5_json/17.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "贾府回廊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng9_json/16.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "贾府廊下",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng2_json/3.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "贾府池塘边",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng17_json/9.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "贾府游廊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng12_json/10.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "贾府院内",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng7_json/7.json",
+      "location_type": "subspace",
+      "rule_note": "以「贾府」为前缀的复合/局部空间"
+    },
+    {
+      "original_location": "贾政房间",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng15_json/1.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾母住处",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng5_json/27.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "贾母卧房",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng5_json/2.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾氏宗祠",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng20_json/11.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾琏卧房",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng17_json/15.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾瑞卧房",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng5_json/13.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾赦房中",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng18_json/20.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "贾赦房内",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng18_json/14.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "贾赦院中",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng18_json/20.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "贾赦院外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng18_json/18.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "赖府",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng18_json/16.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "道观静室",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng6_json/1.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "邢夫人房间",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng18_json/1.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "郊外小路",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng17_json/12.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "郊外石桥",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng19_json/1.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "野外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng1_json/4.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "野外雪路",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng20_json/10.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "长廊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng10_json/19.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "院外走廊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng17_json/17.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "院落走廊",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng14_json/5.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "院落门口",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng14_json/5.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "院落门外",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng5_json/5.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "鸳鸯房中",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng18_json/12.json",
+      "location_type": "descriptive",
+      "rule_note": "人物+居室/处所类描述，需结合剧情归一"
+    },
+    {
+      "original_location": "鸳鸯房间",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng18_json/13.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    },
+    {
+      "original_location": "黛玉闺房",
+      "source": "video",
+      "occurrence_count": 1,
+      "file_count": 1,
+      "json_paths": "剧版红楼梦/hongloumeng_json/hongloumeng9_json/17.json",
+      "location_type": "alias",
+      "rule_note": "未命中细分规则，默认按别称/待考处理"
+    }
+  ]
+}

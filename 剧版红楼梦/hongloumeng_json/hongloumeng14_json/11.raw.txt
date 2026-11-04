@@ -1,0 +1,52 @@
+{
+  "episode_id": "14",
+  "episode_title": "含耻辱情烈死金钏",
+  "segment_id": "S11",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉寻见黛玉拭泪劝慰",
+      "characters": ["贾宝玉", "林黛玉", "丫鬟"],
+      "location": "庭院竹林",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "宝玉匆忙出屋，在竹林寻见哭泣的黛玉，为其拭泪并温柔劝慰，二人谈及病情与彼此心意。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉桥上倾诉黛玉离去",
+      "characters": ["贾宝玉", "林黛玉"],
+      "location": "石桥",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉随黛玉至石桥继续倾诉担忧，黛玉听罢称早已明白其心意，随即转身走下石桥离去。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宝玉错认丫鬟吐露真情",
+      "characters": ["贾宝玉", "丫鬟"],
+      "location": "石桥",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉神情恍惚，拉住身旁丫鬟错认作黛玉，大胆吐露多年心事与病痛缘由；丫鬟惊觉其失常，急忙劝阻并提醒其去见客。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "丫鬟桥上议论宝玉去向",
+      "characters": ["丫鬟"],
+      "location": "石桥",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "两名丫鬟在石桥上闲聊，提及宝玉匆忙离去是因老爷传唤，需去会见贾雨村。"
+    }
+  ]
+}

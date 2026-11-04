@@ -1,0 +1,47 @@
+{
+  "episode_id": "10",
+  "episode_title": "听曲文宝玉悟禅机",
+  "segment_id": "S17",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉躺卧床上与丫鬟谈论宝姑娘还席之事",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": "明儿",
+      "relation_to_previous": "start",
+      "event_summary": "宝玉躺卧怡红院床上，与丫鬟谈论宝姑娘还席之事，表现冷淡态度。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉起身至书桌前书写后返回床上",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉起身至书桌前书写文字，随后返回床上躺卧。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "另一丫鬟进入查看宝玉所写文字并与先前丫鬟交谈",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "另一丫鬟进入怡红院，查看宝玉所写文字并与先前丫鬟交谈。"
+    }
+  ]
+}

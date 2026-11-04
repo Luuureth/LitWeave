@@ -1,0 +1,51 @@
+{
+  "episode_id": "11",
+  "episode_title": "为争宠姐弟遭魔魇",
+  "segment_id": "S06",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾芸抵门与小厮迎候",
+      "characters": [
+        "贾芸",
+        "小厮"
+      ],
+      "location": "院落门前",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾芸来到院落门前，小厮出门迎接并欲引其入内等候。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "小厮探听后托小红传话",
+      "characters": [
+        "小厮",
+        "小红"
+      ],
+      "location": "院落门前",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "小厮入内打探后出门，委托小红向宝二爷转告廊上二爷到访的消息。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾芸更名听劝并辞别",
+      "characters": [
+        "贾芸",
+        "小红",
+        "小厮"
+      ],
+      "location": "院落门前",
+      "time_hint": "after",
+      "explicit_time": "今儿",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾芸出面更正称呼，小红说明宝二爷今日早睡不便下楼并劝其改日再来，贾芸托其问安后离去。"
+    }
+  ]
+}

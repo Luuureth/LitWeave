@@ -1,0 +1,52 @@
+```json
+{
+  "episode_id": "10",
+  "episode_title": "听曲文宝玉悟禅机",
+  "segment_id": "S11",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王熙凤与平儿斗嘴",
+      "characters": [
+        "王熙凤",
+        "平儿"
+      ],
+      "location": "王熙凤房间",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤站在门口与屋内的平儿斗嘴，随后进屋并警告平儿不要放肆。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾琏进屋与王熙凤拌嘴",
+      "characters": [
+        "贾琏",
+        "王熙凤"
+      ],
+      "location": "王熙凤房间",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾琏进屋调侃平儿厉害，随后与王熙凤因平儿的事发生拌嘴。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "商议薛宝钗生日",
+      "characters": [
+        "贾琏",
+        "王熙凤"
+      ],
+      "location": "王熙凤房间",
+      "time_hint": "after",
+      "explicit_time": "二十一",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾琏与王熙凤商议薛宝钗二十一岁生日的规格，王熙凤转述贾母要亲自操办，贾琏表示只要有戏看有酒吃即可。"
+    }
+  ]
+}
+```

@@ -1,0 +1,37 @@
+{
+  "episode_id": "13",
+  "episode_title": "享福人福深还祷福",
+  "segment_id": "S03",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉追赶黛玉",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "花园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉在花园中奔跑追赶独自漫步的林黛玉。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉解释赏赐并表白",
+      "characters": [
+        "贾宝玉",
+        "林黛玉",
+        "宝姑娘"
+      ],
+      "location": "花园",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉向林黛玉解释娘娘赏赐之物并表白心迹，林黛玉因嫉妒宝姑娘而落泪，贾宝玉予以安慰。"
+    }
+  ]
+}

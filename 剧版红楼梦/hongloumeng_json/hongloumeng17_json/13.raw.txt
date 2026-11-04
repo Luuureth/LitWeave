@@ -1,0 +1,68 @@
+```json
+{
+    "episode_id": "17",
+    "episode_title": "变生不测凤姐泼醋",
+    "segment_id": "S13",
+    "event_count": 4,
+    "events": [
+        {
+            "event_id": "E01",
+            "narrative_order": 1,
+            "action": "贾母焦急等待并派人寻找宝玉",
+            "characters": [
+                "贾母",
+                "王夫人"
+            ],
+            "location": "荣国府贾母房",
+            "time_hint": null,
+            "explicit_time": null,
+            "relation_to_previous": "start",
+            "event_summary": "贾母因宝玉外出未归焦急万分，催促下人快去接回宝玉。"
+        },
+        {
+            "event_id": "E02",
+            "narrative_order": 2,
+            "action": "宝玉归来解释去向",
+            "characters": [
+                "贾宝玉",
+                "贾母"
+            ],
+            "location": "荣国府贾母房",
+            "time_hint": "after",
+            "explicit_time": null,
+            "relation_to_previous": "sequential",
+            "event_summary": "宝玉骑马归来，向贾母解释去北静王府吊唁之事，贾母转怒为喜。"
+        },
+        {
+            "event_id": "E03",
+            "narrative_order": 3,
+            "action": "众人开宴劝酒",
+            "characters": [
+                "贾宝玉",
+                "王熙凤",
+                "贾母",
+                "王夫人"
+            ],
+            "location": "荣国府贾母房",
+            "time_hint": "after",
+            "explicit_time": null,
+            "relation_to_previous": "sequential",
+            "event_summary": "众人开宴庆祝，宝玉向凤姐敬酒，众人起哄劝凤姐多喝。"
+        },
+        {
+            "event_id": "E04",
+            "narrative_order": 4,
+            "action": "凤姐醉酒离席",
+            "characters": [
+                "王熙凤",
+                "平儿"
+            ],
+            "location": "荣国府院子",
+            "time_hint": "after",
+            "explicit_time": null,
+            "relation_to_previous": "sequential",
+            "event_summary": "凤姐不胜酒力，在平儿搀扶下离席走到院中。"
+        }
+    ]
+}
+```

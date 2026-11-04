@@ -1,0 +1,41 @@
+{
+  "episode_id": "18",
+  "episode_title": "鸳鸯女誓绝鸳鸯偶",
+  "segment_id": "S09",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "丫鬟传话找姑娘",
+      "characters": [],
+      "location": "园中亭台",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "灰衣丫鬟来园中找姑娘，称有要事相告，姑娘们正在猜谜。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "众女子议论小老婆之事",
+      "characters": [],
+      "location": "园中亭台",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "灰衣丫鬟与姑娘们议论小老婆之事，绿衣女子被刺痛后情绪激动哭泣，众人安慰。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "粉衣女子辩驳后丫鬟离开",
+      "characters": [],
+      "location": "园中亭台",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "粉衣女子为众人辩驳称她们在府中横行霸道不必多心，灰衣丫鬟随后离开回太太处。"
+    }
+  ]
+}

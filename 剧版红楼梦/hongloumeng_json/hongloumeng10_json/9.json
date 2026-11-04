@@ -1,0 +1,37 @@
+{
+  "episode_id": "10",
+  "episode_title": "听曲文宝玉悟禅机",
+  "segment_id": "S09",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王熙凤询问平儿物品归还情况",
+      "characters": [
+        "王熙凤",
+        "平儿"
+      ],
+      "location": "卧室",
+      "time_hint": null,
+      "explicit_time": "前儿",
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤命平儿开匣子找鞋样子，并询问之前拿出去的物品是否全部收回且无遗失。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "王熙凤盘问贾琏遗留信物",
+      "characters": [
+        "王熙凤",
+        "平儿",
+        "贾琏"
+      ],
+      "location": "卧室",
+      "time_hint": "after",
+      "explicit_time": "这半个月",
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤怀疑贾琏在外遗留私情信物，平儿表示已仔细搜查未发现，王熙凤笑骂平儿天真。"
+    }
+  ]
+}

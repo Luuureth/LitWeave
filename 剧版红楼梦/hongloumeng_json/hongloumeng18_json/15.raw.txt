@@ -1,0 +1,52 @@
+{
+  "episode_id": "18",
+  "episode_title": "鸳鸯女誓绝鸳鸯偶",
+  "segment_id": "S15",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "仆人端菜入席，宾客观戏并议论老爷迎亲之事",
+      "characters": ["仆人", "众宾客"],
+      "location": "贾府庭院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "仆人端菜闲聊，席间宾客观看戏曲并议论老爷即将迎娶鸳鸯之事。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宾客席间互相招呼饮酒并谈及代买扇子",
+      "characters": ["紫衣男子", "众宾客"],
+      "location": "贾府庭院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宾客在宴席上互相招呼入座饮酒，并闲聊代老爷买扇子等琐事。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宾客观戏时认出扮演小生的演员为柳湘莲",
+      "characters": ["柳湘莲", "众宾客"],
+      "location": "贾府庭院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "戏台上演出进行时，台下宾客辨认出扮演小生的客串演员正是柳湘莲。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "紫衣男子在后台靠近柳湘莲致其惊走",
+      "characters": ["柳湘莲", "紫衣男子"],
+      "location": "戏班后台",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "演出结束后在后台，紫衣男子凑近柳湘莲，柳湘莲察觉不适后迅速起身离开。"
+    }
+  ]
+}

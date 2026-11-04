@@ -1,0 +1,33 @@
+{
+  "episode_id": "20",
+  "episode_title": "勇晴雯病补雀金裘",
+  "segment_id": "S08",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众丫鬟争执撵人之事与称呼规矩",
+      "characters": [
+        "贾宝玉",
+        "史太君"
+      ],
+      "location": "内室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "众丫鬟在内室因是否该将人撵走及称呼宝玉的规矩发生争执，抱包袱的丫鬟搬出老太太的吩咐进行辩解。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "两名丫鬟抱包袱夜间离院",
+      "characters": [],
+      "location": "庭院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "内室争执结束后，两名丫鬟抱着包袱在夜间走出房门，穿过庭院离开。"
+    }
+  ]
+}

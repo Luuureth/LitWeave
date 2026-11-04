@@ -1,0 +1,70 @@
+```json
+{
+  "episode_id": "01",
+  "episode_title": "林黛玉别父进京都",
+  "segment_id": "S02",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "甄士隐在花园与女儿英莲玩耍",
+      "characters": [
+        "甄士隐",
+        "英莲",
+        "丰氏"
+      ],
+      "location": "甄家花园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "甄士隐在花园赏花，与跑来的女儿英莲玩耍，并用花做成小灯笼逗英莲开心。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "甄士隐带英莲上街游玩",
+      "characters": [
+        "甄士隐",
+        "英莲",
+        "和尚",
+        "摊主"
+      ],
+      "location": "街上",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "甄士隐带英莲上街，观看泥人，鼓励英莲向和尚施舍铜钱，并一同观看年画。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾雨村在葫芦庙写字并应付小沙弥",
+      "characters": [
+        "贾雨村",
+        "小沙弥"
+      ],
+      "location": "葫芦庙",
+      "time_hint": "parallel",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾雨村在葫芦庙内寄居写字，小沙弥前来传达孙老爷催问字画的消息。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "甄士隐在庙前偶遇贾雨村",
+      "characters": [
+        "甄士隐",
+        "英莲",
+        "贾雨村"
+      ],
+      "location": "葫芦庙门口",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "甄士隐带英莲来到葫芦庙门口偶遇贾雨村，贾雨村夸赞英莲眉尖有胭脂记是福相。"
+    }
+  ]
+}
+```

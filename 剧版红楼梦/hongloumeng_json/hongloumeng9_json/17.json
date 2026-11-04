@@ -1,0 +1,35 @@
+{
+  "episode_id": "09",
+  "episode_title": "意绵绵静日玉生香",
+  "segment_id": "S17",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "女子催促宝玉去见云妹妹",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "游廊",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "女子在游廊催促宝玉快去见云妹妹，宝玉随即转身离开。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉与黛玉在房内争执谈心",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "潇湘馆",
+      "time_hint": "after",
+      "explicit_time": "今儿",
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉进入黛玉房间，二人因湘云之事发生争执，宝玉解释亲疏关系与脱披风原因，黛玉转而流露关切。"
+    }
+  ]
+}

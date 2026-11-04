@@ -1,0 +1,8 @@
+{
+  "episode_id": "21",
+  "episode_title": "荣国府元宵开夜宴.",
+  "segment_id": "S02",
+  "video_file": "D:\\大三下\\礼物计划\\剧版红楼梦\\hongloumeng_segments\\hongloumeng21_segments\\2.mp4",
+  "model": "qwen3.6-plus",
+  "error": "HTTPSConnectionPool(host='dashscope.aliyuncs.com', port=443): Max retries exceeded with url: /api/v1/uploads?action=getPolicy&model=qwen3.6-plus (Caused by NameResolutionError(\"<urllib3.connection.HTTPSConnection object at 0x000002303832B530>: Failed to resolve 'dashscope.aliyuncs.com' ([Errno 11001] getaddrinfo failed)\"))"
+}

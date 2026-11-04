@@ -1,0 +1,35 @@
+{
+  "episode_id": "09",
+  "episode_title": "意绵绵静日玉生香",
+  "segment_id": "S02",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "观赏上元佳节演出",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "厅堂",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉与众人在厅堂内观赏上元佳节演出并欢笑鼓掌。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "传唤茗烟商议出城拜访",
+      "characters": [
+        "贾宝玉",
+        "茗烟"
+      ],
+      "location": "院落",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉因烦闷离席传唤茗烟，提议出城前往花袭人家，茗烟同意后二人一同离去。"
+    }
+  ]
+}

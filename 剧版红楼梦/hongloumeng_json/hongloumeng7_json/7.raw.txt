@@ -1,0 +1,43 @@
+```json
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S07",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾琏回家，王熙凤迎接",
+      "characters": ["王熙凤", "贾琏", "丫鬟"],
+      "location": "贾府院内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾琏回到府中，王熙凤在门口迎接，丫鬟掀起门帘请二人进屋。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "王熙凤与贾琏室内交谈",
+      "characters": ["王熙凤", "贾琏"],
+      "location": "贾琏房内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤与贾琏在房内交谈，贾琏抱怨自己见识浅、口角笨，王熙凤表示自己在管家方面力不从心。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾琏卧床与王熙凤商议东府事务",
+      "characters": ["王熙凤", "贾琏"],
+      "location": "贾琏房内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾琏躺在床上与王熙凤商议，提到东府蓉儿媳妇去世，甄大哥请王熙凤帮忙管理几日，王熙凤担心自己年轻不压人，请求贾琏明日帮忙在甄大哥面前美言。"
+    }
+  ]
+}
+```

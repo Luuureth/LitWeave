@@ -1,0 +1,54 @@
+```json
+{
+  "episode_id": "04",
+  "episode_title": "探宝钗黛玉半含酸",
+  "segment_id": "S10",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "斥责与劝解",
+      "characters": [
+        "贾政",
+        "宝玉",
+        "单聘仁"
+      ],
+      "location": "书房",
+      "time_hint": null,
+      "explicit_time": "天也不早了",
+      "relation_to_previous": "start",
+      "event_summary": "贾政在书房斥责宝玉不读书，单聘仁劝解后宝玉离开。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "审问与吩咐",
+      "characters": [
+        "贾政",
+        "书童"
+      ],
+      "location": "书房",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾政审问书童宝玉的读书情况，书童答错诗句遭嘲笑，贾政吩咐其去学里传话。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "抱怨与安抚",
+      "characters": [
+        "宝玉",
+        "书童",
+        "小书童"
+      ],
+      "location": "书房外",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "书童向宝玉抱怨跟着挨骂，宝玉安抚后众人一同去上学。"
+    }
+  ]
+}
+```

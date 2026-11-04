@@ -1,0 +1,41 @@
+{
+  "episode_id": "10",
+  "episode_title": "听曲文宝玉悟禅机",
+  "segment_id": "S18",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "阅读诗偈并议论悟禅",
+      "characters": ["林黛玉", "薛宝钗", "史湘云"],
+      "location": "闺房",
+      "time_hint": null,
+      "explicit_time": "昨儿",
+      "relation_to_previous": "start",
+      "event_summary": "黛玉、宝钗与湘云共读宝玉所写诗偈，黛玉担忧自己昨日唱曲引发宝玉悟禅，决定前去询问。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "以禅机考问并续写偈语",
+      "characters": ["林黛玉", "贾宝玉"],
+      "location": "宝玉房中",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "黛玉前往宝玉房中，以宝玉二字设问禅机，指出其偈语未尽善，并续上无立足境方是干净两句。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "讲述禅宗典故并督促作答",
+      "characters": ["薛宝钗", "贾宝玉", "林黛玉"],
+      "location": "宝玉房中",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝钗讲述神秀与惠能作偈的典故点化宝玉，并催促其回答黛玉的机锋，宝玉笑称自己只是玩闹。"
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S21",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾母听闻宝玉题咏受赏后大悦，命人晚间备酒",
+      "characters": [
+        "史太君",
+        "贾宝玉"
+      ],
+      "location": "贾母院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾母听闻宝玉在园中题咏表现出色并得到父亲赞赏，大加夸奖并命丫鬟晚间备酒庆祝。"
+    }
+  ]
+}

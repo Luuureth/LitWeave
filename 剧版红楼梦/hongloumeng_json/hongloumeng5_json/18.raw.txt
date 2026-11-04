@@ -1,0 +1,39 @@
+```json
+{
+  "episode_id": "05",
+  "episode_title": "王熙凤毒设相思局",
+  "segment_id": "S18",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王熙凤探望秦可卿",
+      "characters": [
+        "王熙凤",
+        "秦可卿"
+      ],
+      "location": "秦可卿房间",
+      "time_hint": null,
+      "explicit_time": "明儿",
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤探望病中的秦可卿，秦可卿表示吃了山药糕感觉尚可，王熙凤承诺明日再送。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "下人通报贾瑞死讯",
+      "characters": [
+        "王熙凤",
+        "下人",
+        "秦可卿"
+      ],
+      "location": "秦可卿房间",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "下人前来寻找王熙凤，通报贾瑞死讯及王夫人商议丧事的要求，王熙凤表示随后就到。"
+    }
+  ]
+}
+```

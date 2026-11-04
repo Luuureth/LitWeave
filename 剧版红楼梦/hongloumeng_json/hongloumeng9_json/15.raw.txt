@@ -1,0 +1,37 @@
+{
+  "episode_id": "09",
+  "episode_title": "意绵绵静日玉生香",
+  "segment_id": "S15",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "闲谈与蓖头",
+      "characters": [
+        "贾宝玉",
+        "麝月"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": "早起",
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉与麝月在房内闲谈，麝月提及宝玉早起头痒，宝玉遂为其蓖头。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "晴雯归来调侃并离开",
+      "characters": [
+        "贾宝玉",
+        "麝月",
+        "晴雯"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "晴雯赢钱归来撞见二人蓖头，出言调侃后表示要去算账并离开，麝月随即提及受薛宝钗传唤准备前往。"
+    }
+  ]
+}

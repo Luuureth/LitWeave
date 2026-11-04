@@ -1,0 +1,52 @@
+{
+  "episode_id": "13",
+  "episode_title": "享福人福深还祷福",
+  "segment_id": "S15",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾母进门问责",
+      "characters": [
+        "史太君",
+        "林黛玉"
+      ],
+      "location": "闺房",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾母进入闺房，见黛玉哭泣且场面混乱，责备丫鬟们没有服侍好。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾母查物哭诉",
+      "characters": [
+        "史太君",
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "闺房",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母查问通灵宝玉和穗子，随后哭诉自己为宝玉和黛玉这两个小冤家操碎了心。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宝玉离去黛玉垂泪",
+      "characters": [
+        "贾宝玉",
+        "林黛玉",
+        "史太君"
+      ],
+      "location": "闺房",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母拉住宝玉，宝玉随后离开闺房走入竹林，黛玉在房内独自垂泪。"
+    }
+  ]
+}

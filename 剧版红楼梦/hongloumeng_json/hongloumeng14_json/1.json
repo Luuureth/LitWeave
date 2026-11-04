@@ -1,0 +1,65 @@
+{
+  "episode_id": "14",
+  "episode_title": "含耻辱情烈死金钏",
+  "segment_id": "S01",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "黛玉抚琴心烦，紫鹃劝解议论宝玉",
+      "characters": [
+        "林黛玉",
+        "紫鹃"
+      ],
+      "location": "潇湘馆",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "林黛玉在房中抚琴叹息，紫鹃端茶劝慰，两人议论起宝玉的脾气和近日行踪。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉进门赔罪，黛玉冷言相对",
+      "characters": [
+        "林黛玉",
+        "贾宝玉"
+      ],
+      "location": "潇湘馆",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉进门探望，黛玉背身不理，宝玉上前赔礼道歉，恳求黛玉不要不理他。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "两人谈及生死出家，相对而泣",
+      "characters": [
+        "林黛玉",
+        "贾宝玉"
+      ],
+      "location": "潇湘馆",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "黛玉赌气说要回家，宝玉誓言相随甚至出家，两人言语激烈后相对哭泣，宝玉悲痛欲绝。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "宝玉拉手倾诉，紫鹃撞见责备",
+      "characters": [
+        "林黛玉",
+        "贾宝玉",
+        "紫鹃"
+      ],
+      "location": "潇湘馆",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉激动握住黛玉的手倾诉心痛，紫鹃端茶进来撞见，出言责备两人拉拉扯扯，黛玉羞恼抽手。"
+    }
+  ]
+}

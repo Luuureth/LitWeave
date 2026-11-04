@@ -1,0 +1,37 @@
+{
+  "episode_id": "11",
+  "episode_title": "为争宠姐弟遭魔魇",
+  "segment_id": "S08",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "宝玉唤茶小红应答并解释身份",
+      "characters": [
+        "贾宝玉",
+        "小红"
+      ],
+      "location": "书房",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "宝玉在书房唤人倒茶，小红进入并倒茶，宝玉询问其身份名字，小红解释自己平时不端茶倒水并提及芸儿来访。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "小红遭秋纹碧痕排挤及嬷嬷训话",
+      "characters": [
+        "小红",
+        "秋纹",
+        "碧痕"
+      ],
+      "location": "庭院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "小红在庭院遭遇秋纹和碧痕的质问与辱骂，嬷嬷传达二奶奶关于种树和晾晒衣物的吩咐，秋纹碧痕随后驱赶小红。"
+    }
+  ]
+}

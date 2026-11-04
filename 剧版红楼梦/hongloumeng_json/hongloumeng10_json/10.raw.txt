@@ -1,0 +1,52 @@
+```json
+{
+  "episode_id": "10",
+  "episode_title": "听曲文宝玉悟禅机",
+  "segment_id": "S10",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王熙凤拿头发调笑贾琏",
+      "characters": [
+        "贾琏",
+        "王熙凤"
+      ],
+      "location": "贾琏房内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤在房内拿着贾琏的一缕头发调笑，称这是她一辈子的把柄，贾琏担心被旁人看见。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾琏欲烧毁头发引发争执",
+      "characters": [
+        "贾琏",
+        "王熙凤"
+      ],
+      "location": "贾琏房内",
+      "time_hint": "after",
+      "explicit_time": "明儿",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾琏认为留着头发是祸害想烧掉，王熙凤不肯并指责贾琏过河拆桥，贾琏提及明日还要替王熙凤撒谎。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾琏抱怨王熙凤善妒双标",
+      "characters": [
+        "贾琏",
+        "王熙凤"
+      ],
+      "location": "贾琏房内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾琏在房内走动，王熙凤扬言要砸醋坛子，贾琏在窗边抱怨王熙凤防他像防贼且自己却与其他男人说笑。"
+    }
+  ]
+}
+```

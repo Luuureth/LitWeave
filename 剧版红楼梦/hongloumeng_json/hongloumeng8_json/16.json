@@ -1,0 +1,39 @@
+{
+  "episode_id": "08",
+  "episode_title": "荣国府归省庆元宵",
+  "segment_id": "S16",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "元妃点评诗作并指出用字忌讳",
+      "characters": [
+        "贾元春",
+        "薛宝钗",
+        "林黛玉",
+        "贾宝玉"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "元妃阅览众人诗作，称赞薛林二人作品与众不同，并指出宝玉诗中使用了她已改定的忌讳字眼。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝钗为宝玉改诗引典及众人催促",
+      "characters": [
+        "薛宝钗",
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "大观园",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝钗建议宝玉将诗中“绿玉”改为“绿蜡”并指出唐诗出处，宝玉佩服改称其为师，黛玉催促宝玉尽快誊写呈送。"
+    }
+  ]
+}

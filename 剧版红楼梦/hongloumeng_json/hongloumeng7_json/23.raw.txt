@@ -1,0 +1,38 @@
+```json
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S23",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾政一行走出大门",
+      "characters": [
+        "贾政",
+        "清客"
+      ],
+      "location": "大观园门口",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾政与清客相公们结束游览，走出大观园的大门。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "小厮们围住宝玉讨要佩饰",
+      "characters": [
+        "贾宝玉",
+        "小厮"
+      ],
+      "location": "大观园门口",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "小厮们围住贾宝玉，纷纷讨要他身上的佩饰作为赏赐，拿到后高兴地跑开。"
+    }
+  ]
+}
+```

@@ -1,0 +1,68 @@
+{
+  "episode_id": "23",
+  "episode_title": "慧紫鹃情辞试忙玉",
+  "segment_id": "S10",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "湘云拿当票询问宝钗",
+      "characters": [
+        "史湘云",
+        "薛宝钗"
+      ],
+      "location": "潇湘馆",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "史湘云拿着一张当票进屋询问，薛宝钗进来看后认出这是当票，史湘云不解其意。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝钗解释当票原委",
+      "characters": [
+        "薛宝钗",
+        "史湘云",
+        "邢岫烟"
+      ],
+      "location": "潇湘馆",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "薛宝钗询问当票来源后，确认是邢岫烟的当票，并向众人解释邢岫烟因月钱不够用而典当棉衣的窘境。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "黛玉嘲笑湘云",
+      "characters": [
+        "林黛玉",
+        "史湘云"
+      ],
+      "location": "潇湘馆",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉听到史湘云要去为邢岫烟打抱不平，便取笑她像个要去行刺的刺客，是个呆子。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "众人商议宝玉生日",
+      "characters": [
+        "薛宝钗",
+        "史湘云",
+        "林黛玉",
+        "贾探春",
+        "贾惜春"
+      ],
+      "location": "潇湘馆",
+      "time_hint": "after",
+      "explicit_time": "四月中",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾探春和贾惜春到来，众人聚齐后，薛宝钗提到宝玉生日快到了，提议大家商量如何庆祝。"
+    }
+  ]
+}

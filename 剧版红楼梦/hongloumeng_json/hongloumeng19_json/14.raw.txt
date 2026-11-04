@@ -1,0 +1,39 @@
+```json
+{
+  "episode_id": "19",
+  "episode_title": "琉璃世界白雪红梅",
+  "segment_id": "S14",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾宝玉赶到芦雪广",
+      "characters": [
+        "贾宝玉",
+        "丫鬟"
+      ],
+      "location": "芦雪广",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "众丫鬟在芦雪广外扫雪，贾宝玉赶到，得知姑娘们还未到齐。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾母提及鹿肉，宝玉湘云商议",
+      "characters": [
+        "贾母",
+        "贾宝玉",
+        "史湘云"
+      ],
+      "location": "芦雪广",
+      "time_hint": "sequential",
+      "explicit_time": "今天",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母提及今日有新鲜鹿肉，贾宝玉与史湘云商议要一块鹿肉去园子里吃玩。"
+    }
+  ]
+}
+```

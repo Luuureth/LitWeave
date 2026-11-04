@@ -1,0 +1,49 @@
+{
+  "episode_id": "18",
+  "episode_title": "鸳鸯女誓绝鸳鸯偶",
+  "segment_id": "S12",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾赦夜间动怒并密谋",
+      "characters": [
+        "贾赦",
+        "邢夫人"
+      ],
+      "location": "贾赦院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾赦因鸳鸯拒婚之事夜间动怒，隔窗斥责邢夫人办事不力并暗自谋划。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "鸳鸯夜不能寐剪发明志",
+      "characters": [
+        "鸳鸯"
+      ],
+      "location": "贾母院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "鸳鸯深夜在房中悲泣难眠，起身持剪刀剪下头发以死明志，誓死拒婚。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾赦威逼金文翔传话施压",
+      "characters": [
+        "贾赦",
+        "金文翔"
+      ],
+      "location": "贾赦院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾赦召见家奴金文翔，放话威逼鸳鸯若不从便终身不嫁或寻死，令其夫妇传话施压。"
+    }
+  ]
+}

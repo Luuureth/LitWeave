@@ -1,0 +1,72 @@
+```json
+{
+  "episode_id": "03",
+  "episode_title": "刘姥姥一进荣国府",
+  "segment_id": "S03",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "引路进屋",
+      "characters": [
+        "周瑞家的",
+        "刘姥姥",
+        "板儿"
+      ],
+      "location": "荣国府走廊",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "周瑞家的带刘姥姥和板儿穿过走廊，让她们进屋等待，自己去通报。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "误认平儿",
+      "characters": [
+        "刘姥姥",
+        "平儿",
+        "周瑞家的",
+        "板儿"
+      ],
+      "location": "荣国府厢房",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "刘姥姥进屋见到平儿，误以为是凤姐。周瑞家的介绍平儿，平儿请刘姥姥和周瑞家的落座。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "自鸣钟惊吓",
+      "characters": [
+        "刘姥姥",
+        "平儿",
+        "板儿"
+      ],
+      "location": "荣国府厢房",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "平儿倒茶告知凤姐将至。刘姥姥听到自鸣钟声感到害怕，询问那是什么爱物，并以为是秤砣。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "端菜入席",
+      "characters": [
+        "周瑞家的",
+        "紫衣丫头",
+        "刘姥姥",
+        "板儿"
+      ],
+      "location": "荣国府厢房",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "周瑞家的和紫衣丫头端菜进屋放在桌上，刘姥姥按住板儿准备用餐。"
+    }
+  ]
+}
+```

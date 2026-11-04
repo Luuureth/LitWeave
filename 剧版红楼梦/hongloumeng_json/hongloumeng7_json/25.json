@@ -1,0 +1,79 @@
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S25",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "汇报安置戏子僧道与预留妙玉住处",
+      "characters": [
+        "王夫人",
+        "王熙凤",
+        "林之孝家的"
+      ],
+      "location": "荣国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "仆人汇报采买的戏子与僧道已到，王夫人吩咐戏子住梨香院，并为妙玉预留栊翠庵。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "介绍妙玉背景并商议下帖相请",
+      "characters": [
+        "王夫人",
+        "王熙凤",
+        "林之孝家的"
+      ],
+      "location": "荣国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林之孝家的介绍妙玉出身与才貌，王熙凤提议相请，王夫人决定下帖正式邀请。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宣布元春省亲获皇上恩准",
+      "characters": [
+        "王熙凤",
+        "贾宝玉"
+      ],
+      "location": "荣国府",
+      "time_hint": null,
+      "explicit_time": "正月十五上元这一天",
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤向众姐妹宣布皇上已恩准大小姐于正月十五归家省亲，众人欣喜。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "交代工程物资并传唤账本",
+      "characters": [
+        "王熙凤",
+        "彩明"
+      ],
+      "location": "荣国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "凤姐交代工程急用的纱绫与金银器皿事宜，并唤彩明拿账本前来。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "宝玉提议离开前往探春处",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "荣国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉认为在此碍手碍脚，提议与同伴一同前往探春房中。"
+    }
+  ]
+}

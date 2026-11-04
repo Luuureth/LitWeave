@@ -1,0 +1,22 @@
+{
+  "episode_id": "11",
+  "episode_title": "为争宠姐弟遭魔魇",
+  "segment_id": "S07",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾芸向王熙凤求差事并获准",
+      "characters": [
+        "贾芸",
+        "王熙凤"
+      ],
+      "location": "府内庭院",
+      "time_hint": null,
+      "explicit_time": "过午",
+      "relation_to_previous": "start",
+      "event_summary": "贾芸向王熙凤请安并求取园中种树栽花的差事，王熙凤应允后嘱其过午去领对牌与银子。"
+    }
+  ]
+}

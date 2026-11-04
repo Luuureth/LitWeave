@@ -1,0 +1,41 @@
+{
+  "episode_id": "21",
+  "episode_title": "荣国府元宵开夜宴.",
+  "segment_id": "S06",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众人商议夜宴将尽并提议放炮仗散席",
+      "characters": ["老祖宗", "贾府众人"],
+      "location": "荣国府宴客厅",
+      "time_hint": null,
+      "explicit_time": "四更",
+      "relation_to_previous": "start",
+      "event_summary": "贾府众人于元宵夜宴尾声商议散席，因天色已至四更且老祖宗乏累，提议放炮仗后散去。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "众人点燃观赏烟花炮仗并嬉闹互动",
+      "characters": ["老祖宗", "贾府众人"],
+      "location": "荣国府宴客厅",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "下人点燃炮仗烟花，众人围坐观赏，因响声大而掩耳嬉笑，老祖宗被逗乐后众人继续凑趣玩闹。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "提及娘娘灯谜及老祖宗感慨不祥",
+      "characters": ["老祖宗", "贾府众人", "娘娘"],
+      "location": "荣国府宴客厅",
+      "time_hint": "after",
+      "explicit_time": "元宵节",
+      "relation_to_previous": "sequential",
+      "event_summary": "丫鬟禀报娘娘灯谜已被猜中为炮竹，老祖宗听闻后感慨炮竹一响而散乃不祥之物，不应在元宵节玩耍。"
+    }
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "episode_id": "18",
+  "episode_title": "鸳鸯女誓绝鸳鸯偶",
+  "segment_id": "S14",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾赦吩咐准备迎娶新姨娘",
+      "characters": [
+        "贾赦"
+      ],
+      "location": "贾赦院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾赦吩咐下人准备花轿和洞房，迎娶新姨娘。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾母询问鸳鸯去向",
+      "characters": [
+        "史太君",
+        "邢夫人",
+        "鸳鸯"
+      ],
+      "location": "贾母院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母询问鸳鸯为何还没回来，邢夫人解释，随后鸳鸯回来服侍。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "众人讨论鸳鸯的能干",
+      "characters": [
+        "史太君",
+        "王夫人",
+        "王熙凤"
+      ],
+      "location": "花园长廊",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母在众人的簇拥下在花园长廊散步，众人夸赞鸳鸯忠诚能干。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "贾母与鸳鸯互动",
+      "characters": [
+        "史太君",
+        "鸳鸯"
+      ],
+      "location": "贾母院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母回到房内，与鸳鸯互动，表达对鸳鸯的依赖。"
+    }
+  ]
+}

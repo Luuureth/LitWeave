@@ -1,0 +1,37 @@
+{
+  "episode_id": "13",
+  "episode_title": "享福人福深还祷福",
+  "segment_id": "S12",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王熙凤与道士商议并展示通灵宝玉",
+      "characters": [
+        "王熙凤",
+        "史太君",
+        "贾宝玉"
+      ],
+      "location": "清虚观",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤与道士打趣商议将通灵宝玉请出给道友见识，道士随后将玉托出展示。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾珍向贾母禀报戏目",
+      "characters": [
+        "贾珍",
+        "史太君"
+      ],
+      "location": "清虚观",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾珍向贾母禀报神前点的戏目，贾母听到《南柯梦》后神情微妙。"
+    }
+  ]
+}

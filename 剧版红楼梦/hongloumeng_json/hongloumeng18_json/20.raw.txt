@@ -1,0 +1,66 @@
+```json
+{
+  "episode_id": "18",
+  "episode_title": "鸳鸯女誓绝鸳鸯偶",
+  "segment_id": "S20",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "王熙凤进入荣庆堂",
+      "characters": [
+        "王熙凤"
+      ],
+      "location": "荣庆堂",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤在院中得知贾母因大太太之事生气，随后进入荣庆堂。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾赦传唤秋桐",
+      "characters": [
+        "贾赦",
+        "秋桐"
+      ],
+      "location": "贾赦院中",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾赦在院中呼唤秋桐，并吩咐其去看望太太。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "众人打牌逗乐",
+      "characters": [
+        "贾母",
+        "王熙凤",
+        "鸳鸯",
+        "薛姨妈"
+      ],
+      "location": "荣庆堂",
+      "time_hint": "after",
+      "explicit_time": "半个时辰",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母拉鸳鸯入座打牌，王熙凤插科打诨逗乐众人。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "贾赦发狠报复",
+      "characters": [
+        "贾赦"
+      ],
+      "location": "贾赦房中",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾赦在房中愤恨难平，发狠誓要报复鸳鸯。"
+    }
+  ]
+}
+```

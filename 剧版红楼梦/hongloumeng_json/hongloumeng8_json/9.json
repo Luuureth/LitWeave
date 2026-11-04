@@ -1,0 +1,48 @@
+{
+  "episode_id": "08",
+  "episode_title": "荣国府归省庆元宵",
+  "segment_id": "S09",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "元春入府",
+      "characters": [
+        "贾元春"
+      ],
+      "location": "荣国府",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "元春在仪仗队和宫女的簇拥下进入荣国府。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "元春更名",
+      "characters": [
+        "贾元春"
+      ],
+      "location": "荣国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "元春看到“天仙宝境”匾额后认为太张扬，下旨改为“省亲别墅”。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾政执行更名",
+      "characters": [
+        "贾政",
+        "贾珍"
+      ],
+      "location": "荣国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾政命贾珍快去请人题写“省亲别墅”，随后牌坊换上新书写的匾额。"
+    }
+  ]
+}

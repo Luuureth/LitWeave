@@ -1,0 +1,42 @@
+```json
+{
+  "episode_id": "15",
+  "episode_title": "弄唇舌宝玉遭笞挞",
+  "segment_id": "S03",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾母怒斥贾政管教过严",
+      "characters": [
+        "贾母",
+        "贾政",
+        "王夫人",
+        "众丫鬟"
+      ],
+      "location": "贾府庭院",
+      "time_hint": null,
+      "explicit_time": "大暑天",
+      "relation_to_previous": "start",
+      "event_summary": "贾母因贾政毒打宝玉而大怒，斥责贾政下手太重并扬言要回金陵，贾政下跪辩解。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "众人抬出宝玉并查看伤势",
+      "characters": [
+        "贾母",
+        "王夫人",
+        "宝玉",
+        "众女眷"
+      ],
+      "location": "贾政书房",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母命人抬来春凳将宝玉抬出，众人查看宝玉伤势，贾母与王夫人见状悲痛大哭。"
+    }
+  ]
+}
+```

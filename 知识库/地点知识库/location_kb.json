@@ -1,0 +1,517 @@
+{
+  "meta": {
+    "description": "resolved_location 为 generic/unknown 的不进入 location_kb 节点列表；事件侧可按 mention_map 替换或过滤",
+    "kb_node_count": 37,
+    "mention_map_rows": 554,
+    "llm_merged": true
+  },
+  "locations": [
+    {
+      "canonical_location": "大观园",
+      "aliases": [
+        "大观园假山处",
+        "大观园山坡",
+        "大观园庭院",
+        "大观园正门",
+        "大观园水景区",
+        "大观园石壁旁",
+        "大观园蔷薇架下",
+        "大观园门口",
+        "柳堤",
+        "省亲别墅",
+        "省亲别墅内室",
+        "省亲别墅正厅",
+        "省亲别墅正殿",
+        "省亲正殿",
+        "蜂腰桥",
+        "行宫正殿"
+      ],
+      "sources": [
+        "txt",
+        "video"
+      ],
+      "parent_location": "",
+      "occurrence_total": 113
+    },
+    {
+      "canonical_location": "天香楼",
+      "aliases": [],
+      "sources": [
+        "txt",
+        "video"
+      ],
+      "parent_location": "宁国府",
+      "occurrence_total": 3
+    },
+    {
+      "canonical_location": "太虚幻境",
+      "aliases": [
+        "太虚幻境仙宫",
+        "太虚幻境薄命司",
+        "梦中幻境"
+      ],
+      "sources": [
+        "txt"
+      ],
+      "parent_location": "",
+      "occurrence_total": 6
+    },
+    {
+      "canonical_location": "姑苏城阊门外仁清巷",
+      "aliases": [
+        "甄家旧宅",
+        "甄家门前街市"
+      ],
+      "sources": [
+        "txt"
+      ],
+      "parent_location": "",
+      "occurrence_total": 3
+    },
+    {
+      "canonical_location": "宁国府会芳园",
+      "aliases": [
+        "宁国府会芳园登仙阁灵前",
+        "宁府园中"
+      ],
+      "sources": [
+        "txt"
+      ],
+      "parent_location": "宁国府",
+      "occurrence_total": 3
+    },
+    {
+      "canonical_location": "应天府衙",
+      "aliases": [
+        "应天府密室",
+        "衙内"
+      ],
+      "sources": [
+        "txt"
+      ],
+      "parent_location": "",
+      "occurrence_total": 5
+    },
+    {
+      "canonical_location": "怡红院",
+      "aliases": [
+        "宝二爷卧房",
+        "宝玉住处",
+        "宝玉住所",
+        "宝玉卧室",
+        "宝玉卧房",
+        "宝玉居室",
+        "宝玉房",
+        "宝玉房中",
+        "宝玉房内",
+        "宝玉房外",
+        "宝玉房间",
+        "小红房中",
+        "往怡红院途中",
+        "怡红院内",
+        "怡红院内室",
+        "怡红院墙角花阴下",
+        "怡红院外",
+        "怡红院庭院",
+        "怡红院窗外",
+        "怡红院门外",
+        "海棠院",
+        "荣国府宝玉房内",
+        "袭人屋内",
+        "贾宝玉卧室",
+        "贾宝玉卧房",
+        "贾宝玉房中",
+        "贾宝玉房内",
+        "贾宝玉房外",
+        "贾宝玉房门外",
+        "贾宝玉房间",
+        "贾宝玉房间外"
+      ],
+      "sources": [
+        "txt",
+        "video"
+      ],
+      "parent_location": "大观园",
+      "occurrence_total": 221
+    },
+    {
+      "canonical_location": "智通寺",
+      "aliases": [],
+      "sources": [
+        "txt"
+      ],
+      "parent_location": "",
+      "occurrence_total": 1
+    },
+    {
+      "canonical_location": "暖香坞",
+      "aliases": [],
+      "sources": [
+        "txt"
+      ],
+      "parent_location": "大观园",
+      "occurrence_total": 2
+    },
+    {
+      "canonical_location": "林府",
+      "aliases": [
+        "林如海家中",
+        "林府馆中"
+      ],
+      "sources": [
+        "txt",
+        "video"
+      ],
+      "parent_location": "",
+      "occurrence_total": 3
+    },
+    {
+      "canonical_location": "栊翠庵",
+      "aliases": [],
+      "sources": [
+        "txt",
+        "video"
+      ],
+      "parent_location": "大观园",
+      "occurrence_total": 10
+    },
+    {
+      "canonical_location": "梨香院",
+      "aliases": [
+        "梨香院墙角外",
+        "荣国府梨香院",
+        "龄官房间"
+      ],
+      "sources": [
+        "txt",
+        "video"
+      ],
+      "parent_location": "荣国府",
+      "occurrence_total": 14
+    },
+    {
+      "canonical_location": "水仙庵",
+      "aliases": [
+        "水仙庵后园井台",
+        "水仙庵外",
+        "禅堂与回城途中",
+        "荒郊至水仙庵"
+      ],
+      "sources": [
+        "txt",
+        "video"
+      ],
+      "parent_location": "",
+      "occurrence_total": 5
+    },
+    {
+      "canonical_location": "沁芳亭",
+      "aliases": [
+        "沁芳亭后桃树下",
+        "沁芳亭后桃花树下",
+        "沁芳桥堤",
+        "沁芳桥旁",
+        "沁芳溪畔",
+        "沁芳闸桥边"
+      ],
+      "sources": [
+        "txt",
+        "video"
+      ],
+      "parent_location": "大观园",
+      "occurrence_total": 13
+    },
+    {
+      "canonical_location": "清虚观",
+      "aliases": [
+        "清虚观内",
+        "清虚观大殿前",
+        "清虚观楼上",
+        "清虚观正殿",
+        "清虚观门口"
+      ],
+      "sources": [
+        "txt",
+        "video"
+      ],
+      "parent_location": "",
+      "occurrence_total": 20
+    },
+    {
+      "canonical_location": "滴翠亭",
+      "aliases": [],
+      "sources": [
+        "txt"
+      ],
+      "parent_location": "大观园",
+      "occurrence_total": 1
+    },
+    {
+      "canonical_location": "潇湘馆",
+      "aliases": [
+        "有凤来仪外庭院",
+        "林黛玉房间",
+        "林黛玉闺房",
+        "潇湘馆内室",
+        "潇湘馆外桃花树下",
+        "潇湘馆院子",
+        "黛玉住处",
+        "黛玉居室",
+        "黛玉房",
+        "黛玉房中",
+        "黛玉房内",
+        "黛玉房间",
+        "黛玉闺房"
+      ],
+      "sources": [
+        "txt",
+        "video"
+      ],
+      "parent_location": "大观园",
+      "occurrence_total": 96
+    },
+    {
+      "canonical_location": "甄士隐书房",
+      "aliases": [
+        "甄家书房"
+      ],
+      "sources": [
+        "txt"
+      ],
+      "parent_location": "姑苏城阊门外仁清巷",
+      "occurrence_total": 5
+    },
+    {
+      "canonical_location": "秋爽斋",
+      "aliases": [
+        "探春处",
+        "探春房中",
+        "探春房外",
+        "探春房间",
+        "晓翠堂"
+      ],
+      "sources": [
+        "txt",
+        "video"
+      ],
+      "parent_location": "大观园",
+      "occurrence_total": 24
+    },
+    {
+      "canonical_location": "稻香村",
+      "aliases": [
+        "大观园农庄景致",
+        "贾府李氏房"
+      ],
+      "sources": [
+        "txt",
+        "video"
+      ],
+      "parent_location": "大观园",
+      "occurrence_total": 17
+    },
+    {
+      "canonical_location": "缀锦楼",
+      "aliases": [
+        "缀锦阁"
+      ],
+      "sources": [
+        "txt"
+      ],
+      "parent_location": "大观园",
+      "occurrence_total": 2
+    },
+    {
+      "canonical_location": "芦雪广",
+      "aliases": [
+        "芦雪庭",
+        "芦雪庵"
+      ],
+      "sources": [
+        "txt",
+        "video"
+      ],
+      "parent_location": "大观园",
+      "occurrence_total": 11
+    },
+    {
+      "canonical_location": "荣庆堂",
+      "aliases": [],
+      "sources": [
+        "video"
+      ],
+      "parent_location": "荣国府",
+      "occurrence_total": 7
+    },
+    {
+      "canonical_location": "荣禧堂",
+      "aliases": [],
+      "sources": [
+        "video"
+      ],
+      "parent_location": "荣国府",
+      "occurrence_total": 6
+    },
+    {
+      "canonical_location": "葫芦庙",
+      "aliases": [
+        "葫芦庙门口"
+      ],
+      "sources": [
+        "video"
+      ],
+      "parent_location": "",
+      "occurrence_total": 3
+    },
+    {
+      "canonical_location": "薛姨妈院",
+      "aliases": [
+        "薛姨妈处",
+        "薛家",
+        "薛家花阴下",
+        "薛蟠卧房"
+      ],
+      "sources": [
+        "txt",
+        "video"
+      ],
+      "parent_location": "荣国府",
+      "occurrence_total": 20
+    },
+    {
+      "canonical_location": "藕香榭",
+      "aliases": [],
+      "sources": [
+        "txt"
+      ],
+      "parent_location": "大观园",
+      "occurrence_total": 10
+    },
+    {
+      "canonical_location": "蘅芜院",
+      "aliases": [
+        "蘅芜苑"
+      ],
+      "sources": [
+        "txt"
+      ],
+      "parent_location": "大观园",
+      "occurrence_total": 9
+    },
+    {
+      "canonical_location": "贾政书房",
+      "aliases": [],
+      "sources": [
+        "video"
+      ],
+      "parent_location": "荣国府",
+      "occurrence_total": 1
+    },
+    {
+      "canonical_location": "贾母院",
+      "aliases": [
+        "碧纱厨内",
+        "荣国府贾母房",
+        "贾母上房",
+        "贾母住处",
+        "贾母内院",
+        "贾母卧房",
+        "贾母后院正房",
+        "贾母堂屋",
+        "贾母处",
+        "贾母处下房",
+        "贾母屋内",
+        "贾母房",
+        "贾母房中",
+        "贾母房内",
+        "贾母房外",
+        "贾母房间",
+        "贾母正室",
+        "贾母正室外帘及内室",
+        "贾母正房",
+        "贾母里间",
+        "贾母院中",
+        "贾母院外",
+        "贾母院散处",
+        "鸳鸯卧房门前",
+        "鸳鸯房中",
+        "鸳鸯房间"
+      ],
+      "sources": [
+        "txt",
+        "video"
+      ],
+      "parent_location": "荣国府",
+      "occurrence_total": 119
+    },
+    {
+      "canonical_location": "贾赦院",
+      "aliases": [
+        "贾赦内室",
+        "贾赦房中",
+        "贾赦房内",
+        "贾赦院中",
+        "贾赦院内",
+        "贾赦院外",
+        "邢夫人房内",
+        "邢夫人房间"
+      ],
+      "sources": [
+        "txt",
+        "video"
+      ],
+      "parent_location": "荣国府",
+      "occurrence_total": 12
+    },
+    {
+      "canonical_location": "赵姨娘院",
+      "aliases": [
+        "赵姨娘住处",
+        "赵姨娘房",
+        "赵姨娘房内",
+        "赵姨娘房间"
+      ],
+      "sources": [
+        "txt",
+        "video"
+      ],
+      "parent_location": "荣国府",
+      "occurrence_total": 10
+    },
+    {
+      "canonical_location": "金陵薛家",
+      "aliases": [],
+      "sources": [
+        "txt"
+      ],
+      "parent_location": "",
+      "occurrence_total": 1
+    },
+    {
+      "canonical_location": "铁槛寺",
+      "aliases": [],
+      "sources": [
+        "txt",
+        "video"
+      ],
+      "parent_location": "",
+      "occurrence_total": 5
+    },
+    {
+      "canonical_location": "馒头庵",
+      "aliases": [
+        "水月庵",
+        "馒头庵净室",
+        "馒头庵卧房",
+        "馒头庵后房",
+        "馒头庵殿上"
+      ],
+      "sources": [
+        "txt",
+        "video"
+      ],
+      "parent_location": "",
+      "occurrence_total": 12
+    }
+  ]
+}

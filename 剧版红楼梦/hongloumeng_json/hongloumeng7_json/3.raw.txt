@@ -1,0 +1,24 @@
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S03",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "信使急报元春晋封喜讯，贾府众人闻讯受贺",
+      "characters": [
+        "信使",
+        "贾母",
+        "贾府女眷",
+        "元春"
+      ],
+      "location": "贾府正堂前",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "信使疾步至正堂前向贾母及女眷急报元春晋封贤德妃的喜讯，贾母闻讯欣喜，众人纷纷道贺并准备进宫谢恩。"
+    }
+  ]
+}

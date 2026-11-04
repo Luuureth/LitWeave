@@ -1,0 +1,50 @@
+{
+  "episode_id": "13",
+  "episode_title": "享福人福深还祷福",
+  "segment_id": "S04",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "薛宝钗在园中廊桥边伫立",
+      "characters": [
+        "薛宝钗"
+      ],
+      "location": "园中廊桥",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "薛宝钗身穿黄衣在园中廊桥边手持念珠伫立张望。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "薛宝钗取下红念珠给贾宝玉观看",
+      "characters": [
+        "薛宝钗",
+        "贾宝玉"
+      ],
+      "location": "屋内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "薛宝钗在屋内将娘娘赐的红念珠取下给贾宝玉观看。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "林黛玉进屋打趣贾宝玉",
+      "characters": [
+        "林黛玉",
+        "薛宝钗",
+        "贾宝玉"
+      ],
+      "location": "屋内",
+      "time_hint": "sequential",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "林黛玉进屋打趣贾宝玉是呆雁，并与薛宝钗和贾宝玉交谈。"
+    }
+  ]
+}

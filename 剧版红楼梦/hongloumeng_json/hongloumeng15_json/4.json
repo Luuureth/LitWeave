@@ -1,0 +1,65 @@
+{
+  "episode_id": "15",
+  "episode_title": "弄唇舌宝玉遭笞挞",
+  "segment_id": "S04",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "袭人照顾受伤的宝玉",
+      "characters": [
+        "袭人",
+        "贾宝玉"
+      ],
+      "location": "怡红院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "袭人在床边照顾受伤的宝玉，宝玉喊疼。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝钗送药并嘱咐",
+      "characters": [
+        "薛宝钗",
+        "袭人",
+        "贾宝玉"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝钗带着药来看望宝玉，并嘱咐袭人如何敷药。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "宝钗劝慰宝玉",
+      "characters": [
+        "薛宝钗",
+        "贾宝玉"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝钗劝慰宝玉早听人言，宝玉内心感慨众人对自己的怜惜。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "宝钗告辞离开",
+      "characters": [
+        "薛宝钗",
+        "袭人"
+      ],
+      "location": "怡红院",
+      "time_hint": "after",
+      "explicit_time": "明儿, 晚上",
+      "relation_to_previous": "sequential",
+      "event_summary": "宝钗嘱咐晚上敷药并说明日再来，随后告辞，袭人相送。"
+    }
+  ]
+}

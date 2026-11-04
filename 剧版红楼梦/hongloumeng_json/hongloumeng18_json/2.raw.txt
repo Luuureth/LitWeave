@@ -1,0 +1,39 @@
+{
+  "episode_id": "18",
+  "episode_title": "鸳鸯女誓绝鸳鸯偶",
+  "segment_id": "S02",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "商议前往老太太处的行程与换衣安排",
+      "characters": [
+        "太太",
+        "另一位妇人",
+        "老太太",
+        "平儿"
+      ],
+      "location": "府内",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "两位太太商议前往老太太处，其中一人决定换衣后前往，并提及让平儿帮忙说合。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "轿队行进至宅邸大门并停驻",
+      "characters": [
+        "轿夫",
+        "随从",
+        "妇人"
+      ],
+      "location": "宅邸大门外",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "红色轿队在巷道中行进至宅邸大门前停下，一名妇人先行步入大门内。"
+    }
+  ]
+}

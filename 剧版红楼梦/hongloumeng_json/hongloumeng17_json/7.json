@@ -1,0 +1,51 @@
+{
+  "episode_id": "17",
+  "episode_title": "变生不测凤姐泼醋",
+  "segment_id": "S07",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众人商议凑份子为凤姐庆生",
+      "characters": [
+        "史太君",
+        "王熙凤",
+        "贾宝玉"
+      ],
+      "location": "贾母院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾母带头提议凑份子给王熙凤过生日，众人纷纷响应并商定各自出的银钱数目。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾宝玉离席前往怡红院",
+      "characters": [
+        "贾宝玉"
+      ],
+      "location": "庭院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾宝玉听闻众人商议后若有所思，独自走出房间穿过庭院回到怡红院。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "平儿呈交账目，贾母指派凤姐操办生日",
+      "characters": [
+        "史太君",
+        "平儿",
+        "王熙凤"
+      ],
+      "location": "贾母院",
+      "time_hint": null,
+      "explicit_time": "明天",
+      "relation_to_previous": "sequential",
+      "event_summary": "平儿将凑齐的一百五十六两半银钱账目呈给贾母，贾母确认后交由王熙凤负责，并嘱咐她明日只管享福。"
+    }
+  ]
+}

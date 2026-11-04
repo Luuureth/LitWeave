@@ -1,0 +1,68 @@
+{
+  "episode_id": "16",
+  "episode_title": "刘姥姥嬉游大观园",
+  "segment_id": "S01",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "众人入园并安排刘姥姥就座",
+      "characters": [
+        "刘姥姥",
+        "贾母",
+        "众人"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "众人抬轿入园，贾母等人陪同刘姥姥在园中亭子休息就座。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "刘姥姥夸赞园子并称赞惜春",
+      "characters": [
+        "刘姥姥",
+        "贾母",
+        "惜春"
+      ],
+      "location": "大观园",
+      "time_hint": "same_time",
+      "explicit_time": "今儿个",
+      "relation_to_previous": "sequential",
+      "event_summary": "刘姥姥感叹园子比画还美，贾母介绍惜春善画，刘姥姥夸赞惜春容貌才艺。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "王熙凤等人给刘姥姥戴花",
+      "characters": [
+        "王熙凤",
+        "刘姥姥",
+        "鸳鸯"
+      ],
+      "location": "大观园",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤和鸳鸯拿花给刘姥姥戴在头上，将其打扮得花花绿绿。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "众人取笑刘姥姥并提议移步",
+      "characters": [
+        "刘姥姥",
+        "贾母",
+        "王熙凤"
+      ],
+      "location": "大观园",
+      "time_hint": "same_time",
+      "explicit_time": "今儿个",
+      "relation_to_previous": "sequential",
+      "event_summary": "众人取笑刘姥姥戴花的样子，刘姥姥自嘲是‘老风流’，贾母提议去潇湘馆。"
+    }
+  ]
+}

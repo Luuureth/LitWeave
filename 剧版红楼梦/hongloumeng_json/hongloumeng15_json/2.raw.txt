@@ -1,0 +1,71 @@
+```json
+{
+  "episode_id": "15",
+  "episode_title": "弄唇舌宝玉遭笞挞",
+  "segment_id": "S02",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾政命人笞挞宝玉",
+      "characters": [
+        "贾政",
+        "宝玉",
+        "仆人"
+      ],
+      "location": "书房",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾政盛怒之下命仆人按住宝玉，并亲自用大板狠狠笞挞宝玉。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "仆人报信，门客入内劝阻",
+      "characters": [
+        "仆人",
+        "门客",
+        "贾政"
+      ],
+      "location": "书房",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "仆人奔走报信，门客入内试图拉扯劝阻贾政，反遭贾政斥责其平日纵容宝玉。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "王夫人入内阻拦贾政",
+      "characters": [
+        "王夫人",
+        "贾政",
+        "宝玉"
+      ],
+      "location": "书房",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王夫人闻讯赶来抱住贾政苦苦劝阻，并以若气坏老太太后果严重相要挟。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "王夫人哭诉求情并提及亡子",
+      "characters": [
+        "王夫人",
+        "宝玉",
+        "李纨",
+        "众女眷"
+      ],
+      "location": "书房",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王夫人见宝玉重伤悲愤交加，哭诉求情并提及亡子珠儿，李纨等众女眷在一旁劝慰。"
+    }
+  ]
+}
+```

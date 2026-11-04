@@ -1,0 +1,19 @@
+{
+  "episode_id": "08",
+  "episode_title": "荣国府归省庆元宵",
+  "segment_id": "S01",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "盛装列队等候",
+      "characters": [],
+      "location": "宁荣街",
+      "time_hint": "background",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾府上下盛装列队于宁荣街前，静候省亲队伍到来。"
+    }
+  ]
+}

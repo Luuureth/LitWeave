@@ -1,0 +1,10 @@
+{
+  "name": "litweave-server",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js",
+    "import": "node import-data.js"
+  }
+}

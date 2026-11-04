@@ -1,0 +1,305 @@
+{
+  "chapter_id": "022",
+  "chapter_title": "第二十二回 听曲文宝玉悟禅机 制灯谜贾政悲谶语",
+  "source_type": "hongloumeng_text",
+  "event_count": 17,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "商议薛宝钗生日规格",
+      "characters": [
+        "贾琏",
+        "王熙凤"
+      ],
+      "location": "贾琏处",
+      "time_hint": "background",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "凤姐与贾琏商议薛宝钗十五岁生日的操办规格与则例。",
+      "source_text": "话说贾琏听凤姐儿说有话商量，因止步问：“什么话？”凤姐道：“二十一是薛妹妹的生日，你到底怎么样？”……说着，一径去了，不在话下。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾母挽留史湘云等候宝钗寿宴",
+      "characters": [
+        "史湘云",
+        "贾母"
+      ],
+      "location": "贾母房中",
+      "time_hint": "sequential",
+      "explicit_time": "住了两日",
+      "relation_to_previous": "sequential",
+      "event_summary": "湘云欲回家被贾母以等过宝钗生日看戏为由挽留，并遣人取旧日针线作贺礼。",
+      "source_text": "且说湘云住了两日，便要回去，贾母因说：“等过了你宝姐姐的生日，看了戏，再回去。”……又一面遣人回去，将自己旧日作的两件针线活计取来，为宝钗生辰之仪。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾母捐资凤姐凑趣备办酒戏",
+      "characters": [
+        "贾母",
+        "王熙凤"
+      ],
+      "location": "贾母房中",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母自捐二十两银子交凤姐备办宝钗寿宴，凤姐言语凑趣逗乐贾母。",
+      "source_text": "谁想贾母自见宝钗来了，喜他稳重和平，正值他才过第一个生辰，便自己捐资二十两，唤了凤姐来，交与他备酒戏。……说着，又引贾母笑了一会。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "贾母问宝钗戏文饮食喜好",
+      "characters": [
+        "贾母",
+        "薛宝钗"
+      ],
+      "location": "贾母房中",
+      "time_hint": "after",
+      "explicit_time": "到晚上",
+      "relation_to_previous": "sequential",
+      "event_summary": "晚间定省后贾母询问宝钗喜好，宝钗深知贾母性情便依素喜作答。",
+      "source_text": "到晚上，众人都在贾母前，定省之馀，大家娘儿们说笑时，贾母因问宝钗爱听何戏，爱吃何物。……贾母更加喜欢。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "贾母设家宴宝玉寻黛玉同往",
+      "characters": [
+        "贾母",
+        "宝玉",
+        "林黛玉"
+      ],
+      "location": "贾母内院",
+      "time_hint": "after",
+      "explicit_time": "至二十一日",
+      "relation_to_previous": "sequential",
+      "event_summary": "至二十一日贾母内院搭台设家宴，宝玉早起寻黛玉携手同去听戏。",
+      "source_text": "次日，先送过衣服玩物去，王夫人、凤姐、黛玉等诸人皆有随分的，不须细说。至二十一日，贾母内院搭了家常小巧戏台……一面说，一面拉他起来，携手出去。"
+    },
+    {
+      "event_id": "E06",
+      "narrative_order": 6,
+      "action": "众人依次点戏",
+      "characters": [
+        "贾母",
+        "薛宝钗",
+        "薛姨妈",
+        "王熙凤",
+        "林黛玉",
+        "宝玉",
+        "史湘云",
+        "李纨"
+      ],
+      "location": "贾母内院",
+      "time_hint": "after",
+      "explicit_time": "吃了饭",
+      "relation_to_previous": "sequential",
+      "event_summary": "饭后众人依贾母之命依次点戏，贾母自是喜欢。",
+      "source_text": "吃了饭，点戏时，贾母一面先叫宝钗点，宝钗推让一遍，无法，只得点了一出《西游记》。……然后宝玉、史湘云、迎、探、惜、李纨等俱各点了，按出扮演。"
+    },
+    {
+      "event_id": "E07",
+      "narrative_order": 7,
+      "action": "宝钗为宝玉解说《山门》戏文",
+      "characters": [
+        "贾母",
+        "薛宝钗",
+        "宝玉",
+        "林黛玉",
+        "史湘云"
+      ],
+      "location": "贾母内院",
+      "time_hint": "after",
+      "explicit_time": "至上酒席时",
+      "relation_to_previous": "sequential",
+      "event_summary": "酒席间宝钗点《山门》并向宝玉讲解《寄生草》词意，宝玉听罢称赞不已。",
+      "source_text": "至上酒席时，贾母又命宝钗点，宝钗点了一出《山门》。……说的湘云也笑了。于是大家看戏，到晚方散。"
+    },
+    {
+      "event_id": "E08",
+      "action": "凤姐评戏子貌类黛玉宝玉使眼色",
+      "narrative_order": 8,
+      "characters": [
+        "贾母",
+        "王熙凤",
+        "薛宝钗",
+        "宝玉",
+        "史湘云"
+      ],
+      "location": "贾母内院",
+      "time_hint": "after",
+      "explicit_time": "一时",
+      "relation_to_previous": "sequential",
+      "event_summary": "散戏后贾母赏戏子，凤姐评小旦貌类黛玉，湘云直言点破，宝玉忙使眼色制止。",
+      "source_text": "贾母深爱那做小旦的和那做小丑的，因命人带进来……一时散了。"
+    },
+    {
+      "event_id": "E09",
+      "narrative_order": 9,
+      "action": "湘云因貌类黛玉事生气宝玉劝解",
+      "characters": [
+        "史湘云",
+        "翠缕",
+        "宝玉"
+      ],
+      "location": "贾母里间",
+      "time_hint": "after",
+      "explicit_time": "晚间",
+      "relation_to_previous": "sequential",
+      "event_summary": "晚间湘云因被说恼怒命人收拾行李欲回，宝玉近前劝解反遭湘云抢白。",
+      "source_text": "晚间，湘云便命翠缕把衣包收拾了。……说着，进贾母里间屋里，气忿忿的躺着去了。"
+    },
+    {
+      "event_id": "E10",
+      "narrative_order": 10,
+      "action": "黛玉质问宝玉使眼色用意",
+      "characters": [
+        "宝玉",
+        "林黛玉",
+        "紫鹃"
+      ],
+      "location": "黛玉房中",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉没趣转寻黛玉被推拒，进房后黛玉质问其使眼色偏袒之意，宝玉无可分辩。",
+      "source_text": "宝玉没趣，只得又来找黛玉。……黛玉又道：“这还可恕。你为什么又和云儿使眼色儿？这安的是什么心？……宝玉听说，无可分辩。"
+    },
+    {
+      "event_id": "E11",
+      "narrative_order": 11,
+      "action": "宝玉感悟参禅提笔写偈",
+      "characters": [
+        "宝玉",
+        "袭人"
+      ],
+      "location": "宝玉房中",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝玉受《南华经》启发自感无趣落泪，回房提笔写偈语与《寄生草》词后入睡。",
+      "source_text": "黛玉又道：“这还可恕。你为什么又和云儿使眼色儿？……”袭人虽深知原委，不敢就说……翻身站起来，至案边，提笔立占一偈云：\n\n你证我证，心证意证。是无有证，斯可云证。无可云证，是立足境。\n\n写毕，自己虽解悟，又恐人看了不解，因又填一只《寄生草》，写在偈后。又念了一遍，自觉心中无有挂碍，便上床睡了。"
+    },
+    {
+      "event_id": "E12",
+      "narrative_order": 12,
+      "action": "钗黛湘同看偈词并赴宝玉房问禅",
+      "characters": [
+        "林黛玉",
+        "薛宝钗",
+        "史湘云",
+        "袭人"
+      ],
+      "location": "宝玉房中",
+      "time_hint": "after",
+      "explicit_time": "次日",
+      "relation_to_previous": "sequential",
+      "event_summary": "次日黛玉看偈词后与宝钗湘云同看，宝钗撕毁词稿，三人一同去找宝玉。",
+      "source_text": "谁知黛玉见宝玉此番果断而去……袭人笑道：“姑娘请站着，有一个字帖儿，瞧瞧写的是什么话。”便将宝玉方才所写的拿给黛玉看。……三人说着，过来见了宝玉。"
+    },
+    {
+      "event_id": "E13",
+      "narrative_order": 13,
+      "action": "钗黛湘以禅机考问宝玉",
+      "characters": [
+        "林黛玉",
+        "薛宝钗",
+        "史湘云",
+        "宝玉"
+      ],
+      "location": "宝玉房中",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "黛玉以机锋考问宝玉，宝钗引六祖惠能公案，宝玉自认知觉不如众人罢论参禅。",
+      "source_text": "黛玉先笑道：“宝玉，我问你：至贵者宝，至坚者玉。尔有何贵？尔有何坚？”……宝玉自己以为觉悟，不想忽被黛玉一问，便不能答……说罢，四人仍复如旧。"
+    },
+    {
+      "event_id": "E14",
+      "narrative_order": 14,
+      "action": "元春送灯谜众人猜作贾环谜遭笑",
+      "characters": [
+        "宝钗",
+        "宝玉",
+        "林黛玉",
+        "史湘云",
+        "探春",
+        "贾环",
+        "贾兰"
+      ],
+      "location": "贾母上房",
+      "time_hint": "after",
+      "explicit_time": "忽然",
+      "relation_to_previous": "sequential",
+      "event_summary": "元春差人送灯谜命众人猜作并回送，众人猜后作谜挂灯，贾环谜语不通遭人取笑。",
+      "source_text": "忽然人报娘娘差人送出一个灯谜来，命他们大家去猜……贾环只得告诉太监说：“是一个枕头，一个兽头。”太监记了，领茶而去。"
+    },
+    {
+      "event_id": "E15",
+      "narrative_order": 15,
+      "action": "贾政晚来承欢贾母设灯谜席",
+      "characters": [
+        "贾母",
+        "贾政",
+        "宝玉",
+        "贾兰",
+        "王夫人",
+        "薛宝钗",
+        "林黛玉",
+        "史湘云",
+        "迎春",
+        "探春",
+        "惜春",
+        "李纨",
+        "王熙凤"
+      ],
+      "location": "贾母堂屋",
+      "time_hint": "after",
+      "explicit_time": "晚上",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母设围屏灯命姊妹作谜，贾政朝罢晚来承欢取乐并命人唤贾兰入席。",
+      "source_text": "贾母见元春这般有兴，自己一发喜乐，便命速作一架小巧精致围屏灯来……往常间只有宝玉长谈阔论，今日贾政在这里，便唯唯而已。……故此一席，虽是家常取乐，反见拘束。"
+    },
+    {
+      "event_id": "E16",
+      "narrative_order": 16,
+      "action": "贾母贾政互猜灯谜贾政阅谜辞生悲",
+      "characters": [
+        "贾母",
+        "贾政",
+        "宝玉",
+        "迎春",
+        "探春",
+        "薛宝钗"
+      ],
+      "location": "贾母堂屋",
+      "time_hint": "after",
+      "explicit_time": "酒过三巡",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母贾政互猜灯谜取乐，贾政看众姊妹灯词触宝钗谜辞觉言语不祥心生悲戚，贾母劝其去歇息。",
+      "source_text": "贾母亦知因贾政一人在此所致，酒过三巡，便撵贾政去歇息。……贾母道：“这个自然。”便念道：“猴子身轻站树梢，打一果名。……往下再看宝钗的，道是：……贾政看完，心内自忖道：“此物还倒有限，只是小小年纪，作此等言语，更觉不祥。……方才退出去了。回至房中，只是思索，翻来复去，甚觉凄惋。"
+    },
+    {
+      "event_id": "E17",
+      "narrative_order": 17,
+      "action": "众人评灯谜至夜阑方散",
+      "characters": [
+        "宝玉",
+        "林黛玉",
+        "王熙凤",
+        "贾母",
+        "李纨"
+      ],
+      "location": "贾母堂屋",
+      "time_hint": "after",
+      "explicit_time": "已交四鼓了",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾政走后宝玉跑至灯前乱评灯谜遭凤姐打趣，贾母觉困命撤食赏人，众人听交四鼓慢慢散去。",
+      "source_text": "这里贾母见贾政去了，便道：“你们乐一乐罢。”一语未了，只见宝玉跑至围屏灯前，指手画脚，信口批评……听了听，已交四鼓了。因命将食物撤去，赏给众人，遂起身道：“我们歇着罢。……于是众人方慢慢的散去。未知次日如何，且听下回分解。"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+```json
+{
+  "episode_id": "07",
+  "episode_title": "大观园试才题对额",
+  "segment_id": "S22",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "游园品评题对额",
+      "characters": [
+        "贾政",
+        "宝玉",
+        "众清客"
+      ],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "众人在大观园中游览，感叹行程未完，并品评园中题对额精妙。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "贾政训斥宝玉",
+      "characters": [
+        "贾政",
+        "宝玉",
+        "众清客"
+      ],
+      "location": "大观园",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾政批评宝玉只重诗词雕虫小技而不务正业，并命其去见贾母。"
+    }
+  ]
+}
+```

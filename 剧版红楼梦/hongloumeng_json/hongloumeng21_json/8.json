@@ -1,0 +1,52 @@
+{
+  "episode_id": "21",
+  "episode_title": "荣国府元宵开夜宴.",
+  "segment_id": "S08",
+  "event_count": 4,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "管事侍女入内通报赵国基病故及太太吩咐",
+      "characters": [],
+      "location": "荣国府",
+      "time_hint": null,
+      "explicit_time": "昨天",
+      "relation_to_previous": "start",
+      "event_summary": "管事侍女入内通报赵姨娘兄弟赵国基昨日病故，并转达太太让回禀姑奶奶的吩咐。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "小姐们商议赏银并命侍女查对旧账",
+      "characters": [],
+      "location": "荣国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "众人商议丧葬赏银数额，黄衣女子坚持按旧例办事，因侍女记不清过往数目，命其去查旧账。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "黄衣女子查阅旧账并裁定赏银数额",
+      "characters": [],
+      "location": "荣国府",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "侍女取来旧账本，黄衣女子查阅后确认内外有别旧例，最终裁定按府内旧例赏银二十两。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "仆人送贾雨村升官喜报及小姐吩咐道贺",
+      "characters": [],
+      "location": "荣国府",
+      "time_hint": "after",
+      "explicit_time": "今天",
+      "relation_to_previous": "sequential",
+      "event_summary": "报喜仆人送来贾雨村补授大司马的喜报，粉衣女子因太太今日赴宴未归，吩咐等其回来后再派人道贺并送客。"
+    }
+  ]
+}

@@ -1,0 +1,84 @@
+{
+  "episode_id": "02",
+  "episode_title": "宝黛钗初会荣庆堂",
+  "segment_id": "S05",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾雨村与门子相认",
+      "characters": [
+        "贾雨村",
+        "门子"
+      ],
+      "location": "衙门内室",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾雨村在衙门内室与门子重逢，通过回忆葫芦庙往事认出对方曾是庙中小沙弥。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "门子解释护官符",
+      "characters": [
+        "贾雨村",
+        "门子"
+      ],
+      "location": "衙门内室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "门子向贾雨村展示并解释“护官符”，详细讲述四大家族的权势与联姻关系。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "门子建议徇私",
+      "characters": [
+        "贾雨村",
+        "门子",
+        "薛蟠",
+        "冯渊"
+      ],
+      "location": "衙门内室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "门子指出凶手薛蟠背景深厚，建议贾雨村徇私枉法，贾雨村表面斥责但内心动摇。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "门子献计",
+      "characters": [
+        "贾雨村",
+        "门子",
+        "薛蟠",
+        "冯渊"
+      ],
+      "location": "衙门内室",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "门子提出利用扶鸾请仙谎称薛蟠被冯渊鬼魂索命的计策，以掩盖真相。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "贾雨村决定结案",
+      "characters": [
+        "贾雨村",
+        "门子",
+        "甄士隐",
+        "香菱"
+      ],
+      "location": "衙门内室",
+      "time_hint": "after",
+      "explicit_time": "本月十九日",
+      "relation_to_previous": "sequential",
+      "event_summary": "贾雨村回忆起恩人甄士隐及其女英莲，决定采纳门子建议，给钱结案并试图寻找英莲。"
+    }
+  ]
+}

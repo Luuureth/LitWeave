@@ -1,0 +1,53 @@
+{
+  "episode_id": "19",
+  "episode_title": "琉璃世界白雪红梅",
+  "segment_id": "S11",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "湘云到来与宝钗谈论香菱学诗",
+      "characters": [
+        "史湘云",
+        "薛宝钗"
+      ],
+      "location": "室内书房",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "湘云来到书房，宝钗抱怨她又多了个读书请教的先生，两人谈论香菱学诗之事及湘云满嘴诗人的事。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝琴到来展示老太太赐予的衣物",
+      "characters": [
+        "薛宝琴",
+        "薛宝钗",
+        "史湘云",
+        "林黛玉"
+      ],
+      "location": "室内书房",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "宝琴到来，展示老太太赐予的红色衣物，众人赞叹老太太疼爱宝琴，宝钗提到老太太连宝玉都没给穿这么好的。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "黛玉与湘云谈论宝玉是否真心恼人",
+      "characters": [
+        "林黛玉",
+        "史湘云",
+        "薛宝钗"
+      ],
+      "location": "室内书房",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "湘云说宝钗的话虽是玩话但有人会真心这样想，黛玉说真心恼的没有别人，湘云说宝玉不是这样的人，黛玉反驳并表示自己不恼。"
+    }
+  ]
+}

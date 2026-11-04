@@ -1,0 +1,52 @@
+```json
+{
+  "episode_id": "13",
+  "episode_title": "享福人福深还祷福",
+  "segment_id": "S09",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "行走参观",
+      "characters": [
+        "贾母",
+        "众女眷"
+      ],
+      "location": "清虚观",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾母带领众女眷在清虚观内行走参观。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "上香祈福",
+      "characters": [
+        "贾母",
+        "众女眷",
+        "张道士"
+      ],
+      "location": "清虚观",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母率众人在神像前上香跪拜祈福，张道士在旁诵经。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "休息吃果",
+      "characters": [
+        "贾母"
+      ],
+      "location": "清虚观",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "祈福结束后，众人在清虚观内休息，贾母品尝供果。"
+    }
+  ]
+}
+```

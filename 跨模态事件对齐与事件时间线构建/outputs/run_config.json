@@ -1,0 +1,76 @@
+{
+  "grounding_config": {
+    "top_k_candidates": 8,
+    "accept_top1_if_score_ge": 0.18,
+    "unknown_if_top1_le": 0.08,
+    "sequence_prior_strength": 0.08,
+    "min_conf_for_anchor": 0.16
+  },
+  "alignment_config": {
+    "time_window": 3,
+    "top_k_per_source": 5,
+    "aligned_threshold": 0.62,
+    "related_threshold": 0.45,
+    "enforce_one_to_one": true,
+    "one_to_one_keep_per_target": 1,
+    "require_anchor_for_alignment": false,
+    "weak_anchor_penalty": 0.03,
+    "mismatch_time_penalty": 0.0,
+    "source_confidence_weight": 0.02,
+    "target_confidence_weight": 0.02
+  },
+  "align_weights": {
+    "alpha_sem": 0.52,
+    "beta_char": 0.28,
+    "gamma_loc": 0.2,
+    "delta_time": 0.0
+  },
+  "cluster_config": {
+    "use_edge_type": "aligned",
+    "min_edge_score": 0.55
+  },
+  "alignment_llm_rerank_config": {
+    "enabled": false,
+    "provider": "dashscope",
+    "model_name": "qwen3.6-plus",
+    "api_key_env": "DASHSCOPE_API_KEY",
+    "api_key_literal": "",
+    "max_candidates_per_source": 5,
+    "min_score_for_review": 0.25,
+    "max_score_for_review": 0.95,
+    "top_gap_for_review": 0.25,
+    "review_related_only": false,
+    "review_aligned_too": true,
+    "force_first_n": 0,
+    "max_items": 400,
+    "max_retries": 3,
+    "timeout": 120,
+    "accept_if_aligned_conf_ge": 0.7,
+    "fallback_to_original": true,
+    "verbose": true,
+    "min_pair_confidence": 0.7
+  },
+  "fragment_filter_config": {
+    "enabled": true,
+    "min_action_len": 2,
+    "min_summary_len": 8,
+    "require_char_or_loc": false,
+    "drop_if_action_generic": true,
+    "generic_actions": [
+      "出现",
+      "闲谈",
+      "说话",
+      "交谈",
+      "沉思",
+      "回想",
+      "路过",
+      "徘徊",
+      "走动",
+      "观看",
+      "入席",
+      "离去",
+      "整理",
+      "收拾"
+    ]
+  }
+}

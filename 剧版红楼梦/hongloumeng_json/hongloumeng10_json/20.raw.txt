@@ -1,0 +1,30 @@
+{
+  "episode_id": "10",
+  "episode_title": "听曲文宝玉悟禅机",
+  "segment_id": "S20",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "紫鹃在园中奔走询问宝玉去向",
+      "characters": ["紫鹃", "宝玉"],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "紫鹃在园中四处奔走，向遇到的丫鬟询问宝玉的下落但未果。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "宝玉独自坐于花树下看书",
+      "characters": ["宝玉"],
+      "location": "大观园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "镜头转至花树下，宝玉独自静坐阅读，花瓣飘落书页，神情若有所思。"
+    }
+  ]
+}

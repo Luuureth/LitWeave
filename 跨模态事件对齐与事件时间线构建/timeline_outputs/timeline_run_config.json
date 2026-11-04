@@ -1,0 +1,21 @@
+{
+  "timeline_config": {
+    "top_k_candidates": 5,
+    "min_rule_score": 0.2,
+    "alpha_name": 0.45,
+    "beta_summary": 0.3,
+    "gamma_kb": 0.25,
+    "uncertain_threshold": 0.35
+  },
+  "llm_config": {
+    "enabled": true,
+    "model_name": "qwen3.6-plus",
+    "timeout": 120,
+    "max_retries": 3,
+    "batch_size": 8,
+    "pause_between_batches_sec": 0.0,
+    "max_items": 200,
+    "accept_conf_ge": 0.7,
+    "verbose": true
+  }
+}

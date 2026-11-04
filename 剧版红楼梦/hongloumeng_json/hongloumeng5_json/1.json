@@ -1,0 +1,35 @@
+{
+  "episode_id": "05",
+  "episode_title": "王熙凤毒设相思局",
+  "segment_id": "S01",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾瑞园中偶遇王熙凤并搭讪请安",
+      "characters": [
+        "贾瑞",
+        "王熙凤"
+      ],
+      "location": "花园小径",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾瑞自称离席散步时偶遇王熙凤并上前搭讪请安，王熙凤虚与委蛇应付后劝其速回宴席。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "王熙凤离去后暗生毒计",
+      "characters": [
+        "王熙凤"
+      ],
+      "location": "花园小径",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤独自离去后认清贾瑞轻薄本性，暗自发誓要设局让其死在自己手中以施惩戒。"
+    }
+  ]
+}

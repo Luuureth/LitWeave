@@ -1,0 +1,86 @@
+```json
+{
+  "episode_id": "15",
+  "episode_title": "弄唇舌宝玉遭笞挞",
+  "segment_id": "S09",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "刘姥姥带板儿进屋向贾母请安并落座",
+      "characters": [
+        "刘姥姥",
+        "板儿",
+        "贾母",
+        "丫鬟"
+      ],
+      "location": "贾母房中",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "刘姥姥带着板儿进入贾母房中请安，贾母热情接待并让她坐下。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "刘姥姥与贾母互相感叹年纪大身体不如前",
+      "characters": [
+        "刘姥姥",
+        "贾母"
+      ],
+      "location": "贾母房中",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "刘姥姥与贾母互相感叹年纪大了，刘姥姥自谦是受苦的命，贾母自嘲记性不好。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "贾母询问瓜果并表达想吃的意愿，刘姥姥说明来历",
+      "characters": [
+        "贾母",
+        "刘姥姥"
+      ],
+      "location": "贾母房中",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母提到想吃田里的瓜果，刘姥姥解释说是今年丰收特意挑了头茬来孝敬。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "贾母留刘姥姥住下，王熙凤建议讲故事并支开板儿",
+      "characters": [
+        "贾母",
+        "刘姥姥",
+        "王熙凤",
+        "板儿"
+      ],
+      "location": "贾母房中",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "贾母留刘姥姥多住几天逛园子，王熙凤建议让刘姥姥讲乡下新闻，并安排板儿去外面玩耍。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "刘姥姥讲述雪天见美貌姑娘抽柴的故事",
+      "characters": [
+        "刘姥姥",
+        "贾母",
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "贾母房中",
+      "time_hint": null,
+      "explicit_time": "去年冬天",
+      "relation_to_previous": "sequential",
+      "event_summary": "刘姥姥开始讲述去年冬天雪天听到柴草响，结果看到一个穿红袄白裙的美貌姑娘抽柴草的故事。"
+    }
+  ]
+}
+```

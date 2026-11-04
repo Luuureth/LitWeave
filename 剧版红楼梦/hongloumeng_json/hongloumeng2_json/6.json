@@ -1,0 +1,45 @@
+{
+  "episode_id": "02",
+  "episode_title": "宝黛钗初会荣庆堂",
+  "segment_id": "S06",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "叮嘱看顾并打听英莲下落",
+      "characters": [
+        "香菱"
+      ],
+      "location": "街市",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "仆人叮嘱女孩坐好勿乱跑，众人在街市打听英莲是否走丢。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "葫芦庙突发大火",
+      "characters": [],
+      "location": "葫芦庙",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "葫芦庙突然起火，火光冲天引发街市人群恐慌。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "火场混乱中搜救英莲",
+      "characters": [
+        "香菱"
+      ],
+      "location": "火场",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "大火蔓延中众人奔逃，男子冲入火场反复呼喊寻找英莲。"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+```json
+{
+  "episode_id": "03",
+  "episode_title": "刘姥姥一进荣国府",
+  "segment_id": "S04",
+  "event_count": 5,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "刘姥姥带板儿进屋拜见王熙凤",
+      "characters": [
+        "刘姥姥",
+        "板儿",
+        "王熙凤",
+        "周瑞家的"
+      ],
+      "location": "王熙凤房间",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "刘姥姥带板儿进屋给王熙凤磕头，王熙凤命周瑞家的搀扶并让座。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "王熙凤与刘姥姥寒暄家世",
+      "characters": [
+        "王熙凤",
+        "刘姥姥"
+      ],
+      "location": "王熙凤房间",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤与刘姥姥拉家常，刘姥姥解释家道艰难及亲戚疏远的原因。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "王熙凤询问来意并派人探听",
+      "characters": [
+        "王熙凤",
+        "刘姥姥",
+        "平儿"
+      ],
+      "location": "王熙凤房间",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤询问刘姥姥是否见过王夫人，并派平儿去探听王夫人是否有空。"
+    },
+    {
+      "event_id": "E04",
+      "narrative_order": 4,
+      "action": "平儿给板儿点心吃",
+      "characters": [
+        "平儿",
+        "板儿",
+        "刘姥姥"
+      ],
+      "location": "王熙凤房间",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "板儿吵闹要吃东西，平儿拿了一盘点心给板儿吃。"
+    },
+    {
+      "event_id": "E05",
+      "narrative_order": 5,
+      "action": "平儿处理家务并回禀王夫人旨意",
+      "characters": [
+        "平儿",
+        "王熙凤",
+        "旺儿媳妇",
+        "刘姥姥"
+      ],
+      "location": "王熙凤房间",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "旺儿媳妇来报管事的媳妇们来了，平儿请示王熙凤后外出回话，带回王夫人没空的旨意。"
+    }
+  ]
+}
+```

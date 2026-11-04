@@ -1,0 +1,38 @@
+{
+  "episode_id": "04",
+  "episode_title": "探宝钗黛玉半含酸",
+  "segment_id": "S09",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "整装出门并受丫鬟叮嘱",
+      "characters": [
+        "贾宝玉",
+        "丫鬟"
+      ],
+      "location": "荣国府院落",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉整装出屋，丫鬟为其整理衣物并叮嘱带齐冬衣、笔砚与取暖炭火，劝其多与林妹妹玩笑，宝玉查看鸟笼后准备离去。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "得知秦钟等候并冒雪赴学",
+      "characters": [
+        "贾宝玉",
+        "丫鬟",
+        "秦钟",
+        "仆人"
+      ],
+      "location": "荣国府院落",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "丫鬟通报秦钟已到等候同去上学，宝玉命其稍候并决定先回禀老爷，随后步入雪地，在仆人催促下搓手取暖匆忙赶往学堂。"
+    }
+  ]
+}

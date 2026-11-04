@@ -1,0 +1,52 @@
+```json
+{
+  "episode_id": "17",
+  "episode_title": "变生不测凤姐泼醋",
+  "segment_id": "S03",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "紫鹃穿过庭院进入房间",
+      "characters": [
+        "紫鹃"
+      ],
+      "location": "房间",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "紫鹃穿过种有绿植和仙鹤的庭院，进入房间。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "紫鹃与袭人交谈关于虫子和肚兜",
+      "characters": [
+        "紫鹃",
+        "袭人",
+        "宝玉"
+      ],
+      "location": "房间",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "紫鹃进屋后与正在照顾宝玉的袭人交谈，讨论屋内的虫子以及袭人正在给宝玉做的肚兜。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "袭人离开房间，紫鹃查看肚兜",
+      "characters": [
+        "袭人",
+        "紫鹃"
+      ],
+      "location": "房间",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "袭人因坐久了脖子酸而让紫鹃稍坐，自己出去走走，紫鹃留下查看肚兜。"
+    }
+  ]
+}
+```

@@ -1,0 +1,22 @@
+{
+  "episode_id": "13",
+  "episode_title": "享福人福深还祷福",
+  "segment_id": "S01",
+  "event_count": 1,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾宝玉与林黛玉在花园化解闭门误会并互诉心结",
+      "characters": [
+        "贾宝玉",
+        "林黛玉"
+      ],
+      "location": "花园",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾宝玉在花园向林黛玉倾诉被冷落的委屈，双方就昨夜闭门误会坦诚沟通，贾宝玉发誓澄清并承诺管教下人，林黛玉予以谅解并提醒其明日待客需谨慎。"
+    }
+  ]
+}

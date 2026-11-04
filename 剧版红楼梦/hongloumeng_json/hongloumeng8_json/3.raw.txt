@@ -1,0 +1,39 @@
+```json
+{
+  "episode_id": "08",
+  "episode_title": "荣国府归省庆元宵",
+  "segment_id": "S03",
+  "event_count": 2,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "斥责仆人",
+      "characters": [
+        "王熙凤",
+        "仆人"
+      ],
+      "location": "荣国府内",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "王熙凤因仆人在大喜日子弄坏东西而大发雷霆，下令将其捆绑并送马棚等候发落。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "巡视庆典",
+      "characters": [
+        "王熙凤",
+        "侍女",
+        "戏子"
+      ],
+      "location": "荣国府正门",
+      "time_hint": "after",
+      "explicit_time": "时辰就到了",
+      "relation_to_previous": "sequential",
+      "event_summary": "王熙凤走出正门巡视庆典排场，众侍女与戏子列队等候，有人禀报时辰已到。"
+    }
+  ]
+}
+```

@@ -1,0 +1,49 @@
+{
+  "episode_id": "12",
+  "episode_title": "埋香冢飞燕泣残红",
+  "segment_id": "S01",
+  "event_count": 3,
+  "events": [
+    {
+      "event_id": "E01",
+      "narrative_order": 1,
+      "action": "贾芸向贾宝玉畅谈院中种植规划并问候病情",
+      "characters": [
+        "贾芸",
+        "贾宝玉"
+      ],
+      "location": "庭院",
+      "time_hint": null,
+      "explicit_time": null,
+      "relation_to_previous": "start",
+      "event_summary": "贾芸在庭院中向贾宝玉兴奋地讲述种植果树花卉的规划，并欣喜于贾宝玉病体初愈，二人互道问候。"
+    },
+    {
+      "event_id": "E02",
+      "narrative_order": 2,
+      "action": "小红在廊柱后偷听二人谈话",
+      "characters": [
+        "小红"
+      ],
+      "location": "庭院",
+      "time_hint": "same_time",
+      "explicit_time": null,
+      "relation_to_previous": "parallel",
+      "event_summary": "小红躲在庭院廊柱后暗中观察贾芸与贾宝玉的交谈，神情专注并暗自思忖。"
+    },
+    {
+      "event_id": "E03",
+      "narrative_order": 3,
+      "action": "坠儿手持物品走近小红",
+      "characters": [
+        "坠儿",
+        "小红"
+      ],
+      "location": "庭院",
+      "time_hint": "after",
+      "explicit_time": null,
+      "relation_to_previous": "sequential",
+      "event_summary": "丫鬟坠儿手持布包走近正在偷听的小红，两人于庭院廊下汇合。"
+    }
+  ]
+}
