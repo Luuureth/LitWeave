@@ -91,6 +91,5 @@ temp/
 .cache/
 .DS_Store
 
-# ===== Personal / sensitive (do not upload) =====
-IEEE/Word/学生证+身份证.jpg
-IEEE/Word/支付记录.jpg
+# ===== Paper materials & personal files (local only) =====
+IEEE/
